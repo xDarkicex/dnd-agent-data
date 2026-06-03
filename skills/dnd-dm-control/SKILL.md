@@ -20,17 +20,28 @@ Use Markdown files only for:
 
 ## Dice
 
-Use `scripts/roll.py` for dice rolls when available. It wraps `diceroll` and formats output for DM use.
+Use `scripts/dm-agent.py` for all game operations. It handles dice via `diceroll` internally and routes results to `dnd-agent`.
 
-Public rolls must show:
+For pure dice rolls (attack, saves, ability checks):
+```bash
+python3 scripts/dm-agent.py roll d20
+python3 scripts/dm-agent.py roll "2d6+3"
+python3 scripts/dm-agent.py roll "d20 advantage"
+```
 
-- expression
-- raw rolls
-- kept rolls when advantage/disadvantage applies
-- modifier
-- total
+The script wraps `diceroll` and also updates `dnd-agent` state automatically.
 
-Secret rolls may hide the numeric result from players, but the DM must still preserve the outcome in state or notes.
+## Damage and Combat
+
+All damage, healing, and HP changes go through `dnd-agent` directly:
+```bash
+dnd-agent character damage <id> <amount> [damage_type]
+dnd-agent character heal <id> <amount>
+dnd-agent npc damage <id> <amount>
+dnd-agent creature damage <id> <amount>
+```
+
+The `dm-agent.py` script does NOT handle HP — use `dnd-agent` CLI for that.
 
 ## Turn Discipline
 
