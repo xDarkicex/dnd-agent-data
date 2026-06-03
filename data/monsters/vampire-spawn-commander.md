@@ -1,0 +1,16 @@
+# Vampire Spawn Commander
+
+**description**: Vampire Spawn NPCs Most vampire spawns are feral, savage and uninhibited. However, there are a few vampire spawns who can control their bestial urges. While not true vampires yet, they appear to have free will and can act normally as they did when they were alive. However, they still remain subservient to their masters who created them. These special vampire spawns are entrusted by their masters to perform duties that normal vampire spawns can't do. These are tasks that require a certain level of critical thinking, deception, subtlety, and planning. Traits Regeneration. The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn. Spider Climb. The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks. Vampire Weaknesses. The vampire has the following flaws: Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants. Harmed by Running Water. The vampire takes 20 acid damage when it ends its turn in running water. Stake to the Heart. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place. Actions Multiattack. The vampire uses Maneuver Allies, if available. It then makes three attacks, only one of which can be a Bite attack. Greatsword. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage. Claws. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 14). Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. Maneuver Allies (Recharge 5-6). Up to four allies within 60 feet of the vampire that can hear it can each use their reaction to move up to half their speed without provoking opportunity attacks. Bonus Actions Battle Command. The vampire targets one ally it can see within 30 feet of it. If the target can see or hear the vampire, the target can use its reaction to make one melee attack or to take the Dodge or Hide action. Reactions Directed Strike (3/Day). When a creature the vampire can see within 30 feet of it makes an attack roll, and the creature can hear the vampire, the vampire grants advantage to that roll.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead
+- Alignment: typically Neutral Evil
+- Expansion: 26536
+- Challenge Rating: 9
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded III
+

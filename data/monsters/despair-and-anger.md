@@ -1,0 +1,16 @@
+# Despair and Anger
+
+**description**: The armored entity with two faces shifts from a face of sadness to a face of rage and releases a devastating wave of fire. Despair and anger are two fallen celestials, corrupted and fused together by a demon lord. They share a tarnished, silver breastplate, welded around their grafted torsos. Alternating Aspects. Despair and anger are two independent personalities, alternatively taking control of their conjoined body. When one awakes, its half of the body animates, eyes glowing as it turns to face its opponents. Meanwhile, its other half falls into a torpor, carried around by the dominant half until it awakens again. Consumed by Rage (Anger Only). Despair and anger has advantage on Strength (Athletics) checks. Magic Resistance. Despair and anger has advantage on saving throws against spells and other magical effects. Ruled by Sorrow (Despair Only). Despair and anger has advantage on saving throws against being charmed and frightened. Actions Multiattack. Despair and anger makes three Blazing Fist or Shadow Tendril attacks, or it makes three Divine Bolt attacks. Blazing Fist (Anger Only). Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage plus 7 (2d6fire damage and 7 (2d6) radiant damage. Shadow Tendril (Despair Only). Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) necrotic damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained. Despair and anger has three shadow tendrils, each of which can grapple only one target. At the start of each of despair and anger's turns, each creature grappled by it takes 7 (2d6) necrotic damage, and despair and anger regains hp equal to half the total necrotic damage dealt. Divine Bolt. Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 22 (4d8 + 4) necrotic damage (if despair is active) or radiant damage (if anger is active). Burning Rage (Anger Only, Recharge 5-6). Despair and anger releases a burst of burning anger. Each creature within 30 feet of it must make a DC 16 Dexterity saving throw, taking 21 (6d6) fire damage and 21 (6d6) radiant damage on a failed save, or half as much damage on a successful one. Despairing Rejection (Despair Only, Recharge 4-6). Despair and anger assaults the minds of up to three creatures it can see within 30 feet of it with cold despair. Each target must make a DC 16 Wisdom saving throw. On a failure, a creature takes 17 (5d6) cold damage and 17 (5d6) psychic damage and must use its reaction to move its full speed away from despair and anger by the safest available route, unless there is nowhere to move. This movement doesn't provoke opportunity attacks. On a success, a creature takes half the damage and doesn't move away from despair and anger. Bonus Actions Change Aspect. Despair and anger changes which aspect is in control. It can have only one aspect active at a time. A creature grappled by the despair aspect is no longer grappled if anger becomes the aspect in control.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Celestial
+- Alignment: Neutral Evil
+- Expansion: 19901
+- Challenge Rating: 10
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

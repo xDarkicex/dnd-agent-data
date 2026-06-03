@@ -1,0 +1,15 @@
+# Wraith, Oathrot
+
+**description**: The wraith drifts forward with a spectral tome attached to its waist by tendrils of shadow. Denied eternal rest, oathrot wraiths are the tormented spirits of those who broke solemn vows, causing tragedy by doing so. Unrepentant, they now roam the world constantly reminded of their weakness and failure. Chained to their Oaths. Oathrot wraiths stand out from other wraiths by the texts that are tethered to them. These tomes bear the oaths they once swore and later betrayed. If a wraith chooses to read the text and reaffirm its oaths, its curse is ended and its soul is freed from undeath. However, most oathrot wraiths are too consumed by self-loathing, pride, or anger to read the texts, seeing the books as constant reminders of their failure. Drawn by Loyalty. Oathrot wraiths can sense the aura of those who live by their word, especially those who draw power from an oath, such as clerics and paladins. Their presence fills the oathrot wraith with pain and rage, and they quickly move to destroy such reminders of their failures. Beacons of Doubt. Oathrot wraiths are not only punishment for oathbreakers, but also trials for those who live by their oaths. Their very presence tests such people, as the guilt, doubt, and weakness the wraiths bear preys on the minds of those nearby. Clerics and paladins that survive an encounter with an oathrot wraith consider it a reminder that they must be vigilant in their loyalty, lest they too fall from grace. Aura of Oathbreaking . Any creature that begins its turn within 30 feet of the oathrot wraith must succeed on a DC 13 Charisma saving throw or become cursed, losing its resolve in important oaths it has taken. While cursed, the creature has disadvantage on Constitution saving throws to maintain concentration and can't add its proficiency bonus to ability checks and saving throws in which it is proficient. On a successful saving throw, the creature is immune to the wraith's Aura of Oathbreaking for 24 hours. Incorporeal Movement . The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object. Oathseeker . The oathrot wraith can pinpoint the location of any cleric, paladin, celestial, or other divinely connected creature within 60 feet of it. Sunlight Sensitivity . While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Actions Life Drain . Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 20 (4d8 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead
+- Alignment: Neutral Evil
+- Challenge Rating: 4
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

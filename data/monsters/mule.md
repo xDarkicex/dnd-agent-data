@@ -1,74 +1,45 @@
 # Mule
 
-## Mule
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Traits Beast of Burden. The mule counts as one size larger for the purpose of determining its carrying capacity. Actions Hooves. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage.
 
-_Medium Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 10
+- HP: 11 (2d8 + 2)
+- PB: 2
+- CHA: 5
+- CON: 13
+- DEX: 10
+- INT: 2
+- STR: 14
+- WIS: 10
+- Size: Medium
+- Type: Beast
+- Speed: 40 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406408228/RkGHIvbEXGsN7IZUNFBBeA/original.png
+- data-XP: 25
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 1
+- data-Traits: [{"Name":"Beast of Burden","Desc":"The mule counts as one size larger for the purpose of determining its carrying capacity."}]
+- data-Actions: [{"Name":"Hooves","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"4","Reach":"5 ft.","Target":"one target","Damage":"1d4 + 2","Damage Type":"Bludgeoning"}]
+- data-CHA-mod: -3
+- data-CON-mod: 1
+- data-DEX-mod: 0
+- data-INT-mod: -4
+- data-STR-mod: 2
+- data-SizeNum: 2
+- data-WIS-mod: 0
+- Saving Throws: Str +4, Dex +0, Con +1, Int -4, Wis +0, Cha -3
+- Challenge Rating: 1/8
+- Passive Perception: 10
+- data-CrNum: 0.125
+- data-AcNum: 10
+- data-HpNum: 11
 
-**AC** 10 **Initiative** +0 (10) <br>
-**HP** 11 (2d8 + 2) <br>
-**Speed** 40 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+4</td>
-      <td><strong>DEX</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>5</td>
-      <td>−3</td>
-      <td>−3</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Senses** Passive Perception 10<br>
-**Languages** None<br>
-**CR** 1/8 (XP 25; PB +2)
-
-### Traits
-
-<hr>
-
-**_Beast of Burden._** The mule counts as one size larger for the purpose of determining its carrying capacity.
-
-### Actions
-
-<hr>
-
-**_Hooves._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Bludgeoning damage.

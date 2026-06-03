@@ -1,0 +1,12 @@
+# Court of the Animals' Path - Non-Human
+
+**description**: In the Enchanted Country, the beings that follow the court of the Animals’ Path interpret the Celestial Order as stating that virtue has its own rewards: the virtuous die and are reborn anew, while the wicked cannot progress toward Enlightenment. Most animals and animal spirits of the Animals’ Path conceptualize the Celestial Order as follows: demons ascend to become animals, animals ascend to become yōkai or animal spirits, yōkai and animal spirits ascend to become humans, and humans ascend to become celestial spirits or Fortunes. An animal’s life is nasty, brutish, and short, full of violence and predation, struggle and loss. A human’s life may be so as well, but it offers more opportunity for advancement. To follow the philosophy of the Animals’ Path, a creature must look beyond the world of the present and their difficult life. Skill Proficiencies: Insight, choose one other Intelligence-based skill (Arcana, History, Investigation, Nature, or Religion). Tool Proficiencies: Any one artisan tool or musical instrument. Languages: You can read, sign, speak, and write Rokugani, and you can communicate in Animal Speech. Equipment: Traveling clothes, any one artisan tool or musical instrument, and 5 gp. Suggested Feats: Clarity in Solace, Genuine Idealist, Survivalist’s Eye. Background Feature: Walker of Secret Ways You were raised among a culture that consists predominantly of nonhumans, and might not even be in the Mortal Realm. As such, you have a different way of understanding the world than most humans, granting you the following benefits: You know the history of your own culture and how it has interacted with other groups across the centuries. You know a great deal about passing through regions that human inhabitants of Rokugan generally view as impassable in relative safety, such as through the spirit realms, the Shadowlands, or the Shinomen Forest. You can identify the dangers and areas of safety in these places. You instinctively recognize the taboos of spirits and otherworldly beings when visiting their domains, though you do not necessarily have all the information needed to deal with them. You know about the various realms below, beside, and above, and can recognize the common markers of their inhabitants.
+
+**properties**:
+- Category: Backgrounds
+- Expansion: 26129
+
+**publisher**: Edge Studio
+
+**book**: Adventures in Rokugan
+

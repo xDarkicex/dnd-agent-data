@@ -1,79 +1,16 @@
 # Chimera
 
-## Chimera
+**description**: Traits Volant. When the chimera reduces a creature to 0 hit points, the chimera can move up to their speed toward an enemy they can see. Actions Multiattack. The chimera makes three Bite attacks. They can replace one attack with a Lion’s Toss attack or a use of Dragon’s Eruption, if available. Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage. Lion’s Toss. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) piercing damage, and the target must succeed on a DC 15 Strength saving throw or be moved up to 20 feet in any direction. Dragon’s Eruption (Recharge 6 ). The chimera spits a volcanic explosion at a point they can see within 120 feet of them. Each creature in a 10-foot-radius sphere centered on that point must make a DC 14 Dexterity saving throw, taking 27 (6d8) fire damage on a failed save, or half as much damage on a successful one. Bonus Actions Roar. Each enemy who can hear the chimera and is within 60 feet of them must succeed on a DC 13 Wisdom saving throw or be frightened of the chimera for 1 minute (save ends at end of turn). If a creature succeeds on a saving throw against this effect or if the effect ends for them, the creature is immune to the chimera’s Roar for the next 24 hours. Reactions Ram’s Defiance. When a creature within 30 feet of the chimera misses them with an attack, the chimera can move up to half their speed in a straight line toward the creature. If the chimera ends this movement within 5 feet of the creature, the creature must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-### Chimera
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Monstrosity
+- Alignment: Typically Neutral
+- Expansion: 28288
+- Challenge Rating: 6
 
-_Large Monstrosity, Chaotic Evil_
+**publisher**: MCDM Productions
 
-**AC** 14 **Initiative** +0 (10) <br>
-**HP** 114 (12d10 + 48) <br>
-**Speed** 30 ft., Fly 60 ft. <br>
+**book**: Where Evil Lives
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>19</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>DEX</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>19</td>
-      <td>+4</td>
-      <td>+4</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>3</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CHA</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +8<br>
-**Senses** Darkvision 60 ft.; Passive Perception 18<br>
-**Languages** Understands Draconic but can't speak<br>
-**CR** 6 (XP 2,300; PB +3)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The chimera makes one Ram attack, one Bite attack, and one Claw attack. It can replace the Claw attack with a use of Fire Breath if available.
-
-**_Bite._** _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 11 (2d6 + 4) Piercing damage, or 18 (4d6 + 4) Piercing damage if the chimera had Advantage on the attack roll.
-
-**_Claw._** _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 7 (1d6 + 4) Slashing damage.
-
-**_Ram._** _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 10 (1d12 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
-
-**_Fire Breath (Recharge 5–6)._** _Dexterity Saving Throw:_ DC 15, each creature in a 15-foot Cone. _Failure:_ 31 (7d8) Fire damage. _Success:_ Half damage.

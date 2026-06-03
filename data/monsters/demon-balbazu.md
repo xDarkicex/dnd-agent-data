@@ -1,0 +1,16 @@
+# Demon, Balbazu
+
+**description**: This cat-sized, wriggling, leech-like creature has red, glowing eyes, and hundreds of tiny legs run along the underside of its slimy body. When fiendish portals to the demon realms open in freshwater rivers or lakes, they corrupt the water and alter the creatures within it. One such creature is the balbazu, a parasitic fiend that attaches to creatures in the water and drains them of their blood. Some balbazu live in demonic waterways in distant planes. Alchemist's Delight. Alchemists and healers prize balbazu for the numbing agent they secrete when they bite, which makes an effective anesthetic. Rumors abound that a few alchemists have even transformed the substance into a paralytic poison. Demonic Delicacy. More powerful fiends consider balbazu a delicacy, harvesting the creatures, draining them of the mortal blood they store, then releasing them back through a portal to feed again. In battles near water, fiends pluck balbazu and drink their blood as a restorative. Hidden Parasite. Balbazu are invisible in the water, and their bites secrete an anesthetic agent. Several of them often feed on a group of creatures wading through the water; their painless bite allows them to drink their fill then detach, leaving their victims none the wiser. Balbazu are not brave creatures, and while they are as unpleasant as most demons, their goal is to feed. When they feel they have the advantage, they may gang up on a foe, bleeding their prey to death before the victim's companions know anything is wrong. Aquatic Invisibility. The balbazu is invisible while fully immersed in water. Blood Reservoir. The balbazu stores drained blood within itself. Each time it causes blood loss to a creature, the balbazu's Blood Reservoir increases by an amount equal to the hp of blood it drained from the creature. Demon Food. A demon within 5 feet of the balbazu and that isn't another balbazu can use a bonus action to reduce the Blood Reservoir by up to 10, regaining hp equal to that amount as it drinks blood from the reservoir. Magic Resistance. The balbazu has advantage on saving throws against spells and other magical effects. Actions Bite . Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, and the balbazu attaches to the target. While attached, the balbazu doesn't attack. Instead, at the start of each of the balbazu's turns, the target loses 10 (2d6 + 3) hp from blood loss. When the balbazu first attaches to the target and each time the target loses hp from blood loss, the target must succeed on a DC 11 Constitution saving throw or be unaware of the attack (and the balbazu if it is invisible). The target is still aware of the hp loss, but it feels no pain from the attack. On a success, the target is aware of the attack and the balbazu and doesn't need to continue making this saving throw while the balbazu remains attached to it. The balbazu regains hp equal to half the hp of blood it drains. The balbazu can detach itself by spending 5 feet of its movement. A creature that is aware of the balbazu, including the target, can use its action to detach the balbazu.
+
+**properties**:
+- Category: Monsters
+- Size: Tiny
+- Type: Fiend (Demon)
+- Alignment: Chaotic Evil
+- Expansion: 19901
+- Challenge Rating: 2
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

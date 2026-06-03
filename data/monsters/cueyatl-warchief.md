@@ -1,0 +1,16 @@
+# Cueyatl Warchief
+
+**description**: A small frog-like figure wearing a colorful feathered headdress sits astride a mosquito the size of a horse. The mosquito is decorated in similar feathers and colors as its rider. Mounted Warrior. The warchiefs of the cueyatl (see Creature Codex ) ride into battle atop large insects, such as giant spiders, giant wasps, or carrier mosquitos (see Tome of Beast 2), that have been fitted with special saddles to prevent the warchiefs from falling during battle. Each warchief spends months or even years training and battling alongside its mount, their movements becoming as one during combat. Chosen by the Gods. Each cueyatl tribe has one warchief that is selected by the high priest, who receives visions of the next warchief from the tribe's patron deity. A warchief is then tasked with leading cueyatl warriors into battle against threats to the tribe or in disputes of territory with other cueyatl or humanoids in the area. Greatest Warrior . Even though the warchief is selected by a high priest, the chosen cueyatl is always one of the mightiest warriors of the tribe. Warchiefs are fierce in battle and are driven with a zeal of righteousness after being chosen by the gods to lead their people. Amphibious. The warchief can breathe air and water. Insect Affinity. Insects understand the warchief and view it favorably. The warchief can communicate simple ideas, through words and gestures, with insectoid Beasts, and the warchief has advantage on Wisdom (Animal Handling) checks made when interacting with such Beasts. Jungle Camouflage. The warchief has advantage on Dexterity (Stealth) checks made to hide in jungle terrain. Locked Saddle. The warchief can't be knocked prone, dismounted, or moved against its will while mounted. Mounted Warrior. While the warchief is mounted, its mount can't be charmed or frightened. Slippery. The warchief has advantage on saving throws and ability checks made to escape a grapple. Spirited Charge. If the warchief moves at least 20 feet straight toward a creature while mounted and then hits with a Lance attack on the same turn, the warchief can use a bonus action to command its mount to make one melee weapon attack against that creature as a reaction. Standing Leap. The warchief's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start. Actions Multiattack. The cueyatl warchief makes two Lance attacks. If the warchief is mounted, its mount can then make one melee weapon attack. Lance. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 10 (1d12 + 4) piercing damage plus 7 (2d6) poison damage. Javelin. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) poison damage. Reactions Mounted Parry. The warchief adds 3 to its AC or its mount's AC against one melee attack that would hit it or its mount. To do so, the warchief must see the attacker and be wielding a melee weapon.
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: Humanoid (Cueyatl)
+- Alignment: Lawful Evil
+- Expansion: 19901
+- Challenge Rating: 7
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

@@ -1,0 +1,16 @@
+# Master Tinker
+
+**description**: The tinker is a master of ingenious inventions and magical engineering. It wears a specially crafted armor that combines medium armor with arcane enchantments, runes, and engineering enhancements. Its trusty wrench not only mends and modifies machinery but also delivers potent electrical shocks that incapacitate foes at close range. Among the tinker's deadly array of gadgets is an arcane musket that can fire electrified projectiles at ranged targets with pinpoint accuracy. It has arcane grenades and caltrops at its disposal, enabling it to create chaos and disruption on the battlefield. It also has arcane-powered boots that can propel the tinker into the air. The tinker, with its arsenal of arcane-infused contraptions, combines intellect and innovation to become an dangerous and effective adversary. Traits Arcane-Powered Enhancements. The tinker uses its Intelligence modifier for its melee attack and damage rolls (already included in the attacks). While wearing medium armor, it adds its proficiency bonus to its AC (already included in the AC). Actions Multiattack. The tinker makes two Wrench attacks. Alternatively, it can make one Wrench attack and use Spellcasting. Wrench. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage plus 7 (2d6) lightning damage and the target can't use reactions until the end of the tinker's next turn. Arcane Musket. Ranged Weapon Attack: +5 to hit, range 40/120 ft., one target. Hit: 8 (1d12 + 2) piercing damage plus 14 (4d6) lightning damage and the target can't use reactions until the end of the tinker's next turn. Arcane Grenade (3/Day). The tinker hurls a grenade that detonates on a point on the ground within 30 feet of it. Each creature within 20 feet of the grenade's detonation must make a DC 15 Dexterity saving throw. Creatures within 5 feet of the detonation point has disadvantage on the saving throw. On a failed save, a creature takes 21 (6d6) force damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. Spellcasting. The tinker casts one of the following spells using Intelligence as the spellcasting ability (spell save DC 15): At will: mending, prestidigitation, true strike 2/day each: grease, haste, mirror image, thunderwave 1/day each: fabricate, protection from energy Bonus Actions Arcane-Powered Rocket Jump (Recharge 5-6). The tinker gains a fly speed of 40 until the end of the turn. Drop Shock Caltrops (3/Day). The tinker can spread caltrops to cover a 5-foot-square area. Any creature that isn't flying and enters the area must succeed on a DC 15 Constitution saving throw. On a failed save, the creature takes 1 piercing damage and 14 (4d6) lightning damage and is incapacitated until the end of its next turn. Until the creature regains at least 1 hit point, its walking speed is reduced by half. A creature moving through the area at half speed doesn't need to make the saving throw.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid
+- Alignment: Any Alignment
+- Expansion: 29032
+- Challenge Rating: 7
+
+**publisher**: Dragonix Books
+
+**book**: Dragonix's Deadly Denizens
+

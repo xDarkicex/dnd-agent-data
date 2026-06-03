@@ -1,0 +1,16 @@
+# Ice Willow
+
+**description**: A light tinkling sound comes from icicles hanging from this willow tree's bough. The tree shivers, as if cold from the ice coating it, and some of the icicles fall and stick point-first into the ground around it. Druids live in harsh climates as well as friendly ones. Unlike druids living in lands of plentiful vegetation for creating magical protectors, arctic druids have to get inventive when to their own polar wardens and often choose willow trees. The druids bolstered the willows' droopy boughs to withstand the weight of ice and trained the trees to use the icicles as weapons. Arctic Protector. Though ice willows have fewer forests to protect than temperate guardians, they still see themselves as custodians of the land. They protect polar animals from overhunting but won't intervene in the natural course of predators and prey. Despite their weakness to fire, they focus their wrath on creatures that wantonly use fire. If they find creatures manipulating the weather, they intervene. Icy Spears of Doom. Not only does an ice willow accumulate icicles from snow and sleet, but it can also gather moisture directly from the air. The tree can shake loose icicles dangling from its bough to drop on foes in close quarters, and it can unleash a barrage of icicles at will. The willow has strict control over the icicles attached to it, preventing it from accidentally impaling animals sheltering under the tree. Good Omens. Most polar inhabitants hold ice willows in high regard. The willows beckon lost travelers to take refuge beneath their boughs, providing protection from wind and precipitation. When travelers rest near the tree, the willow leave enough space for its charges to avoid direct contact with the ice covering it. An ice willow sheltering travelers warns those who light fires by shaking bits of ice loose to extinguish the flames. False Appearance. While the ice willow remains motionless, it is indistinguishable from an ice-covered willow tree. Ice Melt. If the ice willow takes fire damage, its icicles partially melt. Until the end of the ice willow's next turn, creatures have advantage on saving throws against the willow's Icicle Drop and Icicle Spray. Actions Multiattack. The ice willow makes two Slam attacks. Slam. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) bludgeoning plus 7 (2d6) cold damage. Icicle Drop (Recharge 4-6). The ice willow shakes several spear-like icicles loose. Each creature within 10 feet of the willow must make a DC 15 Dexterity saving throw, taking 9 (2d8) piercing damage and 7 (2d6) cold damage on a failed save, or half as much damage on a successful one. Icicle Spray (Recharge 6). The ice willow flings icicles in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 18 (4d8) piercing damage and 14 (4d6) cold damage on a failed save, or half as much damage on a successful one. Reactions Melting Icicles. When the ice willow takes fire damage, it can immediately use Icicle Drop, if available.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Plant
+- Alignment: Neutral
+- Expansion: 19901
+- Challenge Rating: 6
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

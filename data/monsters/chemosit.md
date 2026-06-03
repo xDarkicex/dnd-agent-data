@@ -1,0 +1,16 @@
+# Chemosit
+
+**description**: This humanoid figure resembles a stork with a bare, mottled head and a large throat sac. It stands on one leg with a wooden crutch supporting it. When the creature opens its dagger-shaped beak, hellish light glows from within. The chemosit is a cruel fiend that stalks tropical grasslands and forests, hunting for humanoid prey on the outskirts of rural areas and remote villages. At night, it uses its inner light and song to lure the unwary or the desperate into its clutches. The flickering light and the thumping of its crutch keeping time with the song give the impression of a woodland celebration. By the time someone is close enough to discern the truth, it is often too late to escape. Hateful Legacy. The chemosit is cruel and enjoys seeing suffering, even suffering caused by others. While disguised in a community, it might speak one falsehood or rumor before sitting back to watch how the rumor spirals out of control, leading the community to infighting. Such infighting often results in a few members being cast out—directly into the chemosit's hungry beak. Inner Light . Its open mouth emits a red light, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. Opening or closing its mouth doesn't require an action. Actions Multiattack. The chemosit makes one Beak attack and two Crutch attacks. Beak. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage plus 7 (2d6) fire damage. Crutch . Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 14 Constitution saving throw or become infected with the cackle fever disease. Inviting Song. The chemosit sings an enchanting tune. Each creature with an Intelligence of 5 or higher within 300 feet of the chemosit that can hear the song must succeed on a DC 15 Wisdom saving throw or be charmed until the song ends. The chemosit must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the chemosit is incapacitated. If the charmed target is more than 5 feet away from the chemosit, the target must move on its turn toward the chemosit by the most direct route, trying to get within 5 feet. It won't move into damaging terrain, such as lava or a pit, taking whatever route it can to avoid the terrain and still reach the chemosit. If the target can't find a safe route to the chemosit, the charmed effect ends. Whenever the target takes damage or at the end of each of its turns, the target can repeat the saving throw. If the saving throw is successful, the effect ends on it. A target that successfully saves is immune to this chemosit's Inviting Song for the next 24 hours. Bonus Actions Change Shape. The chemosit magically transforms into a Small or Medium Humanoid or back into its true Fiendish form. Its statistics, other than its size, are the same in each form. No matter the form, the chemosit always has only one leg. Its crutch adjusts to fit its new form, but no other equipment transforms. It reverts to its true form if it dies, and its crutch becomes nonmagical.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fiend
+- Alignment: Neutral Evil
+- Expansion: 19901
+- Challenge Rating: 5
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

@@ -1,0 +1,16 @@
+# Drudge Pitcher
+
+**description**: A massive bundle of leaves and vines rises from the foliage. Jar-like containers with tops that flip open hang from the ends of several thick vines. The scent of rotten eggs wafts up from inside the containers. As the giant plant swings one of these jar-tipped vines, a zombie with melted skin tumbles out. Necrotic Origins. Feared denizens from deep within the thickest jungles, these massive and dangerous plants sprout up when dark magic is used to raise the dead. Jungle dwellers believe the plant comes from an evil shaman who cursed the land with her dying breath. The shaman's necromantic magic pulsed into the plants and the first drudge pitcher began to grow. Undead Maker. Drudge pitchers use their jar-like appendages to scoop up their prey, where the poor captives are then twisted by a necrotic slime that fills the pitchers. The creature's skin is melted away and absorbed as nourishment for the drudge pitcher. The creature's body is then re-animated from the same necrotic slime that slew it, becoming a mindless undead creature that roams the jungles. Viscous Reagent. The slime found in the pitchers of drudge pitchers can enhance any undead created by a potion or spell that uses the slime as a component. Few seekers survive drudge pitchers long enough to confirm this rumor, but many alchemists, wizards, and their agents visit the jungles to collect this necrotic slime. Undead Creator. When a creature dies while trapped inside a drudge pitcher's pitcher, the drudge pitcher regains 11 (2d10) hp, and the corpse of the creature rises as a zombie. This works like the animate dead spell, except the zombie stays under the drudge pitcher's control for 1d4 days. At the end of this duration or when the drudge pitcher is destroyed, the corpse melts into a puddle of necrotic slime. Actions Multiattack. The drudge pitcher makes five Vine Slam attacks. It can make one Pitcher Swallow attack in place of two Vine Slam attacks. Vine Slam. Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. Pitcher Swallow. Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 7 (2d6) necrotic damage. If the target is a Large or smaller creature, it must succeed on a DC 16 Dexterity saving throw or be scooped up into the pitcher. A creature scooped up into a pitcher is blinded and restrained, it has total cover against attacks and other effects outside the pitcher, and it takes 10 (3d6) necrotic damage at the start of each of the drudge pitcher's turns. The drudge pitcher has four pitchers, each of which can have only one creature scooped up at a time. If the drudge pitcher takes 30 damage or more on a single turn from a creature inside one of its pitchers, the drudge pitcher must succeed on a DC 14 Constitution saving throw at the end of that turn or spill that creature out of the pitcher. The creature falls prone in a space within 5 feet of the drudge pitcher. If the drudge pitcher dies, a creature scooped up in a pitcher is no longer restrained by it and can escape from the pitcher using 15 feet of movement.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Plant
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 10
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

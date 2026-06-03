@@ -1,21 +1,18 @@
-#### Soldier
+# Soldier
 
-**Ability Scores:** Strength, Dexterity, Constitution
-**Feat:** Savage Attacker (see "Feats")
-**Skill Proficiencies:** Athletics and Intimidation
-**Tool Proficiency:** _Choose one kind of_ Gaming Set (see "Equipment")
-**Equipment:** _Choose A or B:_ (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; or (B) 50 GP
+**description**: Ability Scores Strength, Dexterity, Constitution Feat Savage Attacker Skill Proficiencies Athletics and Intimidation Tool Proficiency Choose one kind of Gaming Set Equipment Choose A or B: (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Healer’s Kit, Quiver, Traveler’s Clothes, 14 GP; or (B) 50 GP You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.
 
-## Character Species
+**properties**:
+- Category: Backgrounds
+- Expansion: 33335
+- data-List: false
+- filter-Feat: Yes
+- data-datarecords: [{"name":"Soldier","level":"1","payload":"{\"type\":\"Background\",\"name\":\"Soldier\",\"description\":\"You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.\"}"},{"name":"Soldier Ability Score Choice","parent":"Soldier","level":"1","builderDisplayName":"Background Ability Scores","builderDisplayDescription":"Increase one of these scores by 2 and a different one by 1, or increase all three by 1. None of these increases can raise a score above 20. Strength, Dexterity, Constitution","payload":"{\"type\":\"Ability Score Choice\",\"choose\":2,\"from\":[\"Strength\",\"Dexterity\",\"Constitution\"],\"increase\":1,\"excludeFrom\":\"Local\"}"},{"name":"Soldier Ability Score Choice 2","parent":"Soldier","level":"1","payload":"{\"type\":\"Ability Score Choice\",\"choose\":1,\"from\":[\"Strength\",\"Dexterity\",\"Constitution\"],\"increase\":1}"},{"name":"Soldier Origin Feat","parent":"Soldier","level":"1","payload":"{\"type\":\"Feat Attach\",\"feats\":[\"Savage Attacker\"]}"},{"name":"Athletics Proficiency","parent":"Soldier","level":"1","builderDisplayName":"Background Proficiencies","payload":"{\"type\":\"Proficiency\",\"category\":\"Skill\",\"proficiency\":\"Athletics\",\"proficiencyLevel\":\"Proficient\",\"increaseIfAlreadyAt\":false}"},{"name":"Intimidation Proficiency","parent":"Soldier","level":"1","payload":"{\"type\":\"Proficiency\",\"category\":\"Skill\",\"proficiency\":\"Intimidation\",\"proficiencyLevel\":\"Proficient\",\"increaseIfAlreadyAt\":false}"},{"name":"Gaming Set Proficiency","parent":"Soldier","level":"1","payload":"{\"type\":\"Proficiency Choice\",\"subtype\":\"Tool\",\"proficiencyLevel\":\"Proficient\",\"list\":[\"Lists:Gaming Sets Proficiency\"],\"numOfChoices\":1,\"increaseIfAlreadyAt\":false}"},{"name":"Soldier Equipment Choice","parent":"Soldier","level":"1","payload":"{\"type\":\"Starting Equipment\",\"subtype\":\"choice\",\"items\":[],\"numOfChoices\":1}"},{"name":"Soldier Equipment Choice A","parent":"Soldier Equipment Choice","level":"1","payload":"{\"type\":\"Starting Equipment\",\"subtype\":\"fixed\",\"items\":[\"Spear\",\"Shortbow\",\"Arrows (20)\",\"Healer's Kit\",\"Quiver\",\"Traveler's Clothes\"]}"},{"name":"Soldier Equipment Choice A Gaming Set","parent":"Soldier Equipment Choice A","level":"1","payload":"{\"type\":\"Starting Equipment\",\"subtype\":\"choice\",\"items\":[\"Lists:Gaming Sets\"],\"numOfChoices\":1}"},{"name":"Soldier Equipment Choice A Gold","parent":"Soldier Equipment Choice A","level":"1","payload":"{\"type\":\"Starting Currency\",\"gold\":14}"},{"name":"Soldier Equipment Choice B","parent":"Soldier Equipment Choice","level":"1","payload":"{\"type\":\"Starting Currency\",\"gold\":50}"}]
+- filter-Origin Feat: Savage Attacker
+- filter-Ability Score: Strength, Dexterity, Constitution
+- filter-Proficiencies: Athletics, Intimidation, All Gaming Sets
 
-When you choose your character's species, you determine whether your character is a human or a member of a fantastical species, such as dragonborn or gnome.
+**publisher**: Wizards of the Coast
 
-The peoples of the multiverse hail from different worlds and include many kinds of sapient life forms. A player character's species is the set of game traits that an adventurer gains from being one of those life forms.
+**book**: Free Basic Rules (2024)
 
-Some species can trace their origin to a single world, plane of existence, or god, while other species first appeared in multiple realms at once. Whatever a species' genesis, its members have spread across the multiverse and contribute to many different cultures.
-
-Members of most species live for about 80 years, with exceptions noted in the text about the species in "Character Origins." Regardless of life span, members of all species reach physical maturity at about the same age. Your character can be any age that isn't beyond their species' normal life span.
-
-### Parts of a Species
-
-A species includes the following parts.

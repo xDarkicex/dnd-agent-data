@@ -1,0 +1,15 @@
+# Rockwood
+
+**description**: Chalcedony and quartz form the enormous trunk and wide-spread limbs of a leafless stone tree with gnarled mineral fingers in red hues. Stone eyes crack open, and the tree moves, each earthshaking step a rockslide with implacable force. When a treant dies in a place with strong connections to the Plane of Earth, the wood sometimes petrifies and takes on new life. Rockwoods emerge from volcanic slopes and old riverbeds, yearning for ancient forests that live only in their memories. A Dream of Spring. Rockwoods recall life as plants. They remember growth, the taste of rain and sun, a breeze's caress, and the clutch of fierce gales snatching at long-lost leaves. Their new bodies can no longer know such sensations, leaving rockwoods melancholy and, in some cases, harboring a seething anger beneath their rocky exteriors. Hardened Avengers. Never forgetting slights against stone or tree, rockwoods take vengeance on anyone caught quarrying rock or harvesting lumber. Their nigh-impregnable bodies resist most counterattacks by lumberjacks or miners. However, rockwoods remember the terror of storms and forest fires, and fire and thunder may provoke panic or incite wrath. Earth Glide. The rockwood can burrow through nonmagical, unworked earth and stone. While doing so, the rockwood doesn't disturb the material it moves through. Elemental Nature. The rockwood doesn't require air, food, drink, or sleep. Persistence of Stone (Recharges after a Short or Long Rest). When the rockwood is reduced to below half its hp maximum, Fossil Barrage recharges. Roiling Roots. The stony roots of the rockwood make the ground within 15 feet of the rockwood difficult terrain for creatures other than the rockwood. Siege Monster. The rockwood deals double damage to objects and structures. Towering Reach . The rockwood doesn't have disadvantage on ranged attack rolls from being within 5 feet of a hostile creature, though it may still have disadvantage from other sources. Actions Multiattack . The rockwood makes two Whomping Slam or Rock attacks. If both Whomping Slam attacks hit one target, each creature within 5 feet of the target must succeed on a DC 15 Dexterity saving throw or take 9 (2d8) bludgeoning damage and be knocked prone. Whomping Slam . Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage, and if the target is a Large or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. Rock. Ranged Weapon Attack: +8 to hit, range 60/180 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. Fossil Barrage (Recharge 6). The rockwood sprays shards of stone in a 30-foot cone. feet around it Each creature in that area must make a DC 15 Dexterity saving throw, taking 28 (8d6) piercing damage on a failed save, or half as much damage on a successful one.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Elemental
+- Alignment: Chaotic Neutral
+- Challenge Rating: 6
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

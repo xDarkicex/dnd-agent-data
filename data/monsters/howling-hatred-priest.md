@@ -1,0 +1,16 @@
+# Howling Hatred Priest
+
+**description**: The most fanatical of the air cultists, the priests push their bodies to physical extremes in order to decrease their density and mass and become as light as leaves. Gaunt and sallow faced, with concave bellies, bulging eyes, and taut skin that enunciates every bone, these living skeletons sustain themselves on nothing more than air and fanatical devotion to the teachings of the cult. The wind serves them at a gesture. Howling Hatred priests see themselves as living extensions of Yan-C-Bin, and they help new recruits cast off the shackles of their old lives and embrace a “higher purpose.” Once the new recruits are thus purified, the priests decide whether they are worthy for indoctrination as initiates or would better serve the Howling Hatred cult as sacrifices. The priests also uphold the doctrine of their prophet, Aerisi Kalinoth, and harshly punish any initiate who strays from the path. Most other air cultists hate the priests, though none dares to speak out against them. Those that challenge the priests often end up the subjects of rigorous new attempts at purification. Howling Hatred Cultists Most air cultists are idealists lured to the cult by lofty notions such as detachment from material possessions, bodily addictions, and physical desires. Some find their way to the cult in pursuit of rumors that they can learn to fly, tame the wind, or shed their obesity. Whatever their reasons, they eventually succumb to the cult’s subtle indoctrination, surrendering their worldly goods to the cult’s coffers and the hardiness of their bodies to the cult’s emaciating rites. Cultists that survive their initiation usually gain all the things the cult promised— at the cost of their free will. The Cult of the Howling Hatred relies upon deception and trickery both to recruit its members and defeat its enemies. Even so, those that underestimate the air cult for their mysticism shouldn’t forget the wild destructive power the cultists wield when they unleash cyclones and tornadoes. The Cult of Howling Hatred cooperates with the fire and water cults but they loathe the Cult of the Black Earth, viewing its members as stubborn, unenlightened drones without vision or imagination. Traits Hold Breath. The priest can hold its breath for 30 minutes. Spellcasting. The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spells (an asterisked spell is from appendix B): Cantrips (at will): blade ward, gust,* light, prestidigitation, shocking grasp 1st level (4 slots): feather fall, shield, witch bolt 2nd level (3 slots): dust devil,* gust of wind 3rd level (2 slots): gaseous form Actions Multiattack. The priest makes two melee attacks or two ranged attacks. Scimitar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage. Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (human)
+- Alignment: neutral evil
+- Expansion: 7390
+- Challenge Rating: 2
+
+**publisher**: Wizards of the Coast
+
+**book**: Princes of the Apocalypse
+

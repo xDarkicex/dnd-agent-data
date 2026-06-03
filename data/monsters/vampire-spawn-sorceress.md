@@ -1,0 +1,16 @@
+# Vampire Spawn Sorceress
+
+**description**: Vampire Spawn Archetypes Presented here are three archetypes of vampire spawns that a vampire may have as minions. Traits Regeneration. The vampire regains 10 hit points at the start of her turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn. Sorcery Points. The vampire has 11 sorcery points. She can spend 1 or more sorcery points to gain one of the following benefits: Heightened Spell: When the vampire casts a spell that forces a creature to make a saving throw to resist the spell's effects, she can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw against the spell. Quickened Spell: When the vampire casts a spell that has a casting time of 1 action, it can spend 2 sorcery points to change the casting time to 1 bonus action for this casting. Spider Climb. The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Vampire Weaknesses. The vampire has the following flaws: Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants. Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water. Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed. Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks. Actions Multiattack. The vampire makes two attacks, only one of which can be a Bite attack. Alternatively, it can use Elemental Bolt twice. Claws. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (2d4 + 2) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 12). Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 5 (1d6 + 2) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. Elemental Bolt. Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 12 (2d8 + 3) acid, cold, fire, or lightning (vampire's choice) damage. Spellcasting. The vampire casts one of the following spells using Charisma as the spellcasting ability (spell save DC 15): At will: dancing lights, mage hand, minor illusion 2/day each: charm person, mirror image, lightning bolt 1/day each: circle of death, dominate person, greater invisibility
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead
+- Alignment: Typically Lawful Evil
+- Expansion: 17751
+- Challenge Rating: 8
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

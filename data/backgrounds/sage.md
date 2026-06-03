@@ -1,7 +1,18 @@
-#### Sage
+# Sage
 
-**Ability Scores:** Constitution, Intelligence, Wisdom
-**Feat:** Magic Initiate (Wizard) (see "Feats")
-**Skill Proficiencies:** Arcana and History
-**Tool Proficiency:** Calligrapher's Supplies
-**Equipment:** _Choose A or B:_ (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
+**description**: Ability Scores Constitution, Intelligence, Wisdom Feat Magic Initiate (Wizard) Skill Proficiencies Arcana and History Tool Proficiency Calligrapher’s Supplies Equipment Choose A or B: (A) Quarterstaff, Calligrapher’s Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP You spent your formative years traveling between manors and monasteries, performing various odd jobs and services in exchange for access to their libraries. You whiled away many a long evening studying books and scrolls, learning the lore of the multiverse—even the rudiments of magic—and your mind yearns for more.
+
+**properties**:
+- Category: Backgrounds
+- Expansion: 33335
+- data-List: false
+- filter-Feat: Yes
+- data-datarecords: [{"name":"Sage","level":"1","payload":"{\"type\":\"Background\",\"name\":\"Sage\",\"description\":\"You spent your formative years traveling between manors and monasteries, performing various odd jobs and services in exchange for access to their libraries. You whiled away many a long evening studying books and scrolls, learning the lore of the multiverse - even the rudiments of magic - and your mind yearns for more.\"}"},{"name":"Sage Ability Score Choice","parent":"Sage","level":"1","builderDisplayName":"Background Ability Scores","builderDisplayDescription":"Increase one of these scores by 2 and a different one by 1, or increase all three by 1. None of these increases can raise a score above 20. Constitution, Intelligence, Wisdom","payload":"{\"type\":\"Ability Score Choice\",\"choose\":2,\"from\":[\"Constitution\",\"Intelligence\",\"Wisdom\"],\"increase\":1,\"excludeFrom\":\"Local\"}"},{"name":"Sage Ability Score Choice 2","parent":"Sage","level":"1","payload":"{\"type\":\"Ability Score Choice\",\"choose\":1,\"from\":[\"Constitution\",\"Intelligence\",\"Wisdom\"],\"increase\":1}"},{"name":"Sage Origin Feat","parent":"Sage","level":"1","payload":"{\"type\":\"Feat Attach\",\"feats\":[\"Magic Initiate\"],\"limitations\":\"Wizard\"}"},{"name":"Arcana Proficiency","parent":"Sage","level":"1","builderDisplayName":"Background Proficiencies","payload":"{\"type\":\"Proficiency\",\"category\":\"Skill\",\"proficiency\":\"Arcana\",\"proficiencyLevel\":\"Proficient\",\"increaseIfAlreadyAt\":false}"},{"name":"History Proficiency","parent":"Sage","level":"1","payload":"{\"type\":\"Proficiency\",\"category\":\"Skill\",\"proficiency\":\"History\",\"proficiencyLevel\":\"Proficient\",\"increaseIfAlreadyAt\":false}"},{"name":"Calligrapher's Supplies Proficiency","parent":"Sage","level":"1","payload":"{\"type\":\"Proficiency\",\"category\":\"Tool\",\"proficiency\":\"Calligrapher's Supplies\",\"proficiencyLevel\":\"Proficient\",\"increaseIfAlreadyAt\":false}"},{"name":"Sage Equipment Choice","parent":"Sage","level":"1","payload":"{\"type\":\"Starting Equipment\",\"subtype\":\"choice\",\"items\":[],\"numOfChoices\":1}"},{"name":"Sage Equipment Choice A","parent":"Sage Equipment Choice","level":"1","payload":"{\"type\":\"Starting Equipment\",\"subtype\":\"fixed\",\"items\":[\"Quarterstaff\",\"Calligrapher's Supplies\",\"Book\",\"Parchment (8)\",\"Robe\"]}"},{"name":"Sage Equipment Choice A Gold","parent":"Sage Equipment Choice A","level":"1","payload":"{\"type\":\"Starting Currency\",\"gold\":8}"},{"name":"Sage Equipment Choice B","parent":"Sage Equipment Choice","level":"1","payload":"{\"type\":\"Starting Currency\",\"gold\":50}"}]
+- filter-Origin Feat: Magic Initiate
+- filter-Ability Score: Constitution, Intelligence, Wisdom
+- filter-Proficiencies: Arcana, History, Calligrapher's Supplies
+
+**publisher**: Wizards of the Coast
+
+**book**: Free Basic Rules (2024)
+

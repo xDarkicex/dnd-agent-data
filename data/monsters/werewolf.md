@@ -1,90 +1,17 @@
 # Werewolf
 
-## Werewolf
+**description**: "The Company of the Black Moon—they used to be adventurers loyal to the realm. Now they roam the woods as a pack of werewolves. The king has promised estates, titles, and gold to anyone who can undo the curse afflicting them. I, for one, have no interest in such rewards." —Thornstaff, elf druid Lycanthropes One of the most ancient and feared of all curses, lycanthropy can transform the most civilized humanoid into a ravening beast. In its natural humanoid form, a creature cursed by lycanthropy appears as its normal self. Over time, however, many lycanthropes acquire features suggestive of their animal form. In that animal form, a lycanthrope resembles a powerful version of a normal animal. On close inspection, its eyes show a faint spark of unnatural intelligence and might glow red in the dark. Evil lycanthropes hide among normal folk, emerging in animal form at night to spread terror and bloodshed, especially under a full moon. Good lycanthropes are reclusive and uncomfortable around other civilized creatures, often living alone in wilderness areas far from villages and towns. Curse of Lycanthropy. A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A remove curse spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish. A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form—or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams. Some individuals see little point in fighting the curse and accept what they are. With time and experience, they learn to master their shapechanging ability and can assume beast form or hybrid form at will. Most lycanthropes that embrace their bestial natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak. Werewolf A werewolf is a savage predator. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far—a furred and well-muscled humanoid body topped by a ravening wolf’s head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite. Most werewolves flee civilized lands not long after becoming afflicted. Those that reject the curse fear what will happen if they remain among their friends and family. Those that embrace the curse fear discovery and the consequences of their murderous acts. In the wild, werewolves form packs that also include wolves and dire wolves. Variant: Nonhuman Lycanthropes The statistics presented in this section assume a base creature of human. However, you can also use the statistics to represent nonhuman lycanthropes, adding verisimilitude by allowing a nonhuman lycanthrope to retain one or more of its humanoid racial traits. For example, an elf werewolf might have the Fey Ancestry trait. Player Characters as Lycanthropes A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope’s speeds in nonhumanoid form, damage immunities, traits, and actions that don’t involve equipment. The character is proficient with the lycanthrope’s natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope’s statistics. The character can’t speak while in animal form. A non-lycanthrope humanoid hit by an attack that carries the curse of lycanthropy must succeed on a Constitution saving throw (DC 8 + the lycanthrope’s proficiency bonus + the lycanthrope’s Constitution modifier) or be cursed. If the character embraces the curse, his or her alignment becomes the one defined for the lycanthrope. The DM is free to decide that a change in alignment places the character under DM control until the curse of lycanthropy is removed. The following information applies to specific lycanthropes. Werebear. The character gains a Strength of 19 if his or her score isn’t already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength. Wereboar. The character gains a Strength of 17 if his or her score isn’t already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character’s proficiency bonus + Strength modifier. Wererat. The character gains a Dexterity of 15 if his or her score isn’t already higher. Attack and damage rolls for the bite are based on whichever is higher of the character’s Strength and Dexterity. Weretiger. The character gains a Strength of 17 if his or her score isn’t already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character’s proficiency bonus + Strength modifier. Werewolf. The character gains a Strength of 15 if his or her score isn’t already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength. Traits Shapechanger : The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. Keen Hearing and Smell : The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell. Actions Multiattack (Humanoid or Hybrid Form Only) : The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form). Bite (Wolf or Hybrid Form Only) : Melee Weapon Attack : +4 to hit, reach 5 ft., one target. Hit : 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy. Claws (Hybrid Form Only) : Melee Weapon Attack : +4 to hit, reach 5 ft., one creature. Hit : 7 (2d4 + 2) slashing damage. Spear (Humanoid Form Only; Melee; One-Handed) : Melee Weapon Attack : +4 to hit, reach 5 ft., one creature. Hit : 5 (1d6 + 2) piercing damage. Spear (Humanoid Form Only; Melee; Two-Handed) : Melee Weapon Attack : +4 to hit, reach 5 ft., one creature. Hit : 6 (1d8 + 2) piercing damage. Spear (Humanoid Form Only; Ranged) : Ranged Weapon Attack : +4 to hit, range 20/60 ft., one creature. Hit : 5 (1d6 + 2) piercing damage.
 
-### Werewolf
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (human, shapechanger)
+- Source: MM1
+- Alignment: chaotic evil
+- Expansion: 2
+- Challenge Rating: 3
 
-_Medium or Small Monstrosity (Lycanthrope), Chaotic Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 15 **Initiative** +4 (14) <br>
-**HP** 71 (11d8 + 22) <br>
-**Speed** 30 ft., 40 ft. (wolf form only) <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>WIS</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +4, Stealth +4<br>
-**Gear** Longbow<br>
-**Senses** Darkvision 60 ft.; Passive Perception 14<br>
-**Languages** Common (can't speak in wolf form)<br>
-**CR** 3 (XP 700; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Pack Tactics._** The werewolf has Advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The werewolf makes two attacks, using Scratch or Longbow in any combination. It can replace one attack with a Bite attack.
-
-**_Bite (Wolf or Hybrid Form Only)._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. _Constitution Saving Throw:_ DC 12. _Failure:_ The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a **Werewolf** under the GM's control and has 10 Hit Points. _Success:_ The target is immune to this werewolf's curse for 24 hours.
-
-**_Scratch._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Slashing damage.
-
-**_Longbow (Humanoid or Hybrid Form Only)._** _Ranged Attack Roll:_ +4, range 150/600 ft. _Hit:_ 11 (2d8 + 2) Piercing damage.
-
-#### Bonus Actions
-
-<hr>
-
-**_Shape-Shift._** The werewolf shape-shifts into a Large wolf-humanoid hybrid or a Medium wolf, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.

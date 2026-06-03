@@ -1,79 +1,47 @@
 # Hippogriff
 
-## Hippogriff
+**description**: These D&D 5E Free Basic Rules only contain a fraction of the races, subclasses, backgrounds, feats, items, monsters, spells, and other content available on Roll20. Check out the Player's Handbook to add dozens of more player options to the Charactermancer, the Dungeon Master's Guide to expand on the tools available for DMs, and the Monster Manual to add hundreds of more unique creatures (including token artwork) to fight! Traits Keen Sight : The hippogriff has advantage on Wisdom (Perception) checks that rely on sight. Actions Multiattack : The hippogriff makes two attacks: one with its beak and one with its claws. Beak : Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage. Claws : Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 
-### Hippogriff
+**properties**:
+- Category: Monsters
+- AC: 11
+- HP: 19 (3d10+3)
+- CHA: 8
+- CON: 13
+- DEX: 13
+- INT: 2
+- STR: 17
+- WIS: 12
+- Size: Large
+- Type: monstrosity
+- Speed: 40 ft, fly 60 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/390064720/RKkrGiBQ4pzEuylu02bKDA/original.png
+- Roll 0: 1d20 + 5
+1d10+3
+- Roll 1: 1d20 + 5
+2d6+3
+- Skills: Perception +5
+- Source: 5th Edition SRD
+- data-XP: 200
+- Alignment: Unaligned
+- data-List: false
+- Token Size: 2
+- data-Traits: [{"Name":"Keen Sight","Desc":"The hippogriff has advantage on Wisdom (Perception) checks that rely on sight."}]
+- data-Actions: [{"Name":"Multiattack","Desc":"The hippogriff makes two attacks: one with its beak and one with its claws."},{"Name":"Beak","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"5","Reach":"5 ft.","Target":"one target","Damage":"1d10 + 3","Damage Type":"piercing"},{"Name":"Claws","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"5","Reach":"5 ft.","Target":"one target","Damage":"2d6 + 3","Damage Type":"slashing"}]
+- data-CHA-mod: -1
+- data-CON-mod: +1
+- data-DEX-mod: +1
+- data-INT-mod: -4
+- data-STR-mod: +3
+- data-SizeNum: 5
+- data-WIS-mod: +1
+- Challenge Rating: 1
+- Passive Perception: 15
+- data-CrNum: 1
+- data-AcNum: 11
+- data-HpNum: 19
 
-_Large Monstrosity, Unaligned_
+**publisher**: Wizards of the Coast
 
-**AC** 11 **Initiative** +1 (11) <br>
-**HP** 26 (4d10 + 4) <br>
-**Speed** 40 ft., Fly 60 ft. <br>
+**book**: Free Basic Rules (2014)
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CON</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +5<br>
-**Senses** Passive Perception 15<br>
-**Languages** None<br>
-**CR** 1 (XP 200; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Flyby._** The hippogriff doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The hippogriff makes two Rend attacks.
-
-**_Rend._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Slashing damage.

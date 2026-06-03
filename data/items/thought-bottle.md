@@ -1,0 +1,14 @@
+# Thought Bottle
+
+**description**: Thought Bottle Wondrous item, very rare (requires attunement) This flask is made of thick green glass and always appears empty inside. It can be used to store knowledge, memories, and even spells. While attuned to the bottle and holding it, you can store a bit of knowledge, memory, or spell in it. Storing a piece of knowledge requires an action, storing a spell requires you to cast the spell (the spell has no effect other than to be stored in the bottle when cast this way), and storing a memory requires an amount of time equal to the memory’s duration. While attuned to the bottle, you can touch it and use an action to speak a command word. Doing so allows you to determine the general contents contained within the bottle, but doesn’t provide access to specific knowledge, memories, or spells stored inside. In order to access a bottle’s contents, you must use an action while holding the bottle to enter a state of deep concentration (as though concentrating on a spell). While in this state, you are incapacitated and can’t move. You also automatically fail Dexterity saving throws. If you remain in this state until the end of your next turn, you recover one whole thought, memory, or spell stored within the bottle. Knowledge. Knowledge can include an idea or conclusion, such as a particular course of action or the answer to a problem or the name of a murderer, as well as passphrases and command words for magic items and effects. A piece of knowledge must be able to be phrased in a single sentence of 25 words or less. When you store knowledge in the bottle, it disappears from your mind, but you know the general contents of what you stored. Memories. One memory counts as your entire recollection of events lasting up to a single day. When you store a memory into the bottle, it disappears from your mind, but you know the general contents of what you stored (for example, “the night I first ventured into Dagult Neverember’s vault under the city of Waterdeep”). Spells. When you retrieve a spell, you know the spell, it doesn’t count against the number of spells you know or can prepare, and you can cast it using a spell slot as normal. Once you cast a spell retrieved from the bottle, you lose memory of it unless you can retrieve the same spell again or know it by some other means. The bottle can hold up to 12 thoughts worth of content. One thought is equivalent to a single piece of knowledge or up to 6 hours of continuous memory. Spells are more complex and each spell stored in the bottle takes up 3 thoughts worth of space per spell level. If your attunement to the bottle ends, the contents of the bottle are lost unless a wish spell or similar magic is used.
+
+**properties**:
+- Category: Items
+- Item Type: Wondrous item
+- Item Rarity: very rare
+- Requires Attunement: requires attunement
+
+**publisher**: Viscount Games
+
+**book**: Drizzts Travelogue of Everything
+

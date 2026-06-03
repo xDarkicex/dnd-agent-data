@@ -1,0 +1,14 @@
+# Helmet of the Hammerhead Knight (uncommon variant)
+
+**description**: Hammerhead Knight’s Legacy Item Set. While attuned to the helmet of the hammerhead knight and sharktooth, you gain advantage on Dexterity saving throws against effects you can see or smell, and you can’t be surprised. In addition, you can use your action to grow gills and morph your legs into a tail, or to reverse this transformation. While morphed, you gain a swimming speed of 40 feet, your walking speed can’t exceed 5 feet, and you can breathe both air and water. Helmet of the Hammerhead Knight Wondrous item, rare (requires attunement) Component: pouch of beast (giant shark) scales A legend of the seven seas spoken of only in hushed tones, the Hammerhead Knight is said to be a strange hybrid of man and shark. Lingering mists of blood in the water are often interpreted as signs of his passage, and though tales invariably describe him vanquishing pirates and scoundrels, most prefer to avoid him… just in case. Shark Senses. While wearing this helmet, your peripheral vision extends behind you and your sense of smell is enhanced, granting you advantage on initiative rolls and Wisdom (Perception) checks that involve smell. In addition, you can inhale deeply as an action, gaining blindsight to a range of 30 feet until the start of your next turn. This blindsight can only detect a creature that has blood and is below its hit point maximum. Blood Frenzy. While wearing this helmet, you can cast the blood frenzy * spell on yourself. When you do, roll a d6. On a 3 or lower, this property of the helm can’t be used again until the next dawn. Curse. This helmet is cursed with the essence of its former occupant, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to remove the helmet. Over the course of a week, you begin to develop shark-like features. First, your skin develops small patches of tough, iridescent scales. Next, your fingers and toes become webbed, and small fins appear on your elbow and neck. Lastly are the teeth. They become a jagged conveyor belt of razors, a natural weapon which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier. Once you grow these shark teeth, the curse is complete and you are constantly under the effects of the blood frenzy spell. A remove curse spell or similar magic ends the curse and the effects of the blood frenzy spell, but doesn’t undo any changes to your appearance that have already occurred, including the natural weapon. Uncommon variant: Once the Blood Frenzy property has been used, it can’t be used again until the next dawn.
+
+**properties**:
+- Category: Items
+- Item Type: Wondrous item
+- Item Rarity: uncommon
+- Requires Attunement: requires attunement
+
+**publisher**: Loot Tavern
+
+**book**: L’Arsene’s Ledger of Treasures and Trinkets
+

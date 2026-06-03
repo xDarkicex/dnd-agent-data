@@ -1,72 +1,17 @@
 # Giant Scorpion
 
-## Giant Scorpion
+**description**: Actions Multiattack : The scorpion makes three attacks: two with its claws and one with its sting. Claw : Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled, escape DC 12. The scorpion has two claws, each of which can grapple only one target. Sting : Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
-_Large Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: beast
+- Source: MM1
+- Alignment: unaligned
+- Expansion: 2
+- Challenge Rating: 3
 
-**AC** 15 **Initiative** +1 (11) <br>
-**HP** 52 (7d10 + 14) <br>
-**Speed** 40 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CON</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>1</td>
-      <td>−5</td>
-      <td>−5</td>
-      <td><strong>WIS</strong></td>
-      <td>9</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>CHA</strong></td>
-      <td>3</td>
-      <td>−4</td>
-      <td>−4</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Monster Manual
 
-**Senses** Blindsight 60 ft.; Passive Perception 9<br>
-**Languages** None<br>
-**CR** 3 (XP 700; PB +2)
-
-### Actions
-
-<hr>
-
-**_Multiattack._** The scorpion makes two Claw attacks and one Sting attack.
-
-**_Claw._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 13) from one of two claws.
-
-**_Sting._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Piercing damage plus 11 (2d10) Poison damage.

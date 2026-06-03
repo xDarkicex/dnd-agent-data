@@ -1,0 +1,16 @@
+# Light Dragon Wyrmling
+
+**description**: Dragons who wandered across the Ethereal and Astral Planes and the godly outer planes became a breed unto themselves eons past. The forms of light dragons are no longer entirely physical, and they use this adaptation to pursue lives of reverence for beauty in places deadly to others--the high places among stars and dark voids. Lovers of Light. Motivated in their travels by a love and fascination for bright places of singular beauty, they often bask in a trancelike state for long years in close orbit around celestial structures they find pleasing to look upon or in the shimmering lights of planar conjunctions. In time, the desire to share the experience with their kin moves them on. Reclusive and Remote. When birthing and rearing their young, who lack their elders' ethereal bodies, light dragons seek out remote terrestrial places, often known only to others of their kind. Aware of the ruinous effects of their presence over the long term, light dragons avoid making their lairs near farmlands and places of sensitive vegetation. Deserts and inhospitable, rocky coastlines serve as their earthly homes. During such periods when they do interact with other intelligent beings, they maintain a benevolent but remote approach, wishing all creatures well, but preferring to only interact with others of their kind or creatures who exhibit and appreciate beauty. A Network of Mutual Protection and Intelligence. Light dragons maintain amiable connections with one another, telling tales of their travels and sharing information of notable dangers. In particular, void dragons despise light dragons, and light dragons warn one another of a void dragon's approach. If one of their nemeses can be located and confronted with minimal danger to other creatures, the light dragons join forces to destroy it. Light dragons fear the unpredictable insanity of the void dragons and the dangerous knowledge the creatures attain in their studies. They seek to bring the volatile creatures down before the void dragons bring about cataclysmic harm. Many light dragons die in such attempts, and the fear of reprisal against the survivors makes light dragons one of the more reclusive and secretive types of dragon. Lair Actions On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row: A 30-foot-radius sphere of water in its lair boils. Each creature in the area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one. A 60-foot-radius sphere of glowing stardust bursts on a point the dragon can see within 120 feet of it. The burst spreads around corners, illuminating objects and creatures in the area. Each creature in the area must succeed on a DC 15 Dexterity saving throw or be outlined in twinkling starlight. This starlight works like the faerie fire spell, except it doesn't require concentration and lasts until the dragon uses this lair action again or until the dragon dies.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: dragon
+- Alignment: neutral good
+- Expansion: 45
+- Challenge Rating: 2
+
+**publisher**: Kobold Press
+
+**book**: Creature Codex
+

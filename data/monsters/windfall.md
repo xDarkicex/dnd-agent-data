@@ -1,0 +1,16 @@
+# Windfall
+
+**description**: A performer at heart, Windfall is ostentatious and charismatic, making small talk with regular patrons and jovially welcoming new faces to the casino. As a dedicated champion of Tiamat, Windfall has been granted phenomenal power by her master. Her skin glitters with patches of multicolored scales, and in combat, her blade sings with all five of the chromatic dragons’ elements. Windfall’s enchanted tailcoat shimmers with the colors of the Dragon Queen, and she uses this coat to dazzle patrons and enemies alike. Traits Dazzling Visage. A brilliant array of chromatic colors emanates from Windfall, causing attack rolls against her to have disadvantage. This trait ceases to function while Windfall has the incapacitated condition or has a speed of 0. Legendary Resistance (3/Day). If Windfall fails a saving throw, she can choose to succeed instead. Special Equipment. Windfall wears an iridescent magic coat that was tailored specifically for her and imbued with Tiamat’s power. When she dies, the coat functions as a Robe of Scintillating Colors. Actions Multiattack. Windfall makes two Chromatic Rapier attacks and uses Dragon’s Fury once. Chromatic Rapier. Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 7) piercing damage plus 21 (6d6) acid, cold, fire, lightning, or poison damage (Windfall’s choice). Dragon’s Fury. Windfall targets one creature she can see within 60 feet of herself and unleashes a burst of magical ire. The target must make a DC 23 Wisdom saving throw. On a failed save, the target takes 36 (8d8) psychic damage and has the frightened condition until the start of Windfall’s next turn. On a successful save, the target takes half as much damage only. Spellcasting. Windfall casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23): At will: Detect Magic, Light, Thaumaturgy 3/day each: Shatter, Unseen Servant 2/day each: Hypnotic Pattern, Sending 1/day: Hold Monster Bonus Actions Stunning Scintillation (Recharge 5–6). Windfall emits an overwhelming array of colors from her coat. Each creature within 30 feet of Windfall that can see her must succeed on a DC 23 Constitution saving throw or have the stunned condition until the start of Windfall’s next turn. Legendary Actions Windfall can take 3 legendary actions, choosing from the options below. She can take only one legendary action at a time and only at the end of another creature’s turn. Windfall regains spent legendary actions at the start of her turn. Deft Dance. Windfall moves up to her speed without provoking opportunity attacks. Dragon’s Flare. Windfall flares with multicolored flames and targets a creature she can see within 30 feet of herself. The target must make a DC 23 Dexterity saving throw. On a failed save, the target takes 26 (4d12) damage of a type chosen by Windfall: acid, cold, fire, lightning, or poison. On a successful save, the target takes half as much damage. Cast a Spell (Costs 2 Actions). Windfall uses Spellcasting.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Tiefling, Bard)
+- Alignment: Chaotic Evil
+- Expansion: 30583
+- Challenge Rating: 23
+
+**publisher**: Wizards of the Coast
+
+**book**: Vecna - Eve of Ruin
+

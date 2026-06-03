@@ -1,0 +1,15 @@
+# Shadow Goblin Scribe
+
+**description**: The boney, purple-skinned goblin with bright-yellow eyes pushes a pair of gold spectacles farther up on her long nose. She wears a flowy grey shirt stained with black blotches of ink. And she looks annoyed by the sudden interruption. Shadow goblin scribes are the notaries and executors of deals brokered between shadow fey and mortals. Traits Contracts, Oaths & Consequences. Shadow fey nobility possess notoriously short attention spans and have come to rely on shadow goblin scribes to record and enforce the day-to-day drudgeries associated with complex contracts. After a fey accepts a bargain, they call upon the scribe to work out the exact terms, catalog them, and occasionally deal with those desperate enough to attempt to break a contract (see shadow goblin chieftain above for the consequences of goblins breaking some such contracts and oaths). Limited Spellcasting. Shadow fey are careful not to teach their goblin servitors too much magic, but scribes learn a small selection of practical spells that allow them to deal with testy mortals. Scribes are often the messengers of bad news, and their magic allows them to subdue aggressive individuals long enough to accomplish their business. Shadow Camouflage. The shadow goblin has advantage on Dexterity (Stealth) checks made to hide in dim light or darkness. Sunlight Sensitivity. While in sunlight, the shadow goblin has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight. Unseelie Blessing. The shadow goblin has advantage on saving throws against being charmed, and magic can't put them to sleep. Actions Quill. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage. Notarize (1/Day). The shadow goblin chooses one creature they can see within 60 feet and mystically marks it for 24 hours. While a creature is marked in this way, it rolls with disadvantage against any saving throws made to resist the shadow goblin's spells. Spellcasting. The shadow goblin casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 13): At will: acid splash , mage hand 2/day each: command , hold person , illusory script 1/day: suggestion Stink Eye. The shadow goblin targets one creature they can see within 30 feet. If the target can hear and see the scribe, it must succeed on a DC 11 Charisma saving throw or have disadvantage on the next ability check, attack roll, or saving throw it makes before the start of the scribe's next turn Bonus Actions Nimble Escape. The shadow goblin takes the Disengage or Hide action. Reactions Vengeful Jinx. When the shadow goblin is hit by an attack from a creature they can see, they can curse the attacker. The target has disadvantage on attack rolls until the end of its next turn.
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: Humanoid (Goblinoid)
+- Alignment: Any Non-Chaotic Alignment
+- Expansion: 18580
+
+**publisher**: Kobold Press
+
+**book**: Book of Ebon Tides Compendium
+

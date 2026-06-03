@@ -1,75 +1,47 @@
 # Crab
 
-## Crab
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Traits Amphibious. The crab can breathe air and water. Actions Claw. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage.
 
-_Tiny Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 11
+- HP: 3 (1d4 + 1)
+- PB: 2
+- CHA: 2
+- CON: 12
+- DEX: 11
+- INT: 1
+- STR: 6
+- WIS: 8
+- Size: Tiny
+- Type: Beast
+- Speed: 20 ft., Swim 20 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406406973/ErN2_pBkLZwW7_iPlmqCRQ/original.png
+- Senses: Blindsight 30 ft.
+- Skills: Stealth +2
+- data-XP: 10
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 1
+- data-Traits: [{"Name":"Amphibious","Desc":"The crab can breathe air and water."}]
+- data-Actions: [{"Name":"Claw","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"2","Reach":"5 ft.","Target":"one target","Damage":"1","Damage Type":"Bludgeoning"}]
+- data-CHA-mod: -4
+- data-CON-mod: 1
+- data-DEX-mod: 0
+- data-INT-mod: -5
+- data-STR-mod: -2
+- data-SizeNum: 1
+- data-WIS-mod: -1
+- Saving Throws: Str -2, Dex +0, Con +1, Int -5, Wis -1, Cha -4
+- Challenge Rating: 0
+- Passive Perception: 9
+- data-CrNum: 0
+- data-AcNum: 11
+- data-HpNum: 3
 
-**AC** 11 **Initiative** +0 (10) <br>
-**HP** 3 (1d4 + 1) <br>
-**Speed** 20 ft., Swim 20 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>DEX</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>1</td>
-      <td>−5</td>
-      <td>−5</td>
-      <td><strong>WIS</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>CHA</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Skills** Stealth +2<br>
-**Senses** Blindsight 30 ft.; Passive Perception 9<br>
-**Languages** None<br>
-**CR** 0 (XP 10; PB +2)
-
-### Traits
-
-<hr>
-
-**_Amphibious._** The crab can breathe air and water.
-
-### Actions
-
-<hr>
-
-**_Claw._** _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 1 Bludgeoning damage.

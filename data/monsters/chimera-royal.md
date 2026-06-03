@@ -1,0 +1,16 @@
+# Chimera, Royal
+
+**description**: This chimera has a lion's mane plaited in gold, a goat head with magic sparking between its curved horns, a smoking dragon's head, and a hissing serpent for a tail. Chimeras that discover the luxury of long life inevitably enjoy the servitude of lesser creatures. Declaring sovereignty—with few willing to dispute the claim—such chimera foster unceasing ambition for power, wealth, and status. Profane Magic. Any chimera that lives long enough to claim royalty and be recognized as such soon gains magical power, often commanded by its goat head. With this power, the goat transfigures the chimera's tail into a snake, giving the chimera the knowledge of speech and greater capability for deception and manipulation. Though the transformation of the tail provides the knowledge of speech, the chimera can speak through any of its heads. Legendary Resistance (3/Day). If the royal chimera fails a saving throw, it can choose to succeed instead. Regal Bearing. The chimera's AC includes its Charisma modifier. Actions Multiattack. The chimera makes one Bite attack, one Claws attack, and one Eldritch Horns attack, or it makes two Arcane Blast attacks. Bite. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) piercing damage . Claws. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage. Eldritch Horns. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 18 (2d12 + 5) force damage. Serpent Strike. Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) poison damage. Arcane Blast. Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 21 (3d10 + 5) force damage. Searing Breath (Recharge 5-6). The dragon head exhales a 30-foot cone of fire that burns and blinds. Each creature in that area must make a DC 17 Dexterity saving throw. On a failure, a creature takes 45 (10d8) fire damage and is blinded until the end of its next turn. On a success, a creature takes half the damage and isn't blinded. Spellcasting. The chimera's goat head casts one of the following spells, requiring only verbal components and using Charisma as the spellcasting ability (spell save DC 18): At will: charm person , dispel magic , mage hand 3/day each: bestow curse , enthrall , haste 1/day: dominate person Legendary Actions The chimera can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The chimera regains spent legendary actions at the start of its turn. Prideful Prowl. The chimera moves up to its walking speed, or flies up to half its flying speed, without provoking opportunity attacks. Serpent Strike. The chimera makes one Serpent Strike attack. Cast a Spell (Costs 2 Actions). The chimera uses Spellcasting. Roar of the King (Costs 2 Actions). The lion head lets out a bellow that spurs on its allies. Each friendly creature, including the chimera, within 30 feet of the chimera that can hear the roar gains 11 (2d10) temporary hp and can't be frightened for 1 minute.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Monstrosity
+- Alignment: Neutral Evil
+- Expansion: 19901
+- Challenge Rating: 15
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

@@ -1,0 +1,11 @@
+# Sahuagin
+
+**description**: These piscine, shark-like humanoids are best known as bloodthirsty raiders who decimate coastal villages and devour the populace. Sahuagin are prone to mutation, and their leaders grow extra sets of arms and grow twice as large as their kin. Other morphs include venomous sacks, and even the external appearance of a sea elf. Because of this latter mutation, sahuagin have an ongoing enmity with the sea elves. Although most sahuagin are brutal half-beats devoted to evil, there are some that break the norm. Sahuagin Names Though most sahuagin communicate in their own snarling language, their names can be rendered in the Common tongue. Sahuagin first names are defined by gender, as their society has defined gender roles, and their second name pertains to the tribe to which they belong. Female Names: Attakl, Chorg, Favakl, Khorg, Vathakl Male Names: Dhurge, Gharg, Khoth, Sittl, Zathl Tribe Names: Bloodbather, Coastraider, Gutfeaster, Sharkbreeder, Spawn of Sekolah Sahuagin Traits Your sahuagin character has the following traits. Ability Score Increase. Your Strength score increases by 2. Age. Sahuagin reach adulthood at 12 and live up to 50 years. Alignment. Most sahuagin are bloodthirsty raiders who claim dominion over the ocean. Those who are brutal rise to the top in a regimented, militocratic society. They are usually lawful evil. Size. Sahuagin are usually over 6 feet tall and weigh between 200 and 250 pounds. Your size is medium. Speed. Your base walking speed is 30 feet and you have a swim speed of 40 feet. Limited Amphibiousness. You can breathe air and water, but need to be submerged at least once every 4 hours to avoid suffocating. Shark Telepathy. You can magically communicate with any shark within 120 feet of you, using a limited telepathy which doesn’t allow the shark to reply. You can cast dominate beast once per day, but only on sharks. Underwater Adaptation. You ignore any drawbacks caused by an underwater environment. Languages. You speak, read, and write Common and Sahuagin. Sahuagin is a guttural, snarling language used almost exclusively within sahuagin society. Subrace. There are two main mutations of sahuagin, malenti and sea devils. Choose one of these subraces. Subraces Malenti Sea Devil
+
+**properties**:
+- Category: Races
+
+**publisher**: JVC Parry
+
+**book**: Call from the Deep
+

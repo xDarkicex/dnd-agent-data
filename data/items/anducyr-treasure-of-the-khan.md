@@ -1,0 +1,14 @@
+# An'ducyr, Treasure of the Khan
+
+**description**: At the foot of the world tree, among the roots that rose high as hills, the centaurs of the Dargit clan knelt before the young Khan. “We will know our enemy by the sight of your arrows,” the centaur bowyer said, “call us Kin Ludi, allies of the Khazzaki.” The centaur then presented Bodhan with his masterpiece. The Khan took the bow, drew back the string, and fired a gleaming arrow toward the stars. “All of Midgard will tremble before our hooves, Centaur and Khazzaki!” he cried. With that, a roar arose such that the leaves of the world tree shook high above. Made from the boughs of the world tree in Domovogrod by the legendary centaur bowyer, Hazunn the Bender, the bow of unity is one of the treasures of the Khazzaki people. The bow is the property of the current Khan, Bodhan Zenody, and serves as both dreadful weapon and symbol of his power. The world tree in Domovogrod has roots into the Elflands, and the bow has traces of elven magic in its grain; but the tree also grows into the Shadow Realm, and drawing back the string of An’ducyr is an invitation to the cunning shadow fey who want the bow for themselves. Magic Weapon. An’ducyr is a magic weapon that grants a +3 bonus to attack and damage rolls made with it. It does not require ammunition, instead generating gleaming arrows when its string is drawn back. These arrows do radiant damage. Eyes into the Elflands. As a bonus action, you may draw back the string of An’ducyr, conjuring a gleaming arrow of radiant energy. Until the end of your turn, you gain truesight (600 feet). If the bow is not fired at a creature before the end of your turn, you take 2d6 radiant damage. Blinding Arrows. Once each day, as a bonus action, you may call upon the magic of the Elflands to steal your enemy’s sight. For one minute, any creature damaged by An’ducyr must succeed a DC 16 Wisdom save or be blinded until the end of your next turn. Unifier. While attuned to An’ducyr, you have advantage on all Charisma checks. Additionally, you gain proficiency in Intimidation, Persuasion, and Performance. Known in the Shadow Courts. While attuned to An’ducyr, you are stalked by the shadow fey. They wish to steal the bow and corrupt it. At inopportune times, you are attacked or manipulated by agents of the shadow courts. While in Khan Zenody’s possession, An’ducyr is safe from the shadow fey, who wait for it to pass into weaker hands. Destroying the Bow . To destroy An’ducyr, the wielder must be of Khazzaki descent, use the bow to slay Sleipnir with an arrow of horse slaying, and then bathe the bow in the magical horse’s blood.
+
+**properties**:
+- Category: Items
+- Item Type: Weapon (longbow)
+- Item Rarity: artifact
+- Requires Attunement: requires attunement
+
+**publisher**: Kobold Press
+
+**book**: Midgard Worldbook
+

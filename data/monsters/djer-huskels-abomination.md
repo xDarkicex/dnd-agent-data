@@ -1,0 +1,16 @@
+# Djer Huskel's Abomination
+
+**description**: Dull steel plates and clockwork mechanisms have been fused with the stitched flesh of an uncountable number of creatures to create an unsettling figure of meat and metal. When spoken to, the mortal-machine construct responds in a voice that is both delicate and resonant. Its gears tick rhythmically as they turn. Before she died and was rebuilt by her obsessed husband, the creature now known as Djer Huskel’s abomination was a beloved singer and performer. When she was killed in the collapse of the performance hall that destroyed much of her body, he called upon his mastery of necromancy and engineering to preserve what he could of her and construct her a new, more durable body of corpses and clockworks. When he completed his project and animated the result, he was horrified by the unrecognizable creature that spoke in his dead wife’s voice. Always Alone. Unable to bring himself to destroy the abomination, its creator teleported it to a distant, sparsely populated wasteland and left it to wander. Since its banishment, the construct has roved, ever searching, but not cognizant of what it is looking for. Often, it sings softly and sweetly to itself, not really understanding the words but comforted by them all the same. If it becomes confused, it chants the words “Djer Huskel” in a steady, repetitive stream. If asked what the words mean, the construct can’t provide an answer. When confronted by other creatures, the abomination is as likely to behave aggressively as benignly. If it happens across a source of music, it stops all activities and listens in place until the music ceases, wherein it becomes active again. TRAITS Aberrant Construction. Djer Huskel’s abomination reacts as noted below when it is subjected to certain effects or stimuli. When the abomination hears music, such as when a creature makes a Charisma (Performance) check, it becomes incapacitated while it listens. When the abomination is hit with an attack that deals cold damage, it takes no damage and instead recovers a number of hit points equal to half the damage rolled. When the abomination takes lightning damage, as a reaction, it can immediately move up to half its speed and make a Slam attack. When the abomination takes psychic damage, it must make a successful DC 16 Charisma saving throw or be stunned until the end of its next turn. Unusual Nature. Djer Huskel’s abomination doesn’t require air, food, drink, or sleep. ACTIONS Multiattack. Djer Huskel’s abomination makes two Slam attacks or two Static Discharge attacks, or one Slam attack and one Static Discharge attack. Slam. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage plus 13 (3d8) lightning damage. Static Discharge. Ranged Weapon Attack: +4 to hit, range 90 ft., one creature. Hit: 13 (3d8) lightning damage. Electrical Overload (Recharge 6). Djer Huskel’s abomination releases stored-up electricity in a 30-foot radius around itself. Each creature in the area must make a DC 16 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Construct
+- Alignment: Chaotic Neutral
+- Expansion: 25357
+- Challenge Rating: 8
+
+**publisher**: Kobold Press
+
+**book**: Wastes of Chaos
+

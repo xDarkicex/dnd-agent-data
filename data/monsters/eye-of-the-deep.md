@@ -1,0 +1,16 @@
+# Eye of the Deep
+
+**description**: An aquatic sub-species of beholders, the eye of the deep is only found in the darkest depths of the ocean or the deepest subterranean lakes of the Underdark. Growing to about five to nine feet in diameter, the eye of the deep retains its beholder-like qualities with a cyclopean eye and a large maw of razor-sharp teeth. Unique among its kind, the eye of the deep only has two eye stalks but is armed with two limbs ending in crustacean-like pincers that it uses to crush and dismember its foes. Instead of projecting an antimagic cone, its central eye creates a bright burst of light that can leave its enemies unlucky enough to be looking at it blinded for a minute. Intolerant Tyrants. True to its nature, the eye of the deep is xenophobic and fiercely territorial. While they may tolerate and subjugate nearby weaker life forms such as kuo-toans, merrow, and sahuagin, other dangerous, intelligent beings such as aboleths and morkoths are a different matter. It will relentlessly try to destroy or drive them out if it can. Otherwise, it will seek out new territory. Traits Amphibious. The eye of the deep can breathe air and water. Actions Multiattack. The eye of the deep makes one Bite attack and two Claw attacks. Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (4d6 + 4) piercing damage. Claw . Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and if the target is Large or smaller, it is grappled (escape DC 14). The eye of the deep has two claws, each of which can grapple only one target. Eye Rays. The eye of the deep shoots two eye rays, choosing one to two targets it can see within 120 feet of it: 1. Paralyzing Ray. The targeted creature must succeed on a DC 15 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 2. Cold Ray. The targeted creature must succeed on a DC 15 Dexterity saving throw, taking 28 (8d8) cold damage on a failed save, or half as much damage on a successful one. Major Image (Psionics). The eye of the deep casts major image , requiring no material components and using Intelligence as the spellcasting ability (spell save DC 15). Bonus Actions Baleful Flash (Recharge 5–6). The eye of the deep's central eye projects a blinding flash of light in a 60-foot cone. Each creature in that area that can see the light must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Legendary Actions The eye of the deep can take 3 legendary actions, using the options listed below. It can take only one legendary action at a time and only at the end of another creature's turn. The eye of the deep regains spent legendary actions at the start of its turn. Eye Ray. The eye of the deep uses one random Eye Ray. Pincer. The eye of the deep makes one Claw attack.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Aberration
+- Alignment: Typically Lawful Evil
+- Expansion: 23212
+- Challenge Rating: 11
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded II
+

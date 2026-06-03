@@ -1,0 +1,16 @@
+# Dread Wolf
+
+**description**: Dread Beasts Dread beasts are hulking undead animals raised by Lutheria, Mistress of Death and Lady of Dreams . These creatures typify both of her domains, as these twisted mockeries of life are nightmarish indeed. Dread beasts engage in few—if any—of the behaviors they did in life and are almost universally driven to slaughter any humanoid they encounter. While most of these creatures lurk in the hidden, barely-trod corners of the world, others conduct nocturnal raids against villages and other civilized communities. After it has been raised, a dread beast continues to rot, creating a nauseating odor that is sometimes pungent enough to poison living creatures unlucky enough to be in its vicinity. Although the creature’s flesh festers and falls away, this process does nothing to diminish its considerable strength. When a dread beast survives long enough, it eventually becomes little more than a skeleton, held together only by the will of powerful dark magic. Monstrous Forms . Dread beasts are typically many times larger than their living counterparts. This gigantism is often due to the fact that dread beasts are frequently created from the remains of legendary mythic beasts. However, others are an amalgamation of multiple mundane animals. For example, many dread wolves have been stitched together from the flesh of entire packs. Tenacious Hunters . Some dread beasts are bound directly as servants of Lutheria and stand as guardians of things that the Titan holds dear. Others behave like revenants, hunting down and slaughtering their killers. Those created from mythic beasts are more likely to exhibit the latter behavior, frequently harassing heroes and adventuring parties. Withering Maws . A dread beast can lash out at its enemies using the necrotic energy that sustains it. A bite from one of these monster drains the life force from its victim, and the resulting wound is highly susceptible to infection—assuming the victim survives the encounter. Dread Wolf The relentless dread wolves track their prey with unerring precision. Once a dread wolf has smelled the blood of a living creature, it tirelessly pursues its quarry. Occasionally, dread wolves are used as hunting “dogs” by more intelligent monsters on the trail of particularly elusive human champions. Glare of the Grave . The baleful glow of a dread wolf’s eyes has the power to shake the nerves of even the most valiant warrior. This is not merely a reaction to the creature’s repulsive appearance but rather a manifestation of the dread wolf’s inner malevolence. The dread wolf is therefore able to use this ability at the most opportune time, focusing its enmity to invoke great fear in only its chosen targets. Strange Origins . Although most dread wolves have been fashioned from the corpses of ordinary wolves, humanoids are occasionally selected to transform into these creatures upon death. Those so chosen are invariably evil and were often werewolves or prolific murderers—or both—in life. Ever a cruel goddess, Lutheria has been known to bestow this “gift” to her worshippers.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: undead
+- Alignment: neutral evil
+- Expansion: 4963
+- Challenge Rating: 9
+
+**publisher**: Arcanum Worlds
+
+**book**: Odyssey of the Dragonlords Compendium
+

@@ -1,0 +1,16 @@
+# Quazenia
+
+**description**: Background Quazenia's childhood was anything but ordinary. As the daughter of the Great Ssarezzal, leader of the Cult of the Dark Serpent, there was tremendous pressure upon Quazenia from the day she was born. The Great Ssarezzal, Quazenia's mother, had foreseen that Quazenia would inherit her powers of foresight. Unfortunately, Quazenia never did. Fearing what her cruel mother would do if she discovered her shortcomings, Quazenia decided to fake it. Mimicking the wild trances she'd seen her mother succumb to, she began delivering half-coherent prophecies and though she didn't know what she was saying half the time, the Cult of the Dark Serpent eagerly lapped it up. While Quazenia's foresight never manifested, she possessed innate magic, and over the years, she began enhancing and augmenting her "visions” with illusions. The more compelling her prophecies, however, the more distant her malignant mother grew. Whether her mother suspected Quazenia's charade or was simply envious, Ssarezzal eventually moved against Quazenia. During one of her prophecies, Quazenia's mother exclaimed that "the prophet's progeny” had been "tainted” and that the "offspring had to be culled” by the "Dark Serpent's will.” Rather than let her mother sacrifice her, Quazenia used her illusory magic to fake her own demise and fled the cult. At first, life outside the cult was daunting; having lived in seclusion, she barely knew how to comport herself in civilized society. Cunning and pragmatic, Quazenia soon adapted and found that her new life of freedom suited her well. With the revelry of someone who's spent their entire life sheltered away, Quazenia lived a dozen lives in a span of a few years; going on dangerous adventures, courting a wealthy prince, and traveling with a magical carnival. At present, Quazenia has taken to crafting, buying, and selling magical items, specializing in objects that can create or manipulate illusions. Roleplaying Quazenia Quazenia might not be gifted in the way her evil mother wanted her to be, but she is gifted in most other ways: beautiful and clever, charming and talented, the green-skinned serpentfolk has plenty to offer. Even so, there is an unmistakable sadness in Quazenia's eyes that hints at her tumultuous youth. Quazenia isn't all dour melancholy, however. She has a sardonic wit and answers foolish questions with biting sarcasm ("Yes, I am indeed a serpentfolk. What gave it away – was it my graceful movements or maybe my forked tongue and green scales?”) Nothing delights her more than if a customer knows how to bite back – she takes great relish in exchanging barbs with a worthy adversary. Having never felt that she was good enough for her mother, Quazenia has a deep desire to prove herself; she is prone to engage in oneupmanship ("A fine sword you have there – almost as fine as the one I have for sale”) and embellishments. In the end, there is no malice to Quazenia, only a childlike need for approval.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Serpentfolk
+- Alignment: Neutral
+- Expansion: 27827
+- Challenge Rating: 8
+
+**publisher**: Eventyr Games
+
+**book**: Wanderer's Guide to Enchanted Emporiums
+

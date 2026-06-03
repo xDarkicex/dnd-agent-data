@@ -1,0 +1,15 @@
+# War Horn
+
+**description**: You blow a blast on your war horn, sending a ripple of fear through your enemies and bolstering your allies. Choose up to three hostile creatures in range and up to three friendly creatures in range. Each hostile target must succeed on a Wisdom saving throw or become frightened for the duration. At the end of each of its turns, a frightened creature can make another Wisdom saving throw. On a success, the spell ends on that creature. Each friendly target gains a number of temporary hit points equal to 2d4 + your spellcasting ability modifier and has advantage on the next attack roll it makes before the spell ends. The temporary hit points last for 1 hour.
+
+**properties**:
+- Category: Spells
+- Level: 4
+- School: enchantment
+- Components: M
+- Casting Time: 1 action
+
+**publisher**: Kobold Press
+
+**book**: Tome of Heroes
+

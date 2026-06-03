@@ -1,0 +1,16 @@
+# Vampirate Captain
+
+**description**: How a crew of vampirates conducts itself depends entirely on the mood and disposition of the captain. The crew of one ship might behave like a murderous mob, while another might abide by an ancient code of chivalry. One captain might allow the crew of a plundered ship to live, while another might leave only flotsam and jetsam in the pirates’ wake. The captain is often accompanied by an undying companion, such as a crawling claw or a will-o’-wisp . Vampirates Vampirates are the walking, talking husks of dead pirates who refused to go quietly into the afterlife. They ply the void in their ships, plundering unsuspecting vessels and feeding on the life energy of those unlucky enough to cross their path. A vampirate appears as a gaunt figure with milky-white eyes and skin as dry as parchment. A vampirate has fangs like a vampire’s but doesn’t use them to draw vital fluids from prey, which vampirates consider an unsavory act. Rather, a vampirate drains life energy from another creature by touching it or by siphoning off its energy from a short distance away. As it feeds on the energy of other creatures, its appearance becomes more robust, although it never truly looks alive. Vampirates eat, drink, and sleep because they like to, not because they must. They rest in wooden coffins or crates full of grave dirt. In the absence of such containers, they can treat their ship’s hold as one big coffin and sleep amid their cargo. When they’re not sleeping or marauding, a crew of vampirates whiles away the hours by drinking rum and singing grim chanteys. A ship crewed by vampirates usually has one or more shadows aboard—the Undead remains of some of the vampirates’ victims. Traits Explode. When the captain is reduced to 0 hit points, it explodes in a cloud of ash. Any creature within 5 feet of it must succeed on a DC 15 Constitution saving throw or take 16 (3d10) necrotic damage. Spider Climb. The captain can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Unusual Nature. The captain doesn’t require air or drink. Actions Energy Drain. Melee or Ranged Spell Attack: +6 to hit, reach 5 ft. or range 30 ft., one creature. Hit: 22 (4d10) necrotic damage. A Humanoid reduced to 0 hit points by this attack dies and instantly transforms into a free-willed shadow or vampirate (captain’s choice) under the DM’s control. Heavy Crossbow. Ranged Weapon Attack: +6 to hit, range 100/400 ft., one target. Hit: 19 (3d10 + 3) piercing damage. Ship Invisibility (Recharges after a Short or Long Rest). A ship upon which the captain stands, along with all creatures and objects aboard it, becomes invisible to creatures not aboard the ship. The captain must concentrate on this magical effect to maintain it (as if concentrating on a spell), and it lasts for up to 1 hour. The effect ends if the captain leaves the ship. Reactions Uncanny Dodge. The captain halves the damage that it takes from an attack that hits it. The captain must be able to see the attacker.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: undead
+- Alignment: typically lawful evil
+- Expansion: 16643
+- Challenge Rating: 6
+
+**publisher**: Wizards of the Coast
+
+**book**: Spelljammer - Adventures in Space
+

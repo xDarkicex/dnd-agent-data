@@ -1,0 +1,12 @@
+# Shosuro Family - Scorpion Clan
+
+**description**: When the Shosuro family is known to outsiders, it is for their acting talent and theatrical skills. Little does the Empire realize how fully the Shosuro embrace their roles; many of the finest Scorpion spies are Shosuro living as other people among the clans, watching them for any sign of treachery against the Imperial Throne. While Shosuro students are trained to be master entertainers, and their family school is officially an acting academy, they are often asked to turn their skills in acrobatics, acting, and other arts to subterfuge, deception, and even assassination. Skill Proficiencies: Deception, choose one other Dexterity-based skill (Acrobatics, Sleight of Hand, or Stealth). Tool Proficiencies: Any one artisan tool or musical instrument, disguise kit. Weapon Proficiencies: Wakizashi. Languages: You can read, sign, speak, and write Rokugani, Courtly Rokugani, and one other common language of your choice. Equipment: Resplendent regalia, unremarkable garb, wakizashi, mask, any one artisan tool or musical instrument, disguise kit, and 10 gp. Background Feature: Secrets and Subtleties You were raised in the Scorpion Clan and have a deep knowledge of the overt and covert sides of politics, granting you the following benefits: You know about the general state of political affairs between the clans. You know the major political players on the national stage, as well as their perceived strengths and weaknesses. You are aware of the most substantial criminal cartels in the Emerald Empire, especially as their interests overlap or conflict with those of the Scorpion Clan. You know about poisons, tools of assassination, and other less-than-legal means of pursuing goals. You know the state of court matters in the Imperial Capital. Suggested Feats A set of suggested feats that reflect the Scorpion Clan’s traditions and training can be found in chapter 5. Shosuro Infiltrator School Quick Build If you want to quickly build a character trained in the Shosuro school of shinobi arts, make Dexterity and Charisma your highest ability scores, with Intelligence as your next priority. Begin in the shinobi class, selecting the Infiltrator archetype at 3rd level. Put the rest of your levels into shinobi, or consider investing three levels into the courtier class for the Investigator archetype to help you better gather information.
+
+**properties**:
+- Category: Backgrounds
+- Expansion: 26129
+
+**publisher**: Edge Studio
+
+**book**: Adventures in Rokugan
+

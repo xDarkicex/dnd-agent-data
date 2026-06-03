@@ -1,7 +1,18 @@
-#### Acolyte
+# Acolyte
 
-**Ability Scores:** Intelligence, Wisdom, Charisma
-**Feat:** Magic Initiate (Cleric) (see "Feats")
-**Skill Proficiencies:** Insight and Religion
-**Tool Proficiency:** Calligrapher's Supplies
-**Equipment:** _Choose A or B:_ (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP
+**description**: Ability Scores Intelligence, Wisdom, Charisma Feat Magic Initiate (Cleric) Skill Proficiencies Insight and Religion Tool Proficiency Calligrapher’s Supplies Equipment Choose A or B: (A) Calligrapher’s Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest’s instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.
+
+**properties**:
+- Category: Backgrounds
+- Expansion: 33335
+- data-List: false
+- filter-Feat: Yes
+- data-datarecords: [{"name":"Acolyte","level":"1","payload":"{\"type\":\"Background\",\"name\":\"Acolyte\",\"description\":\"You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest's instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.\"}"},{"name":"Acolyte Ability Score Choice","parent":"Acolyte","level":"1","builderDisplayName":"Background Ability Scores","builderDisplayDescription":"Increase one of these scores by 2 and a different one by 1, or increase all three by 1. None of these increases can raise a score above 20. Intelligence, Wisdom, Charisma\r\n","payload":"{\"type\":\"Ability Score Choice\",\"choose\":2,\"from\":[\"Intelligence\",\"Wisdom\",\"Charisma\"],\"increase\":1,\"excludeFrom\":\"Local\"}"},{"name":"Acolyte Ability Score Choice 2","parent":"Acolyte","level":"1","payload":"{\"type\":\"Ability Score Choice\",\"choose\":1,\"from\":[\"Intelligence\",\"Wisdom\",\"Charisma\"],\"increase\":1}"},{"name":"Acolyte Origin Feat","parent":"Acolyte","level":"1","payload":"{\"type\":\"Feat Attach\",\"feats\":[\"Magic Initiate\"],\"limitations\":\"Cleric\"}"},{"name":"Insight Proficiency","parent":"Acolyte","level":"1","builderDisplayName":"Background Proficiencies","payload":"{\"type\":\"Proficiency\",\"category\":\"Skill\",\"proficiency\":\"Insight\",\"proficiencyLevel\":\"Proficient\",\"increaseIfAlreadyAt\":false}"},{"name":"Religion Proficiency","parent":"Acolyte","level":"1","payload":"{\"type\":\"Proficiency\",\"category\":\"Skill\",\"proficiency\":\"Religion\",\"proficiencyLevel\":\"Proficient\",\"increaseIfAlreadyAt\":false}"},{"name":"Calligrapher's Supplies Proficiency","parent":"Acolyte","level":"1","payload":"{\"type\":\"Proficiency\",\"category\":\"Tool\",\"proficiency\":\"Calligrapher's Supplies\",\"proficiencyLevel\":\"Proficient\",\"increaseIfAlreadyAt\":false}"},{"name":"Acolyte Equipment Choice","parent":"Acolyte","level":"1","payload":"{\"type\":\"Starting Equipment\",\"subtype\":\"choice\",\"items\":[],\"numOfChoices\":1}"},{"name":"Acolyte Equipment Choice A","parent":"Acolyte Equipment Choice","level":"1","payload":"{\"type\":\"Starting Equipment\",\"subtype\":\"fixed\",\"items\":[\"Calligrapher's Supplies\",\"Book (prayers)\",\"Parchment (10)\",\"Robe\"]}"},{"name":"Acolyte Equipment Choice Holy Symbol","parent":"Acolyte Equipment Choice A","level":"1","payload":"{\"type\":\"Starting Equipment\",\"subtype\":\"choice\",\"items\":[\"Lists:Holy Symbols\"],\"numOfChoices\":1}"},{"name":"Acolyte Equipment Choice A Gold","parent":"Acolyte Equipment Choice A","level":"1","payload":"{\"type\":\"Starting Currency\",\"gold\":8}"},{"name":"Acolyte Equipment Choice B","parent":"Acolyte Equipment Choice","level":"1","payload":"{\"type\":\"Starting Currency\",\"gold\":50}"}]
+- filter-Origin Feat: Magic Initiate
+- filter-Ability Score: Intelligence, Wisdom, Charisma
+- filter-Proficiencies: Insight, Religion, Calligrapher's Supplies
+
+**publisher**: Wizards of the Coast
+
+**book**: Free Basic Rules (2024)
+

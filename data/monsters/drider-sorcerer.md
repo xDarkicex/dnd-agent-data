@@ -1,0 +1,16 @@
+# Drider Sorcerer
+
+**description**: Drider sorcerers can unleash arcane elemental power, striking its foes with burning acid, numbing frost, searing flames, bolts of lightning, and blasts of thunder. What makes it dangerous is its ability to heighten the potency of its spells or cast them in an instant. Drider Mages Some drow were sorcerers, warlocks, or wizards before they were cursed and transformed by Lolth into driders. While most lose their powers and memories of their former drow selves, a rare few manage to retain their abilities, making them dangerous opponents. Whether this was willed by Lolth or not is anyone's guess. Because they still retain memories of a portion of their lives, some grow to hate the drow that have forsaken them. Thus, these drider mages exile themselves and wander off into the wilds of the Underdark, setting up new lairs. They tend to stalk known drow pathways where they can raid merchant caravans and unwary travelers. They will not hesitate to attack anyone or anything that enters their territory, even drow. Traits Fey Ancestry. The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep. Sorcery Points. The drider has 9 sorcery points. It can spend 1 or more sorcery points to gain one of the following benefits: Heightened Spell: When the drider casts a spell that forces a creature to make a saving throw to resist the spell's effects, the drider can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw against the spell. Quickened Spell: When the drider casts a spell that has a casting time of 1 action, it can spend 2 sorcery points to change the casting time to 1 bonus action for this casting. Spider Climb. The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Sunlight Sensitivity. While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Web Walker. The drider ignores movement restrictions caused by webbing. Actions Multiattack. The drider makes three Elemental Strike attacks. It can replace one of those attacks with a Bite attack. Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage. Elemental Strike. Melee or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 60 ft., one target. Hit: 10 (3d6) acid, cold, fire, lightning or thunder damage (the drider’s choice). Forked Lightning (Recharge 5–6). The drider unleashes arcs of magical lightning at up to three creatures it can see within 60 feet of itself. Each target must make a DC 15 Dexterity saving throw, taking 17 (5d6) lightning damage on a failed save, or half as much damage on a successful one. Spellcasting. The drider casts one of the following spells using Charisma as the spellcasting ability (spell save DC 15, +7 to hit with spell attacks): At will: dancing lights, minor illusion, mending, true strike 2/day each: charm person, dimension door, web 1/day each: confusion, cone of cold, darkness, dispel magic, faerie fire
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Monstrosity
+- Alignment: Typically Chaotic Evil
+- Expansion: 17751
+- Challenge Rating: 9
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

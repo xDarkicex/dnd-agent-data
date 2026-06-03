@@ -1,0 +1,14 @@
+# Microanalyzer (digital microscope)
+
+**description**: Microanalyzer (Digital Microscope) Miscellaneous gear Weight : 3
+
+**properties**:
+- Category: Items
+- Expansion: 27051
+- Item Type: Adventuring Gear
+- Item Rarity: Standard
+
+**publisher**: Alligator Alley Entertainment
+
+**book**: Esper Genesis Core Manual
+

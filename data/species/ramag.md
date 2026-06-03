@@ -1,0 +1,11 @@
+# Ramag
+
+**description**: The enigmatic ramag thrive in the heart of a land once ruled by an empire of titans. In that bygone age, the ramag served the titans. The race’s natural affinity for manipulating magic made the ramag essential to tending a vast web of magical energy. This web channeled power to the farthest corners of the empire and powered the titans’ wonders. When the titans fell to madness, everything fell apart. As these powerful creatures turned on one another and tore their empire down stone by stone, the web fractured. Wonders failed or malfunctioned. Magical gates once used to link far-flung outposts became dark or conjured horrors. Uncontrolled magical energy spilled across the land, wreaking unpredictable havoc. Now, the ramag live in the ruins of that glory. Changed by the energies of the shattered web, they devote themselves to policing the remaining titan wonders and keeping the rampant energies in check. Ramag Names Ramag names borrow heavily from the history of the titan empire scattered throughout Ramagani and other ruins and from tales passed down through the ages. Male Names: Baarkhul, Dirjahat, Fakharizan, Irkuat, Jirindehkal, Suuldjarat, Uan, Zinchera Female Names: Akharafa, Edjirasifa, Gihranasya, Hayat, Matkhendush, Nadirharat, Riyasha, Xirienda Ramag Traits Your ramag character has certain characteristics in common with all other ramag. Ability Score Increase. Your Intelligence score increases by 2, and your Dexterity score increases by 1. Age. Ramag reach maturity at 15 years and can live to 90. Size. Despite their overlong limbs, ramag stand between 5 and 6 feet tall. Your size is Medium. Alignment. Ramag tend toward lawfulness, since their survival depends on adhering to their laws and customs. Speed. Your base walking speed is 30 feet. Arcane Heritage. You can ignore class requirements when attuning to a magic item. Mystical Understanding. You have proficiency in the Arcana skill. Spell Damping. You have advantage on Strength and Dexterity saving throws against spells. Languages. You can speak, read, and write Common and Giant.
+
+**properties**:
+- Category: Races
+
+**publisher**: Kobold Press
+
+**book**: Southlands Player's Guide
+

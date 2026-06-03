@@ -1,0 +1,16 @@
+# Akul
+
+**description**: Background As a shadow elf, Akûl was born in the Plane of Shadows, the Material Plane's dark echo. Here, he lived a simple life for decades, harvesting, treating, and weaving shadesilk like most members of his clan. That all changed when a cabal of shadow dragons descended upon the clan's homestead. Akûl and his clan, including his siblings, were enslaved by the dragons. For years, Akûl suffered the shadow dragons' tyrannical rule and all but succumbed to the apathy and despair their harsh treatment fostered. There was something special about Akûl, however – a spark of wild power burning within him, that allowed him to perform amazing and unpredictable feats of magic. Eventually, the young shadow elf decided to try to use his powers to sneak off with his siblings. Instead of teleporting them out of the dragons' reach, however, Akûl's magic transported only himself – and not a few miles away, but through the veil between the Plane of Shadows and the Material Plane. Akûl desperately tried to return to the Plane of Shadows, but found he couldn't repeat the magical feat. Alone and distraught, Akûl wandered through blistering deserts under a harsh, unfamiliar sun for days, until he found shelter and succor with a tribe of nomads. Though it took years for him to adapt to the Material Plane, Akûl has grown to like his new existence. Akûl still dreams of returning to the Plane of Shadows to save his siblings but he does not know their precise location and, so far, his divinations into the matter have been unsuccessful. So, like the nomads who took him in, he wanders the world's surface, peddling his wares and setting up his shadowy shop wherever he feels like, while he looks for anything, or anyone, who can help him liberate his long-lost family. Roleplaying Akûl Akûl is tall and wiry, possessed of an elf's grace and clad in the traditional attire of a desert nomad, including exotic piercings and jingling amulets. He smiles often and broadly, and has an infectious appetite for life and adventure. Akûl loves drama and will often be mysterious just for the sake of it. He might tell a customer that "ah, but the shadows seem to like you, friend – that often leads to a dark, but interesting path” and refuse to elaborate further. He's also fond of stepping through shadows, disappearing suddenly from view only to appear out of the darkness behind a customer ("Ah, but here it is, the item you were looking for – right behind you!”) Akûl is also deeply superstitious and will often see even the smallest, most random events as good or bad omens ("A black cat yawning? Better close up for the day before something bad happens!”) Akûl also loves idioms and sayings, but often uses them in situations where they make no sense or downright misquotes them ("Don't skin the bull's horns before you've spent a day in a glass house!”) Ultimately, Akûl has a good heart and a genuine interest in other people. An eternal optimist and perpetual risk-taker, he'll laugh in the face of any danger and can find enjoyment in any task, no matter how menial or dangerous.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Elf)
+- Alignment: Chaotic Good
+- Expansion: 27827
+- Challenge Rating: 7
+
+**publisher**: Eventyr Games
+
+**book**: Wanderer's Guide to Enchanted Emporiums
+

@@ -1,0 +1,16 @@
+# Bouda
+
+**description**: A hulking, hyena-faced humanoid with heavily scarred, oversized muzzle, a bouda looks as if its jaw had once been ripped apart and put back together. Clouds of gnats and fleas roil around its arms. Glowing Eyes and Teeth. Bouda are child-eaters, despoilers of purity and family. Resembling oversized gnolls, a web of scars along their muzzles is evidence of their gluttonous eating habits. Forever leering, their teeth glow as yellow as their eyes. Fly-Bedecked Shapechangers. Bouda lurk on society’s fringes, shapechanging to blend in with mortals. They seek out happy families, consuming the children in the night and leaving gruesome trophies behind. They may mark a victim nights before attacking to terrify the helpless parents. Gluttons. Bouda have a weakness: they are incorrigible gluttons. When presented with a fresh corpse, even in combat, they will attempt to gorge on it or at least defile it for later consumption. Bouda are vindictive, seeking revenge on anything that drives them from a kill. Traits Shapechanger: The bouda can use its action to polymorph into a human, a hyena, or its true form, which is a hyena-humanoid hybrid. Its statistics, other than its Mephitic Claw attack, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if destroyed, before turning to dust. Defiling Smear (1/Day): The bouda can secrete a disgusting whitish-yellow substance with the viscosity of tar to mark food and territory. As a bonus action, the bouda marks a single adjacent 5-foot space, object, or helpless creature. Any living creature within 30 feet of the smear at the start of its turn must succeed on a DC 15 Constitution saving throw against poison or be poisoned for 1d6 rounds. A creature that makes a successful saving throw is immune to that particular bouda’s defiling smear for 24 hours. The stench of a smear remains potent for one week. Innate Spellcasting: The bouda’s innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can cast the following spells, requiring no material components: Constant: detect evil and good, detect magic At will: thaumaturgy 3/day: darkness, expeditious retreat 1/day: contagion Actions Multiattack: The bouda makes one bite attack and one mephitic claw attack. Bite: Melee Weapon Attack : +7 to hit, reach 5 ft., one target. Hit : 11 (2d6 + 4 ) slashing damage. Mephitic Claw: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage. On hit, the target must make a successful DC 15 Constitution saving throw or become poisoned for 1 round by the visible cloud of vermin swarming around the bouda’s forearms. Ravenous Gorge: The bouda consumes the organs of a corpse in a space it occupies. It gains temporary hit points equal to the dead creature’s HD that last 1 hour. Organs consumed by this ability are gone, and the creature can’t be restored to life through spells and magical effects that require a mostly intact corpse.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: fiend
+- Source: Tome of Beasts
+- Alignment: Neutral Evil
+- Challenge Rating: 5
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts
+

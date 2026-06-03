@@ -1,79 +1,47 @@
 # Giant Spider
 
-## Giant Spider
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Traits Spider Climb. The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check. Web Walker. The spider ignores movement restrictions caused by webs, and it knows the location of any other creature in contact with the same web. Actions Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage plus 7 (2d6) Poison damage. Web (Recharge 5–6). Dexterity Saving Throw: DC 13, one creature the spider can see within 60 feet. Failure: The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Poison and Psychic damage).
 
-_Large Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 14
+- HP: 26 (4d10 + 4)
+- PB: 2
+- CHA: 4
+- CON: 12
+- DEX: 16
+- INT: 2
+- STR: 14
+- WIS: 11
+- Size: Large
+- Type: Beast
+- Speed: 30 ft., Climb 30 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406407505/QSMz2OLcLTvqF-eQmFJnTw/original.png
+- Senses: Darkvision 60 ft.
+- Skills: Perception +4, Stealth +7
+- data-XP: 200
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 2
+- data-Traits: [{"Name":"Spider Climb","Desc":"The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check."},{"Name":"Web Walker","Desc":"The spider ignores movement restrictions caused by webs, and it knows the location of any other creature in contact with the same web."}]
+- data-Actions: [{"Name":"Bite","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"5","Reach":"5 ft.","Target":"one target","Damage":"1d8 + 3","Damage Type":"Piercing","Damage 2":"2d6","Damage 2 Type":"Poison"},{"Name":"Web (Recharge 5–6)","Desc":"*Dexterity Saving Throw*: DC 13, one creature the spider can see within 60 feet. \n*Failure*: The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Poison and Psychic damage)."}]
+- data-CHA-mod: -3
+- data-CON-mod: 1
+- data-DEX-mod: 3
+- data-INT-mod: -4
+- data-STR-mod: 2
+- data-SizeNum: 5
+- data-WIS-mod: 0
+- Saving Throws: Str +2, Dex +3, Con +1, Int -4, Wis +0, Cha -3
+- Challenge Rating: 1
+- Passive Perception: 14
+- data-CrNum: 1
+- data-AcNum: 14
+- data-HpNum: 26
 
-**AC** 14 **Initiative** +3 (13) <br>
-**HP** 26 (4d10 + 4) <br>
-**Speed** 30 ft., Climb 30 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>DEX</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>CON</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>4</td>
-      <td>−3</td>
-      <td>−3</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Skills** Perception +4, Stealth +7<br>
-**Senses** Darkvision 60 ft.; Passive Perception 14<br>
-**Languages** None<br>
-**CR** 1 (XP 200; PB +2)
-
-### Traits
-
-<hr>
-
-**_Spider Climb._** The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-
-**_Web Walker._** The spider ignores movement restrictions caused by webs, and it knows the location of any other creature in contact with the same web.
-
-### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Piercing damage plus 7 (2d6) Poison damage.
-
-**_Web (Recharge 5–6)._** _Dexterity Saving Throw:_ DC 13, one creature the spider can see within 60 feet. _Failure:_ The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Poison and Psychic damage).

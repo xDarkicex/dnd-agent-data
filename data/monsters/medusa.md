@@ -1,79 +1,16 @@
 # Medusa
 
-## Medusa
+**description**: Hunted as monsters with no thought given to their nature or origin, few creatures are as underestimated and misunderstood as medusas. Many people fear medusas for their monstrous appearance and ability to turn others to stone, but few realize the truth. Each of these monstrosities was once a humanoid, cursed and transformed for defying a god—but while some medusas embrace wickedness, others simply fight for their lives against ignorant hunters. Cursed for Defiance. When a powerful mortal defies a god for good or for ill, the deity may curse them to live as a medusa. The offender’s skin and eyes become reptilian, and a nest of black venomous snakes replaces their hair. When the medusa wishes, beams from their eyes can slowly petrify others to stone. The gods who use this punishment spread terrifying myths about medusas, causing mortals to attack and shun them. This often drives medusas into solitude—or to places haunted by creatures who don’t judge them based on mere appearance and horror stories. Warriors for Good or Ill. Though they might be secluded, medusas rarely stay idle. Many plot ways to break their curse, searching for lost healing rituals or secrets to use against the gods who cursed them. Others embrace their new gifts, building stone gardens of victims who foolishly hunted or harmed them. Serpentine Reflexes. While the medusa’s stone gaze is legendary, they also can move and strike as swiftly as a snake. This enhanced dexterity makes them incredible archers, and most prefer to fight at range. Lifting the Curse. The deity who inflicted a medusa’s curse can rarely be convinced to lift the punishment, usually by undertaking an impossible task in the god’s name or making a threat they can’t ignore. Some sages claim ancient rituals can undo a god’s curse, but these lost secrets are hidden by wrathful divine servants—and performing such a ritual would almost certainly entail great sacrifice. Actions Multiattack. The medusa uses Stone Gaze and makes two attacks using Snake Bite, Heavy Crossbow, or both. Snake Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 10 (3d6) poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the end of the medusa’s next turn. Heavy Crossbow. Ranged Weapon Attack: +8 to hit, range 100/400 ft., one target. Hit: 10 (1d10 + 5) piercing damage plus 7 (2d6) poison damage. Stone Gaze. The medusa fires energy beams from their eyes at up to three creatures they can see within 60 feet of them. Each target must succeed on a DC 15 Constitution saving throw or begin turning to stone (save ends at end of turn). While turning to stone, a creature’s speed is reduced by 10 feet and they have disadvantage on Dexterity checks and saving throws. If a creature who is turning to stone is targeted by this action again and fails their save, their speed is reduced by another 10 feet and they are dazed until the effect ends. If a creature who is turning to stone and dazed in this way is targeted by this action again and fails their save, they are petrified and can no longer make saving throws to end the effects of Stone Gaze. The petrification lasts until the creature is restored by a cure ailment power of 4th order or higher, a greater restoration spell, or a similar supernatural effect. Bonus Actions Nimble Escape. The medusa takes the Disengage or Hide action. Medusa Petrification At lower levels, the petrified condition can take a character out of the game permanently. If you want to give a low-level character a chance to recover from being petrified after a medusa encounter, make sure there is a temple nearby with a priest who can cast greater restoration … for a price, of course.
 
-### Medusa
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Monstrosity
+- Alignment: Any Alignment
+- Expansion: 25493
+- Challenge Rating: 6
 
-_Medium Monstrosity, Lawful Evil_
+**publisher**: MCDM Productions
 
-**AC** 15 **Initiative** +6 (16) <br>
-**HP** 127 (17d8 + 51) <br>
-**Speed** 30 ft. <br>
+**book**: Flee Mortals
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>DEX</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>WIS</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+4</td>
-      <td><strong>CHA</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Deception +5, Perception +4, Stealth +6<br>
-**Senses** Darkvision 150 ft.; Passive Perception 14<br>
-**Languages** Common plus one other language<br>
-**CR** 6 (XP 2,300; PB +3)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The medusa makes two Claw attacks and one Snake Hair attack, or it makes three Poison Ray attacks.
-
-**_Claw._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 10 (2d6 + 3) Slashing damage.
-
-**_Snake Hair._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 5 (1d4 + 3) Piercing damage plus 14 (4d6) Poison damage.
-
-**_Poison Ray._** _Ranged Attack Roll:_ +5, range 150 ft. _Hit:_ 11 (2d8 + 2) Poison damage.
-
-**_Petrifying Gaze (Recharge 5–6)._** _Constitution Saving Throw:_ DC 13, each creature in a 30-foot Cone. If the medusa sees its reflection in the Cone, the medusa must make this save. _First Failure:_ The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. _Second Failure:_ The target has the Petrified condition instead of the Restrained condition.

@@ -1,72 +1,16 @@
 # Harpy
 
-## Harpy
+**description**: Their song may sound mournful, but they know no guilt for what they do. Captain Longrock of the Starcaller crew Despite their monstrous nature, harpies cast an angelic silhouette. Each resembles a winged human adorned with feathers along their back, waist, and chest. Instead of hands, they sport arm-wings, and below their knees, their legs end in birdlike talons. Their song, more beautiful than any worldly music, can fool its hearers into believing they’ve encountered a divine messenger. Harpies delight in luring such victims to their demise or carrying them off to distant roosts to be devoured. Dangerous Terrain. Harpies prefer to live in treacherous lands, often settling atop dangerous mountain ranges or on rocky shores. By singing near waterfalls, sharp rocks, or the dens of other monsters, a harpy allows the environment to do their killing—and if another predator makes the kill, the harpy always shares the spoils. When the deed is done, the harpy feasts while claiming any particularly shiny baubles their meal carried. Flock Together. Harpies live in flocks of a dozen or more. The strongest few earn the right to devour victims first, leaving bones for the rest. These weaker, starving harpies can only enhance the songs of others and can’t perform a luring melody on their own. Giant Meals. Harpies often occupy the same rocky, hazardous territories as giants. If a harpy goes for a long time without a meal, they attempt to lure a giant to their death. When this risky strategy works, a harpy flock can eat for weeks. Traits Echolocation. The harpy can’t use their blindsight while deafened. Actions Talons. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (3d4 + 2) slashing damage. If the target is a Medium or smaller creature charmed by the harpy, they are also grappled (escape DC 12). Until this grapple ends, the harpy can’t use their Talons attack on another target. Rock. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage. Alluring Song. The harpy starts singing a beautiful song. They continue singing until they choose to stop (no action required) or until they become deafened or incapacitated. When a non-harpy creature starts their turn within 200 feet of the singing harpy, if that creature shares a language with the harpy and can hear them, that creature must succeed on a DC 12 Wisdom saving throw or be charmed by the harpy until the harpy stops singing or the target can’t hear them anymore. While charmed in this way, the target can’t willingly move on their turn, and they can’t attack, damage, or target any unwilling harpy with any effect. If the charmed target takes damage from a source other than a harpy, they can repeat the saving throw, ending the effect on a success. A creature who succeeds on a saving throw to resist or end this effect is immune to the Alluring Song of all harpies for 1 hour. Bonus Actions Beckon. The harpy chooses any number of creatures charmed by their Alluring Song. Each target must use their reaction, if available, to move up to their speed in a direction chosen by the harpy. If this movement would lead the target into hazardous terrain, they can make a DC 12 Wisdom saving throw before moving. On a successful save, the target’s reaction is not used and they are no longer charmed by Alluring Song.
 
-### Harpy
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Monstrosity
+- Alignment: Typically Chaotic Evil
+- Expansion: 25493
+- Challenge Rating: 1
 
-_Medium Monstrosity, Chaotic Evil_
+**publisher**: MCDM Productions
 
-**AC** 11 **Initiative** +1 (11) <br>
-**HP** 38 (7d8 + 7) <br>
-**Speed** 20 ft., Fly 40 ft. <br>
+**book**: Flee Mortals
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>DEX</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CON</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Senses** Passive Perception 10<br>
-**Languages** Common<br>
-**CR** 1 (XP 200; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Claw._** _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 6 (2d4 + 1) Slashing damage.
-
-**_Luring Song._** The harpy sings a magical melody, which lasts until the harpy's Concentration ends on it. _Wisdom Saving Throw:_ DC 11, each Humanoid and Giant in a 300-foot Emanation originating from the harpy when the song starts. _Failure:_ The target has the Charmed condition until the song ends and repeats the save at the end of each of its turns. While Charmed, the target has the Incapacitated condition and ignores the Luring Song of other harpies. If the target is more than 5 feet from the harpy, the target moves on its turn toward the harpy by the most direct route, trying to get within 5 feet of the harpy. It doesn't avoid Opportunity Attacks; however, before moving into damaging terrain (such as lava or a pit) and whenever it takes damage from a source other than the harpy, the target repeats the save. _Success:_ The target is immune to this harpy's Luring Song for 24 hours.

@@ -1,75 +1,46 @@
 # Giant Hyena
 
-## Giant Hyena
+**description**: These D&D 5E Free Basic Rules only contain a fraction of the races, subclasses, backgrounds, feats, items, monsters, spells, and other content available on Roll20. Check out the Player's Handbook to add dozens of more player options to the Charactermancer, the Dungeon Master's Guide to expand on the tools available for DMs, and the Monster Manual to add hundreds of more unique creatures (including token artwork) to fight! Traits Rampage : When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack. Actions Bite : Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 
-_Large Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 12
+- HP: 45 (6d10+12)
+- CHA: 7
+- CON: 14
+- DEX: 14
+- INT: 2
+- STR: 16
+- WIS: 12
+- Size: Large
+- Type: beast
+- Speed: 50 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/390065043/IIod_jlKxe9VLzk81pGgnw/original.png
+- Roll 0: Bite
+1d20 + 5
+1d6+3
+- Skills: Perception +3
+- Source: 5th Edition SRD
+- data-XP: 200
+- Alignment: Unaligned
+- data-List: false
+- Token Size: 2
+- data-Traits: [{"Name":"Rampage","Desc":"When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack."}]
+- data-Actions: [{"Name":"Bite","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"5","Reach":"5 ft.","Target":"one target","Damage":"2d6 + 3","Damage Type":"piercing"}]
+- data-CHA-mod: -2
+- data-CON-mod: +2
+- data-DEX-mod: +2
+- data-INT-mod: -4
+- data-STR-mod: +3
+- data-SizeNum: 5
+- data-WIS-mod: +1
+- Challenge Rating: 1
+- Passive Perception: 13
+- data-CrNum: 1
+- data-AcNum: 12
+- data-HpNum: 45
 
-**AC** 12 **Initiative** +2 (12) <br>
-**HP** 45 (6d10 + 12) <br>
-**Speed** 50 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2014)
 
-**Skills** Perception +3<br>
-**Senses** Darkvision 60 ft.; Passive Perception 13<br>
-**Languages** None<br>
-**CR** 1 (XP 200; PB +2)
-
-### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Piercing damage.
-
-### Bonus Actions
-
-<hr>
-
-**_Rampage (1/Day)._** Immediately after dealing damage to a creature that was already Bloodied, the hyena can move up to half its Speed, and it makes one Bite attack.

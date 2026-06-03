@@ -1,0 +1,28 @@
+# Splint Armor of Lightning Resistance
+
+**description**: Armor (Splint Armor), Rare (Requires Attunement) You have Resistance to Lightning damage while you wear this armor.
+
+**properties**:
+- Category: Items
+- Theme: Armaments
+- Subtype: Armor
+- Expansion: 33335
+- Item Type: Heavy Armor
+- data-List: false
+- Properties: Strength Requirement
+- Item Rarity: No
+- filter-Lists: Heavy Armor, Yes
+- filter-Damage: Stealth Disadvantage
+- filter-Charges: No
+- data-datarecords: [{"name":"Splint Armor of Lightning Resistance","payload":"{\"type\":\"Item\",\"name\":\"Splint Armor of Lightning Resistance\",\"description\":\"You have Resistance to Lightning damage while you wear this armor\",\"weight\":60,\"properties\":[\"Stealth Disadvantage\",\"Strength Requirement\"],\"rarity\":\"Rare\",\"armorData\":{\"category\":\"Heavy\",\"type\":\"Splint Armor\",\"strengthMinimum\":15},\"equipData\":{\"equippable\":true}}"},{"name":"Splint Armor of Lightning Resistance Base Armor Class","parent":"Splint Armor of Lightning Resistance","payload":"{\"type\":\"Armor Class\",\"calculation\":\"Set Base\",\"source\":\"Armor\",\"valueFormula\":{\"flatValue\":17}}"},{"name":"Splint Armor of Lightning Resistance Attunement","parent":"Splint Armor of Lightning Resistance","payload":"{\"type\":\"Attunement\",\"requireEquip\":true}"},{"name":"Splint Armor Lightning Resistance","parent":"Splint Armor of Lightning Resistance Attunement","payload":"{\"type\":\"Defense\",\"defense\":\"Resistance\",\"damage\":\"Lightning\"}"}]
+- filter-Attunement: Rare
+- Name: Splint Armor of Lightning Resistance
+- Weight: 60
+- data-description: You have Resistance to Lightning damage while you wear this armor
+- AC: 17
+- data-RarityNum: 0
+
+**publisher**: Wizards of the Coast
+
+**book**: Free Basic Rules (2024)
+

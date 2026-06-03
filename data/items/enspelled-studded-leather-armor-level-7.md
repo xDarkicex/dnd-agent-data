@@ -1,0 +1,14 @@
+# Enspelled Studded Leather Armor (Level 7)
+
+**description**: Armor (Studded Leather Armor), Legendary (Requires Attunement) Bound into this armor is a spell of level 7. The spell is determined when the armor is created and must belong to the Abjuration or Illusion school of magic. The armor has 6 charges and regains 1d6 expended charges daily at dawn. While wearing the armor, you can expend 1 charge to cast its spell. The spell’s saving throw DC is 18 and its attack bonus is +10.
+
+**properties**:
+- Category: Items
+- Item Type: Light Armor
+- Item Rarity: Yes
+- Name: Enspelled Studded Leather Armor (Level 7)
+
+**publisher**: Wizards of the Coast
+
+**book**: Dungeon Master's Guide (2024)
+

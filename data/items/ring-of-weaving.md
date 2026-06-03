@@ -1,0 +1,13 @@
+# Ring of Weaving
+
+**description**: Ring of Weaving Ring, legendary While you are wearing this ring, when you cast a spell of 1st level or higher, you have advantage on saving throws you make against spells of that school and resistance against damage dealt by spells of that school until the start of your next turn. Spell Weaver (Requires Attunement). You must be attuned to a rod of wefting and a wand of warping to attempt to attune to this item. The attunement ends if you end your attunement to either of these items. While you wear the ring, the charge cost for each of the rod and wand’s spells is reduced by 1, and when you cast a spell from the rod or wand, you can choose to use your spell attack bonus or spell save DC, rather than the rod or wand’s. Additionally while you are wearing the ring and attuned to it, you gain the ability to weave properties of your spells together. When you begin casting a spell with a casting time of 1 action or longer, you can choose to imbue it with an additional effect for each spell of a different school you’ve cast since the start of your last turn: Abjuration. You gain temporary hit points equal to your level. Conjuration. You teleport to an unoccupied space you can see within 30 feet of you. Divination. If the spell requires an attack roll, you gain a +2 bonus to each spell attack roll you make as part of that spell this turn. Enchantment. Choose a creature you can see within 30 feet of you. That creature must succeed on a Wisdom saving throw against your spell save DC or become charmed by you until the end of your next turn, or until you do anything harmful to it. A creature charmed this way isn’t hostile to you. Evocation. Choose a creature you can see within 10 feet of you, and then choose acid, cold, fire, lighting, or thunder damage. The creature takes damage of the type you chose equal to half your level. Illusion. Until the start of your next turn, if a creature makes an attack against you, it makes the attack roll with disadvantage unless it has blindsight or truesight. Necromancy. If the spell kills one or more creatures, you regain a number of hit points equal to twice your level. Transmutation. Choose a creature you can see within 30 feet of you, and then choose Strength or Dexterity. The creature must succeed on a Constitution saving throw against your spell save DC or have disadvantage on attack rolls and ability checks using the chosen ability until the end of its next turn.
+
+**properties**:
+- Category: Items
+- Item Type: Ring
+- Item Rarity: legendary
+
+**publisher**: Sterling Vermin Adventuring Co.
+
+**book**: The Ultimate Adventurer's Handbook
+

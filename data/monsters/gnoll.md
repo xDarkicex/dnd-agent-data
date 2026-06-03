@@ -1,78 +1,16 @@
 # Gnoll
 
-## Gnoll
+**description**: Gnolls Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh. Demonic Origin. The origin of the gnolls traces back to a time when the demon lord Yeenoghu found his way to the Material Plane and ran amok. Packs of ordinary hyenas followed in his wake, scavenging the demon lord’s kills. Those hyenas were transformed into the first gnolls, parading after Yeenoghu until he was banished back to the Abyss. The gnolls then scattered across the face of the world, a dire reminder of demonic power. Nomadic Destroyers. Gnolls are dangerous because they strike at random. They emerge from the wilderness, plunder and slaughter, then move elsewhere. They attack like a plague of locusts, pillaging settlements and leaving little behind but razed buildings, gnawed corpses, and befouled land. Gnolls choose easy targets for their raids. Armored warriors holed up in a fortified castle will survive a rampaging gnoll horde unscathed, even as the towns, villages, and farms that surround the castle are ablaze, their people slaughtered and devoured. Gnolls rarely build permanent structures or craft anything of lasting value. They don’t make weapons or armor, but scavenge such items from the corpses of their fallen victims, stringing ears, teeth, scalps, and other trophies from their foes onto their patchwork armor. Thirst for Blood. No goodness or compassion resides in the heart of a gnoll. Like a demon, it lacks anything resembling a conscience, and can’t be taught or coerced to put aside its destructive tendencies. The gnolls’ frenzied bloodlust makes them an enemy to all, and when they lack a common foe, they fight among themselves. Even the most savage orcs avoid allying with gnolls. Traits Rampage : When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack. Actions Bite : Melee Weapon Attack : +4 to hit, reach 5 ft., one creature. Hit : 4 (1d4 + 2) piercing damage. Spear (One-Handed; Melee) : Melee Weapon Attack : +4 to hit, reach 5 ft., one target. Hit : 5 (1d6 + 2) piercing damage. Spear (Two-Handed; Melee) : Melee Weapon Attack : +4 to hit, reach 5 ft., one target. Hit : 6 (1d8 + 2) piercing damage. Spear (Ranged) : Ranged Weapon Attack : +4 to hit, range 20/60 ft., one target. Hit : 5 (1d6 + 2) piercing damage. Longbow : Ranged Weapon Attack : +3 to hit, range 150/600 ft., one target. Hit : 5 (1d8 + 1) piercing damage.
 
-### Gnoll Warrior
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (gnoll)
+- Source: MM1
+- Alignment: chaotic evil
+- Challenge Rating: 1/2
 
-_Medium Fiend, Chaotic Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 15 **Initiative** +1 (11) <br>
-**HP** 27 (6d8) <br>
-**Speed** 30 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>DEX</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CON</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
-
-**Senses** Darkvision 60 ft.; Passive Perception 10<br>
-**Languages** Gnoll<br>
-**CR** 1/2 (XP 100; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Rend._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Piercing damage.
-
-**_Bone Bow._** _Ranged Attack Roll:_ +3, range 150/600 ft. _Hit:_ 6 (1d10 + 1) Piercing damage.
-
-#### Bonus Actions
-
-<hr>
-
-**_Rampage (1/Day)._** Immediately after dealing damage to a creature that is already Bloodied, the gnoll moves up to half its Speed, and it makes one Rend attack.

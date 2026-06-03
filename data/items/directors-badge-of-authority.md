@@ -1,0 +1,14 @@
+# Director's Badge of Authority
+
+**description**: Wondrous item, rare (optional attunement) Component: fey brain This brass badge is infused with a lesser known branch of magic spanning the schools of illusion and enchantment: the branch of salesmanship. Just as a salesman might beguile you by spinning fantastical tales of the benefits of snake oil or distract you with beautiful images of long-maned old men, so too does this badge mislead those who look at it. Commonly used by agents of the Fantastical Bureau of Investigation, it also has defensive properties for when such investigations take a turn. False Authority. This badge is enchanted to appear as a document that gives its holder the necessary authority they require to outrank the observer. You can use a bonus action to show this badge to a creature to gain advantage on Deception checks made to convince it that you’re important. A creature that spends at least 1 minute taking a close look at the badge can see through the illusion with a successful DC 15 Intelligence (Investigation) check. While flashing the badge might convince indifferent creatures, creatures that are suspicious of you might demand more time to closely review your documentation for legitimacy. Optional Attunement. When FBI agents make their daring escapes in theatre shows throughout the realm, the crossbow bolts of bad guys are often depicted missing their mark. The reason? Their magical badge-shields. If you attune to this item, you gain a +1 bonus to AC and can use the Take Cover property while you remain attuned to it. OA: Take Cover. As a bonus action, you can tap the badge and shout the command words “take cover”, causing the badge to become a floating shield that follows you for 1 minute, or until you use a bonus action to return it to its normal form. If you aren’t wearing a shield, you gain a +5 bonus to AC for the duration. This effect ends early if you make an attack or cast a spell that affects an enemy creature. After you use this property, roll a d6. On a 1-2, it can’t be used again until the next dawn. Uncommon variant, Constable’s Badge of Authority: Decrease the DC to 13. Remove the bonus to AC from attuning to the item. Very rare variant, Director’s Badge of Authority: Increase the DC to 16. While attuned to this badge, you can use the Voice of Authority property. OA: Voice of Authority. While holding the badge, you can cast the command spell (save DC 16). If a creature believes you to be important due to the effects of the False Authority property, it has disadvantage on the saving throw; after the spell ends, it sees through the ruse. After you use this property, roll a d6. On a 3 or less, it can’t be used again until the next dawn.
+
+**properties**:
+- Category: Items
+- Item Type: Wondrous item
+- Item Rarity: very rare
+- Requires Attunement: optional attunement
+
+**publisher**: Loot Tavern
+
+**book**: L’Arsene’s Ledger of Treasures and Trinkets
+

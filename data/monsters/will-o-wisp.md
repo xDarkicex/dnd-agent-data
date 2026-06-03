@@ -1,94 +1,16 @@
 # Will-o'-Wisp
 
-## Will-o'-Wisp
+**description**: Will-o’-wisps haunt lonely places and battlefields, where they feed on fear and despair. They look like wispy, bobbing lantern lights in the distance. Traits Consume Life : As a bonus action, the will-o’-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o’-wisp regains 10 (3d6) hit points. Ephemeral : The will-o’-wisp can’t wear or carry anything. Incorporeal Movement : The will-o’-wisp can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object. Variable Illumination : The will-o’-wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The will-o’-wisp can alter the radius as a bonus action. Actions Shock : Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d8) lightning damage. Invisibility : The will-o’-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
 
-### Will-o'-Wisp
+**properties**:
+- Category: Monsters
+- Size: Tiny
+- Type: undead
+- Source: MM1
+- Alignment: chaotic evil
+- Challenge Rating: 2
 
-_Tiny Undead, Chaotic Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 19 **Initiative** +9 (19) <br>
-**HP** 27 (11d4) <br>
-**Speed** 5 ft., Fly 50 ft. (hover) <br>
+**book**: Essentials Kit
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>-5</td>
-      <td>-5</td>
-      <td>DEX</td>
-      <td><strong>DEX</strong></td>
-      <td>28</td>
-      <td>+9</td>
-      <td>+9</td>
-      <td><strong>CON</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>WIS</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CHA</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-  </tbody>
-</table>
-
-**Resistances** Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing<br>
-
-**Immunities** Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious<br>
-
-**Senses** Darkvision 120 ft.; Passive Perception 12<br>
-
-**Languages** Common plus one other language<br>
-
-**CR** 2 (XP 450; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Ephemeral._** The wisp can't wear or carry anything.
-
-**_Illumination._** The wisp sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet.
-
-**_Incorporeal Movement._** The wisp can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
-
-#### Actions
-
-<hr>
-
-**_Shock._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 11 (2d8 + 2) Lightning damage.
-
-#### Bonus Actions
-
-<hr>
-
-**_Consume Life._** _Constitution Saving Throw:_ DC 10, one living creature the wisp can see within 5 feet that has 0 Hit Points. _Failure:_ The target dies, and the wisp regains 10 (3d6) Hit Points.
-
-**_Vanish._** The wisp and its light have the Invisible condition until the wisp's Concentration ends on this effect, which ends early immediately after the wisp makes an attack roll or uses Consume Life.

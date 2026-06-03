@@ -1,0 +1,15 @@
+# Consecrated Weapon Spear
+
+**description**: Weapon (any melee), rare (enhanced attunement by a paladin) Component: magical material - consecrated silver The mere touch of consecrated silver is enough to make the flesh of fiends and undead sizzle and smoke. After great clashes against the forces of evil, persistent mists with a distinctive sulphuric scent linger over the battlefield for days. You can use this mace as a spellcasting focus for your cleric and paladin spells. Intimidating Radiance. This weapon deals an extra 1d6 radiant damage to fiends and undead. When you hit a creature with an attack using this weapon and roll a 6 on the extra damage die, the creature must succeed on a DC 15 Wisdom saving throw or be frightened of you until the end of its next turn. Enhanced Attunement: Paladin. If you are a paladin, you can enhance your attunement to this weapon by using it to make an attack that deals 50 or more damage to a hostile fiend or undead in a single hit, proving that you can vanquish great evil. While enhanced, this weapon gains the Ultimate Smite property. EA: Ultimate Smite. Anytime you could use your Divine Smite class feature against a fiend or undead, you can choose to use this property instead. Your attack deals an extra 6d8 radiant damage to the target, and it must make a DC 15 Constitution saving throw. On a failure, holy energy continues to reverberate within the target, and it takes 1d8 radiant damage at the start of each of its turns for 1 minute. Once this property has been used, it can’t be used again until the next dawn.
+
+**properties**:
+- Category: Items
+- Item Type: Weapon (spear) 
+- Properties: Thrown (range 20/60), versatile (1d8)
+- Item Rarity: rare
+- Requires Attunement: enhanced attunement by a paladin
+
+**publisher**: Loot Tavern
+
+**book**: L’Arsene’s Ledger of Treasures and Trinkets
+

@@ -1,69 +1,46 @@
 # Elk
 
-## Elk
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Actions Ram. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. If the elk moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 3 (1d6) Bludgeoning damage and, if it is Huge or smaller, has the Prone condition.
 
-_Large Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 10
+- HP: 11 (2d10)
+- PB: 2
+- CHA: 6
+- CON: 11
+- DEX: 10
+- INT: 2
+- STR: 16
+- WIS: 10
+- Size: Large
+- Type: Beast
+- Speed: 50 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406412873/kveWs4kEAn_WuCgR-l6idQ/original.png
+- Senses: Darkvision 60 ft.
+- Skills: Perception +2
+- data-XP: 50
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 2
+- data-Actions: [{"Name":"Ram","Desc":"If the elk moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 3 (or [[1d6]] (1d6)) Bludgeoning damage and, if it is Huge or smaller, has the Prone condition.","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"5","Reach":"5 ft.","Target":"one target","Damage":"1d6 + 3","Damage Type":"Bludgeoning"}]
+- data-CHA-mod: -2
+- data-CON-mod: 0
+- data-DEX-mod: 0
+- data-INT-mod: -4
+- data-STR-mod: 3
+- data-SizeNum: 5
+- data-WIS-mod: 0
+- Saving Throws: Str +3, Dex +0, Con +0, Int -4, Wis +0, Cha -2
+- Challenge Rating: 1/4
+- Passive Perception: 12
+- data-CrNum: 0.25
+- data-AcNum: 10
+- data-HpNum: 11
 
-**AC** 10 **Initiative** +0 (10) <br>
-**HP** 11 (2d10) <br>
-**Speed** 50 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Skills** Perception +2<br>
-**Senses** Darkvision 60 ft.; Passive Perception 12<br>
-**Languages** None<br>
-**CR** 1/4 (XP 50; PB +2)
-
-### Actions
-
-<hr>
-
-**_Ram._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature and the elk moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Bludgeoning damage and has the Prone condition.

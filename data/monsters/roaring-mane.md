@@ -1,0 +1,16 @@
+# Roaring Mane
+
+**description**: The advent of the First War brought forth unanticipated terrors from the southern reaches, among them were the roaring manes, elemental lions that can tunnel through earth and explode onto the battlefield with deafening roars that unnerve even the most seasoned warriors. The precise method employed by the southern armies to tame these fierce beasts remains a mystery, with captured soldiers cryptically alluding to sharing a bond of blood. These beasts, once capable of burrowing beneath the Luyarnha's primitive walls, never could penetrate stone nor steel. Ironically, the menace they once posed bolstered the city’s defenses, providing employment opportunities for the cursed-bloods, who went on to strengthen not only the city walls but also the city's infrastructure. This construction effort thwarted roaring manes, the reinforced ramparts now more profound and impervious—a fortified blend that would serve to break their claws. In the era before ramparts and the Scions' mastery over lightning and thunder, roaring manes were a dreadful omen on the battlefield. However, today, with the resolution of the First War, the echoes of the roaring manes' destructive past have vanished and the few that remain are held in captivity, serving as amusement for the city's nobility in their combat arenas. Traits Dune Predator. Whenever the roaring mane damages a prone creature with an attack, the creature's AC is reduced by 1 until the end of its next turn. Earthen Pounce. If the roaring mane moves at least 15 feet underground or straight toward a target and then hits it with a claw attack on the same turn, the target takes an extra 9 (2d8) slashing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the roaring mane can make a bite attack against it as a bonus action. Keen Hearing and Smell. The roaring mane has advantage on Perception checks that rely on hearing or smell. Unwavering Pride. The roaring mane has advantage on saving throws against being charmed or frightened. Actions Multiattack. The roaring mane makes three attacks: one with its bite and two with its claws. Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage. Tectonic Roar (Recharge 6). The roaring mane unleashes an earth-shattering roar, sending out a shockwave in a 15-foot cone in front of it. Each creature within the area must succeed on a DC 15 Constitution saving throw or take 22 (4d10) thunder damage, be knocked prone, and have its speed reduced to 0 until the end of its next turn. The roaring mane can use this action while it is burrowed, and if it does so, the ground in the area becomes difficult terrain for other creatures for 1 minute. Each 5-foot square of difficult terrain can be cleared if a creature spends its action to do so.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: beast and elemental
+- Alignment: unaligned
+- Expansion: 27461
+- Challenge Rating: 8
+
+**publisher**: MonkeyDM
+
+**book**: Steinhardt's Guide to the Eldritch Hunt
+

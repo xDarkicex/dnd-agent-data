@@ -1,0 +1,15 @@
+# River Spirit
+
+**description**: A charming grey cobblestone bridge arches over a stream of black brackish water. Crawling up and over the sides of the bridge, tendrils of thick black water coalesce into a helmed warrior bearing a sword—which it points toward you, as if daring you to use the bridge. River spirits are fey guardians that defend bridges and other crossing points over bodies of water. Traits Stubborn Guardians. River spirits are called into existence by the magic between water and shore, and they often appear quite suddenly, claiming a crossing point without any warning. Some river spirits allow travelers to pass over their bridges freely, but possessive or ornery spirits might bring all crossing to a complete standstill with challenges or demands. Since river spirits cannot truly die once they have bound themselves to a bridge, getting them to leave inevitably requires negotiation or powerful banishing magic. Unwavering Loyalty. While river spirits are difficult to reason with, particularly patient or persuasive creatures can forge a friendly bond with them. River spirits may adjust their demands or even agree to guard different crossing points at the request of such a friend. Those who forge such a relationship gain their unwavering loyalty, and such a stout guardian may defend a location often long after the instigating creature has died. Fey bard often name and know of particular river spirits. Bridge Defender. When the river spirit hits a creature with an opportunity attack, the target's speed becomes 0 until the beginning of the target's next turn. In addition, a river spirit can make an opportunity attack against a creature even if they take the Disengage action before leaving their reach. Duty Bound. The river spirit cannot willingly travel more than 300 feet away from the bridge or other location to which they are bound. If the river spirit if forcibly taken beyond this range, they burst into a spray of mist and instantly reappear, standing atop their bridge. If a river spirit is slain, they disappear for 24 hours and then reappear atop their bridge with full hit points. Stepping-stones. Wherever the river spirit steps, a solid stepping-stone made of water appears. A river spirit can move in this manner in any direction as if they were flying. The stepping-stones created by the river spirit cannot support the weight of any other creatures, just the river spirit. Actions Multiattack. The river spirit makes two Longsword attacks. Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage. Liquid Lash. Ranged Spell Attack: +5 to hit, range 30/120 ft., one target. Hit: 9 (1d8 + 3) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Dexterity saving throw or be pulled 25 feet closer to the river spirit.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fey
+- Alignment: Lawful Neutral
+- Expansion: 18580
+
+**publisher**: Kobold Press
+
+**book**: Book of Ebon Tides Compendium
+

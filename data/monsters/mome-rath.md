@@ -1,0 +1,16 @@
+# Mome Rath
+
+**description**: “‘Twas brillig, and the slithy toves Did gyre and gimble in the wabe; All mimsy were the borogoves, And the mome raths outgrabe.” — Jabberwocky by Lewis Carroll A mome rath is an amphibious creature that lurks in swamps and resembles a green pig with a shark mouth. As a group, they make excellent minions for swamp hags who wish to keep intruders away. Fast and deadly, mome raths lurk below the surface of mud or murky water in search of prey. They take down targets with the element of surprise, using their leap and Electrifying Skin to stun a creature before biting and clawing. Tactics . When a mome rath wounds a target, it relentlessly attacks that creature. If a wounded target flees, the mome rath gives chase and uses the Dash action to pursue if needed. Should the target manage to get too far away to catch in one turn, the mome rath turns its attention to closer targets. The fey predator breathes a faerie fire (similar to the spell of the same name) to mark nearby targets before beginning its attacks anew. Despite its low intelligence, a mome rath’s survival instinct kicks in when it is losing a fight. When reduced to 35 or fewer hit points, it uses the Dash action to dive into the nearest body of water and swim away. Amphibious . The mome rath can breathe air and water. Electrifying Skin . A creature that touches the mome rath or hits it with a melee attack while within 5 feet of it takes 3 (1d6) lightning damage and must succeed on a DC 11 Constitution saving throw or become stunned until the end of the mome rath’s next turn. Relentless (1/Day) . If the mome rath takes 20 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead. Actions Multiattack . The mome rath makes one Bite attack and one Claws attack. Bite . Melee Weapon Attack : +9 to hit, reach 5 ft., one target. Hit : 22 (3d10 + 6) piercing damage. Claws . Melee Weapon Attack : +9 to hit, reach 5 ft., one target. Hit : 13 (2d6 + 6) slashing damage. Faerie Fire Breath (Recharge 5–6) . The mome rath exhales faerie fire in a 20-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw or be outlined in green for 1 minute. Affected creatures shed dim light in a 10-foot radius. Any attack roll against an affected creature has advantage if the attacker can see it, and the affected creature can’t benefit from being invisible. Stunning Leap (1/Day) . If the mome rath jumps at least 30 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target’s choice) or take 16 (3d6 + 6) bludgeoning damage plus 16 (3d6 + 6) lightning damage, be knocked prone, and be stunned until the end of the mome rath’s next turn. On a successful save, the creature takes only half the damage, isn’t stunned, and is pushed 5 feet out of the mome rath’s space into an unoccupied space of the creature’s choice. If no unoccupied space is within range, the creature instead falls prone in the mome rath’s space.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Fey
+- Alignment: Unaligned
+- Expansion: 23348
+- Challenge Rating: 8
+
+**publisher**: MCDM Productions
+
+**book**: Arcadia Issue No. 13
+

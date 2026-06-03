@@ -1,82 +1,48 @@
 # Gray Ooze
 
-## Gray Ooze
+**description**: These D&D 5E Free Basic Rules only contain a fraction of the races, subclasses, backgrounds, feats, items, monsters, spells, and other content available on Roll20. Check out the Player's Handbook to add dozens of more player options to the Charactermancer, the Dungeon Master's Guide to expand on the tools available for DMs, and the Monster Manual to add hundreds of more unique creatures (including token artwork) to fight! Traits Amorphous : The ooze can move through a space as narrow as 1 inch wide without squeezing . Corrode Metal : Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage. The ooze can eat through 2-inch-thick, nonmagical metal in 1 round. False Appearance : While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock. Actions Pseudopod : Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage , and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
-### Gray Ooze
+**properties**:
+- Category: Monsters
+- AC: 8
+- HP: 22 (3d8+9)
+- CHA: 2
+- CON: 16
+- DEX: 6
+- INT: 1
+- STR: 12
+- WIS: 6
+- Size: Medium
+- Type: ooze
+- Speed: 10 ft., climb 10 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/390064428/ZL45q8iQkhWGp8IJ6kp4qg/original.png
+- Roll 0: 1d20 + 3
+1d6+1
+- Senses: Blindsight 60 Ft. (Blind Beyond This Radius)
+- Skills: Stealth +2
+- Source: 5th Edition SRD
+- data-XP: 100
+- Alignment: Unaligned
+- data-List: false
+- Token Size: 1
+- Resistances: Acid, Cold, Fire
+- data-Traits: [{"Name":"Amorphous","Desc":"The ooze can move through a space as narrow as 1 inch wide without squeezing."},{"Name":"Corrode Metal","Desc":"Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage. The ooze can eat through 2-inch-thick, nonmagical metal in 1 round."},{"Name":"False Appearance","Desc":"While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock."}]
+- data-Actions: [{"Name":"Pseudopod","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"3","Reach":"5 ft.","Target":"one target","Damage":"1d6 + 1","Damage Type":"bludgeoning","Damage 2":"2d6","Damage 2 Type":"acid","Desc":"If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the ac it offers The armor is destroyed if the penalty reduces its AC to 10"}]
+- data-CHA-mod: -4
+- data-CON-mod: +3
+- data-DEX-mod: -2
+- data-INT-mod: -5
+- data-STR-mod: +1
+- data-SizeNum: 4
+- data-WIS-mod: -2
+- Challenge Rating: 1/2
+- Passive Perception: 8
+- Condition Immunities: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
+- data-CrNum: 0.5
+- data-AcNum: 8
+- data-HpNum: 22
 
-_Medium Ooze, Unaligned_
+**publisher**: Wizards of the Coast
 
-**AC** 9 **Initiative** −2 (13) <br>
-**HP** 22 (3d8 + 9) <br>
-**Speed** 10 ft., Climb 10 ft. <br>
+**book**: Free Basic Rules (2014)
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>DEX</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>1</td>
-      <td>−5</td>
-      <td>−5</td>
-      <td><strong>WIS</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>CHA</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Stealth +2<br>
-**Resistances** Acid, Cold, Fire<br>
-**Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained<br>
-**Senses** Blindsight 60 ft.; Passive Perception 8<br>
-**Languages** None<br>
-**CR** 1/2 (XP 100; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Amorphous._** The ooze can move through a space as narrow as 1 inch without expending extra movement to do so.
-
-**_Corrosive Form._** Nonmagical ammunition is destroyed immediately after hitting the ooze and dealing any damage. Any nonmagical weapon takes a cumulative −1 penalty to attack rolls immediately after dealing damage to the ooze and coming into contact with it. The weapon is destroyed if the penalty reaches −5. The penalty can be removed by casting the _Mending_ spell on the weapon. <br>
-&emsp;The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
-
-#### Actions
-
-<hr>
-
-**_Pseudopod._** _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 10 (2d8 + 1) Acid damage. Nonmagical armor worn by the target takes a −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. The penalty can be removed by casting the _Mending_ spell on the armor.

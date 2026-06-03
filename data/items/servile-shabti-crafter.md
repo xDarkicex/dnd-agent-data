@@ -1,0 +1,13 @@
+# Servile Shabti, Crafter
+
+**description**: Wondrous item, uncommon Crafted to serve in place of the dead in the afterlife, shabti are often used by the living for their own ends. These 1-foot-tall statuettes are crafted of ceramic, stone, or terracotta and are garbed in gear indicative of their function. If you use an action to speak the command word and throw the shabti to a point on the ground within 30 feet of you, it grows into a Medium construct that performs the tasks for which it was created. If the space where the shabti would grow is occupied by other creatures or objects, or if there isn’t enough space for the shabti, the shabti doesn’t grow. Unless stated otherwise in an individual shabti’s description, a servile shabti uses the statistics of animated armor, except the servile shabti’s Armor Class is 13, and it doesn’t have the Multiattack or Slam actions. When the shabti is motionless, it is indistinguishable from a ceramic, stone, or terracotta statue, rather than a suit of armor. The shabti is friendly to you and your companions, and it acts immediately after you. It understands your languages and obeys your spoken commands (no action required by you unless specified in the shabti’s description). If you issue no commands, the shabti takes the Dodge action and no other actions. The shabti exists for a duration specific to each shabti. At the end of the duration, it reverts to its statuette form. It reverts to a statuette early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the shabti becomes a statuette again, its property can’t be used again until a certain amount of time has passed, as specified in the shabti’s description. Crafter Shabti (Uncommon). This shabti wears a leather apron and carries the tools of its trade. Each crafting shabti is skilled in a single craft—weaponsmithing, pottery, carpentry, or another trade—and has proficiency with the appropriate artisan’s tools. You can use an action to command the shabti to craft a single, nonmagical item within its skill set, so long as you provide it the raw materials to do so. The shabti works at incredible speeds, needing only 10 minutes per 100 gp value of the item to finish its task. A crafting shabti can never create magic items. Once it completes its task, the shabti reverts to statuette form, and it can’t be used again until a number of hours have passed equal to twice the market value in gold pieces of the item crafted (minimum of 10 hours).
+
+**properties**:
+- Category: Items
+- Item Type: Wondrous item
+- Item Rarity: uncommon
+
+**publisher**: Kobold Press
+
+**book**: Vault of Magic
+

@@ -1,87 +1,16 @@
 # Wight
 
-## Wight
+**description**: Actions Multiattack. The wight makes one Longsword attack and one Vitality Theft attack, or they make two Heavy Crossbow attacks. Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage. Heavy Crossbow. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage. Vitality Theft. Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: 9 (2d8) necrotic damage, and the wight regains a number of hit points equal to half the damage dealt. Until the start of the wight’s next turn, the target has disadvantage on attack rolls made against creatures other than the wight. Reactions Decaying Guard. When an ally the wight can see within 5 feet of them is hit by an attack, the wight forces the attacker to reroll the attack and to instead target the wight or a willing ally within 5 feet of the original target.
 
-### Wight
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead
+- Alignment: Typically Neutral Evil
+- Expansion: 28288
+- Challenge Rating: 3
 
-_Medium Undead, Neutral Evil_
+**publisher**: MCDM Productions
 
-**AC** 14 **Initiative** +4 (14) <br>
-**HP** 82 (11d8 + 33) <br>
-**Speed** 30 ft. <br>
+**book**: Where Evil Lives
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>DEX</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>WIS</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +3, Stealth +4<br>
-**Resistances** Necrotic<br>
-**Immunities** Poison; Exhaustion, Poisoned<br>
-**Gear** Studded Leather Armor<br>
-**Senses** Darkvision 60 ft.; Passive Perception 13<br>
-**Languages** Common plus one other language<br>
-**CR** 3 (XP 700; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Sunlight Sensitivity._** While in sunlight, the wight has Disadvantage on ability checks and attack rolls.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The wight makes two attacks, using Necrotic Sword or Necrotic Bow in any combination. It can replace one attack with a use of Life Drain.
-
-**_Necrotic Sword._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 6 (1d8 + 2) Slashing damage plus 4 (1d8) Necrotic damage.
-
-**_Necrotic Bow._** _Ranged Attack Roll:_ +4, range 150/600 ft. _Hit:_ 6 (1d8 + 2) Piercing damage plus 4 (1d8) Necrotic damage.
-
-**_Life Drain._** _Constitution Saving Throw:_ DC 13, one creature within 5 feet. _Failure:_ 6 (1d8 + 2) Necrotic damage, and the target's Hit Point maximum decreases by an amount equal to the damage taken. <br>
-&emsp;A Humanoid slain by this attack rises 24 hours later as a **Zombie** under the wight's control, unless the Humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at a time.

@@ -1,0 +1,16 @@
+# Tharcereli
+
+**description**: Mind Flayer Attendants The colony of Zellix’Phor consists of many mind flayers, but some of the most notable of the community have been promoted to the rank of attendant – illithids whose unique strengths make them most useful to the elder brain, and who act as its council. The attendants are described in detail in chapter one, but their game statistics are listed here. Traits Combat Superiority (1/Turn). Tharcereli has a permanent bonus +2 to hit with its mind blade . Tharcereli deals an additional 7 (2d6) damage when it hits a target with a mind blade attack. In addition, Tharcereli can choose one of the following options (DC 15): Disarm. The target must succeed on a Strength saving throw or drop an object of Tharcereli’s choice that it’s holding. The object lands at the target’s feet. Menace. The target must succeed on a Wisdom saving throw or become frightened of Tharcereli until the end of Tharcereli’s next turn. Shove. If the target is Large or smaller, it must succeed on a Strength saving throw or be pushed up to 15 feet away from Tharcereli. Trip. If the target is Large or smaller, it must succeed on a Strength saving throw or be knocked prone. Magic Resistance. Tharcereli has advantage on saving throws against spells and other magical effects. Indomitable (2/Day). Tharcereli rerolls a failed saving throw. Innate Spellcasting (Psionics). Tharcereli’s innate spellcasting ability is Intelligence (spell save DC 12). It can innately cast the following spells, requiring no components: At will: detect thoughts, levitate 1/day: dominate monster Second Wind (Recharges after a Short or Long Rest). As a bonus action, Tharcereli can regain 20 hit points. Special Equipment. Tharcereli wears a cloak of protection and wields and mind blade: greatsword . Actions Multiattack. Tharcereli makes three melee attacks: two with its mind blade and one with its tentacles. Mind Blade. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 7 (2d6) psychic damage. Tentacles. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 12 (2d10 +1) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends. Extract Brain. Melee Weapon Attack: +4 to hit, reach 5 ft., one incapacitated humanoid grappled by the mind flayer. Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain. Mind Blast (Recharge 5–6). The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 12 Intelligence saving throw or take 19 (4d8 + 1) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Reactions Parry. Tharcereli adds 3 to its AC against one melee attack that would hit it. To do so, Tharcereli must see the attacker and be wielding a melee weapon.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: aberration
+- Alignment: lawful evil
+- Expansion: 20544
+- Challenge Rating: 10
+
+**publisher**: JVC Parry
+
+**book**: Call from the Deep
+

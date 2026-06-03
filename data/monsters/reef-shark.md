@@ -1,77 +1,47 @@
 # Reef Shark
 
-## Reef Shark
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Traits Pack Tactics. The shark has Advantage on an attack roll against a creature if at least one of the shark’s allies is within 5 feet of the creature and the ally doesn’t have the Incapacitated condition. Water Breathing. The shark can breathe only underwater. Actions Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Piercing damage.
 
-_Medium Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 12
+- HP: 22 (4d8 + 4)
+- PB: 2
+- CHA: 4
+- CON: 13
+- DEX: 15
+- INT: 1
+- STR: 14
+- WIS: 10
+- Size: Medium
+- Type: Beast
+- Speed: 5 ft., Swim 30 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406407856/MT_1v55fBGz2nBShExes1A/original.png
+- Senses: Blindsight 30 ft.
+- Skills: Perception +2
+- data-XP: 100
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 1
+- data-Traits: [{"Name":"Pack Tactics","Desc":"The shark has Advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition."},{"Name":"Water Breathing","Desc":"The shark can breathe only underwater."}]
+- data-Actions: [{"Name":"Bite","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"4","Reach":"5 ft.","Target":"one target","Damage":"2d4 + 2","Damage Type":"Piercing"}]
+- data-CHA-mod: -3
+- data-CON-mod: 1
+- data-DEX-mod: 2
+- data-INT-mod: -5
+- data-STR-mod: 2
+- data-SizeNum: 2
+- data-WIS-mod: 0
+- Saving Throws: Str +2, Dex +2, Con +1, Int -5, Wis +0, Cha -3
+- Challenge Rating: 1/2
+- Passive Perception: 12
+- data-CrNum: 0.5
+- data-AcNum: 12
+- data-HpNum: 22
 
-**AC** 12 **Initiative** +2 (12) <br>
-**HP** 22 (4d8 + 4) <br>
-**Speed** 5 ft., Swim 30 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>DEX</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>1</td>
-      <td>−5</td>
-      <td>−5</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>4</td>
-      <td>−3</td>
-      <td>−3</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Skills** Perception +2<br>
-**Senses** Blindsight 30 ft.; Passive Perception 12<br>
-**Languages** None<br>
-**CR** 1/2 (XP 100; PB +2)
-
-### Traits
-
-<hr>
-
-**_Pack Tactics._** The shark has Advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
-
-**_Water Breathing._** The shark can breathe only underwater.
-
-### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 7 (2d4 + 2) Piercing damage.

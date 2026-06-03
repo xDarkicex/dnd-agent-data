@@ -1,0 +1,16 @@
+# Shambling Pile
+
+**description**: The ground, lush and overgrown, squelches under every footstep. Curtains of menacing vines block the way, and muffled groans echo distantly under the darkening canopy. By the time you realize the ground is moving, it’s too late—the shambling mound has taken you. Found in overgrown swamps, stinking marshes, dense wodes, and dark, damp rainforests, the shambling mound is a wandering mass of vegetation that feeds on everything in their path. Hearty Eater. As a shambling mound drags their massive form through the undergrowth, they consume any organic matter they pass. When they find a good place to lurk until a meal comes to them, the result is far more satisfying. After a mound engulfs their prey—be they animal or adventurer—the meal-to-be is sealed in a sack of inter­woven vines and leaves. The walls of this vegetative chamber release a toxic sap that dissolves the prey inside. Verdant Camouflage. Rather than slowly chase prey, the shambling mound prefers to drape their form along well-traveled paths. They blend perfectly into their hunting ground, making it easy to seize unsuspecting passersby. A shambling mound in a rainforest may sport vines, ferns, and giant leaves, while another in a swamp engulfs adv­enturers in massive grasses, moss, and reeds. Noxious Origins. A shambling mound is most often a byproduct of a nearby evil mage. The nefarious magic of the surrounding land can coalesce into a nocuous creature consumed by hunger. The shambling mound knows only that they must feed, and thus they drag themself in search of a hunting ground. Growing in Size. Most shambling mounds begin their unnatural lives about the size of an adult human. These smaller young are often called shambling piles. The strongest among these piles consume their many siblings, growing much larger and becoming true shambling mounds. Will Work for Food. Shambling mounds aren’t malicious, and some show a capacity for learning. Daring (or foolish) adventurers might find that feeding a shambling mound a steady diet of evildoers turns them into a loyal companion. Traits False Appearance. While the pile remains motionless, they are indistinguishable from an ordinary mass of vegetation. Hungry Grab. If an enemy starts their turn within 5 feet of three or more piles, the creature must succeed on a Dexterity saving throw or be grappled. While grappled in this way, the target is restrained, and at the start of each of the target’s turns, they take poison damage equal to the number of piles within 5 feet of them. The saving throw and escape DC equal 10 plus the number of piles within 5 feet of the creature. The grapple ends if fewer than three piles are within 5 feet of the creature. Minion. If the pile takes damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0. If the pile takes damage from another effect, they die if the damage equals or exceeds their hit point maximum; otherwise they take no damage. Actions Vine Lash (Group Attack). Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 piercing damage.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Plant
+- Alignment: Unaligned
+- Expansion: 25493
+- Challenge Rating: 5
+
+**publisher**: MCDM Productions
+
+**book**: Flee Mortals
+

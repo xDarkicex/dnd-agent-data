@@ -1,0 +1,16 @@
+# Malmbjorn
+
+**description**: This massive bear bristles with muscles and fury, its hide covered with metal scales and spikes. Malmbjorns are enormous, mountain-dwelling bears that consume raw ore they dig out of the ground with their metal claws. They have a fondness for refined metals, such as those found in armor and weapons. Prospector's Dilemma. Because these massive bears dig out dens near metal deposits, the presence of a malmbjorn all but guarantees the presence of substantial deposits nearby. However, the creature must be driven away or killed before the deposits can be mined. Wealthy miners are rarely strong enough to drive malmbjorn away themselves; they hire experienced adventurers or entire mercenary companies to tackle a malmbjorn. Rending Claws. Malmbjorn claws contain a naturally occurring form of adamantine. With enough time and skill and a smelter, the claws of a single bear yield enough adamantine to make a single dagger. Keen Smell . The malmbjorn has advantage on Wisdom (Perception) checks that rely on smell. Metal Sense. The malmbjorn can pinpoint, by scent, the location of any Small or larger ferrous metal, such as an iron deposit or steel armor, within 100 feet of it. It can sense the general direction of such metal within 1 mile. Tunneler . The malmbjorn can burrow through solid rock at half its burrow speed and leaves a 15-foot-diameter tunnel in its wake. Actions Mulitattack . The malmbjorn makes one Bite attack and two Adamantine Claw attacks. Bite . Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 34 (5d10 + 7) piercing damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the malmbjorn can't Bite another target. Adamantine Claw . Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 29 (5d8 + 7) slashing damage. This attack deals double damage to objects and structures. Metal Volley (Recharge 5-6) . The malmbjorn shakes itself, launching shards of metal from its hide. Each creature within 20 feet of the malmbjorn must make a DC 18 Dexterity saving throw, taking 45 (13d6) slashing damage on a failed save, or half as much damage on a successful one. Bonus Actions Metal Eater . The malmbjorn swallows one Medium or smaller ferrous metal object within 5 feet of it. If the object is being held or worn by a creature, that creature must succeed on a DC 18 Strength saving throw or the malmbjorn swallows the object. If the creature holding or wearing the object is also grappled by the malmbjorn, it has disadvantage on this saving throw. Nonmagical objects are digested and destroyed at the start of the malmbjorn's next turn. Magic objects remain intact in the malmbjorn's stomach for 8 hours then are destroyed. Artifacts are never destroyed in this way. Reactions Ironhide . When the malmbjorn is hit by a weapon made of metal, fur-like spikes of metal grow out of the malmbjorn's hide until the end of its next turn. While the spikes remain, the malmbjorn's AC increases 2, and any critical hit against it becomes a normal hit.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Monstrosity
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 15
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

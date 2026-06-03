@@ -1,0 +1,16 @@
+# Flowercat
+
+**description**: Flowercats are plant-animal hybrids that were created during the first day of Ashandri. They appeared first in Delvaroth, but soon were seen in other regions, too. Anatomy Flowercats mostly resemble normal house cats, but with a collar of colorful petals around their neck. Their fur is always beautiful and shiny, and they come in as many colors as there are flowers. Precisely at the first day of the Flowercat month - which is where the month got its name from - they begin to "bloom": The petals and the fur become particularly bright, the plant-animal-hybrids emit a wonderful sweet smell. During this blooming season, the flowercat fur is filled with pollen that sticks to skin, fur and clothing. Reproduction Flowercats seem to be able to pollinate all other kinds of flowers, but the chances for each flower are small. During the months from Flowercat to the end of Drowning Lily, the hybrid creatures cuddle with any willing animal and humanoid, leaving their pollen on their bodies. To improve their chances of spreading the pollen, Flowercats never cause allergies, even if a person is normally allergic to cats. Once a carrier comes into contact with other flowers, the pollen sticks there, with a 1% chance of fertilizing the target plant. On a success, the flower closes within a day, forming a spherical bud. About a month later, a soft purring can be heard from the bud almost constantly. Sometimes, entire fields or meadows are seeded by flowercats, commonly called purring fields. Another month later, the bud opens, and an amazingly cute young flowercat emerges, no larger than a child's fist. Growth Rate & Stages The newborn hybrid is capable to take care of itself from its very first day, but the flowerkittens prefer to stay in groups of up to eight. It takes about eleven months (following the Arcanist Calendar) before a flowercat is mature and capable of reproducing on its own. They live for about thirty years, usually with few visible effects of aging. After that time, a flowercat instinctively digs a tunnel in the ground, and lays to sleep in a small underground cave - never to wake up again. Ecology and Habitats Flowercats prefer to live close to humanoid settlements, but they are less domesticated than regular cats. As more or less wild (if cuddly) animals, they prefer meadows, hills and forests, and strictly avoid colder regions. During winter times, they either hide in burrows, or live in hard to reach spaces in buildings. Dietary Needs and Habits Flowercats can hunt rodents and other small animals like normal cats, but they don't need to: They can survive on water and sunlight alone. If one of these ressources isn't available, though, they can't endure more than a few days. Uses, Products & Exploitation Some alchemists hunt flowercats for their petals. They can be used both to create dyes with vibrant colors, and for potions positively affecting the mind, like a Potion of Animal Friendship. Perception and Sensory Capabilities Flowercats have keen senses similar to cats.
+
+**properties**:
+- Category: Monsters
+- Size: Tiny
+- Type: beast
+- Alignment: unaligned
+- Expansion: 17295
+- Challenge Rating: 1/2
+
+**publisher**: Braythe RPG
+
+**book**: Braythe - Shattered Realities
+

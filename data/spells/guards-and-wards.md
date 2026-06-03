@@ -1,29 +1,47 @@
 # Guards and Wards
 
-**Level**: 6
-**School**: abjuration
-**Classes**: bard, wizard
-**Casting Time**: action
-**Range**: Touch
-**Components**: ['v', 's', 'm']
-**Duration**: 24 hours
+**description**: Level 6 Abjuration (Bard, Wizard) Casting Time: 1 hour Range: Touch Components: V, S, M (a silver rod worth 10+ GP) Duration: 24 hours You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous. When you cast this spell, you can specify individuals that are unaffected by the spell’s effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects. The spell creates the effects below within the warded area. Dispel Magic has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled. Corridors. Fog fills all the warded corridors, making them Heavily Obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you believes it is going in the opposite direction from the one it chooses. Doors. All doors in the warded area are magically locked, as if sealed by the Arcane Lock spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall. Stairs. Webs fill all stairs in the warded area from top to bottom, as in the Web spell. These strands regrow in 10 minutes if they are destroyed while Guards and Wards lasts. Other Spell Effect. Place one of the following magical effects within the warded area: Dancing Lights in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts Magic Mouth in two locations Stinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts) Gust of Wind in one corridor or room (the wind blows continuously while the spell lasts) Suggestion in one 5-foot square; any creature that enters that square receives the suggestion mentally
 
-## Description
+**properties**:
+- Category: Spells
+- School: Abjuration
+- Classes: Bard, Wizard
+- Expansion: 33335
+- data-List: false
+- filter-Tags: Utility
+- Spell Attack: None
+- filter-Level: 6
+- filter-Range: Touch
+- filter-Ritual: No
+- filter-Upcast: No
+- filter-Duration: 24 hours
+- data-datarecords: [{"name":"Guards and Wards","level":"6","payload":"{\"type\":\"Spell\",\"name\":\"Guards and Wards\",\"description\":\"You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.\\nWhen you cast this spell, you can specify individuals that are unaffected by the spell's effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects.\\nThe spell creates the effects below within the warded area. Dispel Magic has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled.\\nCorridors. Fog fills all the warded corridors, making them Heavily Obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you believes it is going in the opposite direction from the one it chooses.\\nDoors. All doors in the warded area are magically locked, as if sealed by the Arcane Lock spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall.\\nStairs. Webs fill all stairs in the warded area from top to bottom, as in the Web spell. These strands regrow in 10 minutes if they are destroyed while Guards and Wards lasts.\\nOther Spell Effect. Place one of the following magical effects within the warded area:\\nDancing Lights in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts\\nMagic Mouth in two locations\\nStinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)\\nGust of Wind in one corridor or room (the wind blows continuously while the spell lasts)\\nSuggestion in one 5-foot square; any creature that enters that square receives the suggestion mentally\",\"level\":6,\"school\":\"Abjuration\",\"castingTime\":\"1 hour\",\"range\":\"Touch\",\"duration\":\"24 hours\",\"components\":{\"verbal\":true,\"somatic\":true,\"material\":true,\"materialDescription\":\"a silver rod worth 10+ GP\"}}"},{"name":"Guards and Wards Condition","parent":"Guards and Wards","payload":"{\"type\":\"Condition\",\"name\":\"Guards and Wards\",\"description\":\"You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.\"}"},{"name":"Guards and Wards - Dancing Lights Effect","parent":"Guards and Wards Condition","payload":"{\"type\":\"Effect\",\"name\":\"Dancing Lights - Guards and Wards\",\"description\":\"You can place dancing lights in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.\",\"category\":[]}"},{"name":"Guards and Wards - Dancing Lights","parent":"Guards and Wards - Dancing Lights Effect","payload":"{\"type\":\"Spell Attach\",\"spells\":[\"Dancing Lights\"],\"alwaysPrepared\":true}"},{"name":"Guards and Wards - Magic Mouth Effect","parent":"Guards and Wards Condition","payload":"{\"type\":\"Effect\",\"name\":\"Magic Mouth - Guards and Wards\",\"description\":\"You can place Magic Mouth in two locations.\",\"category\":[]}"},{"name":"Guards and Wards - Magic Mouth","parent":"Guards and Wards - Magic Mouth Effect","payload":"{\"type\":\"Spell Attach\",\"spells\":[\"Magic Mouth\"],\"alwaysPrepared\":true}"},{"name":"Guards and Wards - Stinking Cloud Effect","parent":"Guards and Wards Condition","payload":"{\"type\":\"Effect\",\"name\":\"Stinking Cloud - Guards and Wards\",\"description\":\"You can place Stinking Cloud in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while guards and wards lasts.\",\"category\":[]}"},{"name":"Guards and Wards - Stinking Cloud","parent":"Guards and Wards - Stinking Cloud Effect","payload":"{\"type\":\"Spell Attach\",\"spells\":[\"Stinking Cloud\"],\"alwaysPrepared\":true}"},{"name":"Guards and Wards - Gust of Wind Effect","parent":"Guards and Wards Condition","payload":"{\"type\":\"Effect\",\"name\":\"Gust of Wind - Guards and Wards\",\"description\":\"You can place a constant Gust of Wind in one corridor or room.\",\"category\":[]}"},{"name":"Guards and Wards - Gust of Wind","parent":"Guards and Wards - Gust of Wind Effect","payload":"{\"type\":\"Spell Attach\",\"spells\":[\"Gust of Wind\"],\"alwaysPrepared\":true}"},{"name":"Guards and Wards - Suggestion Effect","parent":"Guards and Wards Condition","payload":"{\"type\":\"Effect\",\"name\":\"Suggestion - Guards and Wards\",\"description\":\"You can place a Suggestion in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.\",\"category\":[]}"},{"name":"Guards and Wards - Suggestion","parent":"Guards and Wards - Suggestion Effect","payload":"{\"type\":\"Spell Attach\",\"spells\":[\"Suggestion\"],\"alwaysPrepared\":true}"}]
+- filter-Components: Verbal, Somatic, Material
+- filter-Casting Time: 1 hour
+- filter-Concentration: No
+- Name: Guards and Wards
+- data-description: You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.
+When you cast this spell, you can specify individuals that are unaffected by the spell's effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects.
+The spell creates the effects below within the warded area. Dispel Magic has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled.
+Corridors. Fog fills all the warded corridors, making them Heavily Obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you believes it is going in the opposite direction from the one it chooses.
+Doors. All doors in the warded area are magically locked, as if sealed by the Arcane Lock spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall.
+Stairs. Webs fill all stairs in the warded area from top to bottom, as in the Web spell. These strands regrow in 10 minutes if they are destroyed while Guards and Wards lasts.
+Other Spell Effect. Place one of the following magical effects within the warded area:
+Dancing Lights in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts
+Magic Mouth in two locations
+Stinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)
+Gust of Wind in one corridor or room (the wind blows continuously while the spell lasts)
+Suggestion in one 5-foot square; any creature that enters that square receives the suggestion mentally
+- Level: 6
+- Casting Time: 1 hour
+- Duration: 24 hours
+- Range: Touch
+- Components: V S M
+- Material: a silver rod worth 10+ GP
+- data-CastNum: 6
+- data-DurationNum: 14
 
-You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous. When you cast this spell, you can specify individuals that are unaffected by the spell's effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects. The spell creates the effects below within the warded area. Dispel Magic has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled. 
+**publisher**: Wizards of the Coast
 
-**Corridors.** Fog fills all the warded corridors, making them Heavily Obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you believes it is going in the opposite direction from the one it chooses. 
+**book**: Free Basic Rules (2024)
 
-**Doors.** All doors in the warded area are magically locked, as if sealed by the Arcane Lock spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall. Stairs. Webs fill all stairs in the warded area from top to bottom, as in the Web spell. These strands regrow in 10 minutes if they are destroyed while Guards and Wards lasts. 
-
-**Other Spell Effect.** Place one of the following magical effects within the warded area: 
-
-• Dancing Lights in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts 
-
-• >Magic Mouth in two locations 
-
-• Stinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts) 
-
-• Gust of Wind in one corridor or room (the wind blows continuously while the spell lasts) 
-
-• Suggestion in one 5-foot square; any creature that enters that square receives the suggestion mentally.

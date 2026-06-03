@@ -1,0 +1,16 @@
+# Desolation Nymph
+
+**description**: An enormous dragonfly blocks out the sun, except for the iridescent shadows filtered through its diaphanous wings. Its three tails gouge into the land like plows before it darts off in a random direction. A full-grown dawnfly is an incredibly rare sight, a massive creature that emerges once every few years and lives for little more than a week. However, it can destroy a vast swathe of crops and homes in that brief period of time. Larval Stage. A dawnfly starts life as a desolation nymph. Unlike their smaller cousins, which turn into dragonflies, the life cycle of the desolation nymph is complex. Only occasionally do the nymphs mature into giant dragonflies and even then, not until after several years or even decades, as a nymph. Some remain a nymph for the whole of their lives. A nymph that survives at least a decade may transform into the terrifying dawnfly in the final days of its life. Predatory Larva. Desolation nymphs hide as best they can among mangrove roots or giant reeds; they prefer to hunt near water. When prey is close, the nymph rapidly extends its lower jaw, arrayed with hooks and spines, to capture and devour its prey. Dire Omen. The reason for a dawnfly's emergence is a mystery. Some view it as a harbinger of terrible times, or the avatar of any number of gods associated with death and destruction, or the herald of some demon lord or arch-devil associated with insects. All agree that, regardless of its origin, the dawnfly is a powerfully destructive force capable of eliminating entire civilizations. Limited Amphibiousness. The desolation nymph can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating. Shifting Camouflage. The desolation nymph's carapace adapts to its current surroundings. The nymph has advantage on Dexterity (Stealth) checks made to hide in nonmagical, natural terrain. Actions Hinged Maw. Melee Weapon Attack: +5 to hit, reach 15 ft., one creature. Hit: 14 (2d10 + 3) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 13) and pulled to within 5 feet of the nymph. Until this grapple ends, the target is restrained, and the desolation nymph can't use its Hinged Maw on another target. Swallow. The desolation nymph makes one Hinged Maw attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the nymph, and it takes 7 (2d6) acid damage at the start of each of the nymph's turns. The nymph can have only one creature swallowed at a time. If the desolation nymph dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone. Bonus Actions Water Jet. The desolation nymph takes the Disengage action, and each creature within 5 feet of the nymph must succeed a DC 13 Dexterity saving throw or be blinded until the end of its next turn.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Beast
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 2
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

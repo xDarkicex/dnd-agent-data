@@ -1,0 +1,16 @@
+# Drake, Moon
+
+**description**: A pale drake drifts through the air like a leaf on the surface of a pond, barely moving its billowing, cloak-like wings. Its large, jet-black eyes stare skyward but reflect no light. Impalpable as the night and ephemeral as the moon, the pale-winged moon drakes are mysterious creatures. Monster hunters have long struggled to capture a specimen and study the alien form, but the drakes are all but impossible to catch. Whenever a hunter tries to snare one, the moon drake's ethereal body turns into a beam of pure moonlight and flies away at impossible speeds. Power over Lycanthropes. The only thing that is known for certain about these drakes is that their connection with the moon gives them some power over lycanthropy. A moon drake's saliva is liquid moonlight, and it uses this against lycanthropes it encounters. Timid but Loyal. Moon drakes are flighty creatures and are frightened of most humanoid creatures. Moon drakes are often only able to overcome their fear of others when innocent people are in danger, and the drakes are the only ones able to save them. The people of countless countryside villages have stories of being nearly eviscerated by a rampaging werewolf, only to be saved by a strange creature with wings of moonlight hurtling from the heavens. These people say their rescuer cured the werebeast in a flash of pearlescent light then disappeared into the sky as quickly as it arrived.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: dragon
+- Alignment: neutral
+- Expansion: 45
+- Challenge Rating: 5
+
+**publisher**: Kobold Press
+
+**book**: Creature Codex
+

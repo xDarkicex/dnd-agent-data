@@ -1,0 +1,16 @@
+# Phisarazu Spyder-Fiend
+
+**description**: Phisarazu spyder-fiends have a pair of muscular arms sprouting beneath their wolf heads. They are resentful and suspicious of all other creatures, which makes them useful for corralling kakkuus or standing guard. Phisarazus can magically change their form, but only into shapes that have ten limbs, such as driders and crabs. They use this ability to establish ambushes, infiltrate enemy camps, or appear innocuous while on guard duty. Spyder-Fiends Demonic beasts that combine the worst attributes of wolves and spiders, spyder-fiends scuttle about with bloated, spiderlike bodies and gnash with wolflike heads. Spyder-fiends are usually coated with gore, as brutal killing is their favorite pursuit. They spin durable webs and are ingenious in how they employ their webs against prey. Spyder-fiends are organized into a hierarchy based on might and cunning, with higher-ranked spyder-fiends dominating lower ranks. Spyder-fiends of equivalent rank scheme against each other for advancement and eagerly turn against one another if treachery can improve their position. Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they were rarely seen during Miska’s imprisonment in Pandemonium, they have become increasingly active as Miska struggles to free himself in Pandesmos. Traits Magic Resistance. The phisarazu has advantage on saving throws against spells and other magical effects. Spider Climb. The phisarazu can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Web Sense. When in contact with a web, the phisarazu knows the exact location of any other creature in contact with the same web. Web Walker. The phisarazu ignores movement restrictions caused by webbing. Actions Multiattack. The phisarazu makes one Bite attack and two Claw attacks. It can replace one of these attacks with Scintillating Spray if available. Bite. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 9 (2d8) poison damage, and the target has the poisoned condition until the start of the phisarazu’s next turn. Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (4d8 + 4) slashing damage. Scintillating Spray (Recharge 5–6). The phisarazu expels shimmering webs in a 60-foot cone. Creatures and objects in that area are outlined by the glittering webs for 1 minute, during which time they emit dim light for 10 feet and can’t benefit from the invisible condition. Additionally, creatures in that area must succeed on a DC 16 Wisdom saving throw or have the stunned condition for 1 minute. A stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Bonus Actions Change Shape. The phisarazu transforms into a crab, drider, or giant crab, or returns to its true form. Its game statistics, except for its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Fiend (Demon)
+- Alignment: Typically Chaotic Evil
+- Expansion: 30583
+- Challenge Rating: 13
+
+**publisher**: Wizards of the Coast
+
+**book**: Vecna - Eve of Ruin
+

@@ -1,0 +1,16 @@
+# Elder Annis Hag
+
+**description**: The elder annis hag has lived for centuries, prolonging her unnatural life by preying on children and young virgins unnoticed, growing stronger and more powerful. She rarely steps out of from her lair deep within the dark forests of a high mountain, sending only her minions, such as hill giants, ogres, and trolls, to descend on nearby villages and towns to capture victims she can torment and later feed on. The elder annis hag has performed enough evil deeds to secure ties with a dark deity, such as Cegilune. She has become the deity's champion and agent, and has been gifted divine abilities to continue her sinister work. The elder annis hag can cast divine spells, smites its foes, and unleash a horrific cackle so despairing, creatures who hear it drop whatever they are holding and flee from the hag immediately. Actions Multiattack. The annis makes one Bite attack and two Claw attacks. It also uses Despairing Cackle, if available. Bite. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) piercing damage. Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) slashing damage. Crushing Hug. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 37 (9d6 + 6) bludgeoning damage, and the target is grappled (escape DC 16) if it is a Large or smaller creature. Until the grapple ends, the target takes 37 (9d6 + 6) bludgeoning damage at the start of each of the hag's turns. The hag can't make Claw attacks while grappling a creature in this way. Despairing Cackle (Recharge 5–6). Each creature within 30 feet of the annis and able to hear the annis must succeed on a DC 15 Wisdom saving throw. On a failed save, the target drops whatever it is holding, and becomes frightened for one minute. While frightened in this way, a creature must take the Dash action and move away from the annis by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the Dash action. If the creature ends its turn in a location where it doesn't have line of sight to the annis, the creature can repeat the saving throw. On a success, the effect ends. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the annis's Despairing Cackle for the next 24 hours. Spellcasting. The annis casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15): 2/day each: armor of Agathys, disguise self (including the form of a Medium humanoid), fog cloud 1/day each: banishment, bestow curse, destructive wave, dispel magic Bonus Actions Blinding Smite. Immediately after the hag hits a target with an attack roll, the hag deals an extra 9 (2d8) necrotic damage to the target and forces it to make a DC 18 Constitution saving throw. On a failed save, the target is blinded for 1 minute. The blinded target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Fey
+- Alignment: Typically Chaotic Evil
+- Expansion: 23212
+- Challenge Rating: 11
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded II
+

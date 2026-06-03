@@ -1,0 +1,16 @@
+# Fastieth
+
+**description**: Dinosaurs are widespread on Eberron, particularly in Q’barra, the Talenta Plains, Xen’drik, and Argonnessen. Smaller dinosaurs are the rule in Q’barra and the Talenta Plains, including varieties commonly used by Talenta halflings as mounts. Fastieth Fastieth are human-sized, two-legged saurians with large eyes, brightly colored and patterned scales, and strong legs. They are the most common mounts of the halflings of the Talenta Plains, bred for speed. Although too small to bear larger riders, a fastieth can carry a halfling with light gear easily and at a good pace. Fastieths are typically stubborn creatures, so specimens with an even temperament are prized among the Talenta tribes. Being herbivores, fastieths prefer to flee rather than fight. However, even though not trained for battle, they can deliver a vicious bite if pressed.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: beast
+- Alignment: unaligned
+- Expansion: 4480
+- Challenge Rating: 1/4
+
+**publisher**: Wizards of the Coast
+
+**book**: Eberron - Rising from the Last War
+

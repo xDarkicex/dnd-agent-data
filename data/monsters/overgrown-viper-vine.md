@@ -1,0 +1,16 @@
+# Overgrown Viper Vine
+
+**description**: Viper Vine A voracious, flesh-eating carnivore, the viper vine has a single enormous blossom arising from a thick, leafy tangle of snakelike vines. When the plant detects the approach of suitable prey through its sensitive, shallowly buried root system, it rises up like an agitated snake and unfurls its brightly colored bloom, releasing a cloud of mind-numbing pollen. Many a story claims the viper vine can lure prey into its clutches by swaying with a hypnotic motion, but this effect is in fact created by this invisible, odorless pollen cloud. The end result, of course, is largely the same to the hapless creature that ends up being eaten by the ravenous plant. Overgrown Viper Vine Rarely, a viper vine that thrives in areas infused with supernatural energies can become extremely overgrown and more powerful, gaining the ability to manipulate vegetation that grows within reach of its sprawling root network. Such an overgrown viper vine gains a lair action. Lair Actions When fighting inside its lair, an overgrown viper vine can use its root network to take the following lair action. On initiative count 20 (losing initiative ties), the viper vine can cause the following effect. The viper vine writhes its root network, causing one creature of the viper vine’s choice that is standing on the ground within its lair to be attacked by manipulated foliage. That creature treats the square it is standing in as difficult terrain until the end of its turn, and must attempt a DC 17 Reflex saving throw. On a failure, the creature is knocked prone and is grappled until the end of its next turn. Traits Cold Lethargy. Exposure to any cold effect slows a viper vine as a slow spell. False Appearance. While the vine remains motionless, it is indistinguishable from a normal tree. Actions Multiattack. The viper vine uses captivating cloud (if available) then makes four vine attacks. Bite. Melee Weapon Attack: +13 to hit, reach 5ft., one target. Hit: 11 (1d6+8) piercing damage plus 7 (2d6) acid. Vine. Melee Weapon Attack: +13 to hit, reach 25 ft., one target. Hit: 11 (1d6+8) bludgeoning plus 7 (2d6) necrotic damage and the target is grappled (escape DC 18). Captivating Cloud (1/Day). A viper vine emits a transparent cloud of pollen in a 60-foot radius that has the power to lull the minds of those that smell it. Once activated, the cloud persists for 1 minute unless dispersed by moderate or stronger wind. All creatures in the cloud must succeed on a DC 17 Wisdom saving throw each round or become charmed. A charmed creature takes no actions save to approach the viper vine via the most direct route possible. If this path leads it into a dangerous area, such as through fire or off a cliff, that creature receives a second saving throw to end the effect before moving into peril. A charmed creature can repeat the saving throw each time it is attacked by the viper vine, ending the effect on a success. Reactions Feasting Grasp. The viper vine can make a bite attack against a grappled foe when the target becomes grappled, the creature tries to escape, or the creature attacks the viper vine.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: plant
+- Alignment: unaligned
+- Expansion: 17526
+- Challenge Rating: 13
+
+**publisher**: Paizo
+
+**book**: Kingmaker Bestiary (5e)
+

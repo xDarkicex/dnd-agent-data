@@ -1,0 +1,16 @@
+# Kobold Legionary
+
+**description**: Kobold communities, called legions, are found in every biome and across the timescape. Gravitating toward powerful allies and defensible locations, kobolds are equally common in walled cities, secluded temples, subterranean tunnel-mazes, and dragon lairs. Most legions strive to be good neighbors or to go entirely unnoticed, but when a community falls under the sway of a malevolent wyrm or power-hungry centurion, they pose a significant threat. Defensive Masters. In a world filled with bigger, hungrier creatures, kobolds survived by becoming experts in collective defense. Kobold shield tactics are legendary; every warrior carries a shield into battle, and soldiers defend each other in tightly choreographed formations. More than a tool, a kobold’s shield is a symbol of their commitment to defending their legion, and they decorate these treasured possessions with battle trophies and illustrations of great deeds. Kobold legionaries may join worthy adventurers as retainers, lending their defensive prowess to their new allies as they ko-boldly go where no kobold has gone before. Unconventional Tactics. Relentless innovators, kobolds can easily outsmart anyone who doesn’t take them seriously. Their foes haven’t experienced a true kobold battle until they survive exploding javelins or flaming nets. Kobold homes are protected with deadly hazards and ambush points. In open warfare, legions deploy mechanical dragons and flaming spike pit traps. Tiny Dragons. Most kobolds believe their ancestors were created by powerful dragons—and with sharp, angular features and prominent dorsal crests, they certainly look the part! Newborn kobolds have brilliant chromatic, metallic, or crystalline scales; as kobolds age, their scales dim and mottle. Owing to a deep magical connection, a legion that lives under the patronage of a dragon adopts the color of their patron’s scales over several generations. Traits Shield? Shield! The legionary gains a +1 bonus to AC while within 5 feet of at least one ally who also has this trait, is wielding a shield, and isn’t incapacitated or prone. To benefit from this trait, the legionary must be wielding a shield. Actions Multiattack. The legionary makes two Gladius attacks. They can replace one attack with a Shield Bash attack. Gladius. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. Shield Bash. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage. If the target is a Medium or smaller creature, they must succeed on a DC 12 Strength saving throw or be knocked prone. Reactions Reinforce. When an ally within 10 feet of the legionary is targeted by an attack, the legionary can move to the nearest unoccupied space within 5 feet of that creature. If that creature also has the Shield? Shield! trait, they gain the benefit of that trait against the triggering attack. To use this reaction, the legionary must be able to see the ally and the attacker.
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: Humanoid (Kobold)
+- Alignment: Any Alignment
+- Expansion: 25493
+- Challenge Rating: 1/2
+
+**publisher**: MCDM Productions
+
+**book**: Flee Mortals
+

@@ -1,0 +1,16 @@
+# Quagga
+
+**description**: This zebra-like centaur is well-armed, with a twin-bladed knife, javelins, and a shield of rhinoceros hide. Smaller than their horse-like cousins, quagga have a zebra body topped with a humanoid torso, head, and arms. They traditionally style their manes into stiffened crests and sport decorative piercings and ritual scarring, which varies from tribe to tribe. Despite their similarity to centaurs, quagga despise the moniker “zebrataurs,” finding it highly insulting. Nomads and Hunters. Quagga e travel in herd-groups numbering from ten to 200, roaming vast arid savannahs and subtropical grasslands. The quagga follow herd animals, such as wildebeests, giraffes, and gazelles, as they make their annual migrations. These herds are their primary food sources, and quagga do what they can to ensure these beasts thrive. Territorial Warriors. For the quagga, land, water, and migratory routes are inherited from their ancestors. Water sources and grassland that a tribe has visited and used for generations are theirs for perpetuity. Conflicts arise when other creatures, especially humanoids, build settlements around or wall off resources claimed by a quagga tribe. It may be months, even years, before a tribe returns to a particular area, depending on their current migratory route, only to find “their” land taken from them. They will demand its return from whatever creatures have laid claim to the area. If they are refused, the quagga often declare war, fighting until they triumph or it is time for the herd to move on. If the issue is not settled before they leave, the quagga resume raiding when they next return to the area. Keen Sight and Smell. The quagga has advantage on Wisdom (Perception) checks that rely on sight or smell. Knife Dancer. When the quagga hits a creature with a Twin Blade attack, it doesn't provoke opportunity attacks when it moves out of that creature's reach. Pack Tactics. The quagga has advantage on attack rolls against a creature if at least one of the quagga's allies is within 5 feet of the creature and the ally isn't incapacitated. Trampling Charge. If the quagga moves at least 20 feet straight toward a target and then hits it with a Twin Blade attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the quagga can make one Hooves attack against it as a bonus action. Actions Multiattack. The quagga makes two Twin Blade attacks and one Hooves attack, or it makes four Javelin attacks. Hooves. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage. Javelin. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage. Twin Blade. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage. Bonus Actions War Surge. When the quagga reduces a creature to 0 hp with a melee attack on its turn, the quagga can move up to half its speed and make a Twin Blade attack.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Monstrosity
+- Alignment: Neutral
+- Expansion: 19901
+- Challenge Rating: 4
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

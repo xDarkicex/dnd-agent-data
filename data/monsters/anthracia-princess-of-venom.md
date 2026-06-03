@@ -1,0 +1,16 @@
+# Anthracia, Princess of Venom
+
+**description**: The dirt shall drink your blood as it pools around you! At least you were good for something. Anthracia Captivating to her followers and cruel to her enemies, the dryad Anthracia delights in the demise of those she sees as a threat to the beasts and plants of the wilderness. To the self-styled Princess of Venom, murder is a simple part of the natural cycle. The beings who serve her are spared her wrath only because of their connection to the natural world, but she feels all her followers are ultimately expendable. Anthracia’s dryad tree is hidden deep inside Gemhollow. She zealously guards the tree, allowing no other creature but Logger into the chamber. Anthracia controls the battlefield from afar, using her supernatural connection to the earth to lock down terrain and manipulate the movement of enemies and allies. Traits Supernatural Resistance. Anthracia has advantage on saving throws against powers, spells, and other supernatural effects. Actions Multiattack. Anthracia makes three attacks using Stone Touch, Missile Thorn, or both. She can also use Tree Teleport, if available. Stone Touch. Melee Spell Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (3d8) necrotic damage, and the target must succeed on a DC 17 Constitution saving throw or be restrained (save ends at end of turn) as their limbs become heavy. If this attack reduces a creature to 0 hit points, they become stable and are petrified into a withered stone tree featuring their tortured likeness. The petrification lasts until the creature is restored by a cure ailment power of 4th order or higher, a greater restoration spell, or a similar supernatural effect. Missile Thorn. Ranged Spell Attack: +9 to hit, range 90 ft., one target. Hit: 7 (2d6) piercing damage plus 7 (2d6) poison damage. Tree Teleport ( 3 /Day; 5 th-Level Spell). Anthracia touches a living tree. She instantly teleports to an unoccupied space within 5 feet of another living tree within 500 feet of the first. Both trees must be Medium or larger. Wall of Poison ( 1 /Day). Anthracia conjures an opaque wall of poisonous gas centered on a point she can see within 150 feet of her. The wall can be up to 50 feet long, 15 feet high, and 5 feet thick. The wall lingers in the air for 1 minute and its area is heavily obscured. Each creature who is in that area when the wall appears or who enters it for the first time on a turn must make a DC 17 Constitution saving throw, taking 26 (4d12) poison damage on a failed save, or half as much damage on a successful one. Creatures who don’t need to breathe automatically succeed on this saving throw. A moderate wind (at least 10 miles per hour) disperses the wall after 4 rounds. A strong wind (at least 20 miles per hour) disperses it after 1 round. Reactions Sudden Quake. When an enemy moves within 15 feet of Anthracia, she creates a small tremor in the ground beneath her. Each creature within 15 feet of her must succeed on a DC 17 Dexterity saving throw or fall prone.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fey
+- Alignment: Lawful Evil
+- Expansion: 25493
+- Challenge Rating: 5
+
+**publisher**: MCDM Productions
+
+**book**: Flee Mortals
+

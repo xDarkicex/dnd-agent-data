@@ -1,0 +1,16 @@
+# Scorched Adjudicator
+
+**description**: Failed Experiments In their lust for power, the Obitus Scholare lead gruesome experiments, merging the flesh of soldiers with that of eldritch beings. Their labor gave birth to powerful combatants, and a sea of corpses. Scorched adjudicators are the fruits of such experiments, humanoids that couldn’t become true warriors, failing to resist the call from beyond and losing their sanity. Yet, the scholars still found a use for these failures: they now act as perfect killers for their creators. Enforcers of Justice Adjudicators enforce justice, more specifically, the brand of justice approved of by the Obitus Scholare. Indeed, these abominations are dispatched to remove any threat to the order, their otherworldly powers trapping the souls of their victims and ensuring an irreversible death. The murderous intent of these monsters is apparent in battle; they delight in causing suffering and their deadly instincts prevents healing. Deriving a twisted sense of pleasure from their hunts, adjudicators often carry the shrunken, decapitated heads of their victims as horrific mementos. Traits Guiding Light. The adjudicator sheds dim light in a 10-foot radius. When a creature starts its turn in the light, or enters it for the first time on a turn, it gains disadvantage on Charisma saving throws until the start of its next turn. Limited Telepathy. The adjudicator can magically communicate ideas, emotions, and images telepathically with any creature within 120 feet of it. This form of telepathy doesn't allow the receiving creature to telepathically respond. Reactive. The adjudicator can take one reaction on every turn in combat. Actions Multiattack. The adjudicator makes two handaxe attacks. Handaxe. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) slashing damage. On a hit, if the adjudicator isn't within 5 feet of the target, the adjudicator can teleport to an unoccupied space within 5 feet of the target. Soul Tear. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 22 (4d8 + 3) necrotic damage and the target must succeed on a DC 14 Charisma saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. If this effect reduces a creature’s hit point maximum to 0, the creature dies. A creature killed by this reduction can’t be resurrected until the adjudicator is killed. Inferno (Recharge 4-6). Flames pour down from the adjudicator’s wings. Each creature between 10 and 40 feet of the adjudicator must make a DC 14 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one. Reactions Snuff Out the Light. When a spell that restores hit points is being cast within 120 feet of the adjudicator, the adjudicator teleports to an unoccupied space within 5 feet of the caster and makes a handaxe attack against it with advantage. On a hit, the spell fails and has no effect.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: aberration
+- Alignment: chaotic evil
+- Expansion: 27461
+- Challenge Rating: 5
+
+**publisher**: MonkeyDM
+
+**book**: Steinhardt's Guide to the Eldritch Hunt
+

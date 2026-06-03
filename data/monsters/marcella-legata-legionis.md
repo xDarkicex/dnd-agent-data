@@ -1,0 +1,15 @@
+# Marcella, Legata Legionis
+
+**description**: This stocky woman with grayish-blond hair, a determined gaze and a prominent, very straight nose is almost 130 years old. She has fought hard to be accepted as the leader of the militia but has by now been holding this office for more than 20 years. In younger years, she served in the first legion of the first cohort and ascended to Primum Pilus, at the advanced age of 50. Later she served as the attaché to the former legatus legionis before she was elected into the senate. Marcella is straightforward and mistrusts humans deeply. She will have to be treated with great respect in order to convince her to admit the strangers into the city and bring them before the consuls. Traits Spellcasting. Marcella is a 15th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Marcella knows the following paladin spells: 1st level (4 slots): bless, cure wounds, detect magic, protection from evil and good, sanctuary 2nd level (3 slots): aid, lesser restoration, locate object, magic weapon, zone of truth 3rd level (3 slots): beacon of hope, dispel magic, remove curse, revivify 4th level (2 slots): aura of purity, freedom of movement, guardian of faith Divine Smite. When she hits a creature with a melee weapon attack, Marcella can expend one of her spell slots and increase her damage for 9 (2d8) + 4 (1d8) per spell slot above 1st level to a maximum of 22 (5d8) radiant damage. Aura of Protection, Courage and Devotion. Marcella and all friendly creatures in a 10-foot radius gain a bonus of +2 on their saving throws and are immune to fear and charm. Purity of Spirit. Marcella is always under the effects of the protection from evil and good spell. Actions Multiattack. Marcella makes two short sword attacks or casts one spell. Divine Sense. 3x times per day detect celestials, fiends, undead, holy/unholy objects and places in a 60-feet radius until the end of her next turn. Turn the Unholy. Any Undead or fiend within a 10-foot radius who can see or hear Marcella must succeed on a Wisdom saving throw or flee from her for 1 minute or until it takes damage. Short Sword. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 4 (1d8) radiant damage. Sacred Weapon. As an action Marcella can channel her divinity and get +2 to hit on her attack rolls, and her weapon emits bright light in a 20-foot radius and dim light 20 feet beyond that for 1 minute. The weapon becomes magical for the duration. Lay on Hands. As an action Marcella‘s blessed touch can heal a total amount of 75 hit points per day, or for a c ost of 5 of these hit points she can cure one target of a disease or a poison. Cleansing Touch. Twice a day Marcella can end one spell on herself or a willing creature.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (Paladin)
+- Expansion: 30058
+- Challenge Rating: 10
+
+**publisher**: Vortex Verlag
+
+**book**: The Straight Way Lost
+

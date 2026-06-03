@@ -1,0 +1,15 @@
+# Giant Toad Companion (PB 4)
+
+**description**: Proficiency Bonus (PB) equals the caregiver’s bonus Amphibious. The toad can breathe air and water. Standing Leap. The toad’s long jump is up to 20 feet and their high jump is up to 10 feet, with or without a running start. Actions Bite (Signature Attack). Melee Weapon Attack: +3 plus PB to hit, reach 5 ft., one target. Hit: 1d6 plus PB bludgeoning damage. 1st Level: Stretch Attack (2 Ferocity). The toad makes a signature attack with a reach of 10 feet by using their tongue. On a hit, the attack deals an extra PB damage and the toad can pull the target 5 feet toward them. 3rd Level: Fast Food (5 Ferocity). The toad makes a signature attack. On a hit, the attack deals its normal effects, and the toad can jump up to 20 feet in any direction without provoking opportunity attacks. If the target of the attack is Large or smaller, the toad brings the target with them. 5th Level: Swallow (8 Ferocity). The toad attempts to swallow a Medium or smaller creature within 5 feet of them, which must make a DC 10 plus PB Dexterity saving throw. On a failure, the target takes PBd6 bludgeoning damage and is swallowed. On a success, the target takes half as much damage and isn’t swallowed. A swallowed target is blinded and restrained, they have total cover against attacks and other effects outside the toad, and they take PBd6 acid damage at the start of each of the toad’s turns. The toad can have only one target swallowed at a time. Whenever the toad takes damage, they must succeed on a Constitution saving throw or regurgitate the swallowed creature, which falls prone in a space within 5 feet of the toad. The DC for this saving throw equals 10 or half the damage the toad takes, whichever is higher. If the toad is incapacitated or dies, a swallowed creature is no longer restrained by the toad and can escape from the corpse using 5 feet of movement, exiting prone. Bonus Actions Psychedelic Skin (1/Long Rest). While the toad’s caregiver is within 5 feet of the toad, the toad can use a bonus action to coat a melee weapon held by the caregiver with poison secreted from the toad’s skin. The poison lasts for 1 hour or until the weapon deals damage as part of an attack. When a creature takes damage from the weapon, they must succeed on a DC 10 + PB Constitution saving throw or become poisoned for 1 minute. The creature can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success. Psychedelic Skin?! The giant toad companion’s Psychedelic Skin bonus action is inspired by the cane toad , a real amphibian. When these toads are threatened, they secret bufotoxin on their skin, a venom that causes hallucinations and discourages predators from eating the toad. Turning this fact into a feature for the giant toad was a fun way to set it apart from the rest of the companions.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Beast
+- Alignment: Unaligned
+- Expansion: 13887
+
+**publisher**: MCDM Productions
+
+**book**: The Beastheart and Monstrous Companions
+

@@ -1,0 +1,16 @@
+# Aziz Eshref Celebi
+
+**description**: “If thy mind is wretched, thy wit is arrogant. ” Aziz Eshref Celebi is a fine young human with his coal-black, well-groomed, short hair and beard. He mostly wears dark brown corduroy pants, a cream-colored shirt, a bowtie, and a knee-length black coat that bears the coat of arms of a distant kingdom, his homeland. He almost always carries his fez on his person. He generally wields items he has brought from his homeland. He is a mere student in the Land of Deceit, studying at CADRAC . Aziz Eshref’s Story Aziz Eshref was born almost thirty years ago, on a blessed night. His parents, Necmizade and Humeyra, believed that their kid would be as pure as a saint, hence the name “Aziz Eshref”, which means the most honorable saint. His family and he lived in the capital of their kingdom, a great city. Eshref was a naughty kid who constantly got himself into trouble. He loved to eavesdrop on strangers and his talent in this mischief caused him grief on the streets on many occasions. Although he was also a bright kid who got good grades, his parents were concerned about their son turning into a little rascal, worried about his future. One lucky day, an elderly lady approached Aziz Eshref and asked him to eavesdrop on two men, and so he did. Little did he know, these two men were officials of the kingdom, loyal servants of the royalty. As soon as Eshref told the lady everything he had heard, he was caught by royal guards and sent to the castle for interrogation. Aziz Eshref had pure intentions at heart, and the guards of the Sultan saw that this was the case. The Vizier of Espionage ordered his guards to train Aziz Eshref into an expert spy. From then on, Eshref acted as the royal spy of the court. He eventually received the name “Celebi”, meaning well-educated or mannered, and he has visited many different lands, even planes of existence, in order to gather goods and information for the benefit of the royalty. His last destination is Tolia, Cyherested. Aziz Eshref’s Goals Aziz Eshref uses the cover of a student in CADRAC . While studying, he tries to gather information about bloodwork automations, his ultimate goal being to steal as many blueprints of bloodwork and angst machinery as he can. He will then return to his homeland and share his findings with the royal court. While he tries to complete his quest, he tries to find out as much as he can about magic and vampirism. Roleplaying Aziz Eshref Naturally of a happy and cheerful disposition, Aziz Eshref has disguised himself as a very serious and hardworking university student. He may engage in day-to-day chit chat and may even talk about his homeland very briefly, without giving much detail; however, he never lets people know who he really is. Aziz Eshref in Combat He tries to avoid combat, however, if he chooses to strike, he strikes at the most unexpected moment. Aziz Eshref Celebi flees the scene if he drops to half of his hit point maximum.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (human)
+- Alignment: lawful neutral
+- Expansion: 24099
+- Challenge Rating: 7
+
+**publisher**: Dream Realm Storytellers
+
+**book**: Bloodpunk - A Guide to Tolia Campaign Setting
+

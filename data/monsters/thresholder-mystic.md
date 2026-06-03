@@ -1,0 +1,16 @@
+# Thresholder Mystic
+
+**description**: Thresholder In the dungeons hidden below Candlemere Island, a cabal of cultists has managed to defeat the passage of time itself. These cultists are known collectively as Thresholders. While they have managed to achieve immortality in their worship of the Outer God Yog-Sothoth, they are also prisoners, trapped within their own hidden temple by an ancient sect of Pharasmins who gave up their life and death to ensure that, while the Thresholders will live forever, they will never escape their own lair. All Thresholders have gained supernatural vision that allows them to see things left unseen, even though this ability required the sacrifice of their eyes to achieve. In addition, their devotion to Yog-Sothoth has pulled them outside of time itself, so that they do not age or need to drink and eat to survive—as long as they do not stray too far from the region where their cult’s power is focused. Thresholder Mystic Second only in power to their high priest (Foras; page 135), the Thresholder mystics consist of the clerical caste of the cult. Their devotion to Yog-Sothoth and single-minded pursuit of developing a way to allow their eldritch god full access to the Material Plane makes them easily the most dangerous members of the fanatical group. Traits Outside of Time. The Thresholder mystic exists outside of time; it doesn’t age, doesn’t need food or drink to survive, and can’t be affected by the haste or slow spells unless it chooses to be. Resolve. The Thresholder mystic has advantage on all Wisdom saving throws. Spellcasting. The Thresholder mystic is a 17th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 19, +11 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared: Cantrips (at will): guidance, light, sacred flame 1st level (4 slots): bless, command, sanctuary 2nd level (3 slots): blindness/deafness, silence, spiritual weapon 3rd level (3 slots): dispel magic, mass healing word, sending 4th level (3 slots): banishment, guardian of faith, locate creature 5th level (2 slots): flame strike, greater restoration 6th level (1 slot): blade barrier 7th level (1 slot): fire storm 8th level (1 slot): antimagic field 9th level (1 slot): mass heal Unseen Sight. The Thresholder has the ability to see the truth of the world, granting it darkvision and truesight to a distance of 60 feet, as long as it remains in a region under Yog-Sothoth’s influence. Actions Multiattack. The Thresholder mystic makes four dagger attacks. Dagger. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 6 (1d4+4) piercing damage, and the target must make a DC 18 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much on a successful one. Reminder of Doom. The mystic reminds its allies of the punishments awaiting those who fail Yog-Sothoth. The mystic and its allies within 60 feet that can hear it gain advantage on their attack rolls for until the end of the Thresholder mystic’s next turn.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (human)
+- Alignment: chaotic evil
+- Expansion: 17526
+- Challenge Rating: 17
+
+**publisher**: Paizo
+
+**book**: Kingmaker Bestiary (5e)
+

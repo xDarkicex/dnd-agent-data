@@ -1,77 +1,16 @@
 # Blink Dog
 
-## Blink Dog
+**description**: A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight. Traits Keen Hearing and Smell : The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell. Actions Bite : Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage. Teleport (Recharge 4-6) : The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 ft. to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.
 
-### Blink Dog
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: fey
+- Source: MM1
+- Alignment: lawful good
+- Challenge Rating: 1/4
 
-_Medium Fey, Lawful Good_
+**publisher**: Wizards of the Coast
 
-**AC** 13 **Initiative** +3 (13) <br>
-**HP** 22 (4d8 + 4) <br>
-**Speed** 40 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>DEX</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>CON</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>WIS</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +5, Stealth +5<br>
-**Senses** Darkvision 60 ft.; Passive Perception 15<br>
-**Languages** Blink Dog; understands Elvish and Sylvan but can't speak them<br>
-**CR** 1/4 (XP 50; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 5 (1d4 + 3) Piercing damage.
-
-#### Bonus Actions
-
-<hr>
-
-**_Teleport (Recharge 4–6)._** The dog teleports up to 40 feet to an unoccupied space it can see.

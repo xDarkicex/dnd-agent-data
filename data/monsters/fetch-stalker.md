@@ -1,0 +1,16 @@
+# Fetch Stalker
+
+**description**: Fetch A fetch is a twisted, deviant simulacrum of a humanoid creature that exists or existed at one point on the Material Plane. Rumors of fetches that are reflections of entities from other planes persist, but none of these tales speak of fetches that duplicate anything other than a humanoid source. A fetch can manifest spontaneously when a powerful creature undergoes a significant emotional event or dies, either while on the First World or while in an area influenced significantly by the First World, but one can also be created by significant forces like the Eldest in order to torment and vex those who have annoyed them. While a fetch manifests from a soul’s “reflection,” and as such bears a striking resemblance to that creature’s appearance in life, a fetch has no true memories of its own. It keeps fragments of false remembrances from its source as if it experienced them in a half-remembered dream—which further provokes the fetch’s animosity and jealousy toward the creature it mirrors. A fetch is similar in appearance to the creature whose soul spawned it, save that it displays feylike features such as pointed ears, plantlike elements, or supernatural grace. A fetch who seeks to impersonate a still-living source must disguise these features, and manifests its fetch weapon as one known to be wielded by its target. These weapons are highly versatile, and wounds created by them cause painful memories of past harm to augment their damage. Fetch Stalker Fetch stalkers are the least of their kind, yet they are quite powerful in their own right. Fetch stalkers form from the souls of Small or Medium fey or humanoids (Small fey create Small fetch stalkers; adjust their statistics for their size as appropriate). A fetch stalker’s appearance resembles that which it had in life, save for the typical fey “flourishes” all fetch have. Traits Innate Spellcasting. The stalker’s innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). The stalker can innately cast the following spells, requiring no material components: At will: disguise self, produce flame (4d8) 1/day: dispel magic, major image, plane shift (to or from the First World only) Magic Resistance. The stalker has advantage on saving throws against spells and other magical effects. Regeneration. The stalker regains 10 hit points at the start of its turn. If the stalker takes fire or necrotic damage, this trait doesn’t function at the start of the stalker’s next turn. The stalker dies only if it starts its turn with 0 hit points and doesn’t regenerate. Tongues. The stalker can understand all spoken languages and can be understood by any creature that has a language. Actions Multiattack. The stalker makes four fetch weapon attacks. Summoned Fetch Weapon. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 14 (3d6+4) slashing damage plus 7 (2d6) psychic damage. When the stalker manifests this weapon, it can choose its appearance, and can alter the damage type from slashing to bludgeoning or piercing.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: fey
+- Alignment: chaotic evil
+- Expansion: 17526
+- Challenge Rating: 18
+
+**publisher**: Paizo
+
+**book**: Kingmaker Bestiary (5e)
+

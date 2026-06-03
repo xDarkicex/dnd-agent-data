@@ -1,75 +1,16 @@
 # Giant Fire Beetle
 
-## Giant Fire Beetle
+**description**: A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle’s glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests. Traits Illumination : The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft.. Actions Bite : Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) slashing damage.
 
-_Small Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: beast
+- Source: MM1
+- Alignment: unaligned
+- Challenge Rating: 0
 
-**AC** 13 **Initiative** +0 (10) <br>
-**HP** 4 (1d6 + 1) <br>
-**Speed** 30 ft., Climb 30 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>DEX</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>1</td>
-      <td>−5</td>
-      <td>−5</td>
-      <td><strong>WIS</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>CHA</strong></td>
-      <td>3</td>
-      <td>−4</td>
-      <td>−4</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Monster Manual
 
-**Resistances** Fire<br>
-**Senses** Blindsight 30 ft.; Passive Perception 8<br>
-**Languages** None<br>
-**CR** 0 (XP 10; PB +2)
-
-### Traits
-
-<hr>
-
-**_Illumination._** The beetle sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
-
-### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +1, reach 5 ft. _Hit:_ 1 Fire damage.

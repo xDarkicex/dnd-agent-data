@@ -1,0 +1,16 @@
+# Druid of Zuggtmoy
+
+**description**: Druid Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters⁠ and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance⁠. Cults of Zuggtmoy The Demon Queen of Fungi has many traits similar to those of Juiblex. Some sages believe she is the originator of all fungi and molds, from the mushrooms that grow in the forest to the deadliest forms of yellow mold. Those who study demons argue that Zuggtmoy isn’t merely a patron of fungi, and that her ultimate goal is to meld all living creatures into one great organism, an entity that she will then join with and rule over. Cultists. Most of Zuggtmoy’s cultists are hapless mortals that have been infested with the demonic spores she cultivates in the fungi she created. The spores slowly devour these creatures’ brains, leaving them with enough functionality to spread malevolent fungi but robbing them of the will to turn against their master. A few mortals freely enter her service. Most are druids who want to exterminate civilization and replace it with wild plants and fungus, or deluded, power-hungry individuals who believe that they would retain their identities while they bring others under Zuggtmoy’s thrall. Zuggtmoy allows these zealots to retain their existing forms if doing so furthers her aims and helps to spread her children far and wide, but they are destined for the same fate as all the others. Demonic Boons Ability Score Adjustment: Up to a +4 bonus to Constitution, with an equal penalty to Intelligence, Wisdom, and Charisma (not applied) Signature Spells: Ray of sickness (1st level), suggestion (2nd level), plant growth (3rd level) Zuggtmoy’s followers are primarily mindless victims of her children’s strange spores. The spores burrow into a victim’s brain, turning it into a fanatic servitor. Each victim gains the Spore Kissed trait. Traits Spellcasting. The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared: Cantrips (at will): druidcraft, produce flame, shillelagh 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave 2nd level (3 slots): animal messenger, barkskin Spore Kissed. This creature is immune to the charmed and frightened conditions⁠. In addition, if it is reduced to 0 hit points, each creature within 10 feet of it takes poison damage equal to its number of Hit Dice. Actions Quarterstaff (One-Handed). Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage. Quarterstaff (Two-Handed). Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage. Quarterstaff (with Shillelagh). Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage. Produce Flame. Ranged Spell Attack: +4 to hit, range 30 ft., one creature. Hit: 4 (1d8) fire damage.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Any Race)
+- Source: Mordenkainen's Tome of Foes
+- Alignment: Any Alignment
+- Challenge Rating: 2
+
+**publisher**: Wizards of the Coast
+
+**book**: Mordenkainen's Tome of Foes
+

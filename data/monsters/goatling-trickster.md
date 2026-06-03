@@ -1,0 +1,16 @@
+# Goatling Trickster
+
+**description**: Goatlings are diminutive, goat-headed creatures that walk upright on furry, cloven foot legs. Goatlings are born from the union of satyrs and maenads, and they live in tribes consisting of dozens of inbred siblings and cousins. They infest woods, mountains, and hills alike. They are often mistaken for satyrs, but they are smaller and stupider. Goatlings delight in tormenting mortals, and they are known to play mean-spirited, often fatal, pranks on unsuspecting travelers at night. The last thing that their victims hear is a chorus of bleating laughter from the darkness. Masters of Mockery . Physically frail and slow-witted in comparison to their sires, goatlings are envious creatures that enjoy inflicting cruelty upon their betters. They devote their limited mental capacities to crafting vicious insults salted with fey magic that can send their targets into blind fits of rage. Though some goatlings are just about clever enough to think up appropriate insults on the fly, most prefer stealing words from others. They often remember a wide array of memorized insults, and some favorite barbs include: “When was the last time you scrubbed your louse-infested carcass with soap?” “What are you ogling at, you bug-eyed dung eater?” “The only thing intimidating about you is your pox-ridden, bug-eyed face!” “Your ‘cutting words’ couldn’t slice through butter.” “There’s barely enough meat on you for a crow’s feast!” “Mehhh-hehehe! Your horns are so tiny! Tiny horns!” “Bite me, fart-face!” Goatlings are fond of employing irony and twisted humor when setting their deadly traps. One common tactic of goatling tricksters is to use the cries of a human infant as a lure, though the “infant” is really a polymorphed compatriot. Sometimes the transformed goatling remains disguised during the tribe’s attack, but the goatlings particularly enjoy the reveal of having the infant show its true form just as a mortal victim succumbs to their cruel attacks. Magical Tricksters . A few goatlings in every tribe, usually first-generation children who aren’t affected by inbreeding, develop innate magical abilities. These goatling tricksters often become the de facto leaders of their groups, as far as such chaotic bands can be said to have a hierarchy. Variant: Goatling Tricksters Goatling tricksters are spellcasting variant goatlings. They are CR 1 (200 XP) with 15 (4d6) hit points, 14 Intelligence, and 16 AC (mage armor). Master Mockery . The trickster unleashes a string of creative insults at a group of targets, and other goatlings can join in on the fun by using their reactions. This can be used to target an additional creature for every other goatling within 60 ft. of the trickster. This ability is otherwise identical to mockery, but for each goatling that joins in, the saving throw DC increases by +1. Innate Spellcasting . The goatling's innate spellcasting ability is Intelligence (spell save DC 14). The goatling can innately cast the following spells, requiring no components: At will: prestidigitation, thaumaturgy 3/day: mislead, polymorph (willing targets only)
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: fey
+- Alignment: chaotic evil
+- Expansion: 4963
+- Challenge Rating: 1
+
+**publisher**: Arcanum Worlds
+
+**book**: Odyssey of the Dragonlords Compendium
+

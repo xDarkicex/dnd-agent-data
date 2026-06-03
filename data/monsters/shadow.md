@@ -1,88 +1,16 @@
 # Shadow
 
-## Shadow
+**description**: Traits Chilling Phasing. The shadow can move through other creatures and objects as if they were difficult terrain. The shadow takes 5 (1d10) force damage if they end their turn inside an object. A creature takes 1 cold damage the first time a shadow passes through them on a turn. Dark Stalker. While in dim light or darkness, the shadow has advantage on Dexterity (Stealth) checks. Actions Chilling Grasp. Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) cold damage, and the target’s Dexterity score is reduced by 2. The target dies if this reduces their Dexterity to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. Freezing Dark ( 1 /Day). The shadow pours magical darkness out of their hand in a 15-foot cone. A creature with darkvision who isn’t an incorporeal Undead can’t see through this darkness, and light can’t illuminate it. Each creature in this darkness when it first appears must succeed on a DC 12 Constitution saving throw or take 7 (2d6) cold damage. The darkness remains in that area for 1 minute or until the shadow is destroyed. Bonus Actions Shadow Bind. The shadow targets one creature they can see within 15 feet of them who is in bright or dim light. The target must succeed on a DC 12 Strength saving throw or be grappled by their own shadow (escape DC 12). The grapple ends if the target is no longer in bright or dim light, or if the shadow who used this bonus action is destroyed.
 
-### Shadow
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead (Incorporeal)
+- Alignment: Typically Chaotic Evil
+- Expansion: 28288
+- Challenge Rating: 1/2
 
-_Medium Undead, Chaotic Evil_
+**publisher**: MCDM Productions
 
-**AC** 12 **Initiative** +2 (12) <br>
-**HP** 27 (5d8 + 5) <br>
-**Speed** 40 ft. <br>
+**book**: Where Evil Lives
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>DEX</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Stealth +6<br>
-**Vulnerabilities** Radiant<br>
-**Resistances** Acid, Cold, Fire, Lightning, Thunder<br>
-**Immunities** Necrotic, Poison; Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious<br>
-**Senses** Darkvision 60 ft.; Passive Perception 10<br>
-**Languages** None<br>
-**CR** 1/2 (XP 100; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Amorphous._** The shadow can move through a space as narrow as 1 inch without expending extra movement to do so.
-
-**_Sunlight Weakness._** While in sunlight, the shadow has Disadvantage on D20 Tests.
-
-#### Actions
-
-<hr>
-
-**_Draining Swipe._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Necrotic damage, and the target's Strength score decreases by 1d4. The target dies if this reduces that score to 0. If a Humanoid is slain by this attack, a **Shadow** rises from the corpse 1d4 hours later.
-
-#### Bonus Actions
-
-<hr>
-
-**_Shadow Stealth._** While in Dim Light or Darkness, the shadow takes the Hide action.

@@ -1,0 +1,16 @@
+# Leashed Lesion
+
+**description**: With a vibrant, emerald carapace and gnarled spikes shine in even poor torchlight. Its back looks almost like a saddle or the wagon's seat, save for the inward-facing spikes that mark it as clearly dangerous. Its eyeless head lifts, revealing a mouth full of needle-like teeth. A leashed lesion is a horse-sized arthropodal aberration with bright pink flesh emerging from the carapace at its joints. It survives via a curious symbiosis. In the wild, a leashed lesion hosts another aberration in the saddle-like recess in its back. The lesion gains whatever protection the rider can offer, while the rider gains access to life force the lesion drains from its prey. Summoned Allies. Cult leaders, particularly of cults of the Void, often summon leashed lesions as protective mounts. These cultists place themselves or a valued subordinate spellcaster within the lesion's recess, helping the monster fend of threats and healing the rider in the midst of combat. Such arrangements gave the lesion its name, as monster-hunters often consider them little more than the leashed pets of cult leaders. Often too late, cultists discover that an unhappy leashed lesion is just as likely to kill its rider as protect it. Exacting Mounts. Native to twisted worlds in the space between the stars, wild lesions occasionally wander through rents in reality at the site of ancient rituals or destructive magic. Such lesions don't distinguish the wildlife of their new home from the aberrations of their old one and swiftly cycle through potential riders and devour meals as they seek creatures worthy of being symbiotically bound to them. Villages have seen farmers and herds of livestock drained to desiccated husks by wild or lost lesions. Actions Multiattack. The leashed lesion makes one Bite attack and two Claw attacks. Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage plus 5 (2d4) necrotic damage. The lesion and any creature grappled by its Life Tether regain hp equal to the necrotic damage dealt. Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage. Draining Burst (Recharge 5-6). The leashed lesion selects a point it can see within 120 feet of it. Each creature within 20 feet of that point must make a DC 12 Constitution saving throw, taking 13 (3d8) necrotic damage on a failed save, or half as much damage on a successful one. The lesion and any creature grappled by its Life Tether each gain 13 (3d8) temporary hp. Bonus Actions Life Tether. The leashed lesion attaches a symbiotic tether to a creature sitting in the recess in its back. A creature in the recess that isn't attached to the tether takes 7 (2d6) piercing damage at the end of the lesion's turn, and the lesion regains hp equal to the damage dealt. While the tether is attached, the creature is grappled by the lesion. The lesion or the creature can detach the tether as a bonus action. The lesion can have its symbiotic tether attached to only one creature at a time.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Aberration
+- Alignment: Chaotic Evil
+- Expansion: 19901
+- Challenge Rating: 3
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

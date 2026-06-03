@@ -1,0 +1,16 @@
+# Galsariad Ardyth (Tier 1)
+
+**description**: Beautiful, ethereal, deathly, shadowy—all accurately describe Galsariad Ardyth, a drow in his two-hundredth year of life. He’s recently taken up the study of arcane magic, and he’s pursuing the life of an adventurer in hopes of improving his reputation within the Kryn Dynasty. Loquacious, snarky, and sarcastic to a fault, he’s ready with a barb for any occasion—usually to mask his own insecurities. A city-dweller from the Kryn capital of Rosohna, Galsariad is blessed with sharp aesthetic sensibilities and an interest in ancient lore, especially history concerning the Age of Arcanum, Exandria’s long-lost magical golden age. He’s also the newest member of the rival party, and both Ayo and Irvan are impressed by his ethereal elegance—and have a bit of a crush on him, even if he does talk too much. Galsariad appreciates people who share his interests and are willing to spend time studying with him, though he also likes it when people treat him with respect even if they don’t care about magic. He dislikes people who keep secrets from him, and hates when people judge him for being a novice at magic even though he’s centuries old. Rivals’ Goals Match wits with an archmage; discover a magical secret no one else knows; be respected by someone he respects Rival Tiers Just as the characters advance in level and gain new equipment over the course of this adventure, so do the rivals increase in power. Each rival is represented by three stat blocks. Tier 1 Rivals The tier 1 rivals are fledgling adventurers who have gained a modicum of power through their individual exploits before the beginning of this story. They are seeking to write a grand tale of their own. Traits Fey Ancestry. Galsariad has advantage on saving throws against being charmed, and magic can’t put him to sleep. Spellcasting. Galsariad casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 13): At will: mage armor , mage hand 1/day: longstrider Actions Drain Potential. Melee or Ranged Spell Attack : +5 to hit, reach 5 ft. or range 30 ft., one creature. Hit : 16 (3d10) necrotic damage, and Galsariad gains 5 temporary hit points. Gravity Wave (Recharge 5–6). Galsariad causes a rippling wave of magical gravity to fill a 10-foot-radius sphere centered on a point he can see within 120 feet of himself. Each creature in that area must make a DC 13 Strength saving throw. On a failed saving throw, the creature takes 17 (5d6) force damage and is pulled up to 10 feet toward the sphere’s center. On a successful save, the creature takes half as much damage and isn’t pulled. Bonus Actions Distort Gravity (1/Day). Galsariad targets himself or one willing creature that he can see within 60 feet of himself, magically distorting gravity around the target. Any creature within 5 feet of the target takes 3 (1d6) force damage. In addition, the target can use a reaction to float upward, up to 20 feet, without provoking opportunity attacks. When this effect ends at the start of Galsariad’s next turn, the target floats gently down up to 20 feet.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Drow, Elf, Wizard)
+- Alignment: Neutral
+- Expansion: 13016
+- Challenge Rating: 3
+
+**publisher**: Wizards of the Coast
+
+**book**: Call of the Netherdeep
+

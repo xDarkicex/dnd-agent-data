@@ -1,93 +1,16 @@
 # Djinni
 
-## Djinni
+**description**: Genies Genies are rare elemental creatures out of story and legend. Only a few can be found on the Material Plane. The rest reside on the Elemental Planes, where they rule from lavish palaces and are attended by worshipful slaves. Genies are as brilliant as they are mighty, as proud as they are majestic. Haughty and decadent, they have a profound sense of entitlement that stems from the knowledge that few creatures except the gods and other genies can challenge their power. Creatures of the Elements. A genie is born when the soul of a sentient living creature melds with the primordial matter of an elemental plane. Only under rare circumstances does such an elemental-infused soul coalesce into a manifest form and create a genie. A genie usually retains no connection to the soul that gave it form. That life force is a building block that determines the genie’s form and apparent gender, as well as one or two key personality traits. Although they resemble humanoid beings, genies are elemental spirits given physical form. They don’t mate with other genies or produce genie offspring, as all new genies are born out of the same mysterious fusion of spirit energy and elemental power. A genie with a stronger connection to its mortal soul might choose to sire a child with a mortal, although such offspring are rare. When a genie perishes, it leaves nothing behind except what it was wearing or carrying, along with a small trace of its native element: a pile of dust, a gust of wind, a flash of fire and smoke, or a burst of water and foam. Rule or Be Ruled. Mortal slaves serve to validate a genie’s power and high self-opinion. A hundred flattering voices are music to a genie’s ears, while two hundred mortal slaves prostrated at its feet are proof that it is lord and master. Genies view slaves as living property, and a genie without property amounts to nothing among its own kind. As a result, many genies treasure their slaves, treating them as honored members of their households. Evil genies freely threaten and abuse their slaves, but never to the extent that the slaves are no longer of use. In contrast to their love of slaves, most genies loathe being bound to service themselves. A genie obeys the will of another only when bribed or compelled by magic. All genies command the power of their native element, but a rare few also possess the power to grant wishes. For both these reasons, mortal mages often seek to bind genies into service. Decadent Nobility. Noble genies are the rarest of their kind. They are used to getting what they want, and have learned to trade their ability to grant wishes to attain the objects of their desire. This constant indulgence has made them decadent, while their supreme power over reality makes them haughty and arrogant. Their vast palaces overflow with wonders and sensory delights beyond imagination. Noble genies cultivate the jealousy and envy of other genies, asserting their superiority at every opportunity. Other genies respect the influence of the noble genies, knowing how unwise it is to defy a creature that can alter reality at a whim. A genie isn’t beholden to any noble genie, however, and will sometimes choose to defy a noble genie’s will and risk the consequences. The Power of Worship. Genies acknowledge the gods as powerful entities but have no desire to court or worship them. They find the endless fawning and mewling of religious devotees tiresome—except as it is directed toward them by their worshipful slaves. Their miraculous powers, the grandeur of their abodes, and the numbers of their slaves allow some genies to deceive themselves into believing they are as powerful as the gods. Some go so far as to demand that mortals of other realms—even whole continents or worlds—bow down before them. Variant: Genie Powers Genies have a variety of magical capabilities, including spells. A few have even greater powers that allow them to alter their appearance or the nature of reality. Disguises. Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the disguise self spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the true polymorph spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well. Wishes. The genie power to grant wishes is legendary among mortals. Only the most potent genies, such as those among the nobility, can do so. A particular genie that has this power can grant one to three wishes to a creature that isn’t a genie. Once a genie has granted its limit of wishes, it can’t grant wishes again for some amount of time (usually 1 year), and cosmic law dictates that the same genie can expend its limit of wishes on a specific creature only once in that creature’s existence. To be granted a wish, a creature within 60 feet of the genie states a desired effect to it. The genie can then cast the wish spell on the creature’s behalf to bring about the effect. Depending on the genie’s nature, the genie might try to pervert the intent of the wish by exploiting the wish’s poor wording. The perversion of the wording is usually crafted to be to the genie’s benefit. Djinni Proud, sensuous genies from the Elemental Plane of Air, the djinn are attractive, tall, well-muscled humanoids with blue skin and dark eyes. They dress in airy, shimmering silks, designed as much for comfort as to flaunt their musculature. Airy Aesthetes. Djinn rule floating islands of cloudstuff covered with enormous pavilions, or topped with wondrous buildings, courtyards, fountains, and gardens. Creatures of comfort and ease, djinn enjoy succulent fruits, pungent wines, fine perfumes, and beautiful music. Djinn are known for their sense of mischief and their favorable attitude toward mortals. Among genies, djinn deal coolly with efreet and marids, whom they view as haughty. They openly despise dao and strike against them with little provocation. Masters of the Wind. Masters of the air, the djinn ride powerful whirlwinds that they create and direct on a whim, and which can even carry passengers. Creatures that stand against a djinni are assaulted by wind and thunder, even as the djinni spins away on that wind if outmatched in combat. When a djinni flies, its lower body transforms into a column of swirling air. Accepting Servitors. The djinn believe that servitude is a matter of fate, and that no being can contest the hand of fate. As a result, of all the genies, djinn are the ones most amenable to servitude, though they never enjoy it. Djinn treat their slaves more like servants deserving of kindness and protection, and they part with them reluctantly. A mortal who desires the brief service of a djinni can entreat it with fine gifts, or use flattery to bribe it into compliance. Powerful wizards are able to forgo such niceties, however, if they can summon, bind into service, or imprison a djinni using magic. Long-term service displeases a djinni, and imprisonment is inexcusable. Djinn resent the cruel wizards that have imprisoned their kind in bottles, iron flasks, and wind instruments throughout the ages. Betrayal, particularly by a mortal whom a djinni trusted, is a vile deed that only deadly vengeance can amend. Traits Elemental Demise : If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying. Innate Spellcasting : The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components: • At will: detect evil and good , detect magic , thunderwave • 3/day each: create food and water (can create wine instead of water), tongues , wind walk • 1/day each: conjure elemental (air elemental only), creation , gaseous form , invisibility , major image , plane shift Actions Multiattack : The djinni makes three scimitar attacks. Scimitar : Melee Weapon Attack : +9 to hit, reach 5 ft., one target. Hit : 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage. The djinni chooses either lightning or thunder when it makes the attack. Create Whirlwind : A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it. A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
 
-### Djinni
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: elemental
+- Source: MM1
+- Alignment: chaotic good
+- Challenge Rating: 11
 
-_Large Elemental (Genie), Neutral_
+**publisher**: Wizards of the Coast
 
-**AC** 17 **Initiative** +2 (12) <br>
-**HP** 218 (19d10 + 114) <br>
-**Speed** 30 ft., Fly 90 ft. (hover) <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>21</td>
-      <td>+5</td>
-      <td>+5</td>
-      <td><strong>DEX</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+6</td>
-      <td><strong>CON</strong></td>
-      <td>22</td>
-      <td>+6</td>
-      <td>+6</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>WIS</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+7</td>
-      <td><strong>CHA</strong></td>
-      <td>20</td>
-      <td>+5</td>
-      <td>+5</td>
-    </tr>
-  </tbody>
-</table>
-
-**Immunities** Lightning, Thunder<br>
-**Senses** Darkvision 120 ft.; Passive Perception 13<br>
-**Languages** Primordial (Auran)<br>
-**CR** 11 (XP 7,200; PB +4)
-
-#### Traits
-
-<hr>
-
-**_Elemental Restoration._** If the djinni dies outside the Elemental Plane of Air, its body dissolves into mist, and it gains a new body in 1d4 days, reviving with all its Hit Points somewhere on the Plane of Air.
-
-**_Magic Resistance._** The djinni has Advantage on saving throws against spells and other magical effects.
-
-**_Wishes._** The djinni has a 30 percent chance of knowing the _Wish_ spell. If the djinni knows it, the djinni can cast it only on behalf of a non-genie creature who communicates a wish in a way the djinni can understand. If the djinni casts the spell for the creature, the djinni suffers none of the spell's stress. Once the djinni has cast it three times, the djinni can't do so again for 365 days.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The djinni makes three attacks, using Storm Blade or Storm Bolt in any combination.
-
-**_Storm Blade._** _Melee Attack Roll:_ +9, reach 5 feet. _Hit:_ 12 (2d6 + 5) Slashing damage plus 7 (2d6) Lightning damage.
-
-**_Storm Bolt._** _Ranged Attack Roll:_ +9, range 120 feet. _Hit:_ 13 (3d8) Thunder damage. If the target is a Large or smaller creature, it has the Prone condition.
-
-**_Create Whirlwind._** The djinni conjures a whirlwind at a point it can see within 120 feet. The whirlwind fills a 20-foot-radius, 60-foot-high Cylinder centered on that point. The whirlwind lasts until the djinni's Concentration on it ends. The djinni can move the whirlwind up to 20 feet at the start of each of its turns. <br>
-&emsp;Whenever the whirlwind enters a creature's space or a creature enters the whirlwind, that creature is subjected to the following effect. _Strength Saving Throw:_ DC 17 (a creature makes this save only once per turn, and the djinni is unaffected). _Failure:_ While in the whirlwind, the target has the Restrained condition and moves with the whirlwind. At the start of each of its turns, the Restrained target takes 21 (6d6) Thunder damage. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success.
-
-**_Spellcasting._** The djinni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17): <br>
-&emsp;**At Will:** _Detect Evil and Good, Detect Magic_ <br>
-&emsp;**2/Day Each:** _Create Food and Water_ (can create wine instead of water), _Tongues, Wind Walk_ <br>
-&emsp;**1/Day Each:** _Creation, Gaseous Form, Invisibility, Major Image, Plane Shift_

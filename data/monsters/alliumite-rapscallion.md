@@ -1,0 +1,16 @@
+# Alliumite, Rapscallion
+
+**description**: The dapper onion person waves its kale-fronded hat in a grand sweep as it swings from the ship's mast. It shouts a quip in a strange language, making those nearby cry. Rapscallions crave adventure and leave their communal gardens to find it. With their natural aptitude for deft maneuvers and finesse, rapscallions easily find familiarity among scoundrels, acrobats, minstrels, and even sailors. Whether it is defending a full and hungry tavern from its cook's poorly seasoned stew or demanding a traveling merchant hand over produce as payment for safe passage, a rapscallion's swashbuckling efforts are never bland. Mischievous Problem Creators. Rapscallions usually mean trouble. Some sailors take them on long journeys at sea, counting on some help or possibly even a meal. But such plans hardly ever end well. Many a pirate has told a tale over grog of stolen rowboats flying vegetable-blazoned flags as alliumites commandeer the small vessels. When confronted, rapscallions fence with thorn-tipped rapiers and swing from vantage points with vine whips. Their well-timed insults carry a blinding sting. Plant Camouflage. The alliumite has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life. Tearful Stench. Each creature other than an alliumite within 5 feet of the alliumite when it takes damage must succeed on a DC 14 Constitution saving throw or be blinded until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Tearful Stench of all alliumites for 1 minute. Actions Multiattack. The rapscallion makes two Thorny Rapier attacks or one Thorny Rapier attack and one Grappelvine Whip attack. Thorny Rapier. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 3 (1d6) slashing damage. Grapplevine Whip. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (2d4 + 4) slashing damage. If the target is holding a weapon, it must succeed on a DC 14 Strength saving throw or drop the weapon. If it is holding more than one weapon, it drops only one. Reactions Grapplevine Escape. When a creature the rapscallion can see hits it with a melee attack, the rapscallion can use its whip to swing up to 20 feet away from the attacker, provided the nearby terrain includes a feature the rapscallion can use to swing, such as a branch, chandelier, ledge, mast, railing, or similar. This movement doesn't provoke opportunity attacks. Pungent Retort. When a creature the rapscallion can see within 60 feet of it starts its turn or casts a spell, the rapscallion issues forth a string of insults cleverly crafted to make a foe cry. If it can hear the rapscallion, the target must succeed on a DC 14 Wisdom saving throw or sob uncontrollably until the start of the rapscallion's next turn. A sobbing creature has disadvantage on ability checks and attack rolls and must succeed on a DC 14 Constitution saving throw to cast a spell that requires the spellcaster to see its target. The spellcaster doesn't lose the spell slot on a failure.
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: Plant
+- Alignment: Chaotic Neutral
+- Expansion: 19901
+- Challenge Rating: 2
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

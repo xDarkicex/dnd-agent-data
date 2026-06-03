@@ -1,0 +1,16 @@
+# Minotaur Lackey
+
+**description**: Despite their reputation, most minotaurs aren’t evil—but all are fearsome. These unusual creatures are a study in contrasts. Their imposing humanoid body is muscular with patches of thick hair. Their head is that of a massive horned bull, and their soft eyes convey a soulful intelligence mingled with smoldering intensity. Primal Rage. Minotaurs burn with fury. Some constantly desire to unleash this destructive energy on the world, and they attack anyone or anything that crosses their path. Others make it a point of pride to control their rage, only fighting when survival demands it. Regardless, once combat begins, minotaurs relish charging at foes with their great horns. In the heat of battle, a minotaur charges from one foe to the next, only retreating if victory is entirely impossible. Labyrinthine Origins. The first minotaur was once the human warrior Thesia “The Bull” Danaria, who dared challenge the Beast Lords of Kham. When her revolution was crushed, the Lords of Kham used their beastmagics to twist Thesia’s mortal body into a human-bull hybrid prone to fits of violent rage. The Beast Lords placed this minotaur at the center of a vast labyrinth and sent captured rebels to attack the monster. Many fell to Thesia’s anger—until a prisoner named Velathri took a chance, speaking to the minotaur instead of brandishing steel. He befriended Thesia, and in retribution, the Beast Lords made him a minotaur as well. This act was their undoing, for Thesia and Velathri fell in love. New minotaurs were born, and decades later, hundreds charged out of the maze together. These minotaurs reduced Kham to ruins, then they spread far and wide, fearing reprisal from neighboring lands. Even today, many minotaurs shun civilization, preferring to live in winding canyons, twisting ruins, bewildering dungeons, or other maze-like terrain where they can continue to hunt. However, a few can be found in nearly any terrain or settlement. Deep Bonds. Even evil minotaurs can be fiercely loyal friends, gladly charging into certain death for those they trust. These chosen friends never suffer the creature’s ire—but gods help them if they betray the minotaur. Traits Goring Run. If the lackey moves at least 20 feet straight toward an enemy and then ends their movement within 5 feet of the enemy, the enemy takes 1 piercing damage. Minion. If the lackey takes damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0. If the lackey takes damage from another effect, they die if the damage equals or exceeds their hit point maximum; otherwise they take no damage. Actions Goring Horns (Group Attack). Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 3 piercing damage. If this attack was made by more than one lackey, the target must succeed on a Strength saving throw or be moved 5 feet horizontally for each minion who joined the attack. The DC for this saving throw equals 10 plus the number of lackeys who joined the attack.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Monstrosity
+- Alignment: Typically Chaotic Neutral
+- Expansion: 25493
+- Challenge Rating: 3
+
+**publisher**: MCDM Productions
+
+**book**: Flee Mortals
+

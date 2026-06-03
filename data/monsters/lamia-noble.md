@@ -1,0 +1,16 @@
+# Lamia Noble
+
+**description**: The rare lamia noble is often mistaken for yuan-ti. They appear as large, handsome, or beautiful human aristocrats with the lower body of a giant constrictor serpent. They are an advanced, ancient, and insidious species of lamia with sorcerous powers and total dominion over the more common lion-bodied lamia. Despite their serpentine forms, they move with surprising grace. Shapechanging Infiltrators. While lesser lamias have to utilize their innate spellcasting abilities to disguise themselves, lamia nobles can shapechange to humanoid forms at will. They are also more capable of venturing further from their desolate lairs than other lamias. They enter civilized areas in the guise of wealthy merchants to spy and infiltrate the upper-class societies. They rarely show their true form, and anyone who discovers their true nature is swiftly and quietly eliminated. Traits Magic Resistance. The lamia has advantage on saving throws against spells and other magical effects. Sorcery Points. The lamia has 6 sorcery points. It can spend 1 or more sorcery points to gain one of the following benefits: Quickened Spell: When the lamia casts a spell that has a casting time of 1 action, it can spend 2 sorcery points to change the casting time to 1 bonus action for this casting. Subtle Spell: When the lamia casts a spell, it can spend l sorcery point to cast the spell without any somatic or verbal components. Spell Penetration. When the lamia casts a spell and is interrupted by an enemy's counterspell , treat the spell's level as 3 levels higher. Actions Multiattack. The lamia makes three attacks: two with its Longsword and one to Constrict. It can use Intoxicating Touch in place of one Longsword attack. Longsword. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage plus 10 (3d6) poison damage. Constrict. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is a Large or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the lamia can't use Constrict on another target. Intoxicating Touch. Melee Spell Attack: +7 to hit, reach 5 ft., one target. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks. Spellcasting. The lamia casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15, +7 to hit with spell attacks): At will: charm person, fire bolt (2d10), mage hand, major image, minor illusion, poison spray (2d12) 3/day each: fireball, mirror image, scrying (as an action), suggestion 1/day: geas Change Shape. The lamia magically transforms into a Small or Medium humanoid or back into its true form, while retaining its game statistics. This transformation ends if the lamia is reduced to 0 hit points or uses an action to end it. 
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Monstrosity
+- Alignment: Typically Chaotic Evil
+- Expansion: 17751
+- Challenge Rating: 8
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

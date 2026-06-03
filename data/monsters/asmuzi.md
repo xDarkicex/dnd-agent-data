@@ -1,0 +1,16 @@
+# Asmuzi
+
+**description**: This creature appears in The Tale of Two Sphinxes adventure! Lair Actions On initiative count 20 (losing initiative ties), Asmuzi can take a lair action to cause one of the following magical effects; she cannot use an effect again until she finishes a long or short rest: The flow of time is altered such that every creature in the lair must reroll initiative. Asmuzi can choose to not reroll. The effects of time is altered such that every creature in the lair must succeed on a DC 18 Constitution saving throw or become 1d20 years older or younger (Asmuzi's choice), but never any younger than 1 year old. A greater restoration spell can restore the creature's age to normal. The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (Asmuzi's choice). Only Asmuzi will be immediately aware of the time change. A wish spell can return the caster and up to seven other creatures designated by the caster to their normal time. Asmuzi shifts herself and up to seven other creature she can see within her lair to another plane of existence. Once outside her lair, she cannot use lair actions but she can return to her lair as a bonus action on her turn, taking up to seven other creatures with her. Traits Inscrutable. The sphinx is immune to any effect that would sense its emotions or read her thoughts, as well as any divination spell that she refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage. Magic Weapons. The sphinx's weapon attacks are magical. Spellcasting. The sphinx is a 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +8 to hit with spell attacks). It requires no material components to cast its spells. Asmuzi has the following cleric spells prepared: Cantrips (at will): spare the dying, resistance, guidance, thaumaturgy, mending 1st level (4 slots): bless, cure wounds, inflict wounds, shield of faith 2nd level (3 slots): prayer of healing, blindness/deafness, aid 3rd level (3 slots): lesser restoration, spiritual weapon, bestow curse 4th level (3 slots): death ward, freedom of movement, guardian of faith 5th level (3 slots): beacon of hope, revivify, greater restoration 6th level (1 slot): forbiddance 7th level (1 slot): conjure celestial 8th level (1 slot): earthquake 9th level (1 slot): true resurrection Actions Multiattack. The sphinx makes two claw attacks. Claw. Melee Weapon Attack. +9 to hit, reach 5 ft., one target. Hit: (2d8 + 4) slashing damage. Legendary Actions. Asmuzi can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. She regains spent legendary actions at the start of her turn. Claw Attack. The sphinx makes one claw attack. Teleport (Costs 2 Actions). The sphinx magically teleports along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see. Cast a Spell (Costs 3 Actions). The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: monstrosity
+- Alignment: lawful neutral
+- Expansion: 20627
+- Challenge Rating: 21
+
+**publisher**: Scribemind
+
+**book**: Uncaged Volume 1
+

@@ -1,0 +1,16 @@
+# Alen Maulev
+
+**description**: “I am the embodiment of art and science. (mechanical laugh)” Alen Maulev is a decapitated head floating in a jelly-like substance within glass placed on an automaton’s chest. He was an obsessed, brave man who devoted himself to his work on bloodwork automatons and immortality. Through his research, he has found a way to adapt humanoid brains to bloodwork automatons. Even though he refuses to reveal the details of this procedure, he guarantees that he will live for hundreds of years. This cross between automaton and human can be seen in his fancy clothes, telling bizarre jokes in his mechanical voice. Alen’s Story Alen was a young, passionate scientist when he first arrived in Tolia. He was searching for new and “fun” ways to become immortal. Becoming a lich seemed like a difficult and painful way to live forever, and liches had an extremely bad reputation. He thus first studied blood and vampirism in Kanrath. Then, with the invention of bloodwork automatons, he started to work on those as well. He moved to Cyherested and studied automatons in CADRAC . Within a decade, he was considered an expert on this subject. He agreed to teach lessons in CADRAC, in return for funding for his experiments. As he continued his work, he came up with a way to implement brains on bloodwork automatons, which he slaughtered many animals and performed inhumane experiments on prisoners to achieve. One day after several decades of starting his research, he showed up to class in his current form, an automaton body with his head attached on the chest. He often talks about the shock and awe in the reactions of his students, narrating the event as a fun story. The truth is, he first “strengthened” his blood through some form of leech therapy and sorcerer magic, then rebuilt automaton parts and rewired them to receive orders from organic material. After that, he experimented on thousands of animals, beasts, and humanoids to see the reactions and possible side effects the procedure would have. He made hundreds of rearrangements and alterations before he tried it on himself. It was a gamble to be sure, but he survived. Alen’s Goals Alen believes he has already achieved his life goal, which was to become immortal. Now, he wishes to correct tiny faults about his automaton body and to enjoy his life. He also aims to keep the procedure a secret, since he wants to remain the one and only scientist who can carry it out. He refuses to talk about the procedure and never shares his notes with anyone. Roleplaying Alen Alen is a curious man who likes to talk about many things. Although his mechanical voice and motionless decapitated head doesn’t display any emotion, he talks faster when he gets angry or excited. Alen in Combat Alen avoids any interaction that may harm his body, so he tries to avoid combat at all cost. He has 2 Bloodwork Automatons (soldier) with him at all times. There is an urban legend saying that a metallic angel would rush to Alen’s side if he was ever in dire straits, which no one can confirm or deny.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: construct
+- Alignment: chaotic evil
+- Expansion: 24099
+- Challenge Rating: 5
+
+**publisher**: Dream Realm Storytellers
+
+**book**: Bloodpunk - A Guide to Tolia Campaign Setting
+

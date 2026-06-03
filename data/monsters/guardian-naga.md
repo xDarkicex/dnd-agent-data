@@ -1,86 +1,17 @@
 # Guardian Naga
 
-## Guardian Naga
+**description**: “If you destroy me, I will return, and everyone you care about will suffer for it.” —Explictica Defilus, spirit naga Nagas Nagas are intelligent serpents that inhabit the ruins of the past, amassing arcane treasures and knowledge. The first nagas were created as immortal guardians by a humanoid race long lost to history. When this race died out, the nagas deemed themselves the rightful inheritors of their masters’ treasures and magical lore. Industrious and driven, nagas occasionally venture out from their lairs to track down magic items or rare spellbooks. Nagas never feel the ravages of time or succumb to sickness. Even if it is struck down, a naga’s immortal spirit reforms in a new body in a matter of days, ready to continue its eternal work. Benevolent Dictators and Brutal Tyrants. A naga rules its domain with absolute authority. Whether it rules with compassion or by terrorizing its subjects, the naga believes itself the master of all other creatures that inhabit its domain. Rivalry. Nagas have a long-standing enmity with the yuan-ti, with each race seeing itself as the epitome of serpentine evolution. Though cooperation between them is rare, nagas and yuan-ti sometimes set aside their differences to work toward common objectives. However, yuan-ti always chafe under a naga’s authority. Immortal Nature. A naga doesn’t require air, food, drink, or sleep. Guardian Naga Wise and good, the beautiful guardian nagas protect sacred places and items of magical power from falling into evil hands. In their hidden redoubts, they research spells and hatch convoluted plots to thwart the evil designs of their enemies. A guardian naga doesn’t seek out violence, warning off intruders rather than attacking. Only if its foes persist does the naga attack, accosting enemies with its spells and poisonous spittle. Traits Rejuvenation : If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning. Spellcasting : The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared: • Cantrips (at will): mending, sacred flame, thaumaturgy • 1st level (4 slots): command, cure wounds, shield of faith • 2nd level (3 slots): calm emotions, hold person • 3rd level (3 slots): bestow curse, clairvoyance • 4th level (3 slots): banishment, freedom of movement • 5th level (2 slots): flame strike, geas • 6th level (1 slot): true seeing Actions Bite : Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one. Spit Poison : Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. Hit: 45 (10d8) poison damage. The target must make a DC 15 Constitution saving throw, taking full damage on a failed save, or half as much damage on a successful one.
 
-### Guardian Naga
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: monstrosity
+- Source: MM1
+- Alignment: lawful good
+- Expansion: 2
+- Challenge Rating: 10
 
-_Large Celestial, Lawful Good_
+**publisher**: Wizards of the Coast
 
-**AC** 18 **Initiative** +4 (14) <br>
-**HP** 136 (16d10 + 48) <br>
-**Speed** 40 ft., Climb 40 ft., Swim 40 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>19</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>DEX</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+8</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+7</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+7</td>
-      <td><strong>WIS</strong></td>
-      <td>19</td>
-      <td>+4</td>
-      <td>+8</td>
-      <td><strong>CHA</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+8</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Arcana +11, History +11, Religion +11<br>
-**Immunities** Poison; Charmed, Paralyzed, Poisoned, Restrained<br>
-**Senses** Darkvision 60 ft.; Passive Perception 14<br>
-**Languages** Celestial, Common<br>
-**CR** 10 (XP 5,900; PB +4)
-
-#### Traits
-
-<hr>
-
-**_Celestial Restoration._** If the naga dies, it returns to life in 1d6 days and regains all its Hit Points unless _Dispel Evil and Good_ is cast on its remains.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The naga makes two Bite attacks. It can replace any attack with a use of Poisonous Spittle.
-
-**_Bite._** _Melee Attack Roll:_ +8, reach 10 ft. _Hit:_ 17 (2d12 + 4) Piercing damage plus 22 (4d10) Poison damage.
-
-**_Poisonous Spittle._** _Constitution Saving Throw:_ DC 16, one creature the naga can see within 60 feet. _Failure:_ 31 (7d8) Poison damage, and the target has the Blinded condition until the start of the naga's next turn. _Success:_ Half damage only.
-
-**_Spellcasting._** The naga casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save DC 16): <br>
-&emsp;**At Will:** _Thaumaturgy_ <br>
-&emsp;**1/Day Each:** _Clairvoyance_, _Cure Wounds_ (level 6 version), _Flame Strike_ (level 6 version), _Geas_, _True Seeing_

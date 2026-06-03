@@ -1,0 +1,15 @@
+# Evening Moon
+
+**description**: Eclipse, the Moon and Stars Item Set. When the magics of morning star and evening moon become intertwined through attunement to a single wielder, their innate dunamantic magics coalesce to create a miniature solar system. While you are attuned to both morning star and evening moon, you gain the following benefits: The attack and damage bonus of each weapon increases by 1, to a maximum of +3. You can use the Orbit and Eclipse properties, described below. Orbit. While holding both evening moon and morning star, you can use a bonus action to cause evening moon to begin orbiting you. As part of this bonus action, and as a bonus action on subsequent turns for as long as it remains in orbit, you can make one attack with evening moon against any creature within 15 feet of you. Evening moon orbits you at a distance of two feet, and while in orbit, you can’t use it to attack except with this property. You can catch evening moon (no action required) at any point. A creature within 5 feet of you can use its action to make a DC 21 Dexterity (Acrobatics) check, catching evening moon on a success or taking 1d6 slashing damage on a failure. Eclipse. As a bonus action while evening moon is orbiting you, you can cause it to hover in front of you instead, casting you in a dark obscuring light and granting you the benefits of the blur spell for 1 minute, or until you catch it or make an attack with it. Once this property of the set has been used, it can’t be used again until the next dawn. Evening Moon Weapon (chakram), rare (requires attunement) Component: pouch of celestial dust This three-quarter chakram can sustain itself in flight, returning to its wielder after lacerating its target. Equally lethal in both melee and ranged combat, this weapon is favoured by assassins of the astral sea for its ability to create a moving sphere of shadow, aiding its wielder to slip through enemy lines unseen, even in broad daylight. You gain a +1 bonus to attack and damage rolls made with this magic weapon, which returns to your hand immediately after it is used to make a ranged attack. When you hit a creature with the Shapechanger trait with this weapon, it must succeed on a DC 15 Constitution saving throw or instantly revert to its original form and be unable to assume a different form for 1 minute. Dusk. While holding this weapon, you can use an action to create a 10-foot sphere centred on you which is filled with dim light. This sphere lasts for 1 hour or until you dismiss it as a bonus action, and it follows you when you move. While in this area, you can try to hide when lightly obscured, and you can take the Hide action as a bonus action. Once this property of the weapon has been used, it can’t be used again until the next dusk.
+
+**properties**:
+- Category: Items
+- Item Type: Weapon (Chakram)
+- Properties: Light, Finesse, Thrown (range 30/90), and Thrown Versatility (1d6)
+- Item Rarity: rare
+- Requires Attunement: requires attunement
+
+**publisher**: Loot Tavern
+
+**book**: L’Arsene’s Ledger of Treasures and Trinkets
+

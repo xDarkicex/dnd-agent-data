@@ -1,0 +1,16 @@
+# Shaytan Planetar
+
+**description**: Demon lords recognize the might of a shaytan planetar and place them in key positions, such as in the frontline of a demon lord's army directing the main assault or as a main guardian in one of their strongholds. If a powerful entity or group needs to be rid of, such as a party of adventurers, a demon lord might dispatch a shaytan planetar. Angels, Shaytan While most fallen angels have usually gone astray due to Asmodeus' corruption, some have succumbed to the temptations of Graz'zt, The Dark Prince of Pleasure, or Malcanthet, the Succubus Queen. These angels are known as shaytan or shayatin. Once beautiful and majestic, they have turned into dark and hateful opposites of their former selves. Shadow Fiends. No longer celestials, these angels have lost some of their powers, including fast flight speed, magic resistance, and the ability to project radiant energy. These changes resulted in driving most of them insane. Now reborn as fiends, they draw their power from the Shadowfell and the Abyss. Their bodies are always cloaked with oozing shadows and their eyes limned with abyssal fire. Demonic Servants. Once messengers and executors of the will of their gods, they now serve Demon Princes as assassins and generals, often leading shadow demons in their missions. Twisted and vengeful, they scheme and bide their time until an opportunity presents itself where they can wreak havoc and deal the most damage against their former gods who have forsaken them, often striking at those who worship them. Traits Fiendish Weapons. The shaytan's weapon attacks are magical. When the shaytan hits with any weapon, the weapon deals an extra 22 (5d8) necrotic damage (included in the attack). Actions Multiattack. The shaytan makes two Greatsword attacks. It can use Life Drain in place of one Greatsword attack. Greatsword. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) slashing damage plus 22 (5d8) necrotic damage. Life Drain (4/Day). Melee Weapon Attack: +10 to hit, reach 5 ft., one creature. Hit: 27 (6d8) necrotic damage. The target must succeed on a DC 20 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. Spellcasting. The shaytan casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 19): At will: detect evil and good, invisibility (self only) 3/day each: blade barrier, contagion, create undead (as an action), flame strike 1/day each: control weather (as an action), harm, insect plague Bonus Actions Shadow Stealth. While in dim light or darkness, the shaytan takes the Hide action. Shadow Step. While in dim light or darkness, the shaytan teleports up to 60 feet to an unoccupied space it can see that is also in dim light or darkness. It has advantage on the first melee attack it makes before the end of the turn.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Fiend (Demon)
+- Alignment: Typically Chaotic Evil
+- Expansion: 17751
+- Challenge Rating: 16
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

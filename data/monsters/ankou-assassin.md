@@ -1,0 +1,16 @@
+# Ankou Assassin
+
+**description**: Ankou Ankous are shadowy killers who serve powerful fey creatures or demigods. Amid the courts of the Eldest or of powerful fey rulers, these sinister assassins lurk overhead as they await the call to action—implied threats akin to deadly weapons hung as decor in a royal hall. Two types of ankous play roles in Kingmaker—the typical ankou and the more dangerous assassins. Ankous never speak aloud; when they feel the need to communicate at all, they do so in a telepathic whisper directly into a victim’s mind (although they still must be able to understand the victim’s language in order to communicate). While an ankou’s body is made of strange, fleshy material, its claws and the cruel hooks on its wings are made of razor sharp cold iron, a quality that makes them feared among other fey. A typical ankou is 10 feet tall, has an 8-foot wingspan, and weighs less than 80 pounds. Ankou Assassin The ankou assassins who serve Nyrissa have trained in the arts of pain and slaughter, relying on their natural weapons to carry out their murderous missions. Ankou assassins like these could well serve other powerful fey, or even some of the Eldest as instruments of punishment. Traits Assassinate. During its first turn, the ankou assassin has advantage on attack rolls against any creature that hasn’t taken a turn. Any hit the ankou assassin scores against a surprised creature is a critical hit. Innate Spellcasting. The ankou assassin’s innate spellcasting ability is Charisma (spell save DC 19). The ankou assassin can innately cast the following spells, requiring no material components: At will: darkness 1/day: circle of death, locate person, mirror image, project image, silence, teleport Magic Weapons. The ankou assassin’s weapon attacks are magical. Shadow Doubles (1/Day). The ankou assassin summons 4 shadow copies which appear within 60 feet of the ankou and remain for 6 rounds. The copies act on the ankou’s initiative, have 20% of the ankou’s current hit points, can make only one claw attack on its turn, and have none of the ankou’s other special abilities or spellcasting. A copy disappears if the ankou is ever more than 120 feet away, or unconscious, or if a light, sunlight, or similar spell illuminates it. Sneak Attack (1/Turn). The ankou assassin deals an extra 31 (9d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the ankou assassin that isn’t incapacitated and the ankou assassin doesn’t have disadvantage on the attack roll. Actions Multiattack. The ankou assassin makes two attacks: one with its claws and one with its wings. Claws. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 20 (3d8+7) slashing damage. Wing. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (2d12+7) slashing damage, and the target must make a DC 17 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: fey
+- Alignment: lawful evil
+- Expansion: 17526
+- Challenge Rating: 17
+
+**publisher**: Paizo
+
+**book**: Kingmaker Bestiary (5e)
+

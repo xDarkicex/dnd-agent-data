@@ -1,0 +1,13 @@
+# Holy Robes of Sister Adelind
+
+**description**: Wondrous item, legendary (requires attunement by a creature of good alignment) This priceless relic is a round, golden locket about two inches in diameter, engraved with the holy symbol of the goddess Sif, a brace of arrows. The locket hangs on a gold chain fashioned from delicate, hexagonal links and acts as a reliquary. A grubby scrap of blue cloth sits inside the locket. This scrap of cloth is from the robes of the martyr Sister Adelind, who killed the vampire lord Otmar the Sallow at Yarosbirg before dying at the hands of a large pack of ghouls. While wearing the Holy Robes of Sister Adelind, you can't be charmed or frightened by undead creatures. It has the following additional properties: Holy Protection. You have advantage on saving throws against spells cast by undead creatures. Once you have succeeded on five such saving throws, this property goes dormant and doesn't provide you with its benefit again until the next dawn. Sacred Flame. You can use an action to cast the sacred flame cantrip from it at will, using your character level and your spell save DC or DC 15, whichever is higher. Radiant Burst. The relic also has 5 charges. You can expend 1 charge and use your action to unleash a burst of sunlight. Any magical darkness within 30 feet of you is dispelled, and each undead creature within 15 feet of you must make a DC 15 Constitution saving throw, taking 21 (6d6) radiant damage on a failed save, or half as much damage on a successful one. The relic regains 1d4 + 1 expended charges daily at dawn. Using the Holy Robes in Empire of the Ghouls This item is a major relic of Sif’s faith in Midgard and becomes available to the characters early in Empire of the Ghouls. It is intended to be with the characters as they journey through the adventure, providing them aid in many encounters. As a legendary item, it is more powerful than the average item characters of that level should possess. The item’s Radiant Burst feature alone gives the characters some firepower that could prove powerful in certain parts of the adventure. To balance the power of the item with the level of the characters, we recommend changing the Holy Robes’ maximum charges to 2 when the characters first receive it and increasing that maximum by 1 at the conclusion of chapters 3, 4, and 5, putting the item at its full strength as the characters head into Chapter 6.
+
+**properties**:
+- Category: Items
+- Item Type: Adventuring Gear
+- Item Rarity: legendary (requires attunement by a creature of good alignment)
+
+**publisher**: Kobold Press
+
+**book**: Empire of the Ghouls
+

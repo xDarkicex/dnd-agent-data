@@ -1,0 +1,16 @@
+# Gnoll Mage-Gorger
+
+**description**: Gnolls aren’t humanoids, but hyena-faced fiends— created by a dead demon lord, they carry his evil legacy wherever they roam. Originally from the Abyssal Wasteland, gnolls quickly spread across the timescape, and they thrive in deserts, plains, and other sparsely populated places. Though a gnoll’s muzzle is just as likely to be bloodied by carrion as by prey, their hunting packs hunger for violence, and they eagerly hunt travelers and raid settlements. The pack’s eerie war cry, a wild cackle, presages a night of battle and terror. Born from Blood. The Abyssal Wasteland is an alien landscape hostile to most life. Yet amidst its desolation, fiendish creatures thrive, including abyssal hyenas—blood- thirsty scavengers who fight with other lesser fiends over the corpses of demons. The first gnolls arose when a pack of these predators lapped at the ichor oozing from the wounds of a dying demon prince, As’sylrak the Warper. As his last act, the demon gave the fiendish hyenas a demonic cunning to match their insatiable hunger, bound his evil will to theirs, and turned their paws into hands so they could wield weapons. He called these new fiends “gnoll,” an Abyssal word that has many meanings, one of which is “to consume completely.” And true to their name, the gnolls immediately devoured their creator. Ceaseless Hunger. The merciless gnolls quickly spread across the timescape in search of new victims to quench their never-ending hunger. Their packs were followed by some of the abyssal hyenas who didn’t receive As’sylrak’s blessing; these tagalongs enjoy the castoffs of the gnoll packs. Gnolls never forgot the day when they tasted immortal flesh—and they hunger for more, longing for a day when gnolls hunt the gods themselves through heavenly halls. Gnoll War. Most gnolls live for the thrill of the hunt and the taste of flesh, and they aren’t choosy with their targets. Perhaps the one saving grace for most humanoid communities is that gnoll war bands battle each other for territory, keeping their numbers reduced. Traits Life Eater. When an enemy the mage-gorger can see within 30 feet of them regains hit points, the mage-gorger chooses one non-minion ally they can see within 30 feet of them. That ally regains 2 hit points. Minion. If the mage-gorger takes damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0. If the mage-gorger takes damage from another effect, they die if the damage equals or exceeds their hit point maximum; otherwise they take no damage. Actions Wizard Ripper (Group Attack). Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 slashing damage plus 2 acid, cold, fire, or lightning damage (mage-gorger’s choice), and until the start of the mage-gorger’s next turn, the target has disadvantage on Constitution saving throws made to maintain concentration, including any Constitution saving throw triggered by this attack. Only one damage type is chosen for this attack regardless of how many mage-gorgers joined it.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fiend (Gnoll)
+- Alignment: Typically Chaotic Evil
+- Expansion: 25493
+- Challenge Rating: 4
+
+**publisher**: MCDM Productions
+
+**book**: Flee Mortals
+

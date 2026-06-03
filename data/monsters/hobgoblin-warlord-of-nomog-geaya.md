@@ -1,0 +1,16 @@
+# Hobgoblin Warlord of Nomog-Geaya
+
+**description**: This hobgoblin is a cunning and oppressive general favored by Nomog-Geaya, the ironfisted hobgoblin deity of tyranny and war who serves Maglubiyet in military matters. This warlord commands entire hobgoblin armies with brutal and ruthless efficiency. In combat, the warlord prefers to direct its troops and watch how its strategies unfold. If forced to fight, however, the warlord is more than just a capable fighter. It is an expert in fighting with a longsword and a handaxe, able to parry foes with either weapon and surprising them with a counter blow. Traits Aura of Tyranny. An ally that is within 30 feet of the hobgoblin and can see and hear the hobgoblin and has less hit points than the hobgoblin has advantage to saving throws against being charmed and frightened, provided that the hobgoblin isn't incapacitated. Martial Advantage. Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated. Actions Multiattack. The hobgoblin makes two attacks: one with its Longsword and one with its Handaxe. Longsword. Melee Weapon Attack: +6 to hit, one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands. Handaxe. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) slashing damage. Rally Allies (1/Day). Up to ten allies within 60 feet of the hobgoblin and can hear the hobgoblin gain advantage to attack rolls and saving throws until the start of the hobgoblin's next turn. Bonus Actions Nomog-Geaya's Command. The hobgoblin targets one allied hobgoblin it can see within 30 feet of it. If the target can see or hear the hobgoblin, the target can use its reaction to make one melee attack with advantage on the roll. If the target misses, it takes 5 (1d10) psychic damage. Reactions Parry and Counter. The hobgoblin adds 3 to its AC against one melee or ranged weapon attack that would hit it. To do so, it must be able to see the attacker and be wielding a melee weapon. If the attack misses, the hobgoblin can make one melee attack against the attacker if it is within its reach. Legendary Actions The hobgoblin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The hobgoblin regains spent legendary actions at the start of its turn. Charge. The hobgoblin moves up to its speed. Double Attack (Costs 2 Actions). The hobgoblin makes two attacks: one with its Longsword and one with its Handaxe. Terrify Foes (Costs 1-3 Actions). The hobgoblin targets up to 3 creatures it can see within 30 feet of it. If the target can see and hear the hobgoblin, the target must succeed on a DC 13 Wisdom saving throw or become frightened until the end of the hobgoblin's next turn. A target is paralyzed while frightened in this way. It costs 1 legendary action per target.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Goblinoid)
+- Alignment: typically Lawful Evil
+- Expansion: 26536
+- Challenge Rating: 5
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded III
+

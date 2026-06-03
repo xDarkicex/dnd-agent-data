@@ -1,0 +1,16 @@
+# Kobold, Sapper
+
+**description**: The kobold's scales are covered in soot. and a bit of smoke trickles up from its gear. It excitedly pores over maps and floorplans. A sapper's job is to helps their allies move, fight, and survive. As combat engineers they take on a wide variety of roles, but what they cherish most is blowing up enemy defenses. Breaking Things. Sappers are adept at breaking things: tunneling into fortresses, destroying bridges, busting through fortifications, or similar acts of structural destruction. Whether able to plan for weeks or forced to improvise on the spot, they have a hundred solutions for every problem—some of which will likely even minimize collateral damage. Black Powder. By far, black powder is the sapper's favored tool, and few problems can't be solved with it. Black powder isn't always available, but that doesn't stop sappers. With just a little time, sappers can formulate magical explosions without the need for black powder, using what's on hand and a guarded alchemical formulation or two. Crafty. The sapper has advantage on ability checks made to pick locks or to detect, disarm, or set traps. Evasion. If the sapper is subjected to an effect that allows a Dexterity saving throw to take only half damage, the sapper instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. Pack Tactics. The sapper has advantage on attack rolls against a target if at least one of the sapper's allies is within 5 feet of the target and the ally isn't incapacitated. Siege Monster. The sapper deals double damage to objects and structures. Sunlight Sensitivity. While in sunlight, the sapper has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Actions Multiattack. The sapper makes three Mining Pick attacks. It can replace one attack with a use of Throw Explosive. Mining Pick. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage. Throw Explosive. The sapper throws a minor explosive at one creature it can see within 30 feet of it. The target must make a DC 13 Dexterity saving throw. On a failure, a creature takes 9 (2d8) force damage and is knocked prone. On a success, a creature takes half the damage and isn't knocked prone. Explosive Charge (Recharge 5-6). The sapper throws a powerful explosive at a point it can see on the ground within 60 feet of it. Each creature within 15 feet of that point must make a DC 13 Dexterity saving throw. On a failure, a creature takes 9 (2d8) fire damage and 9 (2d8) force damage and is pushed up to 10 feet away from the point and knocked prone. On a success, a creature takes half the damage and isn't pushed or knocked prone. If a creature fails the saving throw by 5 or more, it is also deafened for 1 minute. Alternatively, the sapper can place the explosive in a space within 5 feet of it and delay the explosion until the end of the sapper's next turn or when a creature moves to a space within 5 feet of the explosive, whichever happens first.
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: Humanoid (Kobold)
+- Alignment: Lawful Neutral
+- Expansion: 19901
+- Challenge Rating: 3
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

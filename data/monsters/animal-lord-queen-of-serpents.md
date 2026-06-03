@@ -1,0 +1,16 @@
+# Animal Lord, Queen of Serpents
+
+**description**: This brown-skinned, black-haired woman of regal bearing has her hair up and wears a gold tiara. She is wrapped in a cloak of snake scales, bearing a design like the spectacle markings on a king cobra. Reclusive Seer. Shahmaran the Wise, as she is known in the lands near her home, is an oracle of minor fame. She delivers advice on matters material and mystical and has the favor of the benevolent desert gods. She seldom leaves the ancient stone chambers carved into her mountain home, but those seeking her counsel arrive with enough frequency to keep her informed of the outside world. They call her the Serpent-Kissed; her abode is awash with serpents, yet no one comes to harm there unless they seek to do harm to Shahmaran. Queen of Serpents. Known only to a few, Shahmaran is also an animal lord, the Queen of Serpents, who bears the mantle of protector of such creatures and treats with the gods on their behalf. The association of evil with serpents makes this a difficult task, and she secretly spends much of her time away from her home on errands and missions to keep her charges from dangers that threaten their existence and reputation. She is the only Queen of Serpents, and when she is killed a new queen rises within days. Civic Mediator. The Queen of Serpents sees a connection between the well-being of her charges and that of humanoids in general. She's noted that humans in particular only begin worshipping serpents in undesirable ways or killing them in droves when the humans' own fortunes begin to flag. Therefore, Shahmaran, on occasion, intercedes to restore order where there is chaos among humans, though she does so while attempting to conceal her involvement. The Queen of Serpents' Lair The Queen of Serpents resides in an ancient stone labyrinth deep in a mountain between a rainforest and a desert. In the winter months and during the rainy season, she can be found in her lair surrounded by tens of thousands of hibernating snakes. During this time, she relies heavily on information from her non-serpentine sources. When the weather changes, she often exits her lair to interact with the humanoid settlements nearby. Regional Effects The mountain where the Queen of Serpents lives is warped by her presence, which creates one or more of the following effects: The area within 5 miles of the lair attracts thousands of snakes. The Queen of Serpents can choose to see or hear through the senses of any snake in this area and can speak through it while doing so. Snakes and serpentine creatures within 5 miles of the Queen of Serpents' lair have advantage on all Dexterity (Stealth) checks made to hide. The Queen of Serpents leaves no physical evidence of her passage when within 1 mile of her lair unless she wishes to. In addition, creatures and plants native to her domain don't cause her harm or cost her extra movement when she moves through the area. If the Queen of Serpents dies, these effects fade over the course of 1d10 days.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: fey (shapechanger)
+- Alignment: lawful neutral
+- Expansion: 45
+- Challenge Rating: 12
+
+**publisher**: Kobold Press
+
+**book**: Creature Codex
+

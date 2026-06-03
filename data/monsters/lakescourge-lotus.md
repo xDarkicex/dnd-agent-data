@@ -1,0 +1,16 @@
+# Lakescourge Lotus
+
+**description**: A waterlogged cadaver with a gaping hole in its chest rises to the surface of the water. Elongated forearms hang limply at its sides, their claws dripping a sickly blue ichor. Glowing blue veins extend from a pulsing, flowering seed in its chest. The followers of an evil water god created the lakescourge lotus by implanting seeds in the chest of waterlogged corpses; the seeds spread vein-like roots and necrotic energy into the body. The resulting undead seek to destroy settlements built near rivers, lakes, and other bodies of water, and they are often found submerged near the water's edge. Passers-by who look in find a distorted, monstrous reflection returning their gaze. Tainted Waters. The blighted seed produces a foul-smelling, dark blue ichor that the lotus can inject into its prey, poisoning it. Worse, this ichor slowly poisons the waters inhabited by the lotus, killing wildlife and sickening those that drink from it. Toxic Ichor. While submerged in water, the lakescourge lotus's ichor taints the water within 10 feet of it. When a creature enters the area for the first time on a turn or starts its turn there, that creature must succeed on a DC 15 Constitution saving throw or be poisoned while it remains in the area and for 1 minute after it leaves. A poisoned creature that is no longer in the water can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the purify food and drink spell is cast on a space within 5 feet of the lakescourge lotus or on the space it occupies, this trait ceases to function for 1 minute. Undead Nature. The lakescourge lotus doesn't require air, food, drink, or sleep. Waterwalker. The lakescourge lotus can walk across the surface of water as if it were solid ground. This trait otherwise works like the water walk spell but isn't itself magical. Actions Multiattack. The lakescourge lotus makes two Tainted Claw or Poisonous Water Jet attacks. Tainted Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 9 (2d8) poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned for 1 minute. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Poisonous Water Jet. Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 15 (3d8 + 2) poison damage. Enter Reflection. The lakescourge lotus touches a body of water large enough to hold it and becomes a reflection on the surface of the water. While in this form, the lotus has immunity to bludgeoning, piercing, and slashing damage from nonmagical attacks and resistance to bludgeoning, piercing, and slashing damage from magical attacks. While a reflection, its speed is reduced to 5 feet, it can't make Tainted Claw attacks, and it can revert to its true form as a bonus action. If the lakescourge lotus takes damage that isn't bludgeoning, piercing, or slashing while it is a reflection, it is forced back into its true form.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead
+- Alignment: Chaotic Evil
+- Expansion: 19901
+- Challenge Rating: 5
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

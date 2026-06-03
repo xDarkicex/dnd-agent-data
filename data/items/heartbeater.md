@@ -1,0 +1,14 @@
+# Heartbeater
+
+**description**: Weapon (flail), rare (requires attunement) Component: humanoid heart Carrying a heartbeater is an honour bestowed upon the most devoted of the Knights Penitent. It symbolises their eternal punishment, which is both an agonising cage and a source of great power. Only those willing to suffer for their convictions and sacrifice their own humanity can unlock the true power of this macabre weapon. This flail has 3 charges and regains 1d3 expended charges daily at dawn. Rip Cage. While holding the flail, you can use an action to magically rip your own heart from your chest and transfer it to the cage in the weapon without killing yourself, taking 2d6 necrotic damage in the process. This damage can’t be reduced or prevented in any way. While your heart is in the cage, your creature type is undead, and the flail deals an extra 1d6 necrotic damage on a hit. Your heart remains in the cage until you use a bonus action to take it back into yourself, or until you finish a short or long rest. Hollow Beat. While your heart is in the cage, you can cast the chill touch cantrip at will (+7 to hit). When cast in this way, the spell creates a ghostly heart with writhing blood vessels instead of a skeletal hand. In addition, when you hit a creature with an attack using the flail, you can expend 1 charge to immediately cast the chill touch cantrip targeting that creature (+7 to hit, no action required).
+
+**properties**:
+- Category: Items
+- Item Type: Weapon (flail)
+- Item Rarity: rare
+- Requires Attunement: requires attunement
+
+**publisher**: Loot Tavern
+
+**book**: Motes of the Divine
+

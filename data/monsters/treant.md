@@ -1,84 +1,16 @@
 # Treant
 
-## Treant
+**description**: Trees awakened to consciousness by archdruids, treants care for the forest, nature, and the world as stewards and wardens. A face forms on their upper trunk, and their lower trunk divides into two legs. Vines twirl around the treant’s flexible branches, which act as powerful arms that end in claws of sharpened wood. Chosen Ones. Archdruids can imbue a special sapling with transformative magic, bringing a treant sapling to life. This ritual is no ordinary plant awakening, and the saplings are carefully chosen for their appreciation of the natural beauty of the world and their desire to nurture it. Occasionally, an awakened sapling survives for thousands of years—often by retreating into the depths of an ancient forest—and grows to become a true treant. Most treants hold fast to their passion for nature and swear to defend the forest that allowed them to grow old and strong. Ripple Awakenings. Though the first treants were created by archdruids, an ancient treant can themself create new treants by bonding with a tree for a decade, then awakening the plant. The more ancient and undisturbed a forest, the more likely it holds a grove of treants ready to defend the land. Nature’s Guardians. Treants are profoundly attuned to nature and their home forest. Many treant groves guard special areas, such as a druid’s grove or a source of primal magic. These staunch protectors don’t hesitate to confront questionable travelers, and they’re likely to attack those who act recklessly toward the forest. Violence is rarely a treant’s first course of action, but they have no interest in negotiating with anyone they deem untrustworthy. A provoked treant offers a single stern warning, which only the most foolish intruders ignore. When enemies inevitably flee, the treant rarely gives chase outside the bounds of their woods, satisfied they have defended their charge. One with the Forest. The magic within treants touches the webs of magic connecting their forest, allowing them to call forth vines and heal allies. Their roots sense the vibrations of nearby creatures. Treants can speak with both plants and animals, many of whom who act as their scouts. Treant Arrows. When another creatures risks their life for the forest standing side by side with a treant, the plant rewards the bravery by giving them one or more treant arrows. Traits False Appearance. While the treant remains motionless, they are indistinguishable from a normal tree. Actions Multiattack. The treant makes two Thorned Tendril attacks. Thorned Tendril. Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (4d6 + 5) piercing damage, and the target is grappled (escape DC 15). While grappled in this way, a target is restrained and takes 7 (2d6) piercing damage at the start of each of their turns. Swinging Tendrils (Recharge 6 ). The treant swings the creatures they are grappling in violent circles. Each creature grappled by the treant takes 26 (4d12) bludgeoning damage, and the treant can move them into an unoccupied space the treant can see within 15 feet of the treant. All other creatures within 15 feet of the treant must make a DC 17 Dexterity saving throw. On a failed save, a creature takes 26 (4d12) bludgeoning damage per creature grappled by the treant. On a successful save, a creature takes half as much damage. Bonus Actions Healing Growth ( 1 /Day). Each creature of the treant’s choice within 30 feet of them regains 17 (3d8 + 4) hit points. Reel and Wrap. The treant wraps one creature they have grappled in thick vines, pulling the target up to 10 feet toward them. The target can’t speak until the grapple ends. Utility Spells In addition to any other spells in this stat block, the treant can cast the following spells, using Wisdom as the spellcasting ability (spell save DC 16): At will: speak with animals A , speak wit h plants A
 
-### Treant
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Plant
+- Alignment: Typically Neutral
+- Expansion: 25493
+- Challenge Rating: 9
 
-_Huge Plant, Chaotic Good_
+**publisher**: MCDM Productions
 
-**AC** 16 **Initiative** +3 (13) <br>
-**HP** 138 (12d12 + 60) <br>
-**Speed** 30 ft. <br>
+**book**: Flee Mortals
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>23</td>
-      <td>+6</td>
-      <td>+6</td>
-      <td><strong>DEX</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>CON</strong></td>
-      <td>21</td>
-      <td>+5</td>
-      <td>+5</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>WIS</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>CHA</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Vulnerabilities** Fire<br>
-**Resistances** Bludgeoning, Piercing<br>
-**Senses** Passive Perception 13<br>
-**Languages** Common, Druidic, Elvish, Sylvan<br>
-**CR** 9 (XP 5,000; PB +4)
-
-#### Traits
-
-<hr>
-
-**_Siege Monster._** The treant deals double damage to objects and structures.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The treant makes two Slam attacks.
-
-**_Slam._** _Melee Attack Roll:_ +10, reach 5 ft. _Hit:_ 16 (3d6 + 6) Bludgeoning damage.
-
-**_Hail of Bark._** _Ranged Attack Roll:_ +10, range 180 ft. _Hit:_ 28 (4d10 + 6) Piercing damage.
-
-**_Animate Trees (1/Day)._** The treant magically animates up to two trees it can see within 60 feet of itself. Each tree uses the Treant stat block, except it has Intelligence and Charisma scores of 1, it can't speak, and it lacks this action. The tree takes its turn immediately after the treant on the same Initiative count, and it obeys the treant. A tree remains animate for 1 day or until it dies, the treant dies, or it is more than 120 feet from the treant. The tree then takes root if possible.

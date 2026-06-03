@@ -1,0 +1,14 @@
+# Rod of the Disciplinarian
+
+**description**: Rod, uncommon (requires attunement) This black lacquered wooden rod is banded in steel, has a flanged head, and functions as a magic mace. As a bonus action, you can brandish the rod at a creature and demand it refrain from a particular activity—attacking, casting, moving, or similar. The activity can be as specific (don’t attack the person next to you) or as open (don’t cast a spell) as you want, but the activity must be a conscious act on the creature’s part, must be something you can determine is upheld or broken, and can’t immediately jeopardize the creature’s life. For example, you can forbid a creature from lying only if you are capable of determining if the creature is lying, and you can’t forbid a creature that needs to breathe from breathing. The creature can act normally, but if it performs the activity you forbid, you can use a reaction to make a melee attack against it with the rod. You can forbid only one creature at a time. If you forbid another creature from performing an activity, the previous creature is no longer forbidden from performing activities. Instruments of Law. If you are also attuned to and wearing a Justicar’s mask , you can cast the command spell (save DC 13) from the rod once per day. If you are attuned to and wearing a signet of the Magister , you have advantage on the melee attack made as a reaction against a creature performing an activity you forbid. Instruments of Law Justicars are arbiters of law and order, operating independently of any official city guard or watch divisions. They are recognizable by their black, hooded robes, silver masks, and the rods they carry as weapons. These stern sentinels are overseen by The Magister, a powerful wizard of whom little is known other than their title. The Magister has made it their duty to oversee order in the city and executes their plans through the Justicars, giving them the Magister’s mark, a signet ring, as a symbol of their authority. While some officers and members of the watch may be resentful of the Justicars’ presence, many are grateful for their aid, especially in situations that could require magic. Justicar’s are a small, elite group, typically acting as solo agents, though extremely dangerous situations bring them together in pairs or larger groups as needed. The Justicars are outfitted with three symbols of authority that are also imbued with power: their masks, rods, and rings. Each by itself is a useful item, but they are made stronger when worn together. The combined powers of this trinity of items make a Justicar a formidable force in the pursuit of law and order.
+
+**properties**:
+- Category: Items
+- Item Type: Rod
+- Item Rarity: uncommon
+- Requires Attunement: requires attunement
+
+**publisher**: Kobold Press
+
+**book**: Vault of Magic
+

@@ -1,0 +1,16 @@
+# Septon Modron
+
+**description**: A hexton modron (top), a septon modron (middle), and two octon modrons (bottom) oversee the smooth functioning of devices on the Plane of Mechanus. Septons are auditors of base modrons in Mechanus, recording the activities in each of the plane’s sectors to ensure operations are in perfect order. They are easily identified by their seven flexible limbs. “You wanna learn Modron? Yeah, I speak it. Lesson one: ‘beep boop.’ That means ‘Hello, friend, I mean you no harm.’ Really, I swears it!” —Morte, amid surely innocent snickering Modrons Constructed on the plane of Mechanus, modrons are partially mechanical beings that belong to a strict hierarchy. Each modron dutifully obeys commands from the rank directly above it and in turn acts as the superior to the rank directly below it, passing down commands from paragons of law to the lowliest monodrone. While most modrons are the lower-ranked base modrons—monodrones, duodrones, tridrones, quadrones, and pentadrones—the upper-tier hierarch modrons hold leadership positions, maintaining order in Mechanus and the realms beyond. For more information on modrons, see the Monst er Manual . “I’ve known a few modrons in my day. Most are gullible, harmless sorts. Watch out for those hierarch modrons, though. Not only can’t they take a joke, they’ll blame you for disrupting the lawful working of the multiverse then try to measure how much your powdered bones weigh. ” –Morte Traits Axiomatic Mind. The septon can’t be compelled to act in a manner contrary to its nature or its instructions. Combat Ready. The septon has advantage on initiative checks. Disintegration. If the septon dies, its body disintegrates into dust, leaving behind anything it was carrying. Spellcasting. The septon casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16): At will: detect magic , dispel magic , mending (as an action) 1/day each: plane shift (self only), protection from evil and goo d , sending Actions Multiattack. The septon makes four Tentacle attacks and uses Lightning Network or Spellcasting. Tentacle. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the septon can’t use this tentacle against other targets. The septon has seven tentacles, each of which can grapple one target. Lightning Network. The septon conjures a field of electricity that fills a 30-foot cube originating from itself before dissipating. Each creature in that area must make a DC 16 Dexterity saving throw. On a failed save, a creature takes 33 (6d10) lightning damage and has the stunned condition for 1 minute. On a successful save, a creature takes half as much damage only. A stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. “You ever notice how certain modrons sort of look like some kind of wacky dice?” –Morte
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: construct
+- Alignment: typically lawful neutral
+- Expansion: 26427
+- Challenge Rating: 12
+
+**publisher**: Wizards of the Coast
+
+**book**: Planescape - Adventures in the Multiverse
+

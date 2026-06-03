@@ -1,0 +1,16 @@
+# Tiefling Diabolist
+
+**description**: The tiefling strides forward resplendently garbed in black robes embroidered in crimson, her curling horns capped in small globes of solid gold. She smirks as she starts to spit foul sounding words. A haze of greasy, brimstone scented vapor begins to swirl as her tone increases in volume. Many tieflings consider themselves the heirs of the Hells, but a tiefling diabolist knows it as a certainty. Unlike the mewling fools that form pacts with the archdevils of the nether realms, accepting scraps of power in exchange for becoming the playthings and catspaws of their betters, a diabolist commands the fear and respect of lesser fiends. Paranoid Schemers. A tiefling diabolist patiently works to achieve its far-reaching plans. So long as it is the acknowledged leader, the diabolist is happy to work with a team toward those goals. A diabolist’s underlings, on the other hand, may not be so sanguine with the situation. Members of the team are subjected to regular tests of their loyalty, which are often bizarre and sometimes uncomfortable. They are also subtly encouraged to spy on their teammates and report even the slightest infraction or suspicion of wrongdoing to the leader. The most successful tiefling diabolists tend to be loners that work exclusively with devils they’ve summoned themselves. TRAITS Heir of Hell. The tiefling diabolist has advantage on Charisma checks it makes to deceive, intimidate, or persuade a devil. If the diabolist is attacked by a devil that has been summoned by another creature, including another devil, it has advantage on saving throws against spells and other magical effects cast by the summoned devil, and the summoned devil has disadvantage on attack rolls against the diabolist. ACTIONS Multiattack. The tiefling diabolist makes two Hellfire Burst attacks. Hellfire Burst. Melee or Ranged Spell Attack: +9 to hit, reach 5 ft. or range 120 ft., one target. Hit: 16 (2d10 + 5) fire damage plus 11 (2d10) necrotic damage. Summon Devil (1/Day). The tiefling diabolist summons 2d4 lemures, two bearded devils, or one barbed devil. A summoned devil appears in an unoccupied space within 60 feet of the diabolist, acts as an ally of the diabolist, and can’t summon other devils. It remains for 1 minute, until the diabolist dies, or until its summoner dismisses it as an action. Spellcasting. The tiefling diabolist casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17): At will: mage hand, message, minor illusion, thaumaturgy 2/day each: charm person (as a 5th-level spell), darkness, detect thoughts, fly, greater invisibility, mage armor 1/day each: banishment, dominate person, true seeing BONUS ACTIONS Summon Imp Familiar (1/Day). The tiefling diabolist summons an imp. The imp appears in an unoccupied space within 5 feet of the diabolist, whom it obeys. It takes its turn immediately after the diabolist. It lasts for 24 hours, until it or the diabolist dies, or until the diabolist dismisses it as a bonus action.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Tiefling)
+- Alignment: Lawful Evil
+- Expansion: 25357
+- Challenge Rating: 10
+
+**publisher**: Kobold Press
+
+**book**: Wastes of Chaos
+

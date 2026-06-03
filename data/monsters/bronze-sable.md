@@ -1,0 +1,16 @@
+# Bronze Sable
+
+**description**: Anvilwroughts The first anvilwroughts were created by the god of the forge, Purphoros. He gave the secret of breathing life into these metal creatures to his most devoted followers so they could mimic his works and invent new forms at their own forges. Some anvilwroughts are vigilant guardians at holy shrines, others serve as familiars and messengers, and a few were created to emulate beauty found among the animals of the mortal world. Each exhibits abilities suited to its role, with some behaving like companionable creatures or stoic guardians. A few extremely rare and valuable anvilwroughts were crafted by the hand of Purphoros himself. A number of these magnificent creations are now heirlooms of monarchs; others are lost to the sands of time or are guarded by ancient monsters. Constructed Nature. An anvilwrought doesn't require air, food, drink, or sleep. Bronze Sable The first bronze sables were presented to Karametra as a gift by Purphoros to serve primarily as guardians in Karametra's temples. But as others have been created, some have been used as nimble scouts, always on alert for danger.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: construct
+- Alignment: unaligned
+- Expansion: 5432
+- Challenge Rating: 1
+
+**publisher**: Wizards of the Coast
+
+**book**: Mythic Odysseys of Theros
+

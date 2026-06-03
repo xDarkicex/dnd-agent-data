@@ -1,0 +1,16 @@
+# Gnoll Nimrod of Gorellik
+
+**description**: The nimrod is a cunning gnoll hunter favored by Gorellik, a primeval gnoll deity of hunting and hyenas who fell into obscurity after the rise of Yeenoghu. The nimrod is also a lycanthrope that can transform into a fearsome giant hyena. Traits Keen Hearing and Smell. The gnoll has advantage on Wisdom (Perception) checks that rely on hearing or smell. Actions Multiattack. (Humanoid Form Only). The gnoll makes two attacks, either with its Glaive or its Longbow. Bite (Humanoid Form Only). Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage. Glaive (Humanoid Form Only). Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) slashing damage. Longbow (Humanoid Form Only). Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage, and the target’s speed is reduced by 10 feet until the end of its next turn. Giant Hyena Bite (Giant Hyena Form). Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage plus 9 (2d8) necrotic damage and if the target is a Large or smaller creature, it must succeed on a DC 14 Strength saving throw or be knocked prone. Spellcasting (Humanoid Form Only). The gnoll casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13, +5 to hit with spell attacks): 1/day each: conjure animals (8 hyenas or 2 giant hyenas), hunter's mark, zephyr strike Bonus Actions Swift Shapechanger. The gnoll polymorphs into a Giant Hyena, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. Rampage. When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes a Bite attack. Marked by Gorellik. The gnoll targets a creature it can see within 30 feet of it and makes that creature its mark. The target remains the gnoll’s mark for 1 minute, or until either the target or the gnoll drops to 0 hit points. The gnoll has advantage on all attack rolls against its mark and has disadvantage on all attacks against a different target while it has a mark. Legendary Actions The gnoll gains 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The gnoll regains spent legendary actions at the start of its turn. Charge. The gnoll moves up to its speed. Attack. The gnoll makes a melee or ranged weapon attack. Staggering Strike (Costs 2 Actions). The gnoll makes a melee or ranged weapon attack. If the attack hits, the creature must succeed on a DC 14 Constitution saving throw or it takes an extra 9 (2d8) weapon damage, has disadvantage on attack rolls and ability checks, and can’t take reactions, until the end of its next turn.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Gnoll, shapechanger)
+- Alignment: typically Chaotic Evil
+- Expansion: 26536
+- Challenge Rating: 5
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded III
+

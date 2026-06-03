@@ -1,0 +1,16 @@
+# Ogre, Rainforest
+
+**description**: This fearsome, hulking brute has thick green skin, pointed ears, and a large mouth full of sharp teeth. Its bare-chested body is adorned with macabre piercings and bone jewelry. Also known as negoogunogumbar, or “hunger of the forest,” by locals, these terrifying jungle-dwellers stand around 11 feet tall and weigh over 1,000 pounds. Much smarter than common ogres, rainforest ogres were once creatures of the fey realms, serving hags in deep forests or underworld caverns or working as bodygaruds for unseelie fey rulers. Banished to the mortal world for reasons long lost to time, rainforest ogres now stalk the jungles of the world, consuming whatever they can catch and decorating themselves wit h the bones. Humanoid Hunters. Rainforest ogres are rightly feared as man-eaters. Although they will eat anything—even nuts and berries if they have to—they enjoy the taste of humanoid flesh above all else, making their homes in caves close to villages to ensure a steady supply of fresh meat. Hunting mostly at night, an ogre sneaks through the jungle as quietly as its large size allows, then then swiftly kills a sentry or snatches a villager. The ogre prefers to eat its victims raw and is often so hungry it doesn't wait to return to its lair before consumin g its prey. Boar Affinity. If an alarm is raised in a village where the rainforest ogre is hunting, it assumes the form of a giant boar and furiously charges its assailants, bringing what remains back to its cave to feed the giant forest boars it keeps as pets and emergency food supplies. Humanoids living in jungles where rainforest ogres are found kill forest hogs on sight, but they avoid eating the meat because of the animal's associations with the ogre. Devouring Charge (Boar Form Only). If the rainforest ogre moves at least 20 feet straight toward a target and then hits it with a Tusk attack on the same turn, the target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the ogre can make one Bite attack against it as a bonus action. Fey Ancestry. The rainforest ogre has advantage on saving throws against being charmed, and magic can't put the ogre to sleep. Speak with Beasts. The rainforest ogre can communicate with Beasts as if they shared a language. Actions Multiattack. The rainforest ogre makes two Spear or Tusk attacks and one Bite attack. Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage, and the ogre gains 5 (2d4) temporary hp. Spear (Ogre Form Only). Melee or Ranged Weapon Attack: +6 to hit, reach 10 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack. Tusk (Boar Form Only). Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage. Bonus Actions Change Shape. The rainforest ogre transforms into a Large boar or back into its true form, which is an ogre. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Giant (Shapechanger)
+- Alignment: Chaotic Evil
+- Expansion: 19901
+- Challenge Rating: 4
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

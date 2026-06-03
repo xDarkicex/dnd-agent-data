@@ -1,86 +1,49 @@
 # Ochre Jelly
 
-## Ochre Jelly
+**description**: These D&D 5E Free Basic Rules only contain a fraction of the races, subclasses, backgrounds, feats, items, monsters, spells, and other content available on Roll20. Check out the Player's Handbook to add dozens of more player options to the Charactermancer, the Dungeon Master's Guide to expand on the tools available for DMs, and the Monster Manual to add hundreds of more unique creatures (including token artwork) to fight! Traits Amorphous : The jelly can move through a space as narrow as 1 inch wide without squeezing. Spider Climb : The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Actions Pseudopod : Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage. Reactions Split : When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
 
-### Ochre Jelly
+**properties**:
+- Category: Monsters
+- AC: 8
+- HP: 45 (6d10+12)
+- CHA: 1
+- CON: 14
+- DEX: 6
+- INT: 2
+- STR: 15
+- WIS: 6
+- Size: Large
+- Type: ooze
+- Speed: 10 ft., climb 10 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/390066189/-zoiMticIKQv0OLN2iVHWQ/original.png
+- Roll 0: 1d20 + 4
+2d6+2
+- Senses: Blindsight 60 Ft. (Blind Beyond This Radius)
+- Source: 5th Edition SRD
+- data-XP: 450
+- Alignment: Unaligned
+- data-List: false
+- Immunities: Lightning, Slashing
+- Token Size: 2
+- Resistances: Acid
+- data-Traits: [{"Name":"Amorphous","Desc":"The jelly can move through a space as narrow as 1 inch wide without squeezing."},{"Name":"Spider Climb","Desc":"The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."}]
+- data-Actions: [{"Name":"Pseudopod","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"4","Reach":"5 ft.","Target":"one target","Damage":"2d6 + 2","Damage Type":"bludgeoning","Damage 2":"1d6","Damage 2 Type":"acid"}]
+- data-CHA-mod: -5
+- data-CON-mod: +2
+- data-DEX-mod: -2
+- data-INT-mod: -4
+- data-STR-mod: +2
+- data-SizeNum: 5
+- data-WIS-mod: -2
+- data-Reactions: [{"Name":"Split","Desc":"When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly."}]
+- Challenge Rating: 2
+- Passive Perception: 8
+- Condition Immunities: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
+- data-CrNum: 2
+- data-AcNum: 8
+- data-HpNum: 45
 
-_Large Ooze, Unaligned_
+**publisher**: Wizards of the Coast
 
-**AC** 8 **Initiative** −2 (8) <br>
-**HP** 52 (7d10 + 14) <br>
-**Speed** 20 ft., Climb 20 ft. <br>
+**book**: Free Basic Rules (2014)
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>DEX</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>CON</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>CHA</strong></td>
-      <td>1</td>
-      <td>−5</td>
-      <td>−5</td>
-    </tr>
-  </tbody>
-</table>
-
-**Resistances** Acid<br>
-**Immunities** Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained<br>
-**Senses** Blindsight 60 ft.; Passive Perception 8<br>
-**Languages** None<br>
-**CR** 2 (XP 450; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Amorphous._** The jelly can move through a space as narrow as 1 inch without expending extra movement to do so.
-
-**_Spider Climb._** The jelly can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-
-#### Actions
-
-<hr>
-
-**_Pseudopod._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 12 (3d6 + 2) Acid damage.
-
-#### Reactions
-
-<hr>
-
-**_Split._** _Trigger:_ While the jelly is Large or Medium and has 10+ Hit Points, it becomes Bloodied or is subjected to Lightning or Slashing damage. _Response:_ The jelly splits into two new **Ochre Jellies**. Each new jelly is one size smaller than the original jelly and acts on its Initiative. The original jelly's Hit Points are divided evenly between the new jellies (round down).

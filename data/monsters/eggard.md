@@ -1,0 +1,16 @@
+# Eggard
+
+**description**: Eggard of the Yellowblade Clan is a renowned hobgoblin smith who has dedicated his life to crafting the most deadly instruments of war. Extremely skilled in both the forging and enchanting of all types of weaponry, there are few alive who can match the weapons sold at his small shop and smithy. Characters can find Eggard's Blades in any urban environment, from a large city or a market in the Dark Below to a small, rural village. Background Eggard "Think Twice” Yellowblade wasn't always a smith – indeed, for most of his life, Eggard pursued the cause that most hobgoblins find themselves drawn to: battle. With a head for strategy and tactics – which earned him the moniker "Think Twice” – Eggard combined patience and cunning with exceptional martial prowess to become an officer in one of the most respected mercenary bands in the region. Alas, even a sharp mind can't always keep one free from harm; in a bloody skirmish, Eggard's knee was pulverized by an ogre's greatclub. When the injury healed badly and left Eggard with a pronounced limp, it was clear that Eggard's days as a warrior were over. Not prone to self-pity or melancholy, Eggard resigned himself to be the mercenary band's quartermaster. While that job eventually bored him, it helped him realize that he had a knack for smithing – and that the art of crafting weapons appealed to him. Wasting no time, he set out to learn all he could about the making and enchanting of weaponry, apprenticing himself to any master smith that would have him. After more than a decade of training, Eggard had become a master in his own right, and he opened up Eggard's Blades. Here, he employs the techniques he's picked up from smiths of all races and cultures as he crafts some of the finest magical weapons in existence. Roleplaying Eggard Brawny, scowling, and with the brusque mannerisms typical of most hobgoblins, Eggard can come off as standoffish or even hostile. Beneath the gruff exterior, however, Eggard is intelligent and respectful, and deeply passionate about his craft. He is pragmatic and direct, and only rarely displays any emotions. Eggard's curiosity, creativity, and eagerness to learn are what sets him apart from most of his kin and give him a leg up on the competition. He will often ask questions of his customers and listen with interest as they tell him about the origin of their weapons or the battles they've fought. Eggard may share his own knowledge, but only if asked or if he believes it necessary to draw more information from his customers – when he does, he sticks to the facts, without bragging ("Got this limp fighting ogres – killed me two of the louts before one caught my foot out of position. Put that one in the ground too, but that didn't help my knee much, unfortunately.”) Though he rarely laughs, or even smiles, Eggard has a weakness for puns – the worse, the better. When he, or a customer, delivers a particularly enjoyable one, he smiles ever so faintly and elicits a dry, growling chuckle ("My prices are sharp already, but for a warrior like you, I'd be willing to slice them in half. He-he.”)
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Goblinoid)
+- Alignment: Lawful Neutral
+- Expansion: 27827
+- Challenge Rating: 8
+
+**publisher**: Eventyr Games
+
+**book**: Wanderer's Guide to Enchanted Emporiums
+

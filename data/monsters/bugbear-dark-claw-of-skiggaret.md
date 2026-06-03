@@ -1,0 +1,16 @@
+# Bugbear Dark Claw of Skiggaret
+
+**description**: Skigarret is a hateful bugbear demigod of death, terror, and torture that resembles an 8-foot tall shadowy goblin with lips and hands and feet soaked in blood. The dark claw is an insidious warlock that worships Skiggaret. It can conjure a cloak of tenebrous tendrils around itself that can strike fear to anyone near it. The dark claw can also unleash shadowy claws that rakes and weakens any creature they hit. Traits Brute. A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack). Legendary Resistance (1/Day). If the bugbear fails a saving throw, it can choose to succeed instead. Spell Penetration. When the bugbear casts a spell and is interrupted by an enemy's counterspell, treat the spell's level as 3 levels higher. Surprise Attack. If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack. Actions Sickle. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage plus 3 (1d6) necrotic damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or the target’s speed is halved. In addition, the creature can’t take reactions, and it can take either an action or a bonus action on its turn, not both. The effects last until the end of the bugbear's next turn. Spellcasting. The bugbear casts one of the following spells using Charisma as the spellcasting ability (spell save DC 14, +6 to hit with spell attacks): At will: chill touch (2d8), freedom of movement, mage hand, toll the dead (2d8 or 2d12), silent image 2/day (as 4th-level spells): blight, darkness, fear, hunger of Hadar Bonus Actions Cloak of Skiggaret (3/Day). The bugbear radiates an aura of terrifying darkness, appearing swathed in shadowy tendrils. A creature that starts its turn within 5 feet of the bugbear, or touches it or hits it with a melee attack while within 5 feet of the bugbear and the Cloak of Skiggaret is active takes 4 (1d8) necrotic damage and must succeed on a DC 14 Wisdom saving throw or become frightened until the start of its next turn. The Cloak of Skiggaret remains for 1 minute, until the bugbear dies, or until the bugbear dismisses it as an action. Legendary Actions The bugbear can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The bugbear regains spent legendary actions at the start of its turn. Move. The bugbear moves up to half its speed. Sickle. The bugbear attacks with its Sickle. Claws of Skiggaret (Costs 2 Actions). Ranged Spell Attack: +6 to hit, range 30 ft., one or two targets. Hit: 9 (2d8) necrotic damage. If the target is a creature, it deals only half damage with weapon attacks that use Strength for 1 minute. The target can make a DC 14 Constitution saving throw at the end of each of its turns, ending the effects on itself on a success.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Goblinoid)
+- Alignment: typically Chaotic Evil
+- Expansion: 26536
+- Challenge Rating: 5
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded III
+

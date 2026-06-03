@@ -1,0 +1,16 @@
+# Lycanthrope, Wereotter
+
+**description**: Its soft pelt glimmering, the bipedal otter climbs onto the river's shoreline, water cascading off its fur. Tugging a short rope, the creature hoists up a net, brimming with flapping fish. Wereotters are gentle, thoughtful lycanthropes with an air of mischievousness. In humanoid form, they remain quite calm, even in the face of threats, though they can become fierce when protecting themselves or a loved one. Wereotters do their utmost to not spread their curse to others and will bite a humanoid only when no other options are present. When facing hostile humanoids, wereotters rely on their net to capture a foe, then release the attacker far from the lycanthrope's home. Family-Oriented. Groups of wereotters are extended families with the founding member cursed and passing their lycanthropy on to their children. Thus, non-lycanthropes can be found in these small clusters, having married into or been adopted by the family. These family groups tend to live outside most civilized towns and village. River and Swamp Dwellers. Encountered most often in swamps, on lakeshores, or by rivers deep in mountain ranges or forest, wereotters use their unique skills to fish and forage for food for their family clusters. Some build small stilt villages over or along the water, while others use what nature has provided, living in large cave networks. Hold Breath. The wereotter can hold its breath for 10 minutes. Keen Hearing and Smell. The wereotter has advantage on Wisdom (Perception) checks that rely on hearing or smell. Actions Multiattack. The wereotter makes three Javelin attacks, or it makes one Bite attack and two Javelin attacks. It can replace one Javelin attack with a Net attack. Bite (Otter or Hybrid Form Only). Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the target is a Humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wereotter lycanthropy. Javelin (Humanoid or Hybrid Form Only). Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 4 (1d6 + 1) piercing damage. Net (Humanoid or Hybrid Form Only). Ranged Weapon Attack: +3 to hit, range 5/15 ft., one target. Hit: A Large or smaller creature hit by the net is restrained until it is freed. The net has no effect on creatures that are formless or creature that are Huge or larger. A creature, including the target, can take its action to free the restrained target by succeeding on a DC 11 Strength check. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it, ending the effect and destroying the net. Bonus Actions Change Shape. The wereotter transforms into a Medium otter-humanoid hybrid or into a Large otter, or back into its true form, which is Humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Human Shapechanger)
+- Alignment: Chaotic Good
+- Expansion: 19901
+- Challenge Rating: 2
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

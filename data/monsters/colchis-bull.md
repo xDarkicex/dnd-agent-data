@@ -1,0 +1,16 @@
+# Colchis Bull
+
+**description**: Also known as the Khalkotauroi, were created by the smith God, Hephaestus, as a gift for King Aeetes of Colchis. These mechanical bulls are recognizable due to their immense size, body of bronze and their powerful bond with the element of fire. They are most known about due to their part in the journey of Jason, the Argonaut. The hero, having been tasked by the King of Colchis with plowing the fields by using the bulls as beasts of burden. The seemingly impossible task is achieved with a little help from the king’s daughter, Medea, who used a magic potion to make Jason invulnerable to flames for a short time. However, as ages passed the Kingdom of Colchis lost track of the creatures. Lost in the wilderness, taken by foolish thieves and a hundred other possibilities exist, but the only fact is that these beast-machines roam free now. Machine and Beast. Despite being a machine in their totality, the colchis bulls behave very much like temperamental animals and have a similar level of intellect. While not outright wild, they were much harder to keep in line than actual beasts of burden. Especially given the fact that their body holds several more weapons than just its horns, hooves and breath of fire. Bleeding Fire. Those who have faced these creatures in combat and were capable of injuring them tell tales of rivers of magma flowing from the bull’s wounds, as they went into a frenzy, only to automatically close shortly after. A true marvel of engineering, made by a god of unparalleled craft. Constructs Automatons are not an uncommon sight in the mythology of Greece. The god of the forge is the inventor of several famous constructs which inhabit these grand tales, but there are plenty of brilliant mortals who have adopted the craft as well. Traits Charge. If the bull moves at least 20 ft. straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 14 (4d6) damage. If the target is a creature, it must succeed on a DC 19 Strength saving throw or be knocked prone. Immutable Form. The bull is immune to any spell or effect that would alter its form. Magic Resistance. The bull has advantage on saving throws against spells and other magical effects. Skin of the Forge. When the bull takes bludgeoning, piercing or slashing damage, each creature within 5 feet of it takes 9 (2d8) fire damage. Actions Multiattack. The Colchis Bull makes two horn attacks. Horn. Melee Weapon Attack: +10 to hit, reach 5ft., one target. Hit: 16 (3d6 + 6) piercing damage plus 9 (2d8) fire damage. Flamethrower (Recharge 5-6). The bull exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 36 (8d8) fire damage on a failed save, or half as much damage on a successful one. Saw Storm (Recharge 5-6). The bull unleashes a barrage of blades and saws from its body in a 10foot radius. Each creature in that area must make a DC 18 Dexterity saving throw, taking 26 (6d6+5) slashing damage and 18 (4d8) fire damage on a failed save, or half as much damage on a successful one.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: construct
+- Alignment: unaligned
+- Expansion: 29804
+- Challenge Rating: 11
+
+**publisher**: David Serrano
+
+**book**: Kit Gryloc's Guide to Myths and Monsters
+

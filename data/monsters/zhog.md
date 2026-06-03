@@ -1,0 +1,14 @@
+# Zhog
+
+**description**: All my life something has been watching me. When I lived in the Cold Wood, the other firbolgs told me the night I was born darkness fell from the sky and entered me as I lay in my mother's arms. Every night it felt like something cold and dark in the sky—beyond the stars—was watching me, wanting something. Many times in my life I woke up somewhere away from home. One night, my last night in the Cold Wood, I awoke to find my mother writhing on the floor, darkness pouring out of me and into her. I fled as deep as I could underground, hoping never to see the night sky again. I spent days wandering the Underdark, bloody, starving and dehydrated. The last thing I remember is the sound of skittering getting closer. I woke up in the home of the Utridda Basltgetter in the deep gnome settlement of Blingdenstone. I tried to leave, fearing I would harm her, but was too weak. Many days passed before my strength returned, and by that time Utridda had convinced me to stay in the city until I knew what I was going to do next. Life in Blingdenstone was good, but one night I awoke to darkness again pouring out of me and the feeling of something dark and cold watching from beyond the stars, even underground. Traits Firbolg Magic (Recharges After a Short or Long Rest). You can cast detect magic and disguise self with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't use this trait again. When you use this version of disguise self , you can seem to be the height of humans or elves, allowing you to more easily blend in. Relentless Endurance (Recharges After a Long Rest). When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Spellcasting. Your spellcasting ability is Charisma (+4 to hit with spell attacks, spell save DC 12). You regain expended spell slots when you finish a long rest. You can cast the following sorcerer spells: Cantrips (at will): fire bolt, mending, message, shocking grasp 1st level (2 slots): expeditious retreat, magic missile Strength of the Grave (Recharges After a Long Rest). Your existence in a twilight state between life and death makes you difficult to defeat. When damage reduces you to 0 hit points, you can make a Charisma saving throw (DC 5 + the damage taken). On a success, you instead drop to 1 hit point. You can't use this feature if they are reduced to 0 hit points by radiant damage or by a critical hit. Actions Attack. You can attack when you take this action, using the following: Dagger. Melee or Ranged Weapon Attack: +2 to hit, reach 5 feet. or range 20/60 ft., one target. Hit: 1d4 piercing damage. Light Crossbow. Ranged Weapon Attack: +2 to hit, reach 80/320 feet, one target. Hit: 1d8 piercing damage.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Firbolg, Orc)
+- Expansion: 24690
+
+**publisher**: Gnome Made Games
+
+**book**: An Elf and an Orc Had A Little Baby
+

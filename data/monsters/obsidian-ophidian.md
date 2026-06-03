@@ -1,0 +1,16 @@
+# Obsidian Ophidian
+
+**description**: A massive obsidian serpent slithers forward, gliding atop the lava. Its dark, glassy scales gleam in the volcanic glow. Obsidian ophidians are giant, serpentine elementals born during volcanic eruptions. They are particularly common during and after volcanic lightning. They guard their territories with single-minded aggression. Aquan Enmity. An obsidian ophidian is irascible at the best of times, but when it encounters a creature associated with water, ice, or cold, it flies into a rage, lashing out that creature above all others. Hyper-Territorial. An obsidian ophidian is incapable of backing down. It is so angered by the incursion of other predators that it assaults them the moment they step foot in its territory, refusing to let up until the intruders leave or it is killed. Lava Walker. The obsidian ophidian can move across the surface of lava as if it were harmless, solid ground. In addition, it can swim through lava at its walking speed. One with Lava. The obsidian ophidian can't be surprised by creatures within 5 feet of lava, and it can sense any creature touching the same pool of lava the ophidian is touching. Sharp Fragments. When the obsidian ophidian takes bludgeoning damage, each creature within 5 feet of the ophidian takes 2 (1d4) piercing damage, as shards of obsidian fly out from the elemental's body. Volcanic Rejuvenation. The obsidian ophidian regains 10 hp at the start of its turn if at least part of its body is in contact with lava. If the obsidian ophidian takes cold damage, this trait doesn't function at the start of the obsidian ophidian's next turn. The obsidian ophidian dies only if it starts its turn with 0 hp and doesn't regenerate. Actions Multiattack. The obsidian ophidian makes two Bite attacks or one Bite attack and one Constrict attack. Bite . Melee Weapon Attack : +6 to hit, reach 10 ft., one target. Hit: 12 (2d8 + 3) piercing damage. The target must succeed on a DC 15 Constitution saving throw or take 5 (2d4) piercing damage at the start of each of its turns, as shards of obsidian lodge in the wound. Any creature can take an action to remove the shards with a successful DC 12 Wisdom (Medicine) check. The shards shatter and crumble to dust if the target receives magical healing. Constrict. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until this grapple ends, the target is restrained and takes 5 (2d4) slashing damage at the start of each of its turns, and the ophidian can't use Constrict on another target. Lava Splash (Recharge 4-6). The obsidian ophidian writhes and flails, splashing lava at everything near it. Each creature within 20 feet of the obsidian ophidian must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one. To use this action, the obsidian ophidian must be touching lava or within 5 feet of lava.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Elemental
+- Alignment: Neutral
+- Expansion: 19901
+- Challenge Rating: 5
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

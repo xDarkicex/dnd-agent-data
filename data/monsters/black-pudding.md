@@ -1,88 +1,17 @@
 # Black Pudding
 
-## Black Pudding
+**description**: “The dungeon’s floors were spotless. That should have been our first clue.” —from the journal of Jaster Hollowquill, on his first exploration of Undermountain Oozes Oozes thrive in the dark, shunning areas of bright light and extreme temperatures. They flow through the damp underground, feeding on any creature or object that can be dissolved, slinking along the ground, dripping from walls and ceilings, spreading across the edges of underground pools, and squeezing through cracks. The first warning an adventurer receives of an ooze’s presence is often the searing pain of its acidic touch. Oozes are drawn to movement and warmth. Organic material nourishes them, and when prey is scarce they feed on grime, fungus, and offal. Veteran explorers know that an immaculately clean passageway is a likely sign that an ooze lairs nearby. Slow Death. An ooze kills its prey slowly. Some varieties, such as black puddings and gelatinous cubes, engulf creatures to prevent escape. The only upside of this torturous death is that a victim’s comrades can come to the rescue before it is too late. Since not every ooze digests every type of substance, some have coins, metal gear, bones, and other debris suspended within their quivering bodies. A slain ooze can be a rich source of treasure for its killers. Unwitting Servants. Although an ooze lacks the intelligence to ally itself with other creatures, others that understand an ooze’s need to feed might lure it into a location where it can be of use to them. Clever monsters keep oozes around to defend passageways or consume refuse. Likewise, an ooze can be enticed into a pit trap, where its captors feed it often enough to prevent it from coming after them. Crafty creatures place torches and flaming braziers in strategic areas to dissuade an ooze from leaving a particular tunnel or room. Spawn of Juiblex. According to the Demonomicon of Iggwilv and other sources, oozes are scattered fragments or offspring of the demon lord Juiblex. Whether this is true or not, the Faceless Lord is one of the few beings that can control oozes and imbue them with a modicum of intelligence. Most of the time, oozes have no sense of tactics or self-preservation. They are direct and predictable, attacking and eating without cunning. Under the control of Juiblex, they exhibit glimmers of sentience and malevolent intent. Ooze Nature. An ooze doesn’t require sleep. Black Pudding A black pudding resembles a heaving mound of sticky black sludge. In dim passageways, the pudding appears to be little more than a blot of shadow. Flesh, wood, metal, and bone dissolve when the pudding ebbs over them. Stone remains behind, wiped clean. Traits Amorphous : The pudding can move through a space as narrow as 1 inch wide without squeezing. Corrosive Form : A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage. The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round. Spider Climb : The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Actions Pseudopod : Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. Reactions Split : When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
 
-### Black Pudding
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: ooze
+- Source: MM1
+- Alignment: unaligned
+- Expansion: 2
+- Challenge Rating: 4
 
-_Large Ooze, Unaligned_
+**publisher**: Wizards of the Coast
 
-**AC** 7 **Initiative** −3 (7) <br>
-**HP** 68 (8d10 + 24) <br>
-**Speed** 20 ft., Climb 20 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>5</td>
-      <td>−3</td>
-      <td>−3</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>1</td>
-      <td>−5</td>
-      <td>−5</td>
-      <td><strong>WIS</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>CHA</strong></td>
-      <td>1</td>
-      <td>−5</td>
-      <td>−5</td>
-    </tr>
-  </tbody>
-</table>
-
-**Immunities** Acid, Cold, Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained<br>
-**Senses** Blindsight 60 ft.; Passive Perception 8<br>
-**Languages** None<br>
-**CR** 4 (XP 1,100; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Amorphous._** The pudding can move through a space as narrow as 1 inch without expending extra movement to do so.
-
-**_Corrosive Form._** A creature that hits the pudding with a melee attack roll takes 4 (1d8) Acid damage. Nonmagical ammunition is destroyed immediately after hitting the pudding and dealing any damage. Any nonmagical weapon takes a cumulative −1 penalty to attack rolls immediately after dealing damage to the pudding and coming into contact with it. The weapon is destroyed if the penalty reaches −5. The penalty can be removed by casting the _Mending_ spell on the weapon. <br>
-&emsp;In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
-
-**_Spider Climb._** The pudding can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-
-#### Actions
-
-<hr>
-
-**_Dissolving Pseudopod._** _Melee Attack Roll:_ +5, reach 10 ft. _Hit:_ 17 (4d6 + 3) Acid damage. Nonmagical armor worn by the target takes a −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. The penalty can be removed by casting the _Mending_ spell on the armor.
-
-#### Reactions
-
-<hr>
-
-**_Split._** _Trigger:_ While the pudding is Large or Medium and has 10+ Hit Points, it becomes Bloodied or is subjected to Lightning or Slashing damage. _Response:_ The pudding splits into two new **Black Puddings**. Each new pudding is one size smaller than the original pudding and acts on its Initiative. The original pudding's Hit Points are divided evenly between the new puddings (round down).

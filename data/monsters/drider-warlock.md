@@ -1,0 +1,16 @@
+# Drider Warlock
+
+**description**: A drider, banished and alone, may seek retribution against its kind and call for a dark patron. Or it may begin to hear unearthly whispers in the dark, asking it to form a pact with a demonic power. Whatever its reasons, a drider forms a pact with a fiend and becomes a warlock. Drider Mages Some drow were sorcerers, warlocks, or wizards before they were cursed and transformed by Lolth into driders. While most lose their powers and memories of their former drow selves, a rare few manage to retain their abilities, making them dangerous opponents. Whether this was willed by Lolth or not is anyone's guess. Because they still retain memories of a portion of their lives, some grow to hate the drow that have forsaken them. Thus, these drider mages exile themselves and wander off into the wilds of the Underdark, setting up new lairs. They tend to stalk known drow pathways where they can raid merchant caravans and unwary travelers. They will not hesitate to attack anyone or anything that enters their territory, even drow. Traits Fey Ancestry. The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep. Spider Climb. The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Sunlight Sensitivity. While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Web Walker. The drider ignores movement restrictions caused by webbing. Dark One's Own Luck (Recharges after a Short or Long Rest). When the drider makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur. Actions Multiattack. The drider makes two Necrotic Bolt attacks. It can replace one of those attacks with a Bite attack. Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage. Hellfire. Green flame explodes in a 10-foot-radius sphere centered on a point within 120 feet of the drider. Each creature in that area must make a DC 16 Dexterity saving throw, taking 16 (3d10) fire damage and 11 (2d10) necrotic damage on a failed save, or half as much damage on a successful one. Spellcasting. The drider casts one of the following spells using Charisma as the spellcasting ability (spell save DC 16, +8 to hit with spell attacks): At will: dancing lights, mage hand, minor illusion, prestidigitation 2/day (as 5th-level spells): banishment, fireball, flame strike, mirror image, wall of fire 1/day each: Abi-Dalzim's horrid wilting, darkness, faerie fire, finger of death, plane shift (self only) Reactions Fiendish Rebuke (2/Day). In response to being damaged by a visible creature within 60 feet of it, the drider forces that creature to make a DC 16 Constitution saving throw, taking 22 (4d10) necrotic damage on a failed save, or half as much damage on a successful one.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Monstrosity
+- Alignment: Typically Chaotic Evil
+- Expansion: 17751
+- Challenge Rating: 10
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

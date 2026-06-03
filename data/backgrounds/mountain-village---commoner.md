@@ -1,0 +1,12 @@
+# Mountain Village - Commoner
+
+**description**: In the mountains, majestic peaks reach to the clouds, and the air is thin and cold. Artists have captured the purity of these lands with stark lines and minimalist detail, illustrating their beauty and detachment from the rest of the world. Though scholars see the mountains as a boundary between the sky and earth or as a wall dividing Rokugan, they often ignore the truth that they act as both a barrier to outsiders and a door to the introspective. This environment is perfect for monks and those seeking Enlightenment. Supplicants travel the harsh summit paths, casting off distractions such as love and companionship, civilization and luxury, and money and violence. The austere lands demand fierce independence, exposing repressed weaknesses and revealing surprising strengths. Skill Proficiencies: Survival, choose one other Intelligence-based skill (Arcana, History, Investigation, Nature, or Religion). Tool Proficiencies: Any one tool, any one artisan tool. Languages: You can read, sign, speak, and write Rokugani and one other common language of your choice. Equipment: Traveling clothes, dagger, any one tool, any one artisan tool, and 6 sp. Suggested Feats: Artisan’s Ingenuity, Clarity in Solace, Watchful Ancestors. Background Feature: Worldly Wisdom As a resident of a particular region, you have the following benefits: You have a general awareness of the political climate within your place of origin. You can name major families, prominent merchants, and other leaders in the region as well as their respective positions and allegiances. You know the layout and local residents in the neighborhood where you grew up or where you live now, along with any unusual features, shortcuts, or hidden wonders in your home region. You have knowledge of the impact of crime, poverty, or political unrest that you have experienced in your homeland. You know the trade that you grew up around extremely well, even if you do not practice it yourself. This might be woodcraft, hunting, or fishing in a rural village, commerce or artisanry in a bustling city, agriculture in a farming town, or sailing in a seaside port, to name only a few examples. You can always figure out where to go to get work when in your home region or a similar area.
+
+**properties**:
+- Category: Backgrounds
+- Expansion: 26129
+
+**publisher**: Edge Studio
+
+**book**: Adventures in Rokugan
+

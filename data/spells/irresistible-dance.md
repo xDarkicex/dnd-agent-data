@@ -1,16 +1,27 @@
 # Irresistible Dance
 
-**Level**: 6
-**School**: enchantment
-**Classes**: bard, wizard
-**Casting Time**: action
-**Range**: 30 feet
-**Components**: ['v']
-**Duration**: up to 1 minute
-**Concentration**: Yes
+**description**: Choose one creature that you can see within range. The target begins a comic dance in place - shuffling, tapping its feet, and capering for the duration. Creatures that can't be charmed are immune to this spell. A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.
 
-## Description
+**properties**:
+- Category: Spells
+- Name: Irresistible Dance
+- Level: 6
+- Range: 30 feet
+- School: Enchantment
+- Target: One creature that you can see within range
+- Classes: Bard, Wizard
+- Duration: Up to 1 minute
+- data-List: false
+- Components: V
+- Casting Time: 1 action
+- data-CastNum: 2
+- Concentration: Yes
+- data-RangeNum: 30
+- data-DurationNum: 3
+- data-description: Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can’t be charmed are immune to this spell.<br />A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.
+- data-RangeAoe: 30 feet
 
-One creature that you can see within range must make a Wisdom saving throw. On a successful save, the target dances comically until the end of its next turn, during which it must spend all its movement to dance in place.
+**publisher**: Wizards of the Coast
 
-On a failed save, the target has the Charmed condition for the duration. While Charmed, the target dances comically, must use all its movement to dance in place, and has Disadvantage on Dexterity saving throws and attack rolls, and other creatures have Advantage on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
+**book**: Free Basic Rules (2014)
+

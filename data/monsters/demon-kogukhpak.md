@@ -1,0 +1,16 @@
+# Demon, Kogukhpak
+
+**description**: Tusks jut from the jaw of this massive albino toad, and small, spiky horns rise from above its demonic eyes. Kogukhpak demons are massive toad-like creatures with mammoth tusks and a bottomless cauldron of untamed flame deep within their bellies. They are typically found in colder climes, which helps keep the raging fires within in check. They inhabit deep caverns to avoid the sun and visit the surface only at night to hunt. Enemy of the Light. In the cold, far north, the nights are long and winter nearly interminable. This allows the kogukhpak to hunt and kill at its leisure, rarely having to fear its only true weakness: sunlight. During the summer, when daylight rarely ceases, the fiend remains underground. Voracious Killer. The kogukhpak is a scourge to all it encounters. The fiend will attack and devour anyone or anything it comes across while hunting, to fuel the incessant fires within it. A koguhkpak eats everything, leaving little trace except blood and signs of struggle, with occasionally ashes or burnt grasses. Remnants of a settlement destroyed by a seemingly sourceless flame are a sure sign of a kogukhpak. Magic Resistance. The kogukhpak has advantage on saving throws against spells and other magical effects. Standing Leap. The kogukhpak's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start. Sunlight Hypersensitivity. The kogukhpak takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks. Actions Multiattack. The kogukhpak makes one Bite attack and two Gore attacks, or it makes three Spit Fire attacks. Bite. Melee Weapon Attack: +16 to hit, reach 5 ft., one target. Hit: 19 (2d8 + 10) bludgeoning damage plus 9 (2d8) fire damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, the kogukhpak can automatically hit the target with its Bite, and the kogukhpak can't make Bite attacks against other targets. Gore. Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 37 (5d10 + 10) piercing damage. Spit Fire. Ranged Spell Attack: +11 to hit, range 120 ft., one target. Hit: 32 (6d8 + 5) fire damage. Devastating Leap (Recharge 6). The kogukhpak leaps up to 30 feet and lands on its feet in a space it can see. Each creature in the space or within 5 feet of the kogukhpak when it lands must make a DC 20 Strength saving throw. On a failure, a creature takes 72 (16d8) bludgeoning damage and is knocked prone. On a success, a creature takes half the damage, isn't knocked prone, and, if it is in the kogukhpak's space, can choose to be pushed 5 feet back or to the side of the kogukhpak. A creature in the kogukhpak's space that chooses not to be pushed suffers the consequences of a failed saving throw. Fire Breath (Recharge 6). The kogukhpak exhales fire in a 90-foot cone. Each creature in that area must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Fiend (Demon)
+- Alignment: Chaotic Evil
+- Expansion: 19901
+- Challenge Rating: 18
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

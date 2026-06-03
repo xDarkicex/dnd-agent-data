@@ -1,0 +1,16 @@
+# Greater Abyssal Lamia
+
+**description**: Lamias often serve as minions to powerful demons. Because of the lamias' hedonistic nature, it is not uncommon for them to have intercourse with demons. In rare instances, a female lamia becomes impregnated and gives birth to the demon's offspring - a vile fiend known as an abyssal lamia. Greater Abyssal Lamia. As an abyssal lamia devours more souls, it gains power and may evolve into a greater form. It acquires more demonic characteristics and features, such as bat-like wings, potent magic, and other fiendish abilities. Abyssal Creatures Abyssal creatures are typically the offspring of a demon and another species. Some creatures are transformed into abyssal versions after undergoing demonic rituals performed by powerful cultists. A very rare few are gifted abyssal power by demon lords, usually after imbibing the demon lord's blood. Demon-blooded. Abyssal creatures generally resemble their nondemonic parent, but closer inspection reveal their abhorrent nature: thick, leathery skin, oversized claws and teeth, and a more evil and depraved disposition. Greater abyssal versions show more characteristics of their demonic ancestry - horns, wings, and even additional limbs. They also demonstrate more powerful abilities and potent magic. Traits Magic Resistance. The abyssal lamia has advantage on saving throws against spells and other magical effects. Actions Multiattack. The abyssal lamia makes one Claws attack and one Glaive or Intoxicating Touch attack. Alternatively, it can make two Intoxicating Bolt attacks. Claws. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) slashing damage. Glaive. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 7 (2d6) necrotic damage. Intoxicating Touch. Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) psychic damage and the target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks. Intoxicating Bolt. Ranged Spell Attack: +8 to hit, range 60 ft., one target. Hit: 9 (1d10 + 4) psychic damage and the target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks. Whispers of the Damned (Recharge 5–6). The abyssal lamia chooses up to three creatures it can see within 60 feet of it. Each target that can hear the abyssal lamia must succeed on a DC 16 Wisdom saving throw, or it takes 18 (4d8) psychic damage and must use its reaction to move up to half its speed and make a weapon attack against one creature of the abyssal lamia’s choice that the abyssal lamia can see. Constructs, Demons, and Undead are immune to this effect. Spellcasting. The abyssal lamia casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16): At will: disguise self (any humanoid form), major image 3/day each: charm person, mirror image, scrying, suggestion 1/day each: geas, mass suggestion, project image
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Fiend (Demon)
+- Alignment: Typically Chaotic Evil
+- Expansion: 29032
+- Challenge Rating: 9
+
+**publisher**: Dragonix Books
+
+**book**: Dragonix's Deadly Denizens
+

@@ -1,0 +1,11 @@
+# Occultist
+
+**description**: Curiosity has always gotten the better of you. There has always been a sense of affinity to the darkness and the secrets it hides. While others feel fear in its presence, you get a sense of calmness. From delving into the occult, you have discovered far more about the world around you and the world that is unseen. Esoteric Knowledge. You have extensive knowledge about supernatural phenomena, dark rites, and forbidden lore. You have advantage on Arcana checks related to the occult. Skills: Arcana (Int), Investigation (Int) Languages: Two of your choice Tools: Alchemy Supplies or Jeweler’s Tools Equipment: A demonic trinket, a mirror, a set of robes, and a pouch containing 20 gp. d8 Personality Traits 1 I am obsessed with demonology. 2 I feel the urge to keep relics for my studies. 3 Being alone is my preferred company. 4 I do not fear going into the dark. 5 I do not care for violence; I only tolerate it when necessary. 6 I do not mind getting into arguments to settle disputes. 7 I cannot help but steal occult items. 8 Immortality is my daydream. d6 Ideal 1 Power: To uncover the ultimate power darkness has to offer. (Evil) 2 Protect: Protect the weak from evil spellcasters. (Good). 3 Jealous: To destroy those that advance in the art of the occult. (Evil) 4 Unlimited: Uncover ancient scrolls and absorb their power. (Chaotic) 5 Knowledge: To share knowledge is to enrich future generations. (Neutral) 6 Magic: To advance your understanding of the use of magic. (Any) d6 Bond 1 I once killed a sorceress over a dispute. 2 In my youth, I would place curses on those who insulted me. 3 I owe my allegiance to my mentor, who granted me knowledge. 4 I have an incessant obsession with discovering new sources of magic. 5 I once invoked a demon from another plane. 6 At night, I hear the whispers of the Abyss in my mind. d6 Flaw 1 I have no qualms about placing hexes. 2 I’ve sacrificed animals for the sake of rituals. 3 Other´s feelings are of no consequence. 4 I have used magic to influence others. 5 I feel no regret about stealing scrolls. 6 I do not care about religious traditions.
+
+**properties**:
+- Category: Backgrounds
+
+**publisher**: Lion Banner Games
+
+**book**: HellWatch Infernal Oath 5e Compendium Expansion
+

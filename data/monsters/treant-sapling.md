@@ -1,0 +1,16 @@
+# Treant Sapling
+
+**description**: Trees awakened to consciousness by archdruids, treants care for the forest, nature, and the world as stewards and wardens. A face forms on their upper trunk, and their lower trunk divides into two legs. Vines twirl around the treant’s flexible branches, which act as powerful arms that end in claws of sharpened wood. Chosen Ones. Archdruids can imbue a special sapling with transformative magic, bringing a treant sapling to life. This ritual is no ordinary plant awakening, and the saplings are carefully chosen for their appreciation of the natural beauty of the world and their desire to nurture it. Occasionally, an awakened sapling survives for thousands of years—often by retreating into the depths of an ancient forest—and grows to become a true treant. Most treants hold fast to their passion for nature and swear to defend the forest that allowed them to grow old and strong. Ripple Awakenings. Though the first treants were created by archdruids, an ancient treant can themself create new treants by bonding with a tree for a decade, then awakening the plant. The more ancient and undisturbed a forest, the more likely it holds a grove of treants ready to defend the land. Nature’s Guardians. Treants are profoundly attuned to nature and their home forest. Many treant groves guard special areas, such as a druid’s grove or a source of primal magic. These staunch protectors don’t hesitate to confront questionable travelers, and they’re likely to attack those who act recklessly toward the forest. Violence is rarely a treant’s first course of action, but they have no interest in negotiating with anyone they deem untrustworthy. A provoked treant offers a single stern warning, which only the most foolish intruders ignore. When enemies inevitably flee, the treant rarely gives chase outside the bounds of their woods, satisfied they have defended their charge. One with the Forest. The magic within treants touches the webs of magic connecting their forest, allowing them to call forth vines and heal allies. Their roots sense the vibrations of nearby creatures. Treants can speak with both plants and animals, many of whom who act as their scouts. Treant Arrows. When another creatures risks their life for the forest standing side by side with a treant, the plant rewards the bravery by giving them one or more treant arrows. Traits False Appearance. While the sapling remains motionless, they are indistinguishable from a normal tree. Grove Strength. When a non-minion ally hits a target with an attack, the target takes an extra 2 slashing damage for each sapling within 5 feet of the target. Minion. If the sapling takes damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0. If the sapling takes damage from another effect, they die if the damage equals or exceeds their hit point maximum; otherwise they take no damage. Actions Claws (Group Attack). Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 5 slashing damage.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Plant
+- Alignment: Typically Neutral
+- Expansion: 25493
+- Challenge Rating: 9
+
+**publisher**: MCDM Productions
+
+**book**: Flee Mortals
+

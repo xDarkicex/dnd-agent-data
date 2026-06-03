@@ -1,0 +1,16 @@
+# Vile Looter
+
+**description**: A lithe woman in leather armor and comfortable boots picks her way through the grisly corridor, stopping at each unfortunate dart-studded victim to relieve them of their now unneeded valuables. Vile looters raid tombs, despoil temples, and smuggle antiquities. They can be found delving for valuables throughout the wasteland and are a common threat to legitimate explorers and heroic adventurers alike. Many vile looters become such familiar fixtures in their areas of operations that they can be identified by one or more notable characteristics. Stirring Up Trouble. Vile looters prefer to get into a ruin or treasure site, grab as many valuables as they can carry, and get out again without having to deal with irritations such as a site’s residents or treasure guardians. This often brings trouble to nearby settlements as those selfsame residents and guardians search for the individuals that despoiled their home or sacred place. Some looters are even more malicious. They delight in setting up ambushes for other explorers to spring as they exit a site, tired from their endeavors. The vile looters then pick up easy loot from the corpses of their victims. VILE LOOTER NOTABLE CHARACTERISTICS d10 Notable Characteristic 1 High crowned, wide brimmed sable-skin- hat 2 Pipe with a long stem and a fat bowl 3 Gold front tooth 4 Ragged and torn earlobe from an old injury 5 Livid scar running from brow to chin 6 Cold eyes and a self-satisfied smirk 7 Gold framed monocle edged in tiny diamonds 8 Ostentatious ring set with a large ruby that it fidgets with while speaking 9 Voice that is completely devoid of inflection or emotion 10 Flamboyant pompadour waxed into the shape of a cresting wave TRAITS Help Myself (Recharges after a Short or Long Rest). The vile looter has advantage on an ability check that doesn’t use one of its skills. ACTIONS Multiattack. The vile looter makes two Whip attacks or two Hand Crossbow attacks, or one Whip attack and one Hand Crossbow attack. If it is targeting a creature it has grappled, it makes two Unarmed Strike attacks instead. Hand Crossbow. Ranged Weapon Attack: +5 to hit, range 30/120, one target. Hit: 6 (1d6 + 3) piercing damage. Whip. Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) slashing damage. If its target is a Medium or Small creature, the vile looter can use its bonus action to grapple it. The creature can avoid being grappled by succeeding on a DC 13 Strength (Athletics) or Dexterity (Acrobatics) check. If the looter is using its whip to grapple a creature, it can’t make a Whip attack until the grapple ends. Unarmed Strike. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage. Hasty Retreat (1/Day). The vile looter disappears in a puff of noxious gray smoke and teleports to an unoccupied space it can see that is within 500 feet of it. Creatures within 5 feet of the looter when it disappears must succeed on a DC 13 Constitution saving throw or be poisoned for 1d6 rounds.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Any Race)
+- Alignment: Neutral Evil
+- Expansion: 25357
+- Challenge Rating: 4
+
+**publisher**: Kobold Press
+
+**book**: Wastes of Chaos
+

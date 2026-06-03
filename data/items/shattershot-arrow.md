@@ -1,0 +1,12 @@
+# Shattershot Arrow
+
+**description**: Weapon (arrow), uncommon When you hit a creature with this weapon, the target takes an extra 3d6 thunder damage as the arrow releases a sudden, loud ringing. Each creature made of inorganic material such as stone, crystal, or metal that is within 10 feet of the target must make a DC 13 Constitution saving throw, taking 3d6 thunder damage on a failed save, or half as much damage on a successful one. A nonmagical object that isn’t being worn or carried also takes the damage if it’s within 10 feet of the target.
+
+**properties**:
+- Category: Items
+- Item Type: Weapon
+
+**publisher**: Kobold Press
+
+**book**: Tome of Heroes
+

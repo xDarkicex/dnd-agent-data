@@ -1,0 +1,15 @@
+# Umbral Tailor
+
+**description**: An older man with wispy strands of grey hair is in the process of pulling up a black needle from a stitch made on the cloth that sits on the table before him. The black cloth shifts strangely as if something moves just beneath it. Blessed by the fey of the Shadow Realm, umbral tailors are master crafters who repair far more than mundane clothing. Traits Niche Profession. Umbral tailors can only be found in the Shadow Realm, where their gifts for healing and repairing damage caused by corruption are most needed. For whatever reason, umbral tailors' soul stitching magic only works in the Shadow Realm. Soul Stitching. Umbral tailors can see the souls of living creatures (if they possess one), and this ability allows them to identify psychic and physical ailments affecting their clients. Much like a mundane tailor, umbral tailors can stitch together torn souls, use shadow ephemera to patch damaged areas, and occasionally enhance a healthy soul. Healing Hearts. Bards and others sometimes tell tales of the “Umbral Tailor of Corremel,” who is said to have been able to stitch together a broken heart, to mend the grief of a widow or widower, or to patch together the shredded soul of parents whose child has died. Few umbral tailors claim any such extraordinary level of skill, but the stories persist, and some tailors take advantage of those who seek hope and healing. Shadow Patch. The umbral tailor can conduct a ritual to undo the effects of shadow corruption. This ritual takes 1 hour to complete, uses 200 gp worth of components, and must be performed on a willing subject. Sunlight Sensitivity. While in sunlight, the umbral tailor has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight. Unseelie Blessing. The umbral tailor has advantage on saving throws against being charmed, and magic can't put them to sleep. Actions Bone Needle. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success Soul Read. The umbral tailor can focus their mind on any one creature they can see within 30 feet. The umbral tailor learns the creature's current emotional state and whether the creature is diseased, corrupted, cursed, or under the effects of a spell. If the creature does not have a soul, it is unaffected. Spellcasting. The umbral tailor casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13): At will: guidance , mending , spare the dying 3/day each: lesser restoration , remove curse 1/day each: greater restoration (casting time requires target to take a long rest)
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Any Race)
+- Alignment: Any Neutral Alignment
+- Expansion: 18580
+
+**publisher**: Kobold Press
+
+**book**: Book of Ebon Tides Compendium
+

@@ -1,0 +1,16 @@
+# Doppelganger Dark Whisperer
+
+**description**: Dark whisperers are mysterious bards from the College of Whispers. They are often employed as spies and agents that sow fear and discord. They often take the guise of a wealthy noble, royal courtesan, or lady-in-waiting. They are not above murdering an innocent just for convenience. Traits Ambusher. In the first round of combat, the doppelganger has advantage on attack rolls against any creature it has surprised. Surprise Attack. If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack. Actions Multiattack. The doppelganger makes two rapier attacks or two maddening bolt attacks. Rapier. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 10 (3d6) poison damage. Maddening Bolt. Ranged Spell Attack: +6 to hit, range 60 ft., one creature. Hit: 13 (3d6 + 3) psychic damage and the target must succeed on a DC 16 Wisdom saving throw or it must use its reaction to make a melee weapon attack against one creature of the fiend's choice that the fiend can see. Constructs and Undead are immune to this effect. Read Thoughts. The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target. Spellcasting. The doppelganger casts one of the following spells using Charisma as the spellcasting ability (spell save DC 15, +7 to hit with spell attacks): At will: friends, mage hand, minor illusion 2/day each: charm person, dissonant whispers, Tasha's hideous laughter 1/day each: confusion, greater invisibility, major image, synaptic static Change Shape. The doppelganger transforms into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. Bonus Actions Dark Whispers. The doppelganger targets one creature within 30 feet of it. If the target can hear the doppelganger, the target must succeed on a DC 15 Charisma saving throw or be frightened for 1 minute. While frightened in this way, a creature must take the Dash action and move away from the doppelganger by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the Dash action. If the creature ends its turn in a location where it doesn't have line of sight to the doppelganger, the creature can repeat the saving throw. On a success, the effect ends.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Monstrosity (Shapechanger)
+- Alignment: Typically Neutral
+- Expansion: 17751
+- Challenge Rating: 6
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

@@ -1,0 +1,16 @@
+# Kuo-toa Priest-King
+
+**description**: Known as 'Vi-Poolgol' in their native tongue, the priest-king is the most powerful kuo-toa priest of Blipdoolpoolp and has absolute authority over all its subjects. It is served by nine archpriests, who each rule a kuo-toa community. The priest-king oversees the activities of its archpriests and makes the final decision over critical matters. Traits Amphibious. The kuo-toa can breathe air and water. Legendary Resistance (1/Day). If the kuo-toa fails a saving throw, it can choose to succeed instead. Otherworldly Perception. The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving. Slippery. The kuo-toa has advantage on ability checks and saving throws made to escape a grapple. Spell Penetration. When the kuo-toa casts a spell and is interrupted by an enemy's counterspell, treat the spell's level as 3 levels higher. Sunlight Sensitivity. While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Actions Multiattack. The kuo-toa makes two melee attacks or makes one melee attack and casts one spell that takes 1 action to cast. Pincer Staff. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 17 (5d6) lightning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the kuo-toa can’t use its pincer staff on another target. Unarmed Strike. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage and the creature must succeed on a DC 15 Constitution saving throw or be stunned until the end of the kuo-toa's next turn. Spellcasting. The kuo-toa casts one of the following spells using Wisdom as the spellcasting ability (spell save DC 15, +7 to hit with spell attacks): At will: guidance, resistance, sacred flame (3d8), thaumaturgy, toll the dead (3d8 or 3d12) 2/day each: blindness/deafness, command, hold person, spiritual weapon 1/day each: control water, dispel magic, harm, mass cure wounds, tidal wave, tongues Reactions Protective Fanatic. When the kuo-toa is hit by an attack, one ally within 15 feet of the kuo-toa must use its reaction to move up to half its speed toward the kuo-toa. If the ally ends its movement within 5 feet of the kuo-toa, it is hit by the attack instead. Legendary Actions The kuo-toa can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The kuo-toa regains spent legendary actions at the start of its turn. Move . The kuo-toa moves up to half its speed without provoking opportunity attacks. Unarmed Strike. The kuo-toa makes an Unarmed Strike. Pincer Staff (Costs 2 Actions). The kuo-toa attacks with its Pincer Staff. Cast a Spell (Costs 2 Actions). The kuo-toa uses Spellcasting.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Kuo-toa)
+- Alignment: typically Neutral Evil
+- Expansion: 26536
+- Challenge Rating: 8
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded III
+

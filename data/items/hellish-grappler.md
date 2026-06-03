@@ -1,0 +1,15 @@
+# Hellish Grappler
+
+**description**: Nothing binds quite like the chains of Hell. Legend The Hellish Grappler is a favorite among many devils in their ongoing war with opposing fiends. Few, however, manage to unleash the weapon’s full potential. A handful of these maces escape the lower planes and find their way into mortal lands. Location Hellish Grapplers have often been wielded by mortals who were ignorant of their infernal origin. Only a scholar of fiendish artifice or warfare would recognize this mace as something other than a finely crafted weapon. A character who learns of these weapons and desires one will most likely need to descend into the lower planes to procure it. Encounter Ideas High Crime. The adventurers run across a thief using an unusual, but highly effective, grappling hook to aid them in their heists. Hellraiser. Infernal cultists have summoned a hellspawn which the party run afoul of. Death from Above. A brutish assassin is on the loose, snatching victims off their feet with a peculiar weapon. Progression The Hellish Grappler progresses as the creature who is attuned to it progresses. Whenever the creature’s proficiency bonus increases, the weapon’s rarity also increases. Statistics Weapon (Mace), Rarity Varies (Requires Attunement) Common . If you tie a rope to the end of this weapon, it functions as a grappling hook. You have advantage on checks made to use it as such. Uncommon . You gain a +1 bonus to attack and damage rolls made with this magic weapon. On a hit, it deals an extra 1 piercing damage. Rare . The extra piercing damage increases to 1d4. Throw It! This weapon has the thrown property with a normal range of 20 feet and a long range of 60 feet. Immediately after you make a ranged attack with this weapon, it flies back to your hand. Devil’s Sweep. When you hit a creature with a ranged attack using this weapon, you can force the target to make a DC 14 Strength saving throw. On a failed save, the target is knocked prone. Very Rare . The bonus to attack and damage rolls increases to +2, the extra piercing damage increases to 1d6, and the save DC of Devil’s Sweep increases to 16. Infernal Chain. When you hit a Large or smaller creature with a ranged attack using this weapon, you can cause a mystical chain, glowing red with the fires of Hell, to appear from the end of the weapon. The target must succeed on a DC 16 Strength saving throw or be pulled 10 feet toward you. Legendary . The bonus to attack and damage rolls increases to +3, the extra piercing damage increases to 1d8, and the save DCs of both the Devil’s Sweep and Infernal Chain features increases to 18. In addition, when a creature fails their saving throw against Infernal Chain, it is knocked prone. You can choose not to have the Hellish Grappler return to your hand, in which case the target is also grappled (escape DC 18).
+
+**properties**:
+- Category: Items
+- Item Type: Weapon (mace)
+- Properties: Thrown
+- Item Rarity: varies
+- Requires Attunement: Requires Attunement
+
+**publisher**: Jeff Stevens Games
+
+**book**: Weapons of Legend
+

@@ -1,75 +1,16 @@
 # Grick
 
-## Grick
+**description**: Grick The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak. Passive Predators. Gricks rarely hunt. Instead, they drag their rubbery bodies to places where creatures regularly pass, lurking out of sight amid rocky rubble and debris, squeezing into burrows, holes, or crevices, climbing up to ledges, or coiling around stalactites to drop on unwary prey. A grick consumes virtually anything that moves except for other gricks. It targets the nearest prey, grabbing a fallen creature with its tentacles and dragging it off to eat alone. Roving Ambushers. Gricks remain in an area until the food supply dwindles, often because sentient creatures become aware of their presence and plot alternate routes around their lairs. When prey is scarce in the Underdark, gricks venture aboveground to hunt in the wilderness, lurking in trees or on cliff-side ledges. A grick pack is often led by a single well-fed, oversized alpha around which the others congregate. Spoils of Slaughter. Over time, grick lairs accumulate the cast-off possessions of intelligent prey, and expert guides know to look out for these telltale signs. Underdark explorers sometimes seal off the routes leading to and from a grick lair to starve them, then claim the wealth of the foul creatures’ victims. Traits Stone Camouflage : The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain. Actions Multiattack : The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target. Tentacles : Melee Weapon Attack : +4 to hit, reach 5 ft., one target. Hit : 9 (2d6 + 2) slashing damage. Beak : Melee Weapon Attack : +4 to hit, reach 5 ft., one target. Hit : 5 (1d6 + 2) piercing damage.
 
-### Grick
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: monstrosity
+- Source: MM1
+- Alignment: neutral
+- Challenge Rating: 2
 
-_Medium Aberration, Unaligned_
+**publisher**: Wizards of the Coast
 
-**AC** 14 **Initiative** +2 (12) <br>
-**HP** 54 (12d8) <br>
-**Speed** 30 ft., Climb 30 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>DEX</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>3</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CHA</strong></td>
-      <td>5</td>
-      <td>−3</td>
-      <td>−3</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Stealth +4<br>
-**Senses** Darkvision 60 ft.; Passive Perception 12<br>
-**Languages** None<br>
-**CR** 2 (XP 450; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The grick makes one Beak attack and one Tentacles attack.
-
-**_Beak._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 9 (2d6 + 2) Piercing damage.
-
-**_Tentacles._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 7 (1d10 + 2) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12) from all four tentacles.

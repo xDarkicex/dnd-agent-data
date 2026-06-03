@@ -1,0 +1,16 @@
+# Tigebra
+
+**description**: This creature is an impossible amalgam of lizard and tiger. Its head and neck are that of a rearing cobra. Tigebra roam the borders of jungles and grasslands, not completely at home in either. They have just enough intelligence to sense their otherness, leaving them in a perpetual state of rage. Tigebra attack any creature they encounter, no matter how big or small, often killing without the intent of eating their prey. Origin. No one is certain how tigebra came into existence. Rumors abound of ill-fated breeding experiments involving monitor lizards, tigers, and giant cobras, but no one has found evidence. Others believe tigebra are the result of a wizard's botched casting of polymorph or shapechange in an area of wild magic. Regardless of the truth, no one denies the danger these abominations pose to any living creature that encounters them. Potent Bite. Tigebra venom is extremely powerful, and their bites are incredibly painful. Even creatures ordinarily resistant or immune to poison suffer some of the effects of tigebra venom. Spiteful Beyond Death. Tigebra are vicious creatures, and that anger keeps them alive, even beyond death. After it dies, the tigebra's cobra head and neck survive for a time, separating from the body to continue fighting. Final Fury . When a tigebra is reduced to 0 hp, its head and neck separate from the body. The snake-like remnant immediately attacks the nearest creature, moving up to its speed if necessary, even if it has already taken its turn this round. This snake remnant has the same statistics as the original tigebra, except it is Medium, has 30 hp, and can make only one Bite attack on its turn. The head remains active for 1d4 rounds or until killed. Keen Hearing and Smell . The tigebra has advantage on Wisdom (Perception) checks that rely on hearing or smell. Magic Resistance . The tigebra has advantage on saving throws against spells and other magical effects. Potent Poison. A creature that normally has resistance to poison damage doesn't have resistance to the tigebra's poison damage. If a creature normally has immunity to poison damage, it has resistance to the tigebra's poison damage instead. Actions Multiattack. The tigebra makes one Bite attack and two Claw attack. Bite . Melee Weapon Attack : +10 to hit, reach 15 ft., one creature. Hit: 27 (4d10 + 5) piercing damage plus 10 (3d6) poison damage, and the target must succeed on a DC 17 Constitution saving throw or be poisoned for 1 minute. While poisoned, the creature suffers wracking pain that halves its speed. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effects on itself on a success. Claws. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 23 (4d8 + 5) slashing damage. Bonus Actions Hypnotic Gaze . The tigebra fixes its gaze on one creature it can see within 60 feet of it. If the target can see the tigebra, it must succeed on a DC 17 Wisdom saving throw or be paralyzed until the end of its next turn. On a successful saving throw, the target is immune to the tigebra's Hypnotic Gaze for the next 24 hours.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Monstrosity
+- Alignment: Chaotic Evil
+- Expansion: 19901
+- Challenge Rating: 13
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

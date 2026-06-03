@@ -1,0 +1,11 @@
+# Asahina Family - Crane Clan
+
+**description**: Founded after a terrible conflict between the Phoenix and Crane Clans centuries ago, the Asahina family teaches its scions to seek harmony and peace in all things, embodying a philosophy of compassion and pacifism. Through art and prayer, they seek to calm and soothe the world around them and spread peace and accord throughout the Empire. In their mediations with spirits, they create enchanted charms that provide protection, mending, and palliation. The Asahina family teaches that only through the great risk of trust can true peace be purchased, and it is a chance they take to foster a better Empire. Skill Proficiencies: Religion, choose one other Charisma-based skill (Deception, Intimidation, Performance, or Persuasion). Tool Proficiencies: Any one artisan tool, any one mystic implement. Languages: You can read, sign, speak, and write Rokugani. Equipment: Sanctified vestments, wakizashi, any one artisan tool, any one mystic implement, and 10 gp. Background Feature: Courts and Culture You have a strong awareness of the politics within Crane lands and beyond, granting you the following benefits: You can name major family heads and other leaders, and you know their respective positions, allegiances, heraldry, and relationships. You know about the state of political affairs between the clans. You know proper etiquette and protocol in the Imperial Capital. You have a working knowledge of the high arts and the great masters of old. Suggested Feats A set of suggested feats that reflect the Crane Clan’s traditions and training can be found in chapter 5. Asahina Artificer School Quick Build If you want to quickly build a character trained in the Asahina Artificer school of rituals, make Intelligence your highest ability score, followed by Dexterity. Begin in the ritualist class, and select the Artisan archetype when you reach 2nd level, choosing Illusory Artifice for your mystic craft. Focus on choosing invocations that summon, mend, and create illusions. Put the rest of your levels into ritualist to reach the Stir the Spirit feature and other supporting abilities, allowing you to awaken items.
+
+**properties**:
+- Category: Backgrounds
+
+**publisher**: Edge Studio
+
+**book**: Adventures in Rokugan
+

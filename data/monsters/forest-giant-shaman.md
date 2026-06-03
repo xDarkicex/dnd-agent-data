@@ -1,0 +1,16 @@
+# Forest Giant Shaman
+
+**description**: Forest giants resemble 11-foot tall wood elves with light bark-like skin, leaf-green hair, and brown, green, or hazel eyes. They tend to wear simple clothing that helps them blend into their natural habitat. Forest giants are vegetarians, subsisting on a diet of edible beans, berries, fruits, mushrooms, and roots. Woodland Protectors. Forest giants are brooding and stoic, see themselves as forest guardians, and are paranoid of non-forest dwellers, especially those who constantly use fire. They tolerate the presence of elves and firbolgs and are usually allied with intelligent fey creatures. Although they are not aggressive, they are fiercely territorial and will not hesitate to attack intruders without warning or those who cut down trees close to their homes. Evil forest giants, though rare, are known to work as mercenaries for hags and other evil fey. Druid Archers. Forest giants usually rely on their archery skills in combat, coating their arrowheads with poison extracted from forest plants and fungi. They employ stealth and hit-and-run tactics to bring down enemies before they can close in. They can cast certain druidic spells that help them mark their foes, travel without leaving tracks, and increase the size of vegetation around them to use as cover. Giant-Kin Giant-kin are the smaller, distantly-related cousins of the true giants. Most look like their brutish kin but some resemble large versions of the common humanoid races. Despite their variations, giant-kin unmistakably embody the essence of true giants, holding a pervasive belief in the innate weakness and inferiority of humanoids. Giant-kin usually form small clans or tribes. They are often encountered working as mercenaries or hired guards. Traits Plant Camouflage. The giant has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring vegetation. Actions Multiattack. The giant uses Briar Strike twice. Briar Strike. Melee or Ranged Spell Attack: +6 to hit, reach 5 ft. or range 60 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 9 (2d8) poison damage. If the target is a Large or smaller creature, the creature must make a DC 13 Strength saving throw or be restrained until the end of the giant's next turn. Tempest (Recharge 5–6). A line of strong, electrified wind 60 feet long and 10 feet wide blasts from the giant's open palm. Each creature in that line must make a DC 14 Dexterity saving throw. On a failed save, a creature takes 16 (3d10) force damage and 16 (3d10) lightning damage, is pushed up to 10 feet, and knocked prone. On a successful save, a creature takes half as much damage and isn't pushed or knocked prone. Spellcasting. The giant casts one of the following spells using Wisdom as the spellcasting ability (spell save DC 14): At will: druidcraft, guidance, mending 3/day each: cure wounds, faerie fire, hold person (2 targets), pass without trace 1/day each: confusion, plant growth, spirit guardians
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Giant
+- Alignment: Typically Neutral
+- Expansion: 29032
+- Challenge Rating: 5
+
+**publisher**: Dragonix Books
+
+**book**: Dragonix's Deadly Denizens
+

@@ -1,76 +1,45 @@
 # Elephant
 
-## Elephant
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Actions Multiattack. The elephant makes two Gore attacks. Gore. Melee Attack Roll: +8, reach 5 ft. Hit: 15 (2d8 + 6) Piercing damage. If the elephant moved at least 20 feet straight toward the target immediately before the hit, the target also has the Prone condition. Bonus Actions Trample. Dexterity Saving Throw: DC 16, one creature within 5 feet that has the Prone condition. Failure: 17 (2d10 + 6) Bludgeoning damage. Success: Half damage.
 
-_Huge Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 12
+- HP: 76 (8d12 + 24)
+- PB: 2
+- CHA: 6
+- CON: 17
+- DEX: 9
+- INT: 3
+- STR: 22
+- WIS: 11
+- Size: Huge
+- Type: Beast
+- Speed: 40 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406407058/LIb0ttZuW0dFH0hMUG5xcQ/original.png
+- data-XP: 1100
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 3
+- data-Actions: [{"Name":"Multiattack","Desc":"The elephant makes two Gore attacks."},{"Name":"Gore","Desc":"If the elephant moved at least 20 feet straight toward the target immediately before the hit, the target also has the Prone condition.","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"8","Reach":"5 ft.","Target":"one target","Damage":"2d8 + 6","Damage Type":"Piercing"}]
+- data-CHA-mod: -2
+- data-CON-mod: 3
+- data-DEX-mod: -1
+- data-INT-mod: -4
+- data-STR-mod: 6
+- data-SizeNum: 6
+- data-WIS-mod: 0
+- Saving Throws: Str +6, Dex -1, Con +3, Int -4, Wis +0, Cha -2
+- Challenge Rating: 4
+- Passive Perception: 10
+- data-Bonus Actions: [{"Name":"Trample","Desc":"*Dexterity Saving Throw*: DC 16, one creature within 5 feet that has the Prone condition. \n*Failure*: 17 (or [[2d10 + 6]] (2d10 + 6)) Bludgeoning damage. \n*Success*: Half damage."}]
+- data-CrNum: 4
+- data-AcNum: 12
+- data-HpNum: 76
 
-**AC** 12 **Initiative** −1 (9) <br>
-**HP** 76 (8d12 + 24) <br>
-**Speed** 40 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>22</td>
-      <td>+6</td>
-      <td>+6</td>
-      <td><strong>DEX</strong></td>
-      <td>9</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>CON</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>3</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Senses** Passive Perception 10<br>
-**Languages** None<br>
-**CR** 4 (XP 1,100; PB +2)
-
-### Actions
-
-<hr>
-
-**_Multiattack._** The elephant makes two Gore attacks.
-
-**_Gore._** _Melee Attack Roll:_ +8, reach 5 ft. _Hit:_ 15 (2d8 + 6) Piercing damage. If the target is a Huge or smaller creature and the elephant moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
-
-### Bonus Actions
-
-<hr>
-
-**_Trample._** _Dexterity Saving Throw:_ DC 16, one creature within 5 feet that has the Prone condition. _Failure:_ 17 (2d10 + 6) Bludgeoning damage. _Success:_ Half damage.

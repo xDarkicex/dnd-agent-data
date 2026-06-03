@@ -1,37 +1,49 @@
 # Hallow
 
-**Level**: 5
-**School**: abjuration
-**Classes**: cleric
-**Casting Time**: action
-**Range**: Touch
-**Components**: ['v', 's', 'm']
-**Duration**: Until dispelled
+**description**: Level 5 Abjuration (Cleric) Casting Time: 24 hours Range: Touch Components: V, S, M (incense worth 1,000+ GP, which the spell consumes) Duration: Until dispelled You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow . The affected area has the following effects. Hallowed Ward. Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can’t willingly enter the area, and any creature that is possessed by or that has the Charmed or Frightened condition from such creatures isn’t possessed, Charmed, or Frightened by them while in the area. Extra Effect. You bind an extra effect to the area from the list below: Courage. Creatures of any types you choose can’t gain the Frightened condition while in the area. Darkness. Darkness fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can’t illuminate the area. Daylight. Bright light fills the area. Magical Darkness created by spells of a level lower than this spell can’t extinguish the light. Peaceful Rest. Dead bodies interred in the area can’t be turned into Undead. Extradimensional Interference. Creatures of any types you choose can’t enter or exit the area using teleportation or interplanar travel. Fear. Creatures of any types you choose have the Frightened condition while in the area. Resistance. Creatures of any types you choose have Resistance to one damage type of your choice while in the area. Silence. No sound can emanate from within the area, and no sound can reach into it. Tongues. Creatures of any types you choose can communicate with any other creature in the area even if they don’t share a common language. Vulnerability. Creatures of any types you choose have Vulnerability to one damage type of your choice while in the area.
 
-## Description
+**properties**:
+- Category: Spells
+- School: Abjuration
+- Classes: Cleric
+- Expansion: 33335
+- data-List: false
+- filter-Tags: Utility
+- Spell Attack: None
+- filter-Level: 5
+- filter-Range: Touch
+- filter-Ritual: No
+- filter-Upcast: No
+- filter-Duration: Permanent
+- data-datarecords: [{"name":"Hallow","level":"5","payload":"{\"type\":\"Spell\",\"name\":\"Hallow\",\"description\":\"You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects.\\nHallowed Ward. Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can't willingly enter the area, and any creature that is possessed by or that has the Charmed or Frightened condition from such creatures isn't possessed, Charmed, or Frightened by them while in the area.\\nExtra Effect. You bind an extra effect to the area from the list below:\\nCourage. Creatures of any types you choose can't gain the Frightened condition while in the area.\\nDarkness. Darkness fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can't illuminate the area.\\nDaylight. Bright light fills the area. Magical Darkness created by spells of a level lower than this spell can't extinguish the light.\\nPeaceful Rest. Dead bodies interred in the area can't be turned into Undead.\\nExtradimensional Interference. Creatures of any types you choose can't enter or exit the area using teleportation or interplanar travel.\\nFear. Creatures of any types you choose have the Frightened condition while in the area.\\nResistance. Creatures of any types you choose have Resistance to one damage type of your choice while in the area.\\nSilence. No sound can emanate from within the area, and no sound can reach into it.\\nTongues. Creatures of any types you choose can communicate with any other creature in the area even if they don't share a common language.\\nVulnerability. Creatures of any types you choose have Vulnerability to one damage type of your choice while in the area.\",\"level\":5,\"school\":\"Abjuration\",\"castingTime\":\"24 hours\",\"range\":\"Touch\",\"duration\":\"Until dispelled\",\"components\":{\"verbal\":true,\"somatic\":true,\"material\":true,\"materialDescription\":\"incense worth 1,000+ GP, which the spell consumes\"},\"aoe\":{\"shape\":\"Circle\",\"size\":\"60 foot radius\"}}"},{"name":"Hallow Courage Condition","parent":"Hallow","payload":"{\"type\":\"Condition\",\"name\":\"Hallow - Courage\",\"description\":\"Creatures of any types you choose can't gain the Frightened condition while in the area.\"}"},{"name":"Hallow Courage Frightened Defense","parent":"Hallow Courage Condition","payload":"{\"type\":\"Defense\",\"defense\":\"Condition Immunity\",\"condition\":\"Frightened\"}"},{"name":"Hallow Darkness Condition","parent":"Hallow","payload":"{\"type\":\"Condition\",\"name\":\"Hallow - Darkness\",\"description\":\"Darkness fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can't illuminate the area.\"}"},{"name":"Hallow Daylight Condition","parent":"Hallow","payload":"{\"type\":\"Condition\",\"name\":\"Hallow - Daylight\",\"description\":\"Bright light fills the area. Magical Darkness created by spells of a level lower than this spell can't extinguish the light.\"}"},{"name":"Hallow Peaceful Rest Condition","parent":"Hallow","payload":"{\"type\":\"Condition\",\"name\":\"Hallow - Peaceful Rest\",\"description\":\"Dead bodies interred in the area can't be turned into Undead.\"}"},{"name":"Hallow Extradimensional Interference Condition","parent":"Hallow","payload":"{\"type\":\"Condition\",\"name\":\"Hallow - Extradimensional Interference\",\"description\":\"Creatures of any types you choose can't enter or exit the area using teleportation or interplanar travel.\"}"},{"name":"Hallow Fear Condition","parent":"Hallow","payload":"{\"type\":\"Condition\",\"name\":\"Hallow - Fear\",\"description\":\"Creatures of any types you choose have the Frightened condition while in the area.\"}"},{"name":"Hallow Resistance Condition","parent":"Hallow","payload":"{\"type\":\"Condition\",\"name\":\"Hallow - Resistance\",\"description\":\"Creatures of any types you choose have Resistance to one damage type of your choice while in the area.\"}"},{"name":"Hallow Resistance","parent":"Hallow Resistance Condition","payload":"{\"type\":\"Defense\",\"defense\":\"Resistance\",\"details\":\"Pick a damage type to Resist.\"}"},{"name":"Hallow Silence Condition","parent":"Hallow","payload":"{\"type\":\"Condition\",\"name\":\"Hallow - Silence\",\"description\":\"No sound can emanate from within the area, and no sound can reach into it.\"}"},{"name":"Hallow Tongues Condition","parent":"Hallow","payload":"{\"type\":\"Condition\",\"name\":\"Hallow - Tongues\",\"description\":\"Creatures of any types you choose can communicate with any other creature in the area even if they don't share a common language.\"}"},{"name":"Hallow Tongues Languages","parent":"Hallow Tongues Condition","payload":"{\"type\":\"Language\",\"name\":\"All\"}"},{"name":"Hallow Vulnerability Condition","parent":"Hallow","payload":"{\"type\":\"Condition\",\"name\":\"Hallow - Vulnerability\",\"description\":\"Creatures of any types you choose have Vulnerability to one damage type of your choice while in the area.\"}"},{"name":"Hallow Vulnerability","parent":"Hallow Vulnerability Condition","payload":"{\"type\":\"Defense\",\"defense\":\"Vulnerability\",\"details\":\"Pick a damage type to be Vulnerable to.\"}"}]
+- filter-Components: Verbal, Somatic, Material (Consumed)
+- filter-Casting Time: 1 day
+- filter-Concentration: No
+- Name: Hallow
+- data-description: You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects.
+Hallowed Ward. Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can't willingly enter the area, and any creature that is possessed by or that has the Charmed or Frightened condition from such creatures isn't possessed, Charmed, or Frightened by them while in the area.
+Extra Effect. You bind an extra effect to the area from the list below:
+Courage. Creatures of any types you choose can't gain the Frightened condition while in the area.
+Darkness. Darkness fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can't illuminate the area.
+Daylight. Bright light fills the area. Magical Darkness created by spells of a level lower than this spell can't extinguish the light.
+Peaceful Rest. Dead bodies interred in the area can't be turned into Undead.
+Extradimensional Interference. Creatures of any types you choose can't enter or exit the area using teleportation or interplanar travel.
+Fear. Creatures of any types you choose have the Frightened condition while in the area.
+Resistance. Creatures of any types you choose have Resistance to one damage type of your choice while in the area.
+Silence. No sound can emanate from within the area, and no sound can reach into it.
+Tongues. Creatures of any types you choose can communicate with any other creature in the area even if they don't share a common language.
+Vulnerability. Creatures of any types you choose have Vulnerability to one damage type of your choice while in the area.
+- Level: 5
+- Casting Time: 24 hours
+- Duration: Until dispelled
+- Range: Touch
+- Components: V S M
+- Material: incense worth 1,000+ GP, which the spell consumes
+- data-CastNum: 9
+- data-DurationNum: 18
+- data-RangeAoe: Touch (60 ft radius ○)
 
-You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects. 
+**publisher**: Wizards of the Coast
 
-**Hallowed Ward.** Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can't willingly enter the area, and any creature that is possessed by or that has the Charmed or Frightened condition from such creatures isn't possessed, Charmed, or Frightened by them while in the area. 
+**book**: Free Basic Rules (2024)
 
-**Extra Effect.** You bind an extra effect to the area from the list below:
-
-**Courage.** Creatures of any types you choose can't gain the Frightened condition while in the area. 
-
-**Darkness.** Darkness fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can't illuminate the area. 
-
-**Daylight.** Bright light fills the area. Magical Darkness created by spells of a level lower than this spell can't extinguish the light. 
-
-**Peaceful Rest.** Dead bodies interred in the area can't be turned into Undead. 
-
-**Extradimensional Interference.** Creatures of any types you choose can't enter or exit the area using teleportation or interplanar travel. 
-
-**Fear.** Creatures of any types you choose have the Frightened condition while in the area. 
-
-**Resistance.** Creatures of any types you choose have Resistance to one damage type of your choice while in the area. 
-
-**Silence.** No sound can emanate from within the area, and no sound can reach into it. 
-
-**Tongues.** Creatures of any types you choose can communicate with any other creature in the area even if they don't share a common language. 
-
-**Vulnerability.** Creatures of any types you choose have Vulnerability to one damage type of your choice while in the area.

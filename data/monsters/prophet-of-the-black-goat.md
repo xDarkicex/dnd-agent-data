@@ -1,0 +1,16 @@
+# Prophet of the Black Goat
+
+**description**: Although the cult only maintains a loose structure and anarchic hierarchy, some individuals consistently perform specific roles. Prophets. These cultists serve as conduits, wild bestial elements who believe their subconscious has entirely merged with the Black Goat of the Woods and is driven solely by its will. They possess the gift of clarity and bestow it upon speakers who interpret the prophecies for the congregation. Prophets undergo painful transformative rituals to express their devotion and commitment. These include scarification that leaves thick keloidal scars along the cheekbones carved into the shape of curving goat’s horns and a bloody rite called the ritual of the mother’s sight, which narrows their pupils into rectangular slits, clearly identifying them as members of the Black Flock. TRAITS Burn the Crops. The smoke of burning wheat can be used to silence the prophet’s words. If the Prophet of the Black Goat is within 5 feet of burning wheat, it must make a successful DC 13 Wisdom save or be unable to speak until the end of its next turn. Reckless. At the start of its turn, the prophet of the Black Goat can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn. ACTIONS Multiattack. The prophet of the Black Goat makes two Scythe attacks. Scythe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) slashing damage. Spellcasting. The prophet of the Black Goat casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 14): At will: guidance, poison spray 3/day each: bane, bestow curse, blindness/deafness, entangle * 1/day each: augury, fear, spike growth *Entangling plants summoned by the Prophet of the Black Goat always manifest as wheat. BONUS ACTIONS Word of Prophecy (Recharge 6). The prophet of the Black Goat can utter accursed prophetic words to influence future events. The prophet targets one creature within 30 feet that can hear it. The target must make a DC 14 Wisdom saving throw. On a failed save, it becomes marked by the prophet, and the prophet can cause the creature to suffer one of the effects described below. The mark on a creature dissipates after 24 hours, or it can be removed earlier by a lesser restoration spell. The prophet can have as many as three creatures marked at one time. Black Goat’s Bite. Whenever a worshiper of the Black Goat hits the marked creature, it takes an extra 1d6 psychic damage. Black Goat’s Hide. The marked creature has disadvantage on any attack that targets a worshiper of the Black Goat. Black Goat’s Voice. Whenever a marked creature tries to cast a spell, the prophet can use its reaction to cause the energy of the spell to release in the marked creature’s throat dealing 1d6 damage per spell level as determined by the spell cast (or psychic damage, if the spell’s damage doesn’t have a type). The marked creature can make a DC 14 Wisdom saving throw and takes half as much damage on a successful save.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid
+- Alignment: Chaotic Evil
+- Expansion: 25357
+- Challenge Rating: 5
+
+**publisher**: Kobold Press
+
+**book**: Wastes of Chaos
+

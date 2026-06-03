@@ -1,0 +1,12 @@
+# Wolfsbane
+
+**description**: Magic plant, very rare Themes: Lycanthropy, transformation, and the moon Environments: Secluded groves, near the borders between the Material and Shadow Planes, where creatures or objects were forced to change their shapes Wolfsbane is a poisonous, flowering plant with dark green, palm-like leaves around tall stems. Each stem is crowned with a cluster of blue, purple, white, yellow, or pink hood-like flowers. Minor Wort. As an action, you can crush and sprinkle wolfsbane petals over a creature or object that has been turned to stone or forced to change its shape, such as through the polymorph spell. The creature immediately reverts to its original form. An unwilling creature can make a Charisma saving throw, and if it succeeds, it is unaffected by this use of wolfsbane. Ceremony Wort (7th Level). If you soak the petals of wolfsbane in a bowl of shallow water beneath the full moon for 10 minutes, you can imbue the petals with the moon’s power. You and up to 5 other creatures can consume the petals to cast polymorph on yourselves, each of you transforming into a dire wolf. While a creature is in the form of the dire wolf, it retains its Intelligence, Wisdom, and Charisma scores. This transformation lasts until dawn’s first light touches a transformed creature, the creature drops to 0 hit points or dies, or the creature is forced to revert to its original form by some other means. This wort requires 3 cuttings of wolfsbane. Cultivated Wort (5th level). A garden of wolfsbane that has been cultivated for at least 8 weeks cleanses lycanthropy within it. A creature afflicted with lycanthropy that takes a long rest in the garden is cured of lycanthropy. During the long rest, the lycanthrope must make death saving throws as the magic of the garden attacks the affliction. If the lycanthrope fails three death saving throws before succeeding on three death saving throws, it perishes, but the lycanthropy is removed in the process. If a creature afflicted with lycanthropy received the lycanthropy through heritage, such as a werewolf with a werewolf parent, the garden removes the lycanthropy only if the creature is willing and remains within the garden for 1 week. Such a creature must make the death saving throws on only the first long rest in the garden.
+
+**properties**:
+- Category: Items
+- Item Type: Adventuring Gear
+
+**publisher**: Kobold Press
+
+**book**: Tome of Heroes
+

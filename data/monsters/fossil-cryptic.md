@@ -1,0 +1,16 @@
+# Fossil Cryptic
+
+**description**: The cave-diving humans who first found fossil cryptics initially thought those beings were fossilized, reanimated skeletons of creatures predating recorded history. When the explorers’ priest presented a holy symbol and attempted to turn the cryptics, he learned these fossilized bones aren’t mindless undead—and seconds later, he wound up crushed to death by a pillar of stone. Primal Sentries. In truth, these living fossil amalgamations are inhabited by elemental spirits. Fossil cryptics are found in places of otherworldly beauty with a connection to an elemental plane of Quintessence—often in caves that have remained untouched for eons or whose tunnels are laced with veins of priceless metal in exquisite fractal patterns. The elemental spirits from that plane inhabit the fossils of creatures who once protected the site, carrying on their legacy. Archaeologists, miners, and others who disturb a cryptic’s domain are ground into dust and subsumed into the cryptic’s own form. Bones of the Earth. Though fossil cryptics vary wildly in their chosen shape and form, all contain a central cluster of fossils atop a churning column of rock and metal. With malleable limbs extending from their earthy core, cryptics move with unsettling quickness. Ancient Intelligence . Fossil cryptics often warn trespassers to leave their domains, speaking threats in Primordial before attacking. They weaponize columns of stone at range and can manipulate the ground around them, pushing and pulling friend and foe alike into the best positions for a battle. Traits Churning Trunk. Prone creatures can’t make opportunity attacks against the cryptic, and the cryptic can move through spaces occupied by prone creatures. The first time on a turn the cryptic moves through a space occupied by a prone enemy, that enemy takes 7 (1d6 + 4) bludgeoning damage. Actions Multiattack. The cryptic makes two Slam attacks and uses Stone Bone Storm. Slam. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit : 11 (2d6 + 4) bludgeoning damage. Stone Bone Storm. The cryptic breaks apart their body, driving a flurry of stones in a 5-foot-wide, 30-foot-long line originating from their space. Each creature in that area must make a DC 15 Strength saving throw, taking 18 (4d8) bludgeoning damage and falling prone on a failed save, or taking half as much damage and not falling prone on a successful one. The fossil cryptic then reforms in an unoccupied space in the line’s area. Shatterstone (Recharge 6 ). The cryptic burrows up to half their speed. If the cryptic ends this movement within 5 feet of the surface, they can breach the surface. Each other creature within 20 feet of the cryptic when they breach must make a DC 15 Dexterity saving throw, taking 36 (8d8) bludgeoning damage on a failed save, or half as much damage on a successful one. Bonus Actions Stoneshift. The cryptic shifts the ground under the feet of one creature or object touching the ground within 30 feet of them. The target must succeed on a DC 15 Dexterity saving throw or be moved up to 15 feet horizontally. Objects automatically fail this saving throw.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Elemental (Earth)
+- Alignment: Typically Neutral
+- Expansion: 25493
+- Challenge Rating: 7
+
+**publisher**: MCDM Productions
+
+**book**: Flee Mortals
+

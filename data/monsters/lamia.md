@@ -1,85 +1,17 @@
 # Lamia
 
-## Lamia
+**description**: Ruined desert cities and the tombs of forgotten monarchs make perfect lairs for the wicked lamias. These decadent monsters take what has been forgotten and make it the seat of their hedonistic rule, surrounding themselves with sycophants. Lamias rely on jackalweres to perform various tasks, sending them across the wastes to capture slaves or steal treasures from caravans, encampments, or villages, concealed by the lamia’s magic as they attack. A lamia has a beautiful humanoid upper body that merges into a powerful four-legged leonine form. Its vicious black claws speak to its predatory nature, as does its hunger for torture and humanoid flesh. Tyrants of Pleasure. Lamias adorn their crumbling havens with finery stolen from passing caravans, then use magic to further accentuate their lairs, masking decay with illusion. A lair’s breathtaking gardens, finely decorated apartments, and numerous slaves seem at odds with its remoteness and state of ruin. Using its intoxicating touch, a lamia weakens the minds of its enemies, making them more susceptible to its enchantment spells and turning them into its slaves. Those it beguiles with geas spells are pitted against each other in elaborate contests for the lamia’s amusement. Vain Predators. Always anxious to gain more wealth and slaves, a lamia uses a pool of water or a mirror in conjunction with a scrying spell to view its domain. A lamia uses this power to watch over trade routes and nearby settlements, or to seek out objects and creatures it fancies. Lamias are particularly fond of seeking out adventurers with pure hearts to seduce and corrupt to evil, savoring the destruction of their virtue. They use their magic to lure potential victims to their lairs, relying on illusion and their thralls to capture hapless foes. Lamias prize beauty and strength above all else, however. Any prisoner that falls short of their esteem becomes the main course in a horrible feast, or is set free to die while wandering the wastes. As long as they have slaves to face their enemies, lamias fight from the fringes, beguiling foes with magic if they can. A lamia pressed into melee never stays there for long, shredding flesh with claw and dagger before springing away to safety. Minions of Graz’zt. The demon lord Graz’zt creates lamias from his mortal servants, granting them immortality in return for monstrous power and an oath of fealty. Graz’zt sometimes tasks lamias with guarding locations important to him, but lamias in his service remain free to spread their evil as they see fit. Traits Innate Spellcasting : The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components. • At will: disguise self (any humanoid form), major image • 3/day each: charm person , mirror image , scrying , suggestion • 1/day: geas Actions Multiattack : The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch. Claws : Melee Weapon Attack : +5 to hit, reach 5 ft., one target. Hit : 14 (2d10 + 3) slashing damage. Dagger (Melee) : Melee Weapon Attack : +5 to hit, reach 5 ft., one target. Hit : 5 (1d4 + 3) piercing damage. Dagger (Ranged) : Ranged Weapon Attack : +5 to hit, range 20/60 ft., one target. Hit : 5 (1d4 + 3) piercing damage. Intoxicating Touch : Melee Spell Attack : +5 to hit, reach 5 ft., one creature. Hit : The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
 
-### Lamia
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: monstrosity
+- Source: MM1
+- Alignment: chaotic evil
+- Expansion: 2
+- Challenge Rating: 4
 
-_Large Fiend, Chaotic Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 13 **Initiative** +1 (11) <br>
-**HP** 97 (13d10 + 26) <br>
-**Speed** 40 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CON</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>WIS</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CHA</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Deception +7, Insight +4, Stealth +5<br>
-**Senses** Darkvision 60 ft.; Passive Perception 12<br>
-**Languages** Abyssal, Common<br>
-**CR** 4 (XP 1,100; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The lamia makes two Claw attacks. It can replace one attack with a use of Corrupting Touch.
-
-**_Claw._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Slashing damage plus 7 (2d6) Psychic damage.
-
-**_Corrupting Touch._** _Wisdom Saving Throw:_ DC 13, one creature the lamia can see within 5 feet. _Failure:_ 13 (3d8) Psychic damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions.
-
-**_Spellcasting._** The lamia casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13): <br>
-&emsp;**At Will:** _Disguise Self_ (can appear as a Large or Medium biped), _Minor Illusion_<br>
-&emsp;**1/Day Each:** _Geas_, _Major Image_, _Scrying_
-
-#### Bonus Actions
-
-<hr>
-
-**_Leap._** The lamia jumps up to 30 feet by spending 10 feet of movement.

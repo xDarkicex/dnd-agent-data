@@ -1,0 +1,16 @@
+# Demon, Maha
+
+**description**: This emaciated creature with long, stringy black hair, milky white eyes, and pale blue skin squats in the snow. Its face is split in an almost too- wide grin. Mahas are demons of the cold north, reveling in the snowy wastes but never far from civilization, which holds their preferred food source: humanoids. Laughing Nightmares. Maha demons are always seen smiling, laughing, or giggling. They spread their malevolent hilarity wherever they go by tickling their victims with their claws, all the while tearing into flesh. The victims' bodies are said to retain that same grotesque and eternal smile on their cold and rigid faces. Sustained by Torment. The ongoing torment mahas create sustains them. A maha will try to unsettle victims long before confronting them. By manipulating the environment and creating baffling and frightening conditions, the demon seeks to slowly build a feeling of terror. A maha often ambushes single travelers or picks off stragglers, separating them from their companions and building terror on multiple fronts. Not so Bright. According to legends, maha demons are not terribly intelligent. Stories abound of travelers escaping mahas by tricking the demons into following false footsteps in the snow, attacking cloaked snow sculptures, or ambushing an empty campsite. Such deceptions often result in the loss of equipment or a reliable pack mule, but it is preferable to contending with the maha directly. Frozen Aura. When a creature enters a space within 30 feet of the maha or starts its turn there, that creature must succeed on a DC 17 Constitution saving throw or have its speed reduced by 10 feet until it starts its turn outside the aura. Magic Resistance. The maha has advantage on saving throws against spells and other magical effects. Snow Camouflage. The maha has advantage on Dexterity (Stealth) made to hide in snowy or icy terrain. Actions Multiattack. The maha makes three Claw attacks. If the maha hits one creature with two Claw attacks, the target must succeed on a DC 17 Wisdom saving throw or chuckle until the end of its next turn. While chuckling, a creature can't speak coherently, can't cast spells with verbal components, and has disadvantage on attack rolls with weapons that use Strength or Dexterity. Claw. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) piercing damage plus 9 (2d8) cold damage. Deadly Laughter (Recharge 5-6). The maha chuckles, giggles, and chortles at nearby creatures. Each creature within 30 feet of the maha must make a DC 17 Wisdom saving throw. On a failure, a creature takes 42 (12d6) psychic damage, drops whatever it is holding, and laughs for 1 minute. On a success, a creature takes half the damage and doesn't drop whatever it is holding or laugh. While laughing, a creature is incapacitated, can't speak coherently, and takes 7 (2d6) psychic damage at the start of each of its turns. A laughing creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature dies while laughing, its face turns pale blue and displays a wide grin.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fiend (Demon)
+- Alignment: Chaotic Evil
+- Expansion: 19901
+- Challenge Rating: 12
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

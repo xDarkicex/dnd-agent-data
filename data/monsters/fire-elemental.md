@@ -1,86 +1,17 @@
 # Fire Elemental
 
-## Fire Elemental
+**description**: Elementals Elementals are incarnations of the elements that make up the universe: air, earth, fire, and water. Though little more than animated energy on their own planes of existence, they can be called on by spellcasters and powerful beings to take shape and perform tasks. Living Elements. On its home plane, an elemental is a bodiless life force. Its dim consciousness manifests as a physical shape only when focused by the power of magic. A wild spirit of elemental force has no desire except to course through the element of its native plane. Like beasts of the Material Plane, these elemental spirits have no society or culture, and little sense of being. Conjured by Magic. Certain spells and magic items can conjure an elemental, summoning it from the Inner Planes to the Material Plane. Elementals instinctively resent being pulled from their native planes and bound into service. A creature that summons an elemental must assert force of will to control it. Bound and Shaped. Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. Invisible stalkers are air elementals bound to a specific form, in the same way that water elementals can be shaped into water weirds. The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can’t bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. Elemental Nature. An elemental doesn’t require air, food, drink, or sleep. Fire Elemental A faint humanoid shape threads through the core of this wild, moving flame. A fire elemental is a force of capricious devastation. Wherever it moves, it sets its surroundings ablaze, turning the world to ash, smoke, and cinders. Water can halt its destructive progress, causing the fire elemental to shrink back, hissing and smoking in pain and rage. Traits Fire Form : The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns. Illumination : The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 ft.. Water Susceptibility : For every 5 ft. the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage. Actions Multiattack : The elemental makes two touch attacks. Touch : Melee Weapon Attack : +6 to hit, reach 5 ft., one target. Hit : 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
 
-### Fire Elemental
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: elemental
+- Source: MM1
+- Alignment: neutral
+- Expansion: 2
+- Challenge Rating: 5
 
-_Large Elemental, Neutral_
+**publisher**: Wizards of the Coast
 
-**AC** 13 **Initiative** +3 (13) <br>
-**HP** 93 (11d10 + 33) <br>
-**Speed** 50 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>DEX</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
-
-**Resistances** Bludgeoning, Piercing, Slashing<br>
-**Immunities** Fire, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious<br>
-**Senses** Darkvision 60 ft.; Passive Perception 10<br>
-**Languages** Primordial (Ignan)<br>
-**CR** 5 (XP 1,800; PB +3)
-
-#### Traits
-
-<hr>
-
-**_Fire Aura._** At the end of each of the elemental's turns, each creature in a 10-foot Emanation originating from the elemental takes 5 (1d10) Fire damage. Creatures and flammable objects in the Emanation start burning.
-
-**_Fire Form._** The elemental can move through a space as narrow as 1 inch without expending extra movement to do so, and it can enter a creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) Fire damage.
-
-**_Illumination._** The elemental sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet.
-
-**_Water Susceptibility._** The elemental takes 3 (1d6) Cold damage for every 5 feet the elemental moves in water or for every gallon of water splashed on it.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The elemental makes two Burn attacks.
-
-**_Burn._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 10 (2d6 + 3) Fire damage. If the target is a creature or a flammable object, it starts burning.

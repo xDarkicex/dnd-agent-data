@@ -1,0 +1,16 @@
+# Targotha
+
+**description**: Targothas are unusual creatures that thrive in the thick, inky fluids of naturally occurring tar seeps or pits of oil, although they are equally at home in swampy waters or muddy bogs. They are eyeless serpentine beasts with a menacing sphincterous mouth and sharp fins running down its long body. They depend upon their blindsense when lurking within opaque fluids like tar or ooze and will even lurch out of their lairs and flop along the ground if necessary to pursue a meal. A targotha is a patient ambush predator, and without the need to breathe, it can lie in wait for weeks for food. A typical targotha measures 30 feet in length and weighs 7,000 pounds. Larger specimens are known to exist, but they prefer to dwell far from areas inhabited by civilized folk in the largest and deepest of tar pits or fens. Truly enormous targothas have multiple sets of razor fins and can savage nearby prey with a flurry of slashing attacks. @font-face {font-family:"MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-alt:"ＭＳ 明朝"; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;}@font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-1593833729 1073750107 16 0 415 0;}@font-face {font-family:Cambria; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;}@font-face {font-family:"\@MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-ansi-language:EN-GB;}p.StatDescription, li.StatDescription, div.StatDescription {mso-style-name:"Stat Description"; mso-style-unhide:no; mso-style-qformat:yes; mso-style-next:Normal; margin:0cm; line-height:12.0pt; mso-pagination:widow-orphan; font-size:8.0pt; mso-bidi-font-size:12.0pt; font-family:"Verdana",sans-serif; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; mso-ansi-language:EN-GB;}.MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; font-family:"Cambria",serif; mso-ascii-font-family:Cambria; mso-fareast-font-family:"MS Mincho"; mso-hansi-font-family:Cambria; mso-font-kerning:0pt; mso-ligatures:none;}div.WordSection1 {page:WordSection1;}
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: aberration
+- Alignment: chaotic evil
+- Expansion: 32483
+- Challenge Rating: 15
+
+**publisher**: Legendary Games
+
+**book**: Alien Bestiary
+

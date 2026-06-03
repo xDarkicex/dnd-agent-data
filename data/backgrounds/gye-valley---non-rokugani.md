@@ -1,0 +1,11 @@
+# Gye Valley - Non-Rokugani
+
+**description**: The Gye valley is the largest and most populous of the five major river-valleys of Saebyuksan and has substantial agriculture, producing enough to export to other valleys and even to other countries. Crops grown there are shipped through the Kkachi valley and traded as far away as Kinushima City. The Gye valley’s surplus goods have given its ruling family the chance to build expansive temples and shrines and continue the spiritual research into the art of invocations. At the largest sacred sites, one can observe invocations that are part storytelling performance, part rite, calling down the powers of ancient heroes and potent nature spirits. These rituals have continued to evolve in new ways since the departure of the Isawa, and so the two traditions have diverged in their respective quests for deeper understanding of the cosmos. Skill Proficiencies: Arcana, choose one other Charisma-based skill (Deception, Intimidation, Performance, or Persuasion). Tool Proficiencies: Any one artisan tool. Languages: You can read, sign, speak, and write Rokugani and Jindallaean. Equipment: Sanctified vestments or traveling clothes, dagger, any one artisan tool, and 5 gp. Suggested Feats: Charm Connoisseur, Clarity in Solace, Laborer’s Endurance. Background Feature: Neutral Party You have certain advantages due to being an outsider who is not implicated in local politics, such as: You have a general awareness of the political climate within your homeland. You know its forms of government, religions, and other organizations, as well as the various factions and individuals of note that strive to control these groups. You know the lay of the land where you grew up extremely well and know many people in that region. You know the trade that you grew up around well, even if you do not practice it yourself. Because you are from outside of Rokugan, members of Rokugani courts and other political organizations view you as being neutral to their conflicts. They do not assume that you favor a particular side, and might go to extra lengths to sway you to theirs if they think you are an asset who might help them.
+
+**properties**:
+- Category: Backgrounds
+
+**publisher**: Edge Studio
+
+**book**: Adventures in Rokugan
+

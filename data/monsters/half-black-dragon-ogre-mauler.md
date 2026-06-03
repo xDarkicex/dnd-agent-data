@@ -1,0 +1,16 @@
+# Half-Black Dragon Ogre Mauler
+
+**description**: An adult half-black dragon ogre stands 11 feet tall and weighs over a thousand pounds. Its massive body is covered in glossy black scales, and its head resembles a black dragon’s but with a shorter snout and tusks growing from its lower jaw. Short but powerful wings spread from its back and a long muscular tail extends from its rear. Evil and Unpredictable Brute. A half-black dragon ogre is brutal, wicked, and volatile. It can be brooding and lazily slumbering in its lair and then viciously lashing out in a murderous rampage the next. Thankfully, its cruel and savage nature is tempered by its stupidity. While a half-black ogre is a bit smarter than its ogre kin, it is still prone to manipulation and trickery. Rapacious Bully. A half-black dragon ogre is extremely greedy, gluttonous, and insatiable. It loves nothing more than looting and hoarding treasure and devouring humanoids, especially dwarves, halflings, and elves. A half-black dragon ogre almost always becomes the chieftain of its band, bullying its underlings to raid nearby civilized encampments. Half-Dragons A half-dragon is the offspring of a dragon and another creature, the result of mad mage’s experiment, or the outcome of a dragon cult’s ritual. Despite their different inceptions, half-dragons have similar draconic characteristics and features. Traits Amphibious. The half-dragon can breathe air and water. Actions Multiattack. The half-dragon makes one Bite attack and one Maul attack. It can use Sunder or Staggering Blow in place of its Maul attack. Bite. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (1d10 + 6) piercing damage plus 2 (1d4) acid damage. Maul. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) bludgeoning damage and the target has disadvantage on the next weapon attack roll it makes before the end of its next turn. Sunder. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 13 (2d6 + 6) bludgeoning damage and if the target is wearing a nonmagical armor or shield, it must succeed on a DC 17 Strength saving throw or the nonmagical armor or shield (determined randomly) of the target takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. Pulverizing Blow (3/Day). Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 27 (6d6 + 6) bludgeoning damage, and if the target is a creature, it must succeed on a DC 17 Constitution saving throw. On a failed save, the creature is incapacitated and its speed reduced to 10 feet for 1 minute. A creature can repeat the saving throw at the end of its turns, ending the effects on itself on a success. Acid Breath (Recharge 5–6). The half-dragon exhales acid in a 60-­foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 31 (7d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Dragon
+- Alignment: Typically Chaotic Evil
+- Expansion: 29032
+- Challenge Rating: 5
+
+**publisher**: Dragonix Books
+
+**book**: Dragonix's Deadly Denizens
+

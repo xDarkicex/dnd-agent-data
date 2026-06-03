@@ -1,0 +1,16 @@
+# Troll, Breakwater
+
+**description**: The dark water roils with motion as dozens of foam-crusted trolls surge from the waves, locked in a vicious brawl. Breakwater trolls are a coastal variety of marine troll, and they largely subsist on fish, shellfish, seals, and occasionally fisherfolk or sailors. Breakwater trolls are sometimes magically bound to protect coastal communities. Hag Bound Trolls. The ritual necessary to create a bound horde of breakwater trolls was devised by sea hags, who would offer communities protection in exchange for gristly tribute. Hags keep the specifics of the ritual a closely-guarded secret, but the process binds the bodies and souls of captured trolls to a stretch of shoreline. When stormy seas roll in, the bound trolls appear in a violent foamy brawl that acts as a magical wave breaker, to protect small harbors, boats, and shoreline homes. Necessary Evil. Breakwater trolls enjoy extreme weather events that stir up enormous and often dangerous waves. When the trolls sense an impending storm, they awake in a violent rage, attacking all creatures around them until the waves subside. Shore Bound. Breakwater trolls rarely leave the area where they are bound, and they fight with one another when no other creatures are present during a storm. Though they attack anything on the shore, they don't chase victims that flee inland. Some breakwater trolls have even been observed helping those shipwrecked during a storm, though they are as likely to attack shipwrecked victims as aid them. Amphibious. The troll can breathe air and water. Regeneration. The troll regains 10 hp at the start of its turn. If the troll takes lightning or force damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hp and doesn't regenerate. Actions Multiattack. The troll makes three Slam or Water Blast attacks. If it hits one Large or smaller creature with two Slam attacks, the target must succeed on a DC 15 Strength saving throw or be flung up to 15 feet to an unoccupied space the troll can see and knocked prone. Slam. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage. Water Blast. Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 11 (2d8 + 2) bludgeoning damage plus 3 (1d6) cold damage. Surge (Recharge 5-6). The troll pushes a surge of water in a 30-foot line that is 10 feet wide. Each creature in that line must make a DC 15 Strength saving throw. On a failure, a creature takes 28 (8d6) bludgeoning damage and is pushed up to 15 feet away from the troll in a direction following the line. On a success, a creature takes half the damage and isn't pushed. The surge lasts until the start of the troll's next turn and any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to the troll. If the troll uses this action while underwater, creatures in the line have disadvantage on the saving throw, and any creature in the line must spend 4 feet of movement for every 1 foot it moves when moving closer to the troll.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Giant
+- Alignment: Chaotic Neutral
+- Expansion: 19901
+- Challenge Rating: 7
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

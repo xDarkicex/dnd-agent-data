@@ -1,0 +1,16 @@
+# Kobold, Empyrean
+
+**description**: This angelic kobold shimmers as its iridescent scales shift through the full color spectrum. It floats above the battlefield on ethereal, prismatic wings. Kobold are known for fearlessly throwing themselves into battle against any foe large or small; however, few know the underlying source of their reckless approach to combat and life in general. The truth lies in kobold's desire to impress an empyrean kobold. Servants of the Dragon Gods. Empyrean kobolds often work with, or operate on behalf of, zirnitran angels (see), though they operate independently until actively called upon by the angels. Similar to the zirnitran angel's observation of dragons, empyrean kobolds secretly watch the activities of kobolds, rarely choosing to reveal themselves. When an observed kobold dies while performing any action that embodies a true dragon spirit, an empyrean kobold carries out its sacred charge and reincarnates the heroic kobold as a dragon. The dragon type always matches the spirit the kobold lived and died to embody. Aura of Draconic Virtue . Kobolds within 30 feet of an empyrean kobold have advantage on attack rolls and ability checks. At the start of each of its turns, the empyrean kobold can choose to exclude any number of kobolds from this aura (no action required). Elemental Weapons . The empyrean kobold's weapon attacks are magical. When the kobold hits with any weapon, the weapon deal an extra 3d8 acid, cold, fire, lightning, or poison damage (included in the attack), the kobold's choice. Immortal Nature. The empyrean kobold doesn't require food, drink, or sleep. Magic Resistance . The empyrean kobold has advantage on saving throws against spells and other magical effects. Actions Multiattack . The empyrean kobold makes three Claw attacks. It can replace one Claw attack with a use of Divine Command. Claw . Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing plus 13 (3d8) acid, cold, fire, lightning, or poison damage (the kobold's choice). Invoke the Dragon Gods (Recharge 5-6). The empyrean kobold channels the might of the dragon gods and exhales elemental energy in a 60-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw, taking 49 (14d6) acid, cold, fire, lightning, or poison damage (the kobold's choice) on a failed save, or half as much damage on a successful one. Divine Command. The empyrean kobold chooses a creature it can see within its Aura of Draconic Virtue and directs a kobold within the aura to attack the target. The kobold can make one weapon attack against the target as a reaction. Invisibility. The empyrean kobold magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the empyrean kobold wears or carries is invisible with it. Reactions Draconic Ascension . When a kobold it can see is reduced to 0 hp, the empyrean kobold can reincarnate the kobold as a wyrmling dragon of a type befitting that kobold and its virtues. The empyrean kobold can provide ascension to up to two kobolds each hour with this reaction.
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: Celestial
+- Alignment: Neutral
+- Expansion: 19901
+- Challenge Rating: 10
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

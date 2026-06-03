@@ -1,109 +1,16 @@
 # Lich
 
-## Lich
+**description**: A lich begins life as a mortal, often a wizard or sorcerer, fueled by a burning, unquenchable hunger for knowledge at any cost. Knowledge beyond life and death, beyond this world, beyond gods and fiends. Possesed by the unshakable belief that ultimate knowledge brings ultimate power. The necessary rites are forbidden in many cultures, for they require a bloody, evil act: the sacrifice of someone dear to the would-be lich. Forging Soulstones. The ritual to create a lich requires a sphere constructed of something personal to the subject, such as steel from an heirloom suit of armor or a tangle of branches from the tree that shaded their wedding. To complete the rite, the subject must rip out their own heart and the heart of a living loved one, placing both inside the sphere. The hearts conjoin and transmute into a ruby that welds to the sphere, creating the new lich’s soulstone. As long as their soulstone remains intact, a lich can never truly die. Most soulstones are small and easy to conceal, though a lich can construct the stone’s outer sphere to be any size that suits their purpose. Terrifying Presence. A lich’s true appearance is ghastly. The damage to their chest never heals, and over the centuries, their body slowly decays into a skeleton. Some liches hide their appearance with an illusion that makes them even more attractive and vivacious than they were in life. Others embrace their terrifying look, proudly displaying their dark triumph to every creature they encounter. Immortality Is Not Enough. Though all liches desire eternal life, it fails to satisfy most. These powerful former adventurers seek more of everything they’ve always craved—more glory, more power, more wealth. Most set about amassing all three, building armies of followers to seize whatever the lich desires from any who resist their charm. Lich Lairs. Liches are strongest when surrounded by devoted followers. Their lairs can be found inside strongholds, castles, government halls, or any place of power. Threats Demolished. Liches know the power of do-gooding adventurers who could threaten their pursuits and soulstone, and they seek to remain keenly aware of such threats. Adventurers with a treasure trove of powerful items or the potential strength to resist a lich are hunted mercilessly. Traits Rejuvenation. If the lich is destroyed but their soulstone is intact, their soul retreats into the stone. While the lich’s soul is in the stone, a creature who can see the stone at the start of their turn must succeed on a DC 20 Charisma saving throw or be charmed by the stone until the end of their next turn. While charmed in this way, the creature must do everything in their power to move toward and touch the stone, avoiding obvious hazards. If a creature touches the stone while the lich’s soul is inside, the creature must make a DC 20 Constitution saving throw. On a failed save, the creature drops to 0 hit points and the lich reforms with all their hit points in an unoccupied space within 5 feet of the soulstone. On a successful save, the creature loses half their hit points and the lich reforms with half their hit points in an unoccupied space within 5 feet of the soulstone. The soulstone has AC 19, 50 hit points, and immunity to all damage except force and thunder. Supernatural Resistance. The lich has advantage on saving throws against powers, spells, and other supernatural effects. Turn Immunity. The lich is immune to effects that turn Undead. Actions Multiattack. The lich uses Glare of Undeath and makes four attacks using Biting Acid, Disruptive Thunder, Pain of Ages, or a combination of them. Biting Acid ( 3 rd-Level Spell). Ranged Spell Attack : +12 to hit, range 120 ft., one target. Hit : 22 (5d8) acid damage, and the target can’t regain hit points until the start of the lich’s next turn. Disruptive Thunder ( 3 rd-Level Spell). Melee or Ranged Spell Attack : +12 to hit, reach 5 ft. or range 60 ft., one target. Hit : 22 (4d10) thunder damage. If the target is Huge or smaller, the lich can move them up to 45 feet horizontally. Pain of Ages ( 3 rd-Level Spell). Melee or Ranged Spell Attack : +12 to hit, reach 5 ft. or range 90 ft., one creature. Hit : 21 (6d6) psychic damage, and the first time the target hits a creature with an attack before the start of the lich’s next turn, that attack deals half damage. Glare of Undeath. The lich’s eyes flare with supernatural power at one creature they can see within 60 feet of them. The target must succeed on a DC 20 Wisdom saving throw or be compelled to hug themself tightly as protection against an unbearably cruel world. A creature hugging themself in this way is restrained for 1 minute (save ends at end of turn). A creature the target can hear and understand can use an action to make a DC 20 Charisma (Persuasion) check, ending the effect on a success. Horrid Woe ( 2 /Day). The lich sends negative energy coursing through a creature they can see within 90 feet of them. The target is seared with pain and must make a DC 20 Constitution saving throw, taking 61 (7d8 + 30) necrotic damage on a failed save, or half as much damage on a successful one. A target reduced to 0 hit points by this damage becomes stable but can’t regain hit points, and their spirit turns into a wraith who appears in an unoccupied space within 5 feet of their body. This wraith acts on the lich’s turn immediately after them, and they obey the lich’s verbal commands to the best of their ability. If the wraith or lich are destroyed, the wraith disappears, the target’s spirit returns to their body, and the target can regain hit points. Life Absorption ( 1 /Day; 9 th-Level Spell; Concentration). The lich unleashes a wave of life-sapping energy. Each enemy within 120 feet of them must make a DC 20 Constitution saving throw. On a failed save, the target takes 16 (3d10) necrotic damage at the start of each of their turns for 1 minute, and the lich gains temporary hit points equal to the total damage dealt. Bonus Actions Necrotic Form ( 3 rd-Level Spell). The lich enters a shadow form and moves up to their speed. While in this form, the lich is immune to bludgeoning, piercing, and slashing damage and the grappled and restrained conditions, and they can move through a space as narrow as 1 inch wide without squeezing. The lich reverts to their true form at the end of their turn. Reactions Immortal Insight. When another creature the lich can see makes an attack roll, ability check, or saving throw, the lich can cause the roll to be made with advantage or disadvantage. Utility Spells In addition to any other spells in this stat block, the lich can cast the following spells, using Charisma as the spellcasting ability (spell save DC 20): At will: arcane lock A , charm person A , detect magic A , detect thoughts A , disguise self A , identify + , locate object A , mage hand A 3/day each: arcane eye A , arcanist’s magic aura A , contact other plane + , legend lore + , scrying + 1/day each: forbiddance + , geas + , hallow + , mirage arcane + , symbol +
 
-### Lich
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead
+- Alignment: Typically Neutral Evil
+- Expansion: 25493
+- Challenge Rating: 21
 
-_Medium Undead (Wizard), Neutral Evil_
+**publisher**: MCDM Productions
 
-**AC** 20 **Initiative** +17 (27) <br>
-**HP** 315 (42d8 + 126) <br>
-**Speed** 30 ft. <br>
+**book**: Flee Mortals
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>DEX</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+10</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+10</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>21</td>
-      <td>+5</td>
-      <td>+12</td>
-      <td><strong>WIS</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+9</td>
-      <td><strong>CHA</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Arcana +19, History +12, Insight +9, Perception +9<br>
-**Resistances** Cold, Lightning<br>
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned<br>
-**Gear** Component Pouch<br>
-**Senses** Truesight 120 ft.; Passive Perception 19<br>
-**Languages** All<br>
-**CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
-
-#### Traits
-
-<hr>
-
-**_Legendary Resistance (4/Day, or 5/Day in Lair)._** If the lich fails a saving throw, it can choose to succeed instead.
-
-**_Spirit Jar._** If destroyed, the lich reforms in 1d10 days if it has a spirit jar, reviving with all its Hit Points. The new body appears in an unoccupied space within the lich's lair.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The lich makes three attacks, using Eldritch Burst or Paralyzing Touch in any combination.
-
-**_Eldritch Burst._** _Melee or Ranged Attack Roll:_ +12, reach 5 ft. or range 120 ft. _Hit:_ 31 (4d12 + 5) Force damage.
-
-**_Paralyzing Touch._** _Melee Attack Roll:_ +12, reach 5 ft. _Hit:_ 15 (3d6 + 5) Cold damage, and the target has the Paralyzed condition until the start of the lich's next turn.
-
-**_Spellcasting._** The lich casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20): <br>
-&emsp;**At Will:** _Detect Magic, Detect Thoughts, Dispel Magic, Fireball_ (level 5 version), _Invisibility, Lightning Bolt_ (level 5 version), _Mage Hand, Prestidigitation_ <br>
-&emsp;**2/Day Each:** _Animate Dead, Dimension Door, Plane Shift_ <br>
-&emsp;**1/Day Each:** _Chain Lightning, Finger of Death, Power Word Kill, Scrying_
-
-#### Reactions
-
-<hr>
-
-**_Protective Magic._** The lich casts _Counterspell_ or _Shield_ in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
-
-#### Legendary Actions
-
-<hr>
-
-_Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the lich can expend a use to take one of the following actions. The lich regains all expended uses at the start of each of its turns._
-
-**_Deathly Teleport._** The lich teleports up to 60 feet to an unoccupied space it can see, and each creature within 10 feet of the space it left takes 11 (2d10) Necrotic damage.
-
-**_Disrupt Life._** _Constitution Saving Throw:_ DC 20, each creature that isn't an Undead in a 20-foot Emanation originating from the lich. _Failure:_ 31 (9d6) Necrotic damage. _Success:_ Half damage. _Failure or Success:_ The lich can't take this action again until the start of its next turn.
-
-**_Frightening Gaze._** The lich casts _Fear_, using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn.

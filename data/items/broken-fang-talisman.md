@@ -1,0 +1,13 @@
+# Broken Fang Talisman
+
+**description**: Wondrous item, common This talisman is a piece of burnished copper, shaped into a curved fang with a large crack through the middle. While wearing the talisman, you can use an action to cast the encrypt/decrypt (see Deep Magic for 5th Edition ) spell. The talisman can’t be used this way again until 1 hour has passed.
+
+**properties**:
+- Category: Items
+- Item Type: Wondrous item
+- Item Rarity: common
+
+**publisher**: Kobold Press
+
+**book**: Vault of Magic
+

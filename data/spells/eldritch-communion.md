@@ -1,0 +1,16 @@
+# Eldritch Communion
+
+**description**: 5th-Level Divination (Ritual) Casting Time: 1 minute Range: Self Components: V, S, M (corvid entrails, a dried opium poppy, and a glass dagger) Duration: 1 minute You contact a Great Old One and ask one question that can be answered with a one-sentence reply no more than twenty words long. You must ask your question before the spell ends. There is a 25 percent chance that the answer contains a falsehood or is misleading in some way. (The GM determines this secretly.) Great Old Ones have vast knowledge, but they aren’t omniscient, so if your question pertains to information beyond the Old One’s knowledge, the answer might be vacuous, gibberish, or an angry, “I don’t know.” This also reveals the presence of all aberrations within 300 feet of you. There is a 1-in-6 chance that each aberration you become aware of also becomes aware of you. If you cast eldritch communion two or more times before taking a long rest, there is a cumulative 25 percent chance for each casting after the first that you receive no answer and become afflicted with short-term madness.
+
+**properties**:
+- Category: Spells
+- Level: 5
+- School: divination (ritual)
+- Components: V, S, M
+- Casting Time: 1 minute
+- data-RangeAoe: Self
+
+**publisher**: Kobold Press
+
+**book**: Deep Magic Vol 1
+

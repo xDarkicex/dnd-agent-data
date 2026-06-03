@@ -1,0 +1,14 @@
+# Emberink Stationery (rare variant)
+
+**description**: Wondrous item, very rare (requires attunement) Component: phial of fiend blood Filtered from fiendish blood, this pot of fiery orange ink melts most mundane quills that dare to dip into its contents. Only its compatriot, the enchanted pitbat quill which forms part of the stationery, can contain the lava-like liquid. An emberink stationery is often used as a training tool for new devils, promoting teamwork and the virtues of adhering to a contract. Charges & Charging. An emberink stationery can hold a maximum of 4 charges, contains 1d4 charges when found, and regains charges when the ink pot is used to capture a fiend’s blood. As fiends’ bodies disappear from the Material Plane on death, fiendish blood must be extracted while the fiend is still alive. You can use an action to extract blood from a living fiend within your reach. If the fiend is unwilling, the fiend must be restrained or incapacitated and be below half of its maximum hit points. When blood is extracted in this way, the stationery regains a number of charges equal to a roll of one of the fiend’s Hit Dice, and once it regains charges, it can’t do so again until the next dawn. Contractual Obligation. As an action, you can use the stationery to write on the skin of a willing humanoid. The ink burns into the flesh of your target, raking a cauterised scar, while an identical burn appears in a similar place on your own body. Both you and the creature take 1 fire damage. Choose one of the following glyphs and expend the appropriate number of charges; for 1 hour, you are both subjected to the associated magical effects. Ward (1 charge). While you and the creature are within 30 feet of one another, you both have a +1 bonus to AC. While you are more than 30 feet apart, you both suffer a -1 penalty to AC. Warp (2 charges). While you and the creature are within 30 feet of one another, each affected creature can choose whether it is enlarged or reduced, as per the enlarge/reduce spell. An affected creature can use its action to return to normal size, or to enlarge or reduce itself if it’s already normal size. While you are more than 30 feet apart, both creatures return to their normal size. Wrath (1 charge). While you and the creature are within 30 feet of one another, you both gain a +1 bonus to attack and damage rolls. While you are more than 30 feet apart, you both suffer a -1 penalty to attack and damage rolls. Once the stationery has been used to sign a glyph, the ink turns dark and it can’t be used again until the current contract is complete (i.e., the hour has elapsed). Rare variant: The emberink stationery contains 1d4 - 2 charges when found (minimum of 0).
+
+**properties**:
+- Category: Items
+- Item Type: Wondrous item
+- Item Rarity: rare
+- Requires Attunement: requires attunement
+
+**publisher**: Loot Tavern
+
+**book**: L’Arsene’s Ledger of Treasures and Trinkets
+

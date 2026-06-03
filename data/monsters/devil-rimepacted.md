@@ -1,0 +1,16 @@
+# Devil, Rimepacted
+
+**description**: Dark, frostbitten skin pulls taut over bone, and ice rimes this humanoid's body. Massive ice on its forearms and hands forms monstrous, rending claws, and icicles on its back give it the semblance of a fiendish tail. A vile anger burns in its eyes. When creatures lost in the coldest reaches of the world approach death from starvation or exposure, they often call out for aid from any entities that can hear them. When an ice devil or similarly cold-based devil hears the cries whispered into the blizzard, it might form a pact to spare the mortal's life, resulting in frost-afflicted (see). If the devil arrives too late for a pact but before the mortal's spirit has fully left the body, it can reforge the fleeing soul from the freezing cold, creating a rimepacted devil. Servants of Ice. Rimepacted devils typically serve the devils who created them, scouring the land and reaping souls for their infernal masters. Bonded with icy and frigid locales on the Material Plane, rimepacted rarely fight for higher station in devilish hierarchies, content to bring the power of winter down on warm-blooded mortals. Devil's Sight. Magical darkness doesn't impede the rimepacted's darkvision. Frigid Vortex. The rimepacted emits a swirl of cold wind extending in a 15-foot radius around it. Each creature that enters the wind's area for the first time on a turn or starts its turn there must succeed on a DC 15 Strength saving throw or be knocked prone. The wind is nonmagical and disperses gas or vapor and extinguishes candles, torches, and similar unprotected flames in the area. At the start of each of its turns, the rimepacted chooses whether this wind is active. While the wind is active, the rimepacted has disadvantage on Dexterity (Stealth) checks. Magic Resistance. The rimepacted has advantage on saving throws against spells and other magical effects. Snow Burrower. The rimepacted can burrow only through nonmagical snow and ice. Actions Multiattack. The rimepacted makes two Icy Claw attacks or three Frostbolt attacks. Icy Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) slashing damage plus 10 (3d6) cold damage. Frostbolt. Ranged Spell Attack: +6 to hit, range 60 ft., one target. Hit: 13 (3d6 + 3) cold damage, and the target's speed is reduced by 10 feet until the end of its next turn. Freezing Smite (Recharge 5-6). The rimepacted raises its frigid claw, drawing upon fiendish energies, then smashes its rimed fist into the ground, causing a wave of freezing power to emanate outward. Each creature within 30 feet of the rimepacted must make a DC 15 Constitution saving throw, taking 21 (6d6) cold damage on a failed save, or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is restrained by ice until the end of its next turn. Reactions Fury of the Storm. When a creature the rimepacted can see is knocked prone by Frigid Vortex, the rimepacted can move up to half its speed toward the creature.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fiend (Devil)
+- Alignment: Lawful Evil
+- Expansion: 19901
+- Challenge Rating: 6
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

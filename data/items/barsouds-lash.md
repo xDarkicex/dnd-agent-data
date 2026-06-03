@@ -1,0 +1,15 @@
+# Barsoud's Lash
+
+**description**: Crafted from the spine of the devil Barsoud, the Lash is as sharp and bloodthirsty as the fiend himself. Legend The devil Barsoud was the scourge of the lower planes. A fierce leader of a legion of devils, with a cruel wit and too much bravado to live a long life. When he joked at an archdevil’s expense, his target’s retribution was swift and vicious—she ripped Barsoud’s spine from his body and fashioned it into a segmented greatsword that, for those who know the trick, extends into a long, swift lash. Location The sword was last seen on a fabled battlefield where fiends clashed. The archdevil Lamoris wielded it as she led her troops over the Cliffs of Lament, fighting down cliff faces riddled with soul worms and wreathed in exsanguinating fogs. In spite of her tenacity, Lamoris lost the battle and was taken alive. Her enemies staked her out on the battlefield so that carrion fiends might feast on her body eternally while she is unable to die. If the sword isn’t with her, she knows who has it, and she will trade the location for her release. Encounter Ideas Legend of the Lash. Legend has it Barsoud’s Lash is the only thing that can kill a certain fiend. Chroniclers know where the sword was last seen. Boneless Barfly. Characters encounter Barsoud, now literally spineless, in a tavern where devils and their kin are welcomed. Drunk on bloodwine, he tells them his miserable tale. Lost in the Lower Planes. Crossing an infernal plane, the party seeks shelter in the shadow of the Cliffs of Lament and encounter Lamoris pleading for help. Progression Barsoud’s Lash progresses as the creature who is attuned to it progresses. Whenever the creature’s proficiency bonus increases, the weapon’s rarity also increases. Statistics Weapon (Greatsword), Rarity Varies (Requires Attunement) Common . Barsoud’s Lash’s reach increases to 10 feet. Uncommon . You gain a +1 bonus to attack and damage rolls made with this magic weapon. Rare . When you hit a Celestial or a Demon with this weapon, the target takes an extra 1d6 slashing damage. Very Rare . The bonus to attack and damage rolls increases to +2. Warding Maneuver. As a bonus action, you can weave Barsoud’s Lash in a defensive pattern, gaining a +2 bonus to AC until the start of your next turn. You can use this ability a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest. Legendary . The bonus to attack and damage rolls increases to +3 and the additional damage to Celestials and Demons increases to 2d6. Divine Sense. In addition, you can sense the location of the nearest Celestial or Demon within 1 mile. Once you have sensed this creature, you can track it as per the locate creature spell (within a 1 mile radius instead of 1,000 feet). You can use this property twice and regain all expended uses when you finish a long rest.
+
+**properties**:
+- Category: Items
+- Item Type: Weapon (greatsword)
+- Properties: Heavy, Two-Handed, Reach
+- Item Rarity: varies
+- Requires Attunement: Requires Attunement
+
+**publisher**: Jeff Stevens Games
+
+**book**: Weapons of Legend
+

@@ -1,74 +1,16 @@
 # Manticore
 
-## Manticore
+**description**: A weary traveler hears a clarion call through the forest or friendly voices from a rocky shelter, and their heart leaps at the promise of refuge—only to find themself at the mercy of serrated teeth and poisoned spikes. In a manticore’s territory, people go missing without a trace. These fearsome creatures carve out their hunting grounds in forests near small villages, mountain passes where caravans travel, and other locations with plentiful wildlife. While manticores can subsist on a carnivorous diet of any nearby prey, their choicest meal is humanoid flesh. Uncanny Appearances. A manticore has a lion’s body, a dragon’s wings, and a scorpion’s tail barbed with spines, but their most unnerving trait is their humanoid face. Owing to a quirk of magical evolution, manticores develop the features of common mortal lineages that populate their region of birth. For example, a manticore in an area densely populated by tieflings inherits fiendish eyes and devilish horns. Manticores are born with an inherent understanding of a regional language, but they can speak only through mimicking that which they’ve heard—a talent manticores use to lure in prey. Heralds of Death. Manticores have a magical howl like a trumpet. This haunting sound not only terrifies creatures, but makes them more susceptible to the manticore’s bite. While on the hunt, manticores often take to the skies, shooting poison-tipped spikes from their tail to weaken their victims before howling and closing in. Ferocious Companions. A manticore who develops a taste for humanoids can rarely be tamed. But a young manticore who has yet to cut their teeth on such flesh can be raised into a fearsome ally. After a trained manticore companion finally tastes delicious humanoid flesh, they typically remain loyal to their caregiver. Traits Agile Predator. When the manticore hits a creature with an attack on the manticore’s turn, the manticore doesn’t provoke opportunity attacks from that creature for the rest of that turn. Mimicry. The manticore can mimic any words or phrases they have heard in a language they understand. A creature who hears the speech can tell it is an imitation with a successful DC 10 Wisdom (Insight) check. Actions Multiattack. The manticore makes one Bite and one Claw attack, or two Tail Spike attacks. Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage. If the target is a creature who is frightened of the manticore, they take an extra 4 (1d8) piercing damage. Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) slashing damage, and the manticore can move the target up to 5 feet horizontally. Tail Spike. Ranged Weapon Attack: +5 to hit, range 60/120 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) poison damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned until the end of their next turn. Bonus Actions Trumpeting Howl ( 1 /Day). Each enemy within 120 feet who can hear the manticore must succeed on a DC 13 Wisdom saving throw or be frightened of the manticore for 1 minute (save ends at end of turn). If the initial saving throw fails by 5 or more, a creature is also dazed while frightened in this way.
 
-### Manticore
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Monstrosity
+- Alignment: Typically Neutral
+- Expansion: 25493
+- Challenge Rating: 3
 
-_Large Monstrosity, Lawful Evil_
+**publisher**: MCDM Productions
 
-**AC** 14 **Initiative** +3 (13) <br>
-**HP** 68 (8d10 + 24) <br>
-**Speed** 30 ft., Fly 50 ft. <br>
+**book**: Flee Mortals
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>CON</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Senses** Darkvision 60 ft.; Passive Perception 11<br>
-**Languages** Common<br>
-**CR** 3 (XP 700; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The manticore makes three attacks, using Rend or Tail Spike in any combination.
-
-**_Rend._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Slashing damage.
-
-**_Tail Spike._** _Ranged Attack Roll:_ +5, range 100/200 ft. _Hit:_ 7 (1d8 + 3) Piercing damage.

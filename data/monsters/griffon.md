@@ -1,73 +1,16 @@
 # Griffon
 
-## Griffon
+**description**: Mystic Connection: Griffon If you’re playing a beastheart and have a griffon companion, you gain the following benefit at 9th level when you gain the beastheart’s Mystic Connection feature: Griffon-Hearted. As an action, you can fly up to twice your walking speed without provoking opportunity attacks. During this movement, you can enter the spaces of other creatures and these spaces don’t count as difficult terrain for you. The first time you enter each creature’s space during this move, they must succeed on a Strength saving throw against your exploit save DC or take bludgeoning damage equal to your beastheart level and be knocked prone. Once you use this action, you can’t do so again until you finish a long rest. Traits Steady. The griffon has advantage on ability checks and saving throws against being knocked prone. Swoop. If the griffon flies more than 20 feet in a straight line toward their target and then hits them with a Claw attack on the same turn, the target is grappled (escape DC 14). While the target is grappled in this way, the griffon has advantage on Beak attacks against the target but can’t make Claw attacks. Grappling a Medium or smaller creature imposes no penalty on the griffon’s speed. Actions Multiattack. The griffon makes one Beak attack, and they can make one Claw attack, use Buffet, or use Piercing Cry. Beak. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage. Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit : 9 (2d4 + 4) slashing damage. Buffet. The griffon beats their wings in mighty gusts of wind. Each creature not grappled by the griffon within a 30-foot cone originating from the griffon must make a DC 14 Strength saving throw. On a failed save, a creature takes 5 (2d4) bludgeoning damage, is pushed 5 feet away from the griffon, and is knocked prone. Piercing Cry. The griffon lets out an earsplitting screech. Each enemy within 60 feet of the griffon who can hear them must succeed on a DC 12 Wisdom saving throw or be frightened of the griffon for 1 minute (save ends at end of turn). If a creature’s saving throw is successful or the effect ends for them, they are immune to the Piercing Cry of all griffons for the next 24 hours.
 
-### Griffon
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Beast
+- Alignment: Unaligned
+- Expansion: 28288
+- Challenge Rating: 2
 
-_Large Monstrosity, Unaligned_
+**publisher**: MCDM Productions
 
-**AC** 12 **Initiative** +2 (12) <br>
-**HP** 59 (7d10 + 21) <br>
-**Speed** 30 ft., Fly 80 ft. <br>
+**book**: Where Evil Lives
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>DEX</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +5<br>
-**Senses** Darkvision 60 ft.; Passive Perception 15<br>
-**Languages** None<br>
-**CR** 2 (XP 450; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The griffon makes two Rend attacks.
-
-**_Rend._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 8 (1d8 + 4) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 14) from both of the griffon's front claws.

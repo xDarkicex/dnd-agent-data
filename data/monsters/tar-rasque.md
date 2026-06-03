@@ -1,0 +1,16 @@
+# Tar-rasque
+
+**description**: Tar Elementals These viscous, shapeless elementals are natives of the muddy borderlands between the Planes of Water and Earth. Their minds comprise the echoing memories of the thousands of organisms whose decomposition has created their shapeless bodies. Arcane Activation. When an arcane power source is tuned to the correct frequency, a tar elemental’s primordial spark can be drawn into the Material Plane, reforming around a suitable substrate, such as tar or other lipids, like the fat deposits from a long-dead giant space hamster. Such a summoning is often against the elemental’s will, leading to violent and aggressive outbursts. Possession & Reanimation. Should a tar elemental find itself in contact with such an arcane power source, its powers of decomposition are augmented; it is no longer subject to decay and its touch can enervate living tissue. An augmented tar elemental is also capable of puppeteering a creature, dead or alive, manipulating its body through an external, oily musculature. A Tar-rasque’s Lair A tar-rasque’s lair is the area in which its bones became fossilised. Its presence lingers on, pervading every rock, pore, and tar pool. Lair Actions While the arcane power crystal within the tar-rasque is intact, the ambient magic of its preserved skeleton and its eternal rage causes lair actions to occur. Variable Lair Action Statistics Hunt Level VDC Vdam 9th 15 10 (3d6) 14th 16 14 (4d6) 20th 18 28 (8d6) Lair Actions . On initiative count 20 (losing initiative ties), the tar-rasque’s arcane-power-source-enhanced presence takes one of the following lair actions; the tar-rasque can’t take the same lair action two rounds in a row. Tar Geyser. A number of patches of ground fracture and torrents of necrotic tar shoot upwards in 5-foot-radius, 40-foot-high cylinders. The number of geysers depends on the hunt level: two at 9th level, three at 14th level, or four at 20th level. Each creature in one or more of the geysers must make a VDC Dexterity saving throw. On a failure, a creature takes Vdam necrotic damage and is fired 40 feet into the air. On a success, a creature takes half as much damage and is pushed horizontally to the nearest unoccupied space. Tar Pit. A 10-foot-radius circle of ground permanently turns into a viscous pit of tar and is difficult terrain. Each creature that starts its turn in the area or enters the area for the first time on its turn must make a VDC Strength saving throw or become restrained in the tar. A creature sinks 2 feet into the tar each time it fails this saving throw. If it sinks further than its height, it can no longer breathe, is blinded, and has disadvantage on Strength checks to free itself. The restrained creature, or a creature within 5 feet of it, can use its action to make a VDC Strength check, freeing the stuck creature on a success. Quake. The ground shakes in a 100-foot-radius sphere centred on a point the tar-rasque chooses. Each other creature in the area must succeed on a VDC Strength saving throw or be knocked prone.
+
+**properties**:
+- Category: Monsters
+- Size: Gargantuan
+- Type: elemental (titan)
+- Alignment: unaligned
+- Expansion: 23695
+- Challenge Rating: 26
+
+**publisher**: Loot Tavern
+
+**book**: Heliana's Guide to Monster Hunting - Compendium
+

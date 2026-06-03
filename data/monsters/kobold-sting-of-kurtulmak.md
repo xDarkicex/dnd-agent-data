@@ -1,0 +1,16 @@
+# Kobold Sting of Kurtulmak
+
+**description**: When a kobold demonstrates unmatched cunning, rogue craft, and arcane skills, it may get the attention of Kurtulmak. Once it becomes favored by the deity, the kobold's tail end transforms into a venomous stinger. Mage Assassin. The Sting of Kurtulmak serves as the tribe's war leader and chief assassin, second only to the chieftain or king. During combat, it mixes its arcane and martial skills with deadly efficiency, sneaking behind enemy lines and neutralizing key targets first. Traits Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated. Legendary Resistance (1/Day). If the kobold fails a saving throw, it can choose to succeed instead. Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Actions Multiattack. The kobold makes one Spear attack and one Tail Stinger attack. Spear. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack, plus 7 (2d6) necrotic damage. The attack deals an extra 10 (3d6) damage if the kobold has advantage on the attack roll. The kobold treats the spear as a finesse weapon. Tail Stinger. Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit: 5 (1d4 + 3) piercing damage. The target must succeed on a DC 13 Constitution saving throw or become poisoned for 1 minute. A poisoned creature is paralyzed. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Savage Stab (Recharge 5–6). Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 16 (3d8 + 3) piercing damage, and if the target is a creature, it must succeed on a DC 14 Constitution saving throw. On a failed save, the creature has disadvantage on attack rolls and ability checks, can’t take reactions, and its speed is halved for 1 minute. A creature can repeat the saving throw at the end of its turns, ending the effects on itself on a success. Spellcasting. The kobold casts one of the following spells using Charisma as the spellcasting ability (spell save DC 14): At will: mage hand, minor illusion, true strike 2/day each: invisibility, passwall, stinking cloud 1/day each: confusion, mislead Bonus Actions Cunning Action. The kobold takes the Dash, Disengage, or Hide action. Legendary Actions The kobold can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The kobold regains spent legendary actions at the start of its turn. Move. The kobold moves up to half its speed. Sting. The kobold makes a Tail Stinger attack. Spear (Costs 2 Actions). The kobold makes a Spear attack. Cast a Spell (Costs 2 Actions). The kobold uses Spellcasting.
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: Humanoid (Kobold)
+- Alignment: Any Alignment
+- Expansion: 23212
+- Challenge Rating: 6
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded II
+

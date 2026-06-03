@@ -1,0 +1,16 @@
+# Velociraptor
+
+**description**: A smaller cousin of the deinonychus, the velociraptor is a swift, cunning pack hunter. This small, sleek dinosaur has vicious, snapping jaws and feet that end in large talons for gutting prey. It has no fear of Medium or even Large creatures. Its leaping charge attack grants it a significant advantage against foes in thick underbrush. A velociraptor is around 1-1/2 feet tall and 7 feet long and weighs 35 pounds. @font-face {font-family:"MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-alt:"ＭＳ 明朝"; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;}@font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-1593833729 1073750107 16 0 415 0;}@font-face {font-family:Cambria; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;}@font-face {font-family:Times; panose-1:0 0 5 0 0 0 0 2 0 0; mso-font-alt:Sylfaen; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536858881 -1073711013 9 0 511 0;}@font-face {font-family:"\@MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-ansi-language:EN-GB;}p.StatBlock1, li.StatBlock1, div.StatBlock1 {mso-style-name:"Stat Block 1"; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"Stat Block 1 Char"; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:9.35pt; text-indent:-9.35pt; line-height:12.0pt; mso-pagination:widow-orphan; font-size:8.0pt; mso-bidi-font-size:12.0pt; font-family:"Verdana",sans-serif; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; mso-ansi-language:EN-GB;}span.StatBlock1Char {mso-style-name:"Stat Block 1 Char"; mso-style-unhide:no; mso-style-qformat:yes; mso-style-locked:yes; mso-style-parent:""; mso-style-link:"Stat Block 1"; mso-ansi-font-size:8.0pt; mso-bidi-font-size:12.0pt; font-family:"Verdana",sans-serif; mso-ascii-font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-hansi-font-family:Verdana; mso-ansi-language:EN-GB;}.MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-ascii-font-family:Cambria; mso-fareast-font-family:"MS Mincho"; mso-hansi-font-family:Cambria; mso-font-kerning:0pt; mso-ligatures:none;}div.WordSection1 {page:WordSection1;}
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: beast
+- Alignment: unaligned
+- Expansion: 32483
+- Challenge Rating: 1/2
+
+**publisher**: Legendary Games
+
+**book**: Alien Bestiary
+

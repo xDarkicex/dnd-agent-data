@@ -1,0 +1,16 @@
+# Xildrach
+
+**description**: Xildrachs (sil-draak) are among the lesser known devils in the armies of Hell, and often serve as infiltrators or anti-mage soldiers due to their ability to change their shape as well as negate and even in some ways reflect elemental damage back at their enemies. Appearance. In their true form, xildrachs have orange, scaly bodies with four glossy horns curving up from the ordinal points of their skull. They have long, bony arms and legs, which all end in clawed hands. Red membranous wings with veins that glow like lightning protrude from their backs. Their bodies are an odd shape, almost snake-like with disconnected ribs allowing their entire body to flow along its length while maintaining almost even width along the torso. Xildrachs can move on any two of their limbs with relative ease. Tactics. Being resistant to most elemental damage, the xildrach will boldly charge through most fields of elemental energy looking to charge its claws before making attacks. However, whenever possible it does prefer to let others do its fighting for it, relying on Unwelcome Contract and any allies it may have made while in the guise of a mortal to protect it from harm. Traits Omnidextrous. The xildrach ignores Injuries to its Attacks and Mobility until it has received at least three Injuries of the same severity across the two aspects. This only applies when the xildrach is in its true form. Magic Resistance. The xildrach has advantage on saving throws against spells and magical effects. Poison Resistance. The xildrach has advantage on saving throws against poison. Elemental Affinity. Whenever the xildrach takes acid, cold, fire, or lightning damage, it becomes immune to that type of damage until the end of its next turn, or until it takes elemental damage of another type, whichever is sooner (in which case it becomes immune to the new source of damage). While immune to an element in this way, the xildrach's Claw attacks deal an additional 7 (2d6) damage of the same type. Mortal Transformation. The xildrach can take on the form of any humanoid at will. Spread the Pain. If the xildrach attacks two different creatures in the same action, it uses the total damage dealt across all its attacks and uses the lower of the two creatures' thresholds when determining if either creature was Injured. Actions Multiattack. The xildrach makes two Claw attacks. Claw. Melee Weapon Attack: +6 to hit, one target, reach 5 feet. Hit: 12 (2d8+3) slashing damage. Unwelcome Contract (recharge 5-6). The xildrach overwhelms a creature's mind, forcing it into a temporary contract of partnership. One nonfiend creature within 60 feet must make a DC 14 Charisma saving throw or be charmed by the xildrach. While charmed in this way, it must attack its nearest ally each turn if able. If it is not in range to do so, it must move until it is in range. The target can attempt another saving throw to end the effect at the end of each of its turns. Chaotic creatures have disadvantage on the initial saving throw. The xildrach can only use this ability on one creature at a time.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: fiend (shapeshifter)
+- Alignment: lawful evil
+- Expansion: 28072
+- Challenge Rating: 8
+
+**publisher**: Lone Colossus Games
+
+**book**: Injuries and Vile Deeds
+

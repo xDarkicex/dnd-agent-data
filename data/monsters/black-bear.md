@@ -1,71 +1,46 @@
 # Black Bear
 
-## Black Bear
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Actions Multiattack. The bear makes two Rend attacks. Rend. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage.
 
-_Medium Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 11
+- HP: 19 (3d8 + 6)
+- PB: 2
+- CHA: 7
+- CON: 14
+- DEX: 12
+- INT: 2
+- STR: 15
+- WIS: 12
+- Size: Medium
+- Type: Beast
+- Speed: 30 ft., Climb 30 ft., Swim 30 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406406902/AtyPuiHNd4lzjmFrxrFEWQ/original.png
+- Senses: Darkvision 60 ft.
+- Skills: Perception +5
+- data-XP: 100
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 1
+- data-Actions: [{"Name":"Multiattack","Desc":"The bear makes two Rend attacks."},{"Name":"Rend","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"4","Reach":"5 ft.","Target":"one target","Damage":"1d6 + 2","Damage Type":"Slashing"}]
+- data-CHA-mod: -2
+- data-CON-mod: 2
+- data-DEX-mod: 1
+- data-INT-mod: -4
+- data-STR-mod: 2
+- data-SizeNum: 2
+- data-WIS-mod: 1
+- Saving Throws: Str +2, Dex +1, Con +2, Int -4, Wis +1, Cha -2
+- Challenge Rating: 1/2
+- Passive Perception: 15
+- data-CrNum: 0.5
+- data-AcNum: 11
+- data-HpNum: 19
 
-**AC** 11 **Initiative** +1 (11) <br>
-**HP** 19 (3d8 + 6) <br>
-**Speed** 30 ft., Climb 30 ft., Swim 30 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>DEX</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CON</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Skills** Perception +5<br>
-**Senses** Darkvision 60 ft.; Passive Perception 15<br>
-**Languages** None<br>
-**CR** 1/2 (XP 100; PB +2)
-
-### Actions
-
-<hr>
-
-**_Multiattack._** The bear makes two Rend attacks.
-
-**_Rend._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Slashing damage.

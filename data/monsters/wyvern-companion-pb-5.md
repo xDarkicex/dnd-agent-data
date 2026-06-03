@@ -1,0 +1,16 @@
+# Wyvern Companion (PB 5)
+
+**description**: Dragons can be poor hosts, but at least they can be reasoned with. Wyverns, on the other hand, have the ferocity of dragons without their intelligence or ego. Their aggression is driven by hunting and territorial instinct. Many adventurers meet their end in the wyvern’s maw—some because the wyvern saw them as competitors, and others because the wyvern was simply hungry. Wyvern scales match the colors of the mud, rock, and rust that dominate the mountains and badlands where they prefer to reside. Unlike true dragons, wyverns don’t have front legs—instead, they walk like bats, propelled by their rear legs and balancing on the joints of their wings. Mountain Hunters. While on the hunt, wyverns perch on stone outcroppings and natural spires overlooking their territory. They first attack with their stinger, injecting prey with corrosive acid. If a wyvern’s victim attempts to hide, the wyvern’s hooked claws and fearsome teeth can tear open any crag or crevice in pursuit. Acidic Aggressors. Without front limbs to grasp their prey, wyverns prefer to keep their distance and strike with their long, stinger-tipped tails. A single sting is usually enough to kill common game outright, and even larger foes are left wracked by pain. Wyverns have no interest in a drawn-out struggle, and they relentlessly sting their foes at every opportunity. Protective Parents. A wyvern’s infamous temper is easily provoked, particularly if their eggs or hatchlings are threatened. Many monster slayers for hire won’t accept contracts to track and hunt wyverns during hatching season. Yet this season is when heroes are needed most, as mated pairs aggressively hunt anything or anyone to feed their young. Traits Learning to Fly. The wyvern has a flying speed of 10 × PB feet. Actions Signature Attack (Stinger). Melee Weapon Attack: +3 plus PB to hit, reach 5 ft., one target. Hit: 1d6 plus PB piercing damage. 1 st Level: Acidic Sting ( 2 Ferocity). The wyvern makes a signature attack with a reach of 15 feet. On a hit, the attack deals an extra PB acid damage. 3 rd Level: Liquefied Meal ( 5 Ferocity). The wyvern pounces on a Large or smaller creature within 5 feet of them, attempting to melt their prey’s flesh with acid and drink it. The target must succeed on a DC 10 plus PB Dexterity saving throw or fall prone and take 1d4 plus PB acid damage. The wyvern gains temporary hit points equal to the acid damage dealt. 5 th Level: Tail Sweep ( 8 Ferocity). The wyvern sweeps their tail in a 15-foot cone. Each creature in that area must make a DC 10 plus PB Strength saving throw or take PBd6 bludgeoning damage and be pushed up to 10 feet away from the wyvern. Reactions Enraged Protector. When a creature the wyvern can see within 30 feet of them reduces the wyvern’s caregiver to 0 hit points or scores a critical hit against the caregiver, the wyvern can move up to their speed. If the wyvern ends this movement within 5 feet of the attacker, the wyvern can make a signature attack against them.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Dragon
+- Alignment: Unaligned
+- Expansion: 25493
+- Challenge Rating: Companion
+
+**publisher**: MCDM Productions
+
+**book**: Flee Mortals
+

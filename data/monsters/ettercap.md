@@ -1,91 +1,51 @@
 # Ettercap
 
-## Ettercap
+**description**: These D&D 5E Free Basic Rules only contain a fraction of the races, subclasses, backgrounds, feats, items, monsters, spells, and other content available on Roll20. Check out the Player's Handbook to add dozens of more player options to the Charactermancer, the Dungeon Master's Guide to expand on the tools available for DMs, and the Monster Manual to add hundreds of more unique creatures (including token artwork) to fight! Traits Spider Climb : The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Web Sense : While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web. Web Walker : The ettercap ignores movement restrictions caused by webbing. Actions Multiattack : The ettercap makes two attacks: one with its bite and one with its claws. Bite : Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Claws : Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage. Web (Recharge 5-6) : Ranged Weapon Attack: +4 to hit, range 30/60 ft., one Large or smaller creature. Hit: The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
-### Ettercap
+**properties**:
+- Category: Monsters
+- AC: 13 (Natural Armor)
+- HP: 44 (8d8+8)
+- CHA: 8
+- CON: 13
+- DEX: 15
+- INT: 7
+- STR: 14
+- WIS: 12
+- Size: Medium
+- Type: monstrosity
+- Speed: 30 ft., climb 30 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/390062966/wjKE9hu8EU62zVklr391zw/original.png
+- Roll 0: 1d20 + 4
+1d8+2
+- Roll 1: 1d20 + 4
+2d4+2
+- Roll 2: Garrote
+1d20 + 4
+1d4+2
+- Senses: Darkvision 60 Ft.
+- Skills: Perception +3, Stealth +4, Survival +3
+- Source: 5th Edition SRD
+- data-XP: 450
+- Alignment: Neutral Evil
+- data-List: false
+- Token Size: 1
+- data-Traits: [{"Name":"Spider Climb","Desc":"The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."},{"Name":"Web Sense","Desc":"While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web."},{"Name":"Web Walker","Desc":"The ettercap ignores movement restrictions caused by webbing."}]
+- data-Actions: [{"Name":"Multiattack","Desc":"The ettercap makes two attacks: one with its bite and one with its claws."},{"Name":"Bite","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"4","Reach":"5 ft.","Target":"one creature","Damage":"1d8 + 2","Damage Type":"piercing","Damage 2":"1d8","Damage 2 Type":"poison","Desc":"The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success"},{"Name":"Claws","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"4","Reach":"5 ft.","Target":"one target","Damage":"2d4 + 2","Damage Type":"slashing"},{"Name":"Web (Recharge 5-6)","Type Attack":"Weapon Attack","Type":"Ranged","Hit Bonus":"4","Reach":"30/60 ft.","Target":"one large or smaller creature","Desc":"The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage."}]
+- data-CHA-mod: -1
+- data-CON-mod: +1
+- data-DEX-mod: +2
+- data-INT-mod: -2
+- data-STR-mod: +2
+- data-SizeNum: 4
+- data-WIS-mod: +1
+- Challenge Rating: 2
+- Passive Perception: 13
+- data-CrNum: 2
+- data-AcNum: 13
+- data-HpNum: 44
 
-_Medium Monstrosity, Neutral Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 13 **Initiative** +2 (12) <br>
-**HP** 44 (8d8 + 8) <br>
-**Speed** 30 ft., Climb 30 ft. <br>
+**book**: Free Basic Rules (2014)
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>DEX</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +3, Stealth +4, Survival +3<br>
-**Senses** Darkvision 60 ft.; Passive Perception 13<br>
-**Languages** None<br>
-**CR** 2 (XP 450; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Spider Climb._** The ettercap can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-
-**_Web Walker._** The ettercap ignores movement restrictions caused by webs, and the ettercap knows the location of any other creature in contact with the same web.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The ettercap makes one Bite attack and one Claw attack.
-
-**_Bite._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Piercing damage plus 2 (1d4) Poison damage, and the target has the Poisoned condition until the start of the ettercap's next turn.
-
-**_Claw._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 7 (2d4 + 2) Slashing damage.
-
-**_Web Strand (Recharge 5–6)._** _Dexterity Saving Throw:_ DC 12, one Large or smaller creature the ettercap can see within 30 feet. _Failure:_ The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Bludgeoning, Poison, and Psychic damage).
-
-#### Bonus Actions
-
-<hr>
-
-**_Reel._** The ettercap pulls one creature within 30 feet of itself that is Restrained by its Web Strand up to 25 feet straight toward itself.

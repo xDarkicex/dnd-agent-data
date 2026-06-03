@@ -1,69 +1,46 @@
 # Giant Weasel
 
-## Giant Weasel
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Actions Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage.
 
-_Medium Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 13
+- HP: 9 (2d8)
+- PB: 2
+- CHA: 5
+- CON: 10
+- DEX: 17
+- INT: 4
+- STR: 11
+- WIS: 12
+- Size: Medium
+- Type: Beast
+- Speed: 40 ft., Climb 30 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406407397/IjOoLnwMWR3VapTs2JANEg/original.png
+- Senses: Darkvision 60 ft.
+- Skills: Acrobatics +5, Perception +3, Stealth +5
+- data-XP: 25
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 1
+- data-Actions: [{"Name":"Bite","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"5","Reach":"5 ft.","Target":"one target","Damage":"1d4 + 3","Damage Type":"Piercing"}]
+- data-CHA-mod: -3
+- data-CON-mod: 0
+- data-DEX-mod: 3
+- data-INT-mod: -3
+- data-STR-mod: 0
+- data-SizeNum: 2
+- data-WIS-mod: 1
+- Saving Throws: Str +0, Dex +3, Con +0, Int -3, Wis +1, Cha -3
+- Challenge Rating: 1/8
+- Passive Perception: 13
+- data-CrNum: 0.125
+- data-AcNum: 13
+- data-HpNum: 9
 
-**AC** 13 **Initiative** +3 (13) <br>
-**HP** 9 (2d8) <br>
-**Speed** 40 ft., Climb 30 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>DEX</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>CON</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>4</td>
-      <td>−3</td>
-      <td>−3</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>5</td>
-      <td>−3</td>
-      <td>−3</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Skills** Acrobatics +5, Perception +3, Stealth +5<br>
-**Senses** Darkvision 60 ft.; Passive Perception 13<br>
-**Languages** None<br>
-**CR** 1/8 (XP 25; PB +2)
-
-### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 5 (1d4 + 3) Piercing damage.

@@ -1,93 +1,17 @@
 # Dryad
 
-## Dryad
+**description**: Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows. Treebound. Powerful fey will sometimes bind lesser fey spirits to trees, transforming them into dryads. This is sometimes done as a punishment when the fey spirit falls in love with a mortal and that love is forbidden. A dryad can emerge from the tree and travel the lands around it, but the tree remains her home and roots her to the world. As long as the tree remains healthy and unharmed, the dryad stays forever youthful and alluring. If the tree is harmed, she suffers. If the tree is ever destroyed, the dryad descends into madness. Reclusive Fey. Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be charmed. Dryads work with other sylvan creatures to defend their forests. Unicorns, treants, and satyrs live alongside them, in addition to druids that share the dryads’ devotion to the woods they call home. Woodland Magic. Dryads can speak with plants and animals. They can teleport from one tree to another, luring interlopers away from their groves. If pressed, a dryad can beguile humanoids with her enchantments, turning enemies into friends. They also know a handful of useful spells. Traits Innate Spellcasting : The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components: • At will: druidcraft • 3/day each: entangle , goodberry • 1/day each: barkskin , pass without trace , shillelagh Magic Resistance : The dryad has advantage on saving throws against spells and other magical effects. Speak with Beasts and Plants : The dryad can communicate with beasts and plants as if they shared a language. Tree Stride : Once on her turn, the dryad can use 10 ft. of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 ft. of the first tree, appearing in an unoccupied space within 5 ft. of the second tree. Both trees must be large or bigger. Actions Club : Melee Weapon Attack : +2 to hit, reach 5 ft., one target. Hit : 2 (1d4) bludgeoning damage. Club (with shillelagh) : Melee Weapon Attack : +6 to hit, reach 5 ft., one target. Hit : 8 (1d8 + 4) bludgeoning damage. Fey Charm : The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can. Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours. The dryad can have no more than one humanoid and up to three beasts charmed at a time.
 
-### Dryad
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: fey
+- Source: MM1
+- Alignment: neutral
+- Expansion: 2
+- Challenge Rating: 1
 
-_Medium Fey, Neutral_
+**publisher**: Wizards of the Coast
 
-**AC** 16 **Initiative** +1 (11) <br>
-**HP** 22 (5d8) <br>
-**Speed** 30 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>DEX</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CON</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>WIS</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CHA</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+4</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +4, Stealth +5<br>
-**Senses** Darkvision 60 ft.; Passive Perception 14<br>
-**Languages** Elvish, Sylvan<br>
-**CR** 1 (XP 200; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Magic Resistance._** The dryad has Advantage on saving throws against spells and other magical effects.
-
-**_Speak with Beasts and Plants._** The dryad can communicate with Beasts and Plants as if they shared a language.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting to cast _Charm Monster_.
-
-**_Vine Lash._** _Melee Attack Roll:_ +6, reach 10 ft. _Hit:_ 8 (1d8 + 4) Slashing damage.
-
-**_Thorn Burst._** _Ranged Attack Roll:_ +6, range 60 ft. _Hit:_ 7 (1d6 + 4) Piercing damage.
-
-**_Spellcasting._** The dryad casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14): <br>
-&emsp;**At Will:** _Animal Friendship, Charm Monster_ (lasts 24 hours; ends early if the dryad casts the spell again), _Druidcraft_ <br>
-&emsp;**1/Day Each:** _Entangle, Pass without Trace_
-
-#### Bonus Actions
-
-<hr>
-
-**_Tree Stride._** If within 5 feet of a Large or bigger tree, the dryad teleports to an unoccupied space within 5 feet of a second Large or bigger tree that is within 60 feet of the previous tree.

@@ -1,90 +1,16 @@
 # Sahuagin
 
-## Sahuagin
+**description**: "The village was empty, the seagulls were strangely quiet, and all we could hear was the surge of the sea." —An account of the aftermath of a sahuagin raid Sahuagin Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn—a call to raid and battle. Coastal settlers refer to sahuagin as “sea devils,” for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages. Devils of the Deep. Sahuagin are a predatory, piscine race that ventures from the ocean’s black depths to hunt the creatures of the shallows and shore. Though they dwell in the deepest trenches of the ocean, sahuagin view the entire aquatic realm as their kingdom and the creatures in it as blood sport for their hunting parties. The self-styled rulers of sahuagin ocean domains are massive mutant males that grow second sets of arms. They are terrible foes in battle, and all sahuagin bow down before these powerful barons. Way of the Shark. Sahuagin worship the shark god Sekolah. Only female sahuagin are deemed worthy of channeling the god’s power, and priestesses hold tremendous sway in sahuagin communities. Sahuagin are driven into a frenzy by the smell of fresh blood. As worshipers of Sekolah, they also have a special kinship with sharks, which they train as attack animals. Even untrained sharks recognize sahuagin as allies and don’t prey on them. Elven Enmity. The sahuagin might control the oceans if not for the presence of their mortal enemies, the aquatic elves. Wars between the two races have raged for centuries across the coasts and seas of the world, disrupting maritime trade and drawing other races into the bloody conflict. So intense is sahuagin hatred for the aquatic elves that the sea devils have adapted to combat their ancient foes. A sahuagin born near enough to an aquatic elf community can enter the world as a malenti—a sahuagin that physically resembles an aquatic elf in every way. Sahuagin are prone to mutation, but whether this rare phenomenon is a result of the wars between the sahuagin and the aquatic elves—or whether it preceded or even began the conflict—none can say. The sahuagin put the malenti to good use as spies and assassins in aquatic elf cities and the societies of other creatures that pose a threat to sahuagin. The mere shadow of the malenti threat incites paranoia and suspicion among aquatic elves, whose resilience is weakened as the prelude to an actual sahuagin invasion. Traits Blood Frenzy : The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points. Limited Amphibiousness : The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating. Shark Telepathy : The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy. Actions Multiattack : The sahuagin makes two melee attacks, one with its bite and one with its claws or spear. Bite : Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage. Claws : Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage. Spear (Melee; One-Handed) : Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage. Spear (Melee; Two-Handed) : Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage. Spear (Ranged) : Ranged Weapon Attack: +3 to hit, range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 
-### Sahuagin Warrior
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (sahuagin)
+- Source: MM1
+- Alignment: lawful evil
+- Challenge Rating: 1/2
 
-_Medium Fiend, Lawful Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 12 **Initiative** +0 (10) <br>
-**HP** 22 (4d8 + 4) <br>
-**Speed** 30 ft., Swim 40 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>DEX</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>WIS</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>9</td>
-      <td>−1</td>
-      <td>−1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +5<br>
-**Resistances** Acid, Cold<br>
-**Senses** Darkvision 120 ft.; Passive Perception 15<br>
-**Languages** Sahuagin<br>
-**CR** 1/2 (XP 100; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Blood Frenzy._** The sahuagin has Advantage on attack rolls against any creature that doesn't have all its Hit Points.
-
-**_Limited Amphibiousness._** The sahuagin can breathe air and water, but it must be submerged at least once every 4 hours to avoid suffocating outside water.
-
-**_Shark Telepathy._** The sahuagin can magically control sharks within 120 feet of itself, using a special telepathy.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The sahuagin makes two Claw attacks.
-
-**_Claw._** _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 4 (1d6 + 1) Slashing damage.
-
-#### Bonus Actions
-
-<hr>
-
-**_Aquatic Charge._** The sahuagin swims up to its Swim Speed straight toward an enemy it can see.

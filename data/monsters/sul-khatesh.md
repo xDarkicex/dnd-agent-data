@@ -1,0 +1,16 @@
+# Sul Khatesh
+
+**description**: Overlords In the first days of the world, the children of Khyber rose from the darkness to reign over Eberron. The greatest among them were the overlords, who held dominion over a world of fear, war, and death until the children of Eberron and Siberys rose up against them. Armies of dragons fought against the fiends of Khyber. And though the overlords couldn’t be destroyed, the couatl sacrificed their lives to build a prison of celestial light: a silver flame that bound the overlords in Khyber once more. These bonds have held for countless generations, but the overlords still yearn to break free and reclaim the world above. As long as the overlords are bound by the Silver Flame, they can’t physically manifest in the world. But each overlord embodies a particular aspect of evil, which grows in strength as their servants—the fiends known as the Lords of Dust—scheme to unleash their ancient masters. The overlords gain strength when mortals embrace the dark paths laid down for them. And as they grow stronger, they gain more influence. Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh and Sul Khatesh, both of whom remain imprisoned and can’t take physical form. The stat blocks provided here reflect the powers they would wield if they were ever unleashed upon the world. Immortal Nature. An overlord doesn’t require air, food, drink or sleep. It also can’t die permanently. Upon its death, it reforms elsewhere in the multiverse and becomes active again at a time set by the DM. Sul Khatesh Sul Khatesh is known as the Keeper of Secrets and the Queen of Shadows. She embodies the fears and superstitions surrounding magic, from malevolent warlocks to mad wizards, from deadly curses to magical power that draws those who wield it deeper into darkness. Sul Khatesh is subtler than the Rage of War. She empowers warlocks and whispers secrets into the minds of wizards and artificers, helping them master spells and create relics they could never shape on their own. But few of those inspired by Sul Khatesh understand what forces they are dealing with, or recognize the danger inherent in her gifts. The Queen of Shadows. An entity of shadow, Sul Khatesh can assume any form. Her favored shape is a twelve-foot-tall humanoid figure draped in a flowing, hooded robe formed of swirling mist and clinging shadow. Minions. Most of Sul Khatesh’s followers are wizards and warlocks, and she is one of the primary patrons for warlocks in Khorvaire. Covens devoted to the Queen of Shadows use dark magic and fear to dominate whole communities, while isolated warlocks make pacts with Sul Khatesh to pursue power and revenge. By sharing her power in this way, the overlord perpetuates the image of the evil warlock, inciting fear that strengthens the Keeper of Secrets even more. Sul Khatesh’s chief agent among the Lords of Dust is the rakshasa Hektula, who serves as the librarian in the demonic citadel of Ashtakala. Known as the First Scribe, Hektula presides over an immense trove of arcane knowledge and artifacts.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: fiend
+- Alignment: lawful evil
+- Expansion: 4480
+- Challenge Rating: 28
+
+**publisher**: Wizards of the Coast
+
+**book**: Eberron - Rising from the Last War
+

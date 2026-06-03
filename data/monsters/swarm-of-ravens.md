@@ -1,79 +1,17 @@
 # Swarm of Ravens
 
-## Swarm of Ravens
+**description**: The Nature of Swarms The swarms presented here aren’t ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats and rats from the darkest corners of the night, while the very presence of a mummy lord can cause scarab beetles to boil up from the sand-filled depths of its tomb. A hag might have the power to turn swarms of ravens against her enemies, while a yuan-ti abomination might have swarms of poisonous snakes slithering in its wake. Even druids can’t charm these swarms, and their aggressiveness is borderline unnatural. Traits Swarm : The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points. Actions Beaks (swarm has more than half HP) : Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage. Beaks (swarm has half HP or less) : Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 3 (1d6) piercing damage.
 
-_Medium Swarm of Tiny Beasts, Unaligned_
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: swarm of tiny beasts
+- Source: MM1
+- Alignment: unaligned
+- Expansion: 2
+- Challenge Rating: 1/4
 
-**AC** 12 **Initiative** +2 (12) <br>
-**HP** 11 (2d8 + 2) <br>
-**Speed** 10 ft., Fly 50 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>DEX</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>5</td>
-      <td>−3</td>
-      <td>−3</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Monster Manual
 
-**Skills** Perception +5<br>
-**Resistances** Bludgeoning, Piercing, Slashing<br>
-**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned<br>
-**Senses** Passive Perception 15<br>
-**Languages** None<br>
-**CR** 1/4 (XP 50; PB +2)
-
-### Traits
-
-<hr>
-
-**_Swarm._** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain Hit Points or gain Temporary Hit Points.
-
-### Actions
-
-<hr>
-
-**_Beaks._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
-
-**_Cacophony (Recharge 6)._** _Wisdom Saving Throw:_ DC 10, one creature in the swarm's space. _Failure:_ The target has the Deafened condition until the start of the swarm's next turn. While Deafened, the target also has Disadvantage on ability checks and attack rolls.

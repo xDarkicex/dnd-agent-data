@@ -1,0 +1,16 @@
+# Miska the Wolf-Spider
+
+**description**: Miska the Wolf-Spider is a legendary demon lord and master of battlefield strategy. He has the lower body of a massive armored spider, four arms, and two enormous wolf heads that drip poison. Yet Miska’s greatest strength is his cunning mind. History Ages ago, Miska led the hordes of Chaos against the forces of Law at the behest of his patron, the enigmatic Queen of Chaos. It seemed Miska’s domination couldn’t be stopped. In desperation, Miska’s opponents crafted an artifact to bind him in an extraplanar prison. This rod broke apart after sealing him in Pandemonium, scattering across the planes and becoming known as the Rod of Seven Parts. The rod is the key to releasing Miska from his long imprisonment. Traits Foul Ichor. A creature that hits Miska with a melee weapon attack takes 7 (2d6) poison damage. Legendary Resistance (3/Day). If Miska fails a saving throw, he can choose to succeed instead. Magic Resistance. Miska has advantage on saving throws against spells and other magical effects. Spider Climb. Miska can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Web Sense. When in contact with a web, Miska knows the exact location of any other creature in contact with the same web. Web Walker. Miska ignores movement restrictions caused by webbing. Actions Multiattack. Miska makes one Lupine Bite attack and two Trident of Chaos attacks. Lupine Bite. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 27 (6d8) poison damage. If the target is a creature, it must succeed on a DC 21 Constitution saving throw or have the poisoned condition for 1 minute. While poisoned in this way, a creature has the incapacitated condition and can’t regain hit points. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Trident of Chaos. Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 13 (2d6 + 6) piercing damage plus 9 (2d8) force damage. Spellcasting. Miska casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21): At will: Disguise Self, Invisibility, Mage Hand, Minor Illusion, Web 2/day each: Dominate Monster, Mass Suggestion, Mirror Image, Telekinesis, Teleport Bonus Actions Demand Loyalty. Miska magically ends the charmed and frightened conditions on himself and on any of his allies within 120 feet of himself. Legendary Actions Miska can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. Miska regains spent legendary actions at the start of his turn. Howl. Miska utters a bloodthirsty howl at one creature within 120 feet of himself that isn’t a Fiend. The target must succeed on a DC 21 Wisdom saving throw or take 13 (2d12) psychic damage. Skitter. Miska moves up to his speed without provoking opportunity attacks. Cast a Spell (Costs 2 Actions). Miska uses Spellcasting.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Fiend (Demon)
+- Alignment: Chaotic Evil
+- Expansion: 30583
+- Challenge Rating: 24
+
+**publisher**: Wizards of the Coast
+
+**book**: Vecna - Eve of Ruin
+

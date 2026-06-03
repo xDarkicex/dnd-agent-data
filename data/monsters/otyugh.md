@@ -1,76 +1,16 @@
 # Otyugh
 
-## Otyugh
+**description**: Where garbage lingers, an otyugh lurks. These massive lumps of muscle and maw are scavengers with an insatiable hunger for trash. They plod through refuse on three stout legs, using tooth-lined tentacles to feed on decay. If the stench isn’t enough to stop a creature in their tracks, the otyugh’s infectious bite certainly will. When starved or if their territory is invaded, otyughs don’t hesitate to attack other creatures. Trash Adaptive. Though an otyugh naturally has three legs, three tentacles, and one eyestalk, they can rapidly transform these appendages to better suit their shifting, chaotic environment. Their tentacles can sprout eyes before plunging into a thick garbage pile or become padded feet to navigate treacherous terrain. The otyugh’s adaptable limbs also allow them a flexible response to threats, whether by fleeing on many feet or by growing arms for a hunt. Traits Adjustable Appendages. The otyugh has seven adjustable appendages, which they can convert into other appendages using their Transform bonus action. In their natural state, the otyugh has one eyestalk, three legs, and three tentacles. These appendages grant the following benefits: Eyestalks. The otyugh’s first eyestalk gives them darkvision out to a range of 60 feet and immunity to the flanked condition, and each additional eyestalk increases their dark­vision’s range by 60 feet. If the otyugh has no eyestalks, they are blinded and lose immunity to the flanked condition. Legs. Each leg gives the otyugh a cumulative walking speed of 15 feet. Tentacles. The otyugh’s number of tentacles determine how many attacks they can make with Multiattack and how many creatures they can grapple with Tentacle Slam. Limited Telepathy. The otyugh can magically transmit simple messages and images to any creature within 120 feet of them that can understand a language. This form of telepathy doesn’t allow the receiving creature to telepathically respond. Rot Leech. At the start of each of the otyugh’s turns, each creature grappled by the otyugh has their hit point maximum reduced by 5 (1d10) for 1 hour. The otyugh regains the same number of hit points. This effect can’t reduce a creature’s hit point maximum below their current hit points. Trash Traversal. The otyugh ignores difficult terrain. They also have advantage on Dexterity (Stealth) checks made to hide in piles of refuse. Vile Stench. A creature who starts their turn within 10 feet of the otyugh must succeed on a DC 15 Constitution saving throw or be poisoned until the start of the creature’s next turn. Actions Multiattack. The otyugh makes one Tentacle Slam attack for each tentacle they currently have (see Adjustable Appendages). Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 21 (4d8 + 3) piercing damage, and the target must succeed on a DC 15 Constitution saving throw or be diseased with otyuck. A creature with otyuck can’t take the Dash action and their speed is halved. Tentacle Slam. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 3 (1d6) piercing damage. If the target is Medium or smaller, they are grappled (escape DC 13) and restrained until the grapple ends. The otyugh can grapple one target for each tentacle they currently have. Bonus Actions Transform. The otyugh converts one of their Adjustable Appendages into an eyestalk, leg, or tentacle.
 
-### Otyugh
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Aberration
+- Alignment: Typically Neutral
+- Expansion: 25493
+- Challenge Rating: 5
 
-_Large Aberration, Neutral_
+**publisher**: MCDM Productions
 
-**AC** 14 **Initiative** +0 (10) <br>
-**HP** 104 (11d10 + 44) <br>
-**Speed** 30 ft. <br>
+**book**: Flee Mortals
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>19</td>
-      <td>+4</td>
-      <td>+7</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>WIS</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
-
-**Senses** Darkvision 120 ft.; Passive Perception 11<br>
-**Languages** Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)<br>
-**CR** 5 (XP 1,800; PB +3)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The otyugh makes one Bite attack and two Tentacle attacks.
-
-**_Bite._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 12 (2d8 + 3) Piercing damage, and the target has the Poisoned condition. Whenever the Poisoned target finishes a Long Rest, it is subjected to the following effect. _Constitution Saving Throw:_ DC 15. _Failure:_ The target's Hit Point maximum decreases by 5 (1d10) and doesn't return to normal until the Poisoned condition ends on the target. _Success:_ The Poisoned condition ends.
-
-**_Tentacle._** _Melee Attack Roll:_ +6, reach 10 ft. _Hit:_ 12 (2d8 + 3) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from one of two tentacles.
-
-**_Tentacle Slam._** _Constitution Saving Throw:_ DC 14, each creature Grappled by the otyugh. _Failure:_ 16 (3d8 + 3) Bludgeoning damage, and the target has the Stunned condition until the start of the otyugh's next turn. _Success:_ Half damage only.

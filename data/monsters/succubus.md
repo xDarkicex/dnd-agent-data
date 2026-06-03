@@ -1,92 +1,17 @@
 # Succubus
 
-## Succubus
+**description**: Succubi and incubi inhabit all of the Lower Planes, and the lascivious dark-winged fiends can be found in service to devils, demons, night hags, rakshasas, and yugoloths. Asmodeus, ruler of the Nine Hells, uses these fiends to tempt mortals to perform evil acts. The demon lord Graz’zt keeps succubi and incubi as advisers and consorts. Though legend speaks of them separately, any succubus can become an incubus, and vice versa. Most of these fiends do have a preference for one form or the other. Mortals only rarely see a succubus or incubus in its true form, however, for the fiend typically begins its corruption in veiled, insidious ways. Beautiful Corrupters. A succubus or incubus first appears in ethereal form, passing through walls like a ghost to lurk next to a mortal’s bedside and whisper forbidden pleasures. Sleeping victims are tempted to give in to their darkest desires, indulge in taboos, and feed forbidden appetites. As the fiend fills the victim’s dreams with debauched images, the victim becomes more susceptible to temptation in everyday life. Inevitably, the fiend enters the mortal realm in tempting form to directly influence a creature’s actions. Appearing in the guise of a humanoid who has previously appeared only in the victim’s dreams, the succubus or incubus seduces or befriends its victim, indulging all its desires so that it performs evil acts of its own free will. A mortal bequeaths its soul to the fiend not by formal pledge or contract. Instead, when a succubus or incubus has corrupted a creature completely—some say by causing the victim to commit the three betrayals of thought, word, and deed—the victim’s soul belongs to the fiend. The more virtuous the fiend’s prey, the longer the corruption takes, but the more rewarding the downfall. After successfully corrupting a victim, the succubus or incubus kills it, and the tainted soul descends into the Lower Planes. The succubus or incubus resorts to charming a victim magically only when necessary, usually as a form of self-defense. A charmed creature isn’t responsible for its actions, so forcing it to behave against its will won’t bring the fiend closer to the ultimate prize: the victim’s soul. Deadly Kiss. The kiss of a succubus or incubus is an echo of the emptiness that is the fiend’s longing for a corrupted soul. Likewise, the recipient of the fiend’s kiss gains no satisfaction from it, experiencing only pain and the profound emptiness that the fiend imparts. The kiss is nothing short of an attack, usually delivered as a final farewell before the fiend escapes. Fiendish Offspring. Succubi and incubi can reproduce with one another to spawn more of their kind. Less commonly, a succubus or incubus reproduces with a humanoid. From this unholy union, a cambion child is conceived. Invariably, the fiendish offspring is as wicked as its fiendish parent. Traits Telepathic Bond : The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don’t even need to be on the same plane of existence. Shapechanger : The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies. Actions Claw (Fiend Form Only) : Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage. Charm : One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend’s verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend’s Charm for the next 24 hours. The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends. Draining Kiss : The fiend kisses a creature charmed by it or a willing creature. The target must make a DC 15 Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed save, or half as much damage on a successful one. The target’s hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. Etherealness : The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
 
-### Succubus
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: fiend (shapechanger)
+- Source: MM1
+- Alignment: neutral evil
+- Expansion: 2
+- Challenge Rating: 4
 
-_Medium Fiend, Neutral Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 15 <br>
-**HP** 71 (13d8 + 13) <br>
-**Speed** 30 ft., Fly 60 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>DEX</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>CON</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>20</td>
-      <td>+5</td>
-      <td>+5</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7<br>
-**Resistances** Cold, Fire, Poison, Psychic<br>
-**Senses** Darkvision 60 ft.; Passive Perception 15<br>
-**Languages** Abyssal, Common, Infernal; telepathy 60 ft.<br>
-**CR** 4 (XP 1,100; PB +2)
-
-**Initiative** +3 (13)
-
-#### Traits
-
-<hr>
-
-**_Incubus Form._** When the succubus finishes a Long Rest, it can shape-shift into an **Incubus**, using that stat block instead of this one.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The succubus makes one Fiendish Touch attack and uses Charm or Draining Kiss.
-
-**_Fiendish Touch._** _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 16 (2d10 + 5) Psychic damage.
-
-**_Charm._** The succubus casts Dominate Person (level 8 version), requiring no spell components and using Charisma as the spellcasting ability (spell save DC 15).
-
-**_Draining Kiss._** _Constitution Saving Throw:_ DC 15, one creature Charmed by the succubus within 5 feet. _Failure:_ 13 (3d8) Psychic damage. _Success:_ Half damage. _Failure or Success:_ The target's Hit Point maximum decreases by an amount equal to the damage taken.
-
-#### Bonus Actions
-
-<hr>
-
-**_Shape-Shift._** The succubus shape-shifts into a Medium or Small Humanoid, or it returns to its true form. Its game statistics are the same in each form, except its Fly Speed is available only in its true form. Any equipment it is wearing or carrying isn't transformed.

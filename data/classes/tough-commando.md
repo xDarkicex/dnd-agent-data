@@ -1,0 +1,11 @@
+# Tough-Commando
+
+**description**: Roll20 Note: This page is read only and will not function with drag-and-drop as similar pages within this category You are the consummate warrior; dangerous with any weapon and trained to survive every circumstance. You are ready for whatever the enemy has to throw at you. The only thing you might be unprepared for is peace. “I have come here to chew bubblegum and kick ass. And I’m all out of bubblegum.” The Commando is an all-around combat hero that offers a great blend of defense and offense. Unlike the other tough heroes, they can’t protect their allies, but they are very versatile and can use nearly any weapon. You might consider specializing in Dexterity if you want to lean into offensive strategies. Hit Die : d12 Starting Maximum Hit Dice: 1d12 Starting Maximum Hit Points: 12 + Constitution Modifier Defense (Thick Skinned): 10 + ( Constitution or Dexterity ) Modifier + Defense Bonus Proficiencies Saves : Strength and Constitution Skills : Choose two (Athletics, Driving/Piloting, Endurance, Mechanics, Persuasion, Streetwise, or Survival) Equipment : Basic, Advanced, and Military Level Talents Proficiency Bonus Defense Bonus 1 Payback, Second Wind +2 +2 2 Two Minor Feats or One Major Feat, Extreme Effort +2 +2 3 Defensive Fighting, Grenadier +2 +2 4 Two Minor Feats or One Major Feat +2 +2 5 Extra Attack +3 +3 Payback. Granted at level 1 . Once during your turn, when you attack an enemy that has damaged you since the end of your last turn, you gain a + 2 bonus on the attack roll. Second Wind. Granted at level 1 . As a bonus action, you can recover 1 d 10 + your level hit points. Once you do, you cannot do so again until you finish a short or long rest. Extreme Effort. Granted at level 2 . By pushing yourself to the limit, you can take an additional action during your turn. You can do this only once before you finish a short or long rest. Defensive Fighting. Granted at level 3 . You gain a + 1 bonus to your Defense. Grenadier. Granted at level 3 . You can draw, arm, and throw a grenade as a bonus action with one hand. Extra Attack . Granted at level 5 . Once during your turn, when you take the Attack action, you can make two attacks as part of that action.
+
+**properties**:
+- Category: Classes
+
+**publisher**: Evil Genius Games
+
+**book**: Everyday Heroes Quickstart Guide
+

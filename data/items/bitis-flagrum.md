@@ -1,0 +1,15 @@
+# Bitis Flagrum
+
+**description**: A dangerous warrior grabs the devil by its horns and the snake by its tail. Legend This whip is actually a live snake that produces deadly venom. Its wielder can transform it into an actual whip and back into a snake again. They say the snake feeds on the souls of its victims, growing stronger with every soul it devours. Location The Bitis Flagrum currently rests in the hands of drow assassin Rita S’zarixa. In snake form it hangs about her shoulders or winds its way up her non-dominant hand, ready to transform at a moment’s notice. If Rita is ever seen without her loyal pet, it is most assuredly hidden somewhere nearby. Adventurers can go looking for Rita if they like, but they won’t find her; she finds them. Encounter Ideas Hired Protectors. The adventurers must protect a noble or other important person who is, consequently, Rita’s next target. Aquatic Ambush. When stopping by a lake or similar body of water, the snake shoots out and attacks, for the party is Rita’s next target. Lair Infiltration. The adventurers stumble upon Rita’s makeshift base hidden in a cave, full of poisons and weaponry. The snake is sleeping peacefully in one of the jars. Progression The Bitis Flagrum progresses based on the number of enemies it has killed as seen in the table below. When a new creature attunes to the whip, that counter resets to 0 and the whip reverts to its common rarity. Rarity Kills Required Common 0 Uncommon 10 Rare 30 Very Rare 70 Legendary 150 Statistics Weapon (Whip), Rarity Varies (Requires Attunement) Common . Snake Form. As an action, you can grab the Bitis Flagrum’s tail and transform it into a whip if it is a snake, or a snake if it is a whip. The whip’s snake form is a poisonous snake . The snake is friendly to you and your allies. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger. Uncommon . When you hit a creature with this whip, the target must succeed on a DC 12 Constitution saving throw or take an additional 1d6 poison damage. Rare . You gain a +1 bonus to attack and damage rolls made with this magic weapon. The additional poison damage increases to 2d6 and the save DC to avoid it increases to 14. In addition, you can choose to transform the whip into a giant poisonous snake when you use Snake Form. Very Rare . The save DC for the additional poison damage increases to 16. You can now use Snake Form as either a bonus action or an action. Legendary . The bonus to attack and damage rolls increases to +2. The additional poison damage increases to 3d6 and the save DC to avoid it increases to 18. In addition, you can now choose to transform the whip into a swarm of poisonous snakes when you use Snake Form.
+
+**properties**:
+- Category: Items
+- Item Type: Weapon (whip)
+- Properties: Finesse, Reach
+- Item Rarity: varies
+- Requires Attunement: Requires Attunement
+
+**publisher**: Jeff Stevens Games
+
+**book**: Weapons of Legend
+

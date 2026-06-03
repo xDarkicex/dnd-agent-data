@@ -1,0 +1,16 @@
+# Chained Library Agent
+
+**description**: The Chained Library’s agents are everywhere, from major cities to the halls of academia, trawling secondhand book markets and private collections. They use whatever tactics necessary to obtain their prizes. They visit auctions and merchants, using the library’s sizable budget to buy up what they can. For books not on the market, they use blackmail, bribery, and theft. Occasionally, a wealthy aristocrat or powerful mage is murdered, and the only things missing from the crime scene are a couple of precious books. The agents’ activities are consistent in only one way: that no books are harmed or destroyed, no matter how dangerous they are. The Chained Library is capable of storing anything, and the destruction of knowledge is sacrilege. The library agents exist to remove dangerous books from circulation in the outside world. This includes books of dark magic, the spellbooks of liches and evil mages, the secrets of wicked gods, and knowledge that could be used to open pathways to other planes: things not of the material world that could fundamentally threaten life there. The agents take no interest in material that is politically dangerous—many rulers have tried to recruit the library to suppress inconvenient or threatening information, but the organization is profoundly uninterested. Agents of the library recognize one another by the magical tattoos on their right index finger: a line of Common script reading, “Close your mind,” encircled by chains. The tattoos are visible to creatures with truesight. The tattoos use special ink which allows a detect magic spell to reveal them. Traits Evasion. When an effect would allow the agent to make a Dexterity saving throw to take half damage, it instead takes no damage if it succeeds on the saving throw and half damage if it fails. Sneak Attack (1/Turn). The agent deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the agent that isn’t incapacitated and the agent doesn’t have disadvantage on the attack roll. Spellcasting. The agent is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The agent has the following wizard spells prepared: Cantrips (at will): light, mage hand, message, minor illusion 1st level (4 slots): charm person, comprehend languages, detect magic, jump, mage armor 2nd level (3 slots): invisibility, locate object, knock, spider climb 3rd level (2 slots): gaseous form, haste, sending Actions Multiattack. The agent makes three attacks with its dagger. Dagger. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage. Bonus Actions Cunning Action. The agent takes the Dash, Disengage, or Hide action as a bonus action. Reactions Uncanny Dodge. The agent halves the damage it takes from an attack that hits it. The agent must be able to see the attacker.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (any)
+- Alignment: any lawful alignment
+- Expansion: 18512
+- Challenge Rating: 5
+
+**publisher**: MCDM Productions
+
+**book**: Arcadia Issue No. 4
+

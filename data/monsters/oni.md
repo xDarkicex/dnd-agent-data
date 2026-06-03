@@ -1,93 +1,57 @@
 # Oni
 
-## Oni
+**description**: These D&D 5E Free Basic Rules only contain a fraction of the races, subclasses, backgrounds, feats, items, monsters, spells, and other content available on Roll20. Check out the Player's Handbook to add dozens of more player options to the Charactermancer, the Dungeon Master's Guide to expand on the tools available for DMs, and the Monster Manual to add hundreds of more unique creatures (including token artwork) to fight! Traits Innate Spellcasting : The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components: At will: darkness , invisibility 1/day each: charm person , cone of cold , gaseous form , sleep Magic Weapons : The oni's weapon attacks are magical. Regeneration : The oni regains 10 hit points at the start of its turn if it has at least 1 hit point. Actions Multiattack : The oni makes two attacks, either with its claws or its glaive . Claw (Oni Form Only) : Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage. Glaive : Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form. Change Shape : The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
 
-### Oni
+**properties**:
+- Category: Monsters
+- AC: 16 (Chain Mail)
+- HP: 110 (13d10+39)
+- CHA: 15
+- CON: 16
+- DEX: 11
+- INT: 14
+- STR: 19
+- WIS: 12
+- Size: Large
+- Type: giant
+- Speed: 30 ft., fly 30 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/390066424/VBgT8Xgw6fm7rmXC5I0jDg/original.png
+- Roll 0: Claw
+1d20 + 7
+1d8+4
+- Roll 1: Large Form
+1d20 + 7
+2d10+4
+- Roll 2: Small or Medium Form
+1d20 + 7
+1d10+4
+- Senses: Darkvision 60 Ft.
+- Skills: Arcana +5, Deception +8, Perception +4
+- Source: 5th Edition SRD
+- data-XP: 2,900
+- Alignment: Lawful Evil
+- Languages: Common, Giant
+- data-List: false
+- Spell Book: Darkness, Invisibility, Charm Person, Cone Of Cold, Gaseous Form, Sleep
+- Token Size: 2
+- data-Spells: {"innate":{"at-will":["darkness","invisibility"],"1/day":["charm person","cone of cold","gaseous form","sleep"]}}
+- data-Traits: [{"Name":"Innate Spellcasting","Desc":"The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components: At will: darkness, invisibility 1/day each: charm person, cone of cold, gaseous form, sleep"},{"Name":"Magic Weapons","Desc":"The oni's weapon attacks are magical."},{"Name":"Regeneration","Desc":"The oni regains 10 hit points at the start of its turn if it has at least 1 hit point."}]
+- data-Actions: [{"Name":"Multiattack","Desc":"The oni makes two attacks, either with its claws or its glaive."},{"Name":"Claw (Oni Form Only)","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"7","Reach":"5 ft.","Target":"one target","Damage":"1d8 + 4","Damage Type":"slashing"},{"Name":"Glaive (Large Form)","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"7","Reach":"10 ft.","Target":"one target","Damage":"2d10 + 4","Damage Type":"slashing"},{"Name":"Glaive (Small or Medium Form)","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"7","Reach":"10 ft.","Target":"one target","Damage":"1d10 + 4","Damage Type":"slashing"},{"Name":"Change Shape","Desc":"The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size."}]
+- data-CHA-mod: +2
+- data-CON-mod: +3
+- data-DEX-mod: +0
+- data-INT-mod: +2
+- data-STR-mod: +4
+- data-SizeNum: 5
+- data-WIS-mod: +1
+- Saving Throws: Dex +3, Con +6, Wis +4, Cha +5
+- Challenge Rating: 7
+- Passive Perception: 14
+- data-CrNum: 7
+- data-AcNum: 16
+- data-HpNum: 110
 
-_Large Fiend, Lawful Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 17 **Initiative** +0 (10) <br>
-**HP** 119 (14d10 + 42) <br>
-**Speed** 30 ft., Fly 30 ft. (hover) <br>
+**book**: Free Basic Rules (2014)
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>19</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>DEX</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+3</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+6</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+4</td>
-      <td><strong>CHA</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+5</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Arcana +5, Deception +8, Perception +4<br>
-**Resistances** Cold<br>
-**Senses** Darkvision 60 ft.; Passive Perception 14<br>
-**Languages** Common, Giant<br>
-**CR** 7 (XP 2,900; PB +3)
-
-#### Traits
-
-<hr>
-
-**_Regeneration._** The oni regains 10 Hit Points at the start of each of its turns if it has at least 1 Hit Point.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The oni makes two Claw or Nightmare Ray attacks. It can replace one attack with a use of Spellcasting.
-
-**_Claw._** _Melee Attack Roll:_ +7, reach 10 ft. _Hit:_ 10 (1d12 + 4) Slashing damage plus 9 (2d8) Necrotic damage.
-
-**_Nightmare Ray._** _Ranged Attack Roll:_ +5, range 60 ft. _Hit:_ 9 (2d6 + 2) Psychic damage, and the target has the Frightened condition until the start of the oni's next turn.
-
-**_Shape-Shift._** The oni shape-shifts into a Small or Medium Humanoid or a Large Giant, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
-
-**_Spellcasting._** The oni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13): <br>
-&emsp;**1/Day Each:** _Charm Person_ (level 2 version), _Darkness_, _Gaseous Form_, _Sleep_
-
-#### Bonus Actions
-
-<hr>
-
-**_Invisibility._** The oni casts _Invisibility_ on itself, requiring no spell components and using the same spellcasting ability as Spellcasting.

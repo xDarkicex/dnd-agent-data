@@ -1,82 +1,17 @@
 # Salamander
 
-## Salamander
+**description**: Salamanders Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces. Salamanders adore power, and they delight in setting fire to things. Outside their home plane, they play among the burning skeletons of charred trees as forest fires rage around them, or slither down the slopes of erupting volcanoes to linger in fire pits and magma floes. Fire Snakes. Salamanders hatch from eggs that are two-foot-diameter spheres of smoldering obsidian. When a salamander is ready to hatch, it melts its way through the egg’s thick shell and emerges as a fire snake. A fire snake matures into a salamander adult within a year. Slaves of the Efreet. Long ago, the efreet hired azers to build the fabled City of Brass, but then failed in their attempt to enslave that mystical race when the azers’ work was done. Turning instead to strike against the salamanders, the efreet had better luck in establishing a slave race, which they use to unleash war and destruction across the planes. Salamanders despise the azers, believing that if the efreet had succeeded in dominating that race of elemental crafters, the salamanders would still be free. The efreet use this enmity to their own advantage, stoking the salamanders’ hatred and pitting them against the efreets’ former servants. The efreet suffer salamanders to serve no other master; when efreet encounter salamanders dedicated to the cults of Elemental Evil, they slay them rather than taking them as slaves. Domineering Nobles. Although salamanders follow the destructive impulses of their fiery nature, slavery under the efreet has impacted the culture of free salamanders. They rule their own societies according to the efreet model, in which larger and stronger salamanders claim dominion over their lesser kin. As salamanders age, they increase in size and status, rising to positions of power as cruel nobles among their kind. Nobles rule wandering bands of salamanders, which move across the Elemental Plane of Fire like desert nomads, raiding other communities for treasure. Living Forges. Salamanders generate intense heat, and when they fight, their weapons glow red and sear the bodies of their enemies on contact. Even approaching a salamander is dangerous, since flesh blisters and burns in its proximity. This inherent heat is an asset to salamanders’ skill as smiths, allowing them to soften and shape iron and steel with their bare hands. Although not as meticulous as azers, salamanders number among the greatest metalsmiths in all the planes. Powerful creatures summon them as warriors, but others enlist the salamanders for their crafting skills, or bind them to forges and ovens to generate limitless heat. Traits Heated Body : A creature that touches the salamander or hits it with a melee attack while within 5 ft. of it takes 7 (2d6) fire damage. Heated Weapons : Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack). Actions Multiattack : The salamander makes two attacks: one with its spear and one with its tail. Spear (Melee; One-Handed) : Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage plus 3 (1d6) fire damage. Spear (Melee; Two-Handed) : Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 3 (1d6) fire damage. Spear (Ranged) : Ranged Weapon Attack: +7 to hit, range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage plus 3 (1d6) fire damage. Tail : Melee Weapon Attack : +7 to hit, reach 10 ft., one target. Hit : 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled, escape DC 14. Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
 
-### Salamander
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: elemental
+- Source: MM1
+- Alignment: neutral evil
+- Expansion: 2
+- Challenge Rating: 5
 
-_Large Elemental, Neutral Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 15 **Initiative** +2 (12) <br>
-**HP** 90 (12d10 + 24) <br>
-**Speed** 30 ft., Climb 30 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>DEX</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Vulnerabilities** Cold<br>
-**Immunities** Fire<br>
-**Senses** Darkvision 60 ft.; Passive Perception 10<br>
-**Languages** Primordial (Ignan)<br>
-**CR** 5 (XP 1,800; PB +3)
-
-#### Traits
-
-<hr>
-
-**_Fire Aura._** At the end of each of the salamander's turns, each creature of the salamander's choice in a 5-foot Emanation originating from the salamander takes 7 (2d6) Fire damage.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The salamander makes two Flame Spear attacks. It can replace one attack with a use of Constrict.
-
-**_Flame Spear._** _Melee or Ranged Attack Roll:_ +7, reach 5 ft. or range 20/60 ft. _Hit:_ 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. _Hit or Miss:_ The spear magically returns to the salamander's hand immediately after a ranged attack.
-
-**_Constrict._** _Strength Saving Throw:_ DC 15, one Large or smaller creature the salamander can see within 10 feet. _Failure:_ 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Fire damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.

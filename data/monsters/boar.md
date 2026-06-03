@@ -1,74 +1,45 @@
 # Boar
 
-## Boar
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Traits Bloodied Fury. While Bloodied, the boar has Advantage on attack rolls. Actions Gore. Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Piercing damage. If the boar moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 3 (1d6) Piercing damage and, if it is Large or smaller, has the Prone condition.
 
-_Medium Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 11
+- HP: 13 (2d8 + 4)
+- PB: 2
+- CHA: 5
+- CON: 14
+- DEX: 11
+- INT: 2
+- STR: 13
+- WIS: 9
+- Size: Medium
+- Type: Beast
+- Speed: 40 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406412311/-Fhd4AAF8a-1wdYag8eJZQ/original.png
+- data-XP: 50
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 1
+- data-Traits: [{"Name":"Bloodied Fury","Desc":"While Bloodied, the boar has Advantage on attack rolls."}]
+- data-Actions: [{"Name":"Gore","Desc":"If the boar moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 3 (or [[1d6]] (1d6)) Piercing damage and, if it is Large or smaller, has the Prone condition.","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"3","Reach":"5 ft.","Target":"one target","Damage":"1d6 + 1","Damage Type":"Piercing"}]
+- data-CHA-mod: -3
+- data-CON-mod: 2
+- data-DEX-mod: 0
+- data-INT-mod: -4
+- data-STR-mod: 1
+- data-SizeNum: 2
+- data-WIS-mod: -1
+- Saving Throws: Str +1, Dex +0, Con +2, Int -4, Wis -1, Cha -3
+- Challenge Rating: 1/4
+- Passive Perception: 9
+- data-CrNum: 0.25
+- data-AcNum: 11
+- data-HpNum: 13
 
-**AC** 11 **Initiative** +0 (10) <br>
-**HP** 13 (2d8 + 4) <br>
-**Speed** 40 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>DEX</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>9</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>CHA</strong></td>
-      <td>5</td>
-      <td>−3</td>
-      <td>−3</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Senses** Passive Perception 9<br>
-**Languages** None<br>
-**CR** 1/4 (XP 50; PB +2)
-
-### Traits
-
-<hr>
-
-**_Bloodied Fury._** While Bloodied, the boar has Advantage on attack rolls.
-
-### Actions
-
-<hr>
-
-**_Gore._** _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 4 (1d6 + 1) Piercing damage. If the target is a Medium or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Piercing damage and has the Prone condition.

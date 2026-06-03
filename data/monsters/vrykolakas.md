@@ -1,0 +1,16 @@
+# Vrykolakas
+
+**description**: A vrykolakas (the name both singular and plural) appears as a terrible, bestial corruption of the being it was in life. Twisted by rage and undeath into an animalistic shape, these undead bear the taint of death, their bodies lean to the appearance of starvation and pocked with evidence of rot and disease. Hunched and twisted, a vrykolakas’s bent spine is the same length it was in life if straightened, but the feral posture of most cause them to slump to a mere 4-1/2 to 5 feet tall. The wasting of death also greatly decreases the corpse’s weight, reducing even hearty men to at least 20 or 30 pounds less than they weighed in life. Plague Born. A restless and savage form of undead, the vrykolakas knows only rage and relishes the suffering of those who failed it in life. Reanimated corpses of wicked and vengeful souls denied even the basic burial rites, these unreasoning vampire-kin unleash their wrath against the living, indiscriminately spreading disease and death among all in their paths. Their bitterness at their own disgraced ends drives them to a loathing of all life and a jealous desire to see all other living creatures fall to their same level of profanity and debasement. Such hardly proves a conscious plot, though, but rather a fundamental instinct. Thus, a single vrykolakas can devastate an entire village, potentially spawning a host of new vrykolakas from their victims. Faint Remembrance. Despite its savage and decayed appearance, a vrykolakas often passes through towns and villages undeterred, due to its supernatural ability to disguise itself. With the ability to cloak its terrible shape, a vrykolakas typically appears little different than it did in life. Death removes much of the living corpse’s sense of who it was, though, so vrykolakas rarely reconstruct their original appearances with complete accuracy. Thus, family and acquaintances often notice the resemblance, but do not readily identify a vrykolakas as the resurrected individual. Life Leech. A vrykolakas thrives upon disease and death, drawing its vigor from those humanoids it passes near. It walks among the living merely to infect them with its grave taint, passing on the subtle corruption of death. Its mere touch drains the life from a victim as well, stealing from its very essence. A vrykolakas’s favored victims typically come from among its former family members and friends, which it pursues with only half a memory of any previous connection, yet a lingering malice, as such former companions failed to prevent its accursed fate. Site-Bound. A vrykolakas is uniquely bound to the place where it died or its body was originally interred. It must return to this site once per week and bury itself amid the earth or stones to rest for 24 hours. A vrykolakas is entirely helpless during this period and can be easily destroyed if it can be located. The vampire-kin understand this weakness, though, and go to great lengths to avoid being followed to their resting places.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: undead
+- Alignment: neutral evil
+- Expansion: 30635
+- Challenge Rating: 10
+
+**publisher**: Legendary Games
+
+**book**: Mediterranean Monsters
+

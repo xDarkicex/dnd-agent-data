@@ -1,13 +1,11 @@
 # Blindness/Deafness
 
-**Level**: 2
-**School**: transmutation
-**Classes**: 
-**Casting Time**: action
-**Range**: 120 feet
-**Components**: ['v']
-**Duration**: 1 minute
+**properties**:
+- Category: Spells
+- Save: Constitution
+- Expansion: 27051
 
-## Description
+**publisher**: Alligator Alley Entertainment
 
-One creature that you can see within range must succeed on a Constitution saving throw, or it has the Blinded or Deafened condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
+**book**: Esper Genesis Core Manual
+

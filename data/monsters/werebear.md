@@ -1,84 +1,17 @@
 # Werebear
 
-## Werebear
+**description**: Lycanthropes One of the most ancient and feared of all curses, lycanthropy can transform the most civilized humanoid into a ravening beast. In its natural humanoid form, a creature cursed by lycanthropy appears as its normal self. Over time, however, many lycanthropes acquire features suggestive of their animal form. In that animal form, a lycanthrope resembles a powerful version of a normal animal. On close inspection, its eyes show a faint spark of unnatural intelligence and might glow red in the dark. Evil lycanthropes hide among normal folk, emerging in animal form at night to spread terror and bloodshed, especially under a full moon. Good lycanthropes are reclusive and uncomfortable around other civilized creatures, often living alone in wilderness areas far from villages and towns. Curse of Lycanthropy. A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A remove curse spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish. A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form—or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams. Some individuals see little point in fighting the curse and accept what they are. With time and experience, they learn to master their shapechanging ability and can assume beast form or hybrid form at will. Most lycanthropes that embrace their bestial natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak. Werebear Werebears are powerful lycanthropes with the ability to temper their monstrous natures and reject their violent impulses. In humanoid form, they are large, muscular, and covered in hair matching the color of their ursine form’s fur. A werebear is a loner by nature, fearing what might happen to innocent creatures around it when its bestial nature takes over. When a werebear transforms, it grows to enormous size, lashing out with weapons or claws. It fights with the ferocity of a bear, though even in its bestial forms, it avoids biting so as to not pass on its curse. Typically, a werebear passes on its lycanthropy only to chosen companions or apprentices, spending the time that follows helping the new lycanthrope accept the curse in order to control it. Solitary creatures, werebears act as wardens over their territory, protecting flora and fauna alike from humanoid or monstrous intrusion. Though most werebears are of good alignment, some are every bit as evil as other lycanthropes. Variant: Nonhuman Lycanthropes The statistics presented in this section assume a base creature of human. However, you can also use the statistics to represent nonhuman lycanthropes, adding verisimilitude by allowing a nonhuman lycanthrope to retain one or more of its humanoid racial traits. For example, an elf werewolf might have the Fey Ancestry trait. Player Characters as Lycanthropes A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope’s speeds in nonhumanoid form, damage immunities, traits, and actions that don’t involve equipment. The character is proficient with the lycanthrope’s natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope’s statistics. The character can’t speak while in animal form. A humanoid hit by an attack that carries the curse of lycanthropy must succeed on a Constitution saving throw (DC 8 + the lycanthrope’s proficiency bonus + the lycanthrope’s Constitution modifier) or be cursed. If the character embraces the curse, his or her alignment becomes the one defined for the lycanthrope. The DM is free to decide that a change in alignment places the character under DM control until the curse of lycanthropy is removed. The following information applies to specific lycanthropes. Werebear. The character gains a Strength of 19 if his or her score isn’t already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength. Wereboar. The character gains a Strength of 17 if his or her score isn’t already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character’s proficiency bonus + Strength modifier. Wererat. The character gains a Dexterity of 15 if his or her score isn’t already higher. Attack and damage rolls for the bite are based on whichever is higher of the character’s Strength and Dexterity. Weretiger. The character gains a Strength of 17 if his or her score isn’t already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character’s proficiency bonus + Strength modifier. Werewolf. The character gains a Strength of 15 if his or her score isn’t already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength. Traits Shapechanger : The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it. is wearing or carrying isn't transformed. It reverts to its true form if it dies. Keen Smell : The werebear has advantage on Wisdom (Perception) checks that rely on smell. Actions Multiattack : In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid. Bite (Bear or Hybrid Form Only) : Melee Weapon Attack : +7 to hit, reach 5 ft., one target. Hit : 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with were bear lycanthropy. Claw (Bear or Hybrid Form Only) : Melee Weapon Attack : +7 to hit, reach 5 ft., one target. Hit : 13 (2d8 + 4) slashing damage. Greataxe (Humanoid or Hybrid Form Only) : Melee Weapon Attack : +7 to hit, reach 5 ft., one target. Hit : 10 (1d12 + 4) slashing damage.
 
-### Werebear
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (human, shapechanger)
+- Source: MM1
+- Alignment: neutral good
+- Expansion: 2
+- Challenge Rating: 5
 
-_Medium or Small Monstrosity (Lycanthrope), Neutral Good_
+**publisher**: Wizards of the Coast
 
-**AC** 15 **Initiative** +3 (13) <br>
-**HP** 135 (18d8 + 54) <br>
-**Speed** 30 ft., 40 ft. (bear form only), Climb 30 ft. (bear form only) <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>19</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>DEX</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +7<br>
-**Gear** Handaxes (4)<br>
-**Senses** Darkvision 60 ft.; Passive Perception 17<br>
-**Languages** Common (can't speak in bear form)<br>
-**CR** 5 (XP 1,800; PB +3)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The werebear makes two attacks, using Handaxe or Rend in any combination. It can replace one attack with a Bite attack.
-
-**_Bite (Bear or Hybrid Form Only)._** _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 17 (2d12 + 4) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. _Constitution Saving Throw:_ DC 14. _Failure:_ The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a **Werebear** under the GM's control and has 10 Hit Points. _Success:_ The target is immune to this werebear's curse for 24 hours.
-
-**_Handaxe (Humanoid or Hybrid Form Only)._** Melee or _Ranged Attack Roll:_ +7, reach 5 ft or range 20/60 ft. _Hit:_ 14 (3d6 + 4) Slashing damage.
-
-**_Rend (Bear or Hybrid Form Only)._** _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 13 (2d8 + 4) Slashing damage.
-
-#### Bonus Actions
-
-<hr>
-
-**_Shape-Shift._** The werebear shape-shifts into a Large bear-humanoid hybrid form or a Large bear, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.

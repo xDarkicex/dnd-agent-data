@@ -1,0 +1,16 @@
+# Frost Wight
+
+**description**: At first glance, a frost wight resembles an ordinary animated skeleton or zombie. But as one approaches it, a few odd details begin to be noticeable - a bluish glow from within its hollow eye sockets and ribcage and frost emanating from its body. Those unfortunate enough to be within very close proximity of a frost wight will also feel a grim embrace of cold and despair. The frost wight brings with it the power of a merciless winter that seeks to drain the warmth of all living creatures. Icy Guardians. Frost wights are created by necromancers and frost mages to serve as guardians of royal barrows, crypts, and tombs. Most are raised from the remains of the fiercest warriors, frost wights become eternal sentinels, forever watching their charge even after their masters are long gone. More powerful necromancers can use the same arcane rituals to transform the corpses beasts and monstrosities into frost wights. They lie buried under the snow, animating and bursting from their hiding place when an intruder approaches. Legendary Frost Wight. There is a legend of a frost wight that gained full sentience and free will, one who is said to have once been a prince or king. No one truly knows how it happened, but a few believe an evil death god from the elemental plane of ice may have granted the frost wight this power to use it as its champion. This lord of the frost wights is now amassing an army of undead somewhere in the coldest and most desolate icy wastes. Traits Dreadfrost Aura. The frost wight generates an aura of baleful frost that fills the area within 10 feet of it. Any creature that starts its turn in this area takes 4 (1d8) cold damage and must make a DC 13 Wisdom saving throw or become frightened of the frost wight until the start of its next turn. Sunlight Sensitivity. While in sunlight, the frost wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Turn Resistance. The frost wight has advantage on saving throws against any effect that turns Undead. Actions Multiattack. The frost wight makes two Longsword attacks or two Longbow attacks. It can use its Frostchill Touch in place of one Longsword attack. Frostchill Touch. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) cold damage and the target must succeed on a DC 13 Constitution saving throw or gain 1 level of exhaustion. When the target finishes a short or long rest, the target loses every level of exhaustion gained from this attack. A humanoid slain by this attack rises 24 hours later as a zombie under the frost wight's control, unless the humanoid is restored to life or its body is destroyed. The frost wight can have no more than twelve zombies under its control at one time. Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands, plus 3 (1d6) cold damage. Longbow. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 3 (1d6) cold damage.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead
+- Alignment: Typically Neutral Evil
+- Expansion: 29032
+- Challenge Rating: 4
+
+**publisher**: Dragonix Books
+
+**book**: Dragonix's Deadly Denizens
+

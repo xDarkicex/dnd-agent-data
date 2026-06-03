@@ -1,0 +1,16 @@
+# Ancient Guardian Naga
+
+**description**: Ancient nagas are older, wiser, larger, and more powerful versions of the bone, spirit, and guardian nagas. They measure over 50 feet long and are 5-feet thick. They are also extremely rare, numbering only a handful per type. Most live secluded in secret, long-forgotten ruins. A few are viewed as gods and possibly attended to and protected by members of a religious cult. Traits Legendary Resistance (3/Day). If the naga fails a saving throw, it can choose to succeed instead. Magic Resistance. The naga has advantage on saving throws against spells and other magical effects. Rejuvenation . If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning. Spell Penetration. When the naga casts a spell and is interrupted by an enemy's counterspell , treat the spell's level as 3 levels higher. Actions Multiattack. The naga makes two attacks: one with its Bite and one with its Tail. Alternatively, it can use its Spit Poison and make one Tail attack. Bite. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 49 (11d8) poison damage on a failed save, or half as much damage on a successful one. Spit Poison. Ranged Weapon Attack: +12 to hit, reach 20 ft./40 ft., one target. Hit: The target must make a DC 19 Constitution saving throw, taking 49 (11d8) poison damage on a failed save, or half as much damage on a successful one. Tail. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage. Divine Flame (2/Day). A 10-foot radius, 40-foot-high column of divine fire sprouts in an area up to 120 feet away from the naga. Each creature in the column must make a DC 19 Dexterity saving throw, taking 14 (4d6) fire damage and 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one. Spellcasting. The naga casts one of the following spells using Wisdom as the spellcasting ability (spell save DC 19, +11 to hit with spell attacks) and it needs only verbal components to cast its spells: At will: mending, sacred flame (4d8), thaumaturgy 2/day each: cure wounds, dispel magic, zone of truth 1/day each: banishment, freedom of movement, geas, heal, holy aura, resurrection (as an action), true seeing Bonus Actions Divine Word (1/Day). The naga casts divine word using Wisdom as the spellcasting ability (spell save DC 19). Legendary Actions The naga can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The naga regains spent legendary actions at the start of its turn. Tail. The naga makes a Tail attack. Bite (Costs 2 Actions). The naga makes a Bite attack. Spit Poison (Costs 2 Actions). The naga uses Spit Poison. Cast a Spell (Costs 2 Actions). The naga uses Spellcasting.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Monstrosity
+- Alignment: Typically Lawful Good
+- Expansion: 17751
+- Challenge Rating: 19
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

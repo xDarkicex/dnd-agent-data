@@ -1,83 +1,17 @@
 # Saber-Toothed Tiger
 
-## Saber-Toothed Tiger
+**description**: Traits Keen Smell : The tiger has advantage on Wisdom (Perception) checks that rely on smell. Pounce : If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action. Actions Bite : Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) piercing damage. Claw : Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
 
-_Large Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: beast
+- Source: MM1
+- Alignment: unaligned
+- Expansion: 2
+- Challenge Rating: 2
 
-**AC** 13 **Initiative** +3 (13) <br>
-**HP** 52 (7d10 + 14) <br>
-**Speed** 40 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+6</td>
-      <td><strong>DEX</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+5</td>
-      <td><strong>CON</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>3</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Monster Manual
 
-**Skills** Perception +5, Stealth +7<br>
-**Senses** Darkvision 60 ft.; Passive Perception 15<br>
-**Languages** None<br>
-**CR** 2 (XP 450; PB +2)
-
-### Traits
-
-<hr>
-
-**_Running Leap._** With a 10-foot running start, the tiger can Long Jump up to 25 feet.
-
-### Actions
-
-<hr>
-
-**_Multiattack._** The tiger makes two Rend attacks.
-
-**_Rend._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 11 (2d6 + 4) Slashing damage.
-
-### Bonus Actions
-
-<hr>
-
-**_Nimble Escape._** The tiger takes the Disengage or Hide action.

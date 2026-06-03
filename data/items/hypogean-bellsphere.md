@@ -1,0 +1,13 @@
+# Hypogean Bellsphere
+
+**description**: Hypogean Bellsphere Wondrous item, legendary This 20-foot-radius metal-and-crystal vessel is designed to magically travel through the ground. The hypogean bellsphere has AC 20, 300 hit points, a damage threshold of 15 and immunity to poison and psychic damage. It has a speed of 1 mile per hour on land, and a burrow speed of 3 miles per hour (72 miles per day). The bellsphere can hold up to 6 passengers plus 1 ton of cargo. Description. The bellsphere is a featureless sphere inscribed with strange arcane symbols and thin, glowing tracework. Despite its shape, the craft does not roll unless acted upon by exterior forces. A circular hatch provides access to the vessel’s interior. Inside, circular crystal portholes line the circumference of the sphere and magically act as windows, allowing the crew to view their surroundings. A raised pilot’s chair occupies a dais in the center of the circular room, surrounded by levers, pull cords, toggles, and other strange controls. There is no other furniture in the craft. The bellsphere has the following general features: The glowing magical screens provide a dim illumination. Air magically circulates through the sphere for 12 hours before it must be replenished from the outside. Piloting the Bellsphere. Any creature must succeed on a DC 15 Intelligence check to decipher the controls of the bellsphere. From the pilot’s chair, a creature can control the ship’s speed, direction, and depth. Controlling the ship during combat requires an additional DC 15 Intelligence check to make rapid course corrections. The bellsphere can burrow through any nonmagical, unworked earth and stone. While doing so, it doesn’t disturb the materials it moves through. While the pilot sits in the pilot chair, it has tremorsense out to a range of 60 feet. Within that range, the pilot can sense areas the ship is unable to burrow through but gains no knowledge of what the area contains. Fueling the Bellsphere. The bellsphere is powered by the consumption of magical items. A small hatch on the side of the dais beneath the pilot’s chair is large enough to hold any item a Medium-sized creature could equip or easily carry. Any magic item placed in the fueling hatch is destroyed. A common item provides power for 2 hours of operation. Each level of rarity beyond common doubles that duration, up to vary rare for 8 hours. A legendary item placed in the fueling hatch would allow the bellsphere to operate for 1 month. Placing an artifact into the fueling hatch causes the bellsphere to implode, immediately killing anyone inside it.
+
+**properties**:
+- Category: Items
+- Item Type: Wondrous item
+- Item Rarity: legendary
+
+**publisher**: Kobold Press
+
+**book**: Wastes of Chaos
+

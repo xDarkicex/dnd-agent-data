@@ -1,0 +1,15 @@
+# Cosmic Weave
+
+**description**: Cosmic weave is the ultimate form of shaping the universe. By activating this power, you can alter the very foundations of reality in accord with your desires. The basic use of this power is to duplicate any other power of rank 8 or lower. You don’t need to meet any requirements in that power. It simply takes effect. Alternatively, you can create one of the following effects of your choice: You create one object of up to 250,000 cu in value that isn’t a forge enhanced item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground. You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the major remedy power. You grant up to ten creatures that you can see resistance to a damage type you choose. You grant up to ten creatures you can see immunity to a single power or other supernatural effect for 8 hours. For instance, you could make yourself and all your companions immune to a netherant’s life drain attack. You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a cosmic weave power could undo an opponent’s successful save, a foe’s critical hit, or a friend’s failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll. You might be able to achieve something beyond the scope of the above examples. State your desires to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the request, the greater the likelihood that something goes wrong. This power might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you formulated your desire. For example, stating that you desire the death of an enemy might propel you forward in time to a period when that enemy is no longer alive, effectively removing you from the game. Similarly, stating that you want a unique weapon or ship might instantly transport you to the presence of the item’s current owner. The stress of activating this power to produce any effect other than duplicating another power weakens you. After enduring that stress, each time you use a power until you finish a long rest, you take 1d10 necrotic damage per rank of that power. This damage can’t be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn’t 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to use cosmic weave ever again if you suffer this stress.
+
+**properties**:
+- Category: Spells
+- Level: 9
+- School: Alteration
+- Expansion: 27051
+- Casting Time: 1 action
+
+**publisher**: Alligator Alley Entertainment
+
+**book**: Esper Genesis Core Manual
+

@@ -1,73 +1,45 @@
 # Ape
 
-## Ape
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Actions Multiattack. The ape makes two Fist attacks. Fist. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage. Rock (Recharge 6). Ranged Attack Roll: +5, range 25/50 ft. Hit: 10 (2d6 + 3) Bludgeoning damage.
 
-_Medium Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 12
+- HP: 19 (3d8 + 6)
+- PB: 2
+- CHA: 7
+- CON: 14
+- DEX: 14
+- INT: 6
+- STR: 16
+- WIS: 12
+- Size: Medium
+- Type: Beast
+- Speed: 30 ft., Climb 30 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406406598/sTKFTfzlGTXV62wLoEYLoA/original.png
+- Skills: Athletics +5, Perception +3
+- data-XP: 100
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 1
+- data-Actions: [{"Name":"Multiattack","Desc":"The ape makes two Fist attacks."},{"Name":"Fist","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"5","Reach":"5 ft.","Target":"one target","Damage":"1d4 + 3","Damage Type":"Bludgeoning"},{"Name":"Rock (Recharge 6)","Type":"Ranged","Type Attack":"Weapon Attack","Hit Bonus":"5","Reach":"25/50 ft.","Target":"one target","Damage":"2d6 + 3","Damage Type":"Bludgeoning"}]
+- data-CHA-mod: -2
+- data-CON-mod: 2
+- data-DEX-mod: 2
+- data-INT-mod: -2
+- data-STR-mod: 3
+- data-SizeNum: 2
+- data-WIS-mod: 1
+- Saving Throws: Str +3, Dex +2, Con +2, Int -2, Wis +1, Cha -2
+- Challenge Rating: 1/2
+- Passive Perception: 13
+- data-CrNum: 0.5
+- data-AcNum: 12
+- data-HpNum: 19
 
-**AC** 12 **Initiative** +2 (12) <br>
-**HP** 19 (3d8 + 6) <br>
-**Speed** 30 ft., Climb 30 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Skills** Athletics +5, Perception +3<br>
-**Senses** Passive Perception 13<br>
-**Languages** None<br>
-**CR** 1/2 (XP 100; PB +2)
-
-### Actions
-
-<hr>
-
-**_Multiattack._** The ape makes two Fist attacks.
-
-**_Fist._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 5 (1d4 + 3) Bludgeoning damage.
-
-**_Rock (Recharge 6)._** _Ranged Attack Roll:_ +5, range 25/50 ft. _Hit:_ 10 (2d6 + 3) Bludgeoning damage.

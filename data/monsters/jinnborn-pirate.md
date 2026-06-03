@@ -1,0 +1,16 @@
+# Jinnborn Pirate
+
+**description**: Swinging across on a rope to land on the enemy's deck, this stocky, blue-skinned humanoid brandishes a rapier with great panache. The jinnborn are a race of wanderers found in the warm lands of the south. Descended from powerful elemental creatures called jinn, they claim to be the first mortals to have walked the world. Calling themselves the “people of the path,” they roam the desert lands, following the traditional routes set down by their elders. The jinnborn descend from varied elemental lineages, leading to air, earth, fire, and water jinnborn. Life of Piracy. Many jinnborn find piracy and banditry match their nomadic lifestyle, allowing them to conduct lucrative raids on the ships and caravans they encounter while traveling their ancestral paths. Jinnborn that leave their people and paths find that life aboard a ship is familiar yet free from the traditions of their people. Those jinnborn who become pirates tend to be brash and flash y mavericks. Sailors of All Ships. Earth and fire jinnborn tribes commonly use sandships to raid desert caravans, while air jinnborn prefer airships powered by bound elementals or djinn. Water jinnborn are happy to sail on more traditional waterborne galleys, cogs, an d caravels. Elemental Versatility The mystical paths followed by the jinnborn tie them to one of the four elements: air, earth, fire, or water. To make a jinnborn pirate, use the statistics presented here, except as described below. Damage Resistances. The jinnborn has resistance to acid (earth jinnborn), cold (water jinnborn), fire (fire jinnborn), or lightning (air jinnborn) damage. Elemental Weapons. The jinnborn's weapon attacks are imbued with its elemental power. When the jinnborn hits with any weapon, the weapon deals an extra 1d6 acid (earth jinnborn), cold (water jinnborn), fire (fire jinnborn), or lightning (air jinnborn) damage. Languages. The jinnborn knows Common and Aquan (water jinnborn), Auran (air jinnborn), Ignan (fire jinnborn), or Terran (earth jinnborn). Elemental Weapons. The jinnborn's weapon attacks are imbued with its elemental power. When the jinnborn hits with any weapon, the weapon deals an extra 1d6 lightning damage (included in the attack). Flamboyant Defense. While the jinnborn pirate is wearing no armor and wielding no shield, its AC includes its Charisma modifier. Knows the Ropes. The jinnborn pirate has proficiency with airships, sandships, or waterborne ships (the jinnborn's choice). It adds its proficiency bonus to any check it makes to control the chosen type of ship, and it adds its proficiency bonus to any saving throws made while on the chosen type of vehicle. Actions Rapier. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 3 (1d6) lightning damage. Shortbow. Ranged Weapon Attack: +4 to hit, ranged 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 3 (1d6) lightning damage. Reactions Parry. The jinnborn pirate adds 2 to its AC against one melee attack that would hit it. To do so, the jinnborn must see the attacker and be wielding a melee weapon.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid
+- Alignment: Any Non-Lawful Alignment
+- Expansion: 19901
+- Challenge Rating: 1/2
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

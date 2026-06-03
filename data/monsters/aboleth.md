@@ -1,104 +1,17 @@
 # Aboleth
 
-## Aboleth
+**description**: "Could it be that aboleths are older than the gods … that before the divine ones came to be, such horrors shaped the multiverse? Now there’s a chilling thought." —Vaqir Zekh’r, githzerai philosopher and author of The Far Realm: Real Yet Unreal Before the coming of the gods, aboleths lurked in primordial oceans and underground lakes. They reached out with their minds and seized control of the burgeoning life-forms of the mortal realm, making those creatures their slaves. Their dominance made them like gods. Then the true gods appeared, smashing the aboleths’ empire and freeing their slaves. Aboleths have never forgotten. Eternal Memories. Aboleths have flawless memories. They pass on their knowledge and experience from generation to generation. Thus, the injury of their defeat by the gods remains perfectly preserved in their minds. Aboleths’ minds are treasure troves of ancient lore, recalling moments from prehistory with perfect clarity. They plot patiently and intricately across eons. Few creatures can conceive of the extent of an aboleth’s plan. Gods in the Lake. Aboleths dwell in watery environments, including ocean abysses, deep lakes, and the Elemental Plane of Water. In these domains and the lands that adjoin them, aboleths are like gods, demanding worship and obedience from their subjects. When they consume other creatures, aboleths add the knowledge and experiences of their prey to their eternal memories. Aboleths use their telepathic powers to read the minds of creatures and know their desires. An aboleth uses this knowledge to gain a creature’s loyalty, promising to fulfill such wants in exchange for obedience. Within its lair, the aboleth can further use its powers to override senses, granting creatures, such as its followers, the illusion of promised rewards. Enemies of the Gods. The aboleths’ fall from power is written in stark clarity on their flawless memories, for aboleths never truly die. If an aboleth’s body is destroyed, its spirit returns to the Elemental Plane of Water, where a new body coalesces for it over days or months. Ultimately, aboleths dream of overthrowing the gods and regaining control of the world. Aboleths have had untold eons to plot and to prepare their plans for perfect execution. An Aboleth’s Lair Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surrounded by the ruins of an ancient, fallen aboleth city. An aboleth spends most of its existence underwater, surfacing occasionally to treat with visitors or deranged worshipers. Lair Actions When fighting inside its lair, an aboleth can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the aboleth takes a lair action to cause one of the following effects: The aboleth casts phantasmal force (no components required) on any number of creatures it can see within 60 feet of it. While maintaining concentration on this effect, the aboleth can’t take other lair actions. If a target succeeds on the saving throw or if the effect ends for it, the target is immune to the aboleth’s phantasmal force lair action for the next 24 hours, although such a creature can choose to be affected. Pools of water within 90 feet of the aboleth surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 14 Strength saving throw or be pulled up to 20 feet into the water and knocked prone. The aboleth can’t use this lair action again until it has used a different one. Water in the aboleth’s lair magically becomes a conduit for the creature’s rage. The aboleth can target any number of creatures it can see in such water within 90 feet of it. A target must succeed on a DC 14 Wisdom saving throw or take 7 (2d6) psychic damage. The aboleth can’t use this lair action again until it has used a different one. Regional Effects The region containing an aboleth’s lair is warped by the creature’s presence, which creates one or more of the following effects: Underground surfaces within 1 mile of the aboleth’s lair are slimy and wet and are difficult terrain. Water sources within 1 mile of the lair are supernaturally fouled. Enemies of the aboleth that drink such water vomit it within minutes. As an action, the aboleth can create an illusory image of itself within 1 mile of the lair. The copy can appear at any location the aboleth has seen before or in any location a creature charmed by the aboleth can currently see. Once created, the image lasts for as long as the aboleth maintains concentration, as if concentrating on a spell. Although the image is intangible, it looks, sounds, and can move like the aboleth. The aboleth can sense, speak, and use telepathy from the image’s position as if present at that position. If the image takes any damage, it disappears. If the aboleth dies, the first two effects fade over the course of 3d10 days. Traits Amphibious : The aboleth can breathe air and water. Mucous Cloud : While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 ft. of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater. Probing Telepathy : If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature. Actions Multiattack : The aboleth makes three tentacle attacks. Tentacle : Melee Weapon Attack : +9 to hit, reach 10 ft., one target. Hit : 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6, 1d12, acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed. Tail : Melee Weapon Attack : +9 to hit, reach 10 ft., one target. Hit : 15 (3d6 + 5) bludgeoning damage. Enslave (3/day) : The aboleth targets one creature it can see within 30 ft. of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance. Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth. Legendary Actions Can take 3 Legendary Actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. Spent legendary actions are regained at the start of each turn. Detect : The aboleth makes a Wisdom (Perception) check. Tail Swipe : The aboleth makes one tail attack. Psychic Drain (Costs 2 Actions) : One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
 
-### Aboleth
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: aberration
+- Source: MM1
+- Alignment: lawful evil
+- Expansion: 2
+- Challenge Rating: 10
 
-_Large Aberration, Lawful Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 17 **Initiative** +7 (17) <br>
-**HP** 150 (20d10 + 40) <br>
-**Speed** 10 ft., Swim 40 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>21</td>
-      <td>+5</td>
-      <td>+5</td>
-      <td><strong>DEX</strong></td>
-      <td>9</td>
-      <td>−1</td>
-      <td>+3</td>
-      <td><strong>CON</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+6</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+8</td>
-      <td><strong>WIS</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+6</td>
-      <td><strong>CHA</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+4</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** History +12, Perception +10<br>
-**Senses** Darkvision 120 ft.; Passive Perception 20<br>
-**Languages** Deep Speech; telepathy 120 ft.<br>
-**CR** 10 (XP 5,900, or 7,200 in lair; PB +4)
-
-#### Traits
-
-<hr>
-
-**_Amphibious._** The aboleth can breathe air and water.
-
-**_Eldritch Restoration._** If destroyed, the aboleth gains a new body in 5d10 days, reviving with all its Hit Points in the Far Realm or another location chosen by the GM.
-
-**_Legendary Resistance (3/Day, or 4/Day in Lair)._** If the aboleth fails a saving throw, it can choose to succeed instead.
-
-**_Mucus Cloud._** While underwater, the aboleth is surrounded by mucus. _Constitution Saving Throw:_ DC 14, each creature in a 5-foot Emanation originating from the aboleth at the end of the aboleth's turn. _Failure:_ The target is cursed. Until the curse ends, the target's skin becomes slimy, the target can breathe air and water, and it can't regain Hit Points unless it is underwater. <br>
-&emsp;While the cursed creature is outside a body of water, the creature takes 6 (1d12) Acid damage at the end of every 10 minutes unless moisture is applied to its skin before those minutes have passed.
-
-**_Probing Telepathy._** If a creature the aboleth can see communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The aboleth makes two Tentacle attacks and uses either Consume Memories or Dominate Mind if available.
-
-**_Tentacle._** _Melee Attack Roll:_ +9, reach 15 ft. _Hit:_ 12 (2d6 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of four tentacles.
-
-**_Consume Memories._** _Intelligence Saving Throw:_ DC 16, one creature within 30 feet that is Charmed or Grappled by the aboleth. _Failure:_ 10 (3d6) Psychic damage. <br>
-&emsp;_Success:_ Half damage. _Failure or Success:_ The aboleth gains the target's memories if the target is a Humanoid and is reduced to 0 Hit Points by this action.
-
-**_Dominate Mind (2/Day)._** _Wisdom Saving Throw:_ DC 16, one creature the aboleth can see within 30 feet. _Failure:_ The target has the Charmed condition until the aboleth dies or is on a different plane of existence from the target. While Charmed, the target acts as an ally to the aboleth and is under its control while within 60 feet of it. In addition, the aboleth and the target can communicate telepathically with each other over any distance. <br>
-&emsp;The target repeats the save whenever it takes damage as well as after every 24 hours it spends at least 1 mile away from the aboleth, ending the effect on itself on a success.
-
-#### Legendary Actions
-
-<hr>
-
-_Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the aboleth can expend a use to take one of the following actions. The aboleth regains all expended uses at the start of each of its turns._
-
-**_Lash._** The aboleth makes one Tentacle attack.
-
-**_Psychic Drain._** If the aboleth has at least one creature Charmed or Grappled, it uses Consume Memories and regains 5 (1d10) Hit Points.

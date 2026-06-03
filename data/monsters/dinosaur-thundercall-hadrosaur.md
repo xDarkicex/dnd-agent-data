@@ -1,0 +1,16 @@
+# Dinosaur, Thundercall Hadrosaur
+
+**description**: An enormous hadrosaur lumbers through the trees, then rises onto its hind legs, letting out a thunderous call that splinters tree branches and sends soil flying into the air around it. A thundercall hadrosaur is a magically augmented hadrosaur designed as a living siege weapon. However, the first such hadrosaurs escaped, resulting in a strain of dangerous hadrosaurs with a bellow that can liquify organs and shatter buildings. Escaped Experiment. Designed by an arcano-paleontologist who thought she had found the perfect tool to create new and terrifying forms of life, the first batch of successful hadrosaurs escaped, killing her, and destroying most of her research. The escaped hadrosaurs swiftly returned to the wild, and they are almost indistinguishable from their lesser kin, save for their larger crests and bulkier musculature. Though they reproduced slowly, even when interbreeding with mundane hadrosaurs, they had no natural predators, unnaturally long lifespans, and proved excellent parents. As a result, thundercall hadrosaurs can spread anywhere they can get enough food. Defensive Giant. Although they are phenomenally lethal, thundercall hadrosaurs aren't aggressive. They are happy to simply exist, attacking only if threatened and using their bellow only if they believe they're in danger. However, their voracious appetites and enormous bulk often lead them to eat fields of crops and scatter terrified herds of livestock. When town militias or enraged farmers try to scare off the titanic hadrosaurs, a retaliatory bellow can level houses and kill dozens. Hunted for War. The thundercall hadrosaur was meant as a siege weapon, and those who have seen one in action see the potential. As a result, nobles and wizards occasionally put out a bounty for live hadrosaurs, sparing no expense in training and harnessing the creatures. Such hunts are bloody and brutal, for the hadrosaurs resist captivity. However, when they succeed, the results are worth the trouble. Clad in armor and topped with a howdah, a tamed thundercall hadrosaur is a mobile fortress capable of smashing castle walls and ripping gaping holes in any battle formation. Siege Monster. The hadrosaur does double damage to objects and structures. Actions Multiattack. The hadrosaur makes three Slam attacks. Slam. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 23 (3d10 + 7) bludgeoning damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone. Thunderous Bellow (Recharge 5-6). The thundercall hadrosaur unleashes a ground-shattering bellow in a 120-foot cone. Each creature in that area must make a DC 16 Constitution saving throw. On a failure, a creature takes 38 (7d10) thunder damage and is knocked prone. On a success, a creature takes half the damage and isn't knocked prone. Reactions Sonic Shield. The hadrosaur adds 4 to its AC against one ranged attack that would hit it. To do so, the hadrosaur must see the attacker and not be in an area of magical silence.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Monstrosity
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 11
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

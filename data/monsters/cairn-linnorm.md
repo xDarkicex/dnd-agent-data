@@ -1,0 +1,16 @@
+# Cairn Linnorm
+
+**description**: Linnorm The powerful, serpentine beings known as linnorms might be related distantly to the more well-known dragons, but their draconic physiologies are where any such similarities end. Whereas true dragons boast incredible intellectual capabilities and far-reaching plans, linnorms are driven only by their insatiable hunger and desire to inflict cruelty on others. Linnorms are exceptionally difficult to outwit due to their strong wills, and it’s not wise to try bargaining with them—when faced with one of these legendary beasts, one’s best option is flight, pure and simple. Failing that, a noble death remains a viable back-up plan. Cairn Linnorm Cairn linnorms are disturbing, even by linnorm standards. Pallid in coloration, they make their homes in necropolises, burial grounds, and the sites of gory battles. Traits Creature of Primal Magic. The cairn linnorm is constantly under the effects of freedom of movement. Curse of the Crooked Cane. A creature that slays a cairn linnorm must make a DC 20 Wisdom saving throw or become cursed with one level of exhaustion, or two if the creature fails by 5 or more on the saving throw. This exhaustion can be removed only after the curse ends. Also, while cursed, the creature ages at a rate of 1 year per day. Draconic Nature. The cairn linnorm does not age, and magic can’t put the linnorm to sleep. Legendary Resistance (3/Day). If the cairn linnorm fails a saving throw, it can choose to succeed instead. Magic Resistance. The cairn linnorm has advantage on saving throws against spells and other magical effects. Regeneration. The cairn linnorm regains 15 hit points at the start of its turn. If the cairn linnorm takes fire damage, this trait doesn’t function at the start of its next turn. The cairn linnorm dies only if it starts its turn with 0 hit points and doesn’t regenerate. Actions Multiattack. The cairn linnorm makes four attacks: two with its claws, one with its bite, and one with its tail. Bite. Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17 (2d8+8) piercing damage plus 7 (2d6) acid damage. Claws. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6+8) slashing damage. Tail. Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 15 (3d4+8) piercing damage. Breath Weapon (Recharge 5–6). The cairn linnorm exhales eldritch acid in a 60-foot cone. Each creature in that area must make a DC 20 saving throw, taking 66 (19d6) acid damage on a failed save, or half as much on a successful one. Legendary Actions The cairn linnorm can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The linnorm regains spent legendary actions at the start of its turn. Detect. The linnorm makes a Wisdom (Perception) check. Tail Attack. The linnorm makes a tail attack. Stoke the Fires (Costs 2 Actions). The linnorm focuses its internal acid gland, allowing it to roll immediately to recharge its breath weapon.
+
+**properties**:
+- Category: Monsters
+- Size: Gargantuan
+- Type: dragon
+- Alignment: chaotic evil
+- Expansion: 17526
+- Challenge Rating: 18
+
+**publisher**: Paizo
+
+**book**: Kingmaker Bestiary (5e)
+

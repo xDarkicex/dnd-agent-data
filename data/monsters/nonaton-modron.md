@@ -1,0 +1,16 @@
+# Nonaton Modron
+
+**description**: When modrons act against the will of Primus, nonatons are charged with bringing those rogue units into line. These inspectors also interrogate captured trespassers of Mechanus. Nonatons have wormlike bodies studded with nine mechanical arms. “You wanna learn Modron? Yeah, I speak it. Lesson one: ‘beep boop.’ That means ‘Hello, friend, I mean you no harm.’ Really, I swears it!” —Morte, amid surely innocent snickering Modrons Constructed on the plane of Mechanus, modrons are partially mechanical beings that belong to a strict hierarchy. Each modron dutifully obeys commands from the rank directly above it and in turn acts as the superior to the rank directly below it, passing down commands from paragons of law to the lowliest monodrone. While most modrons are the lower-ranked base modrons—monodrones, duodrones, tridrones, quadrones, and pentadrones—the upper-tier hierarch modrons hold leadership positions, maintaining order in Mechanus and the realms beyond. For more information on modrons, see the Monst er Manual . “I’ve known a few modrons in my day. Most are gullible, harmless sorts. Watch out for those hierarch modrons, though. Not only can’t they take a joke, they’ll blame you for disrupting the lawful working of the multiverse then try to measure how much your powdered bones weigh. ” –Morte Traits Axiomatic Mind. The nonaton can't be compelled to act in a manner contrary to its nature or its instructions. Combat Ready. The nonaton has advantage on initiative rolls. Disintegration. If the nonaton dies, its body disintegrates into dust, leaving behind anything it was carrying. Spellcasting. The nonaton casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 15): At will: detect magic , dispel magic , mending (as an action) 1/day each: plane shift (self only), protection form evil and good Actions Multiattack. The nonaton makes three Arm attacks and uses Pillar of Truth or Spellcasting. Arm. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage, and if the target is a Medium or smaller creature, it has the grappled condition (escape DC 14). Until this grapple ends, the nonaton can't use this arm against other targets. The nonaton has nine arms, each of which can grapple one target. Pillar of Truth. The nonaton chooses a point on the ground that it can see within 60 feet of itself. A 60-foot-tall, 20-foot-radius cylinder of magical force rises from that point. Each creature in that area must make a DC 15 Dexterity saving throw. On a failed save, a creature takes 21 (6d6) force damage, and the creature revers to its original form (if it's in a different form) and can't assume a different form until the end of its next turn. On a successful save, a creature takes half as much damage only. “You ever notice how certain modrons sort of look like some kind of wacky dice?” –Morte
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: construct
+- Alignment: typically lawful neutral
+- Expansion: 26427
+- Challenge Rating: 10
+
+**publisher**: Wizards of the Coast
+
+**book**: Planescape - Adventures in the Multiverse
+

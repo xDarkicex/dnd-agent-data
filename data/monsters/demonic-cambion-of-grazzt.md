@@ -1,0 +1,17 @@
+# Demonic Cambion of Graz'zt
+
+**description**: A cambion is the offspring of a fiend (usually a succubus or incubus) and a humanoid (usually a human). Cambions inherit aspects of both parents, but their horns, leathery wings, and sinewy tails are hallmarks of their otherworldly parentage. Demonic Cambions Cambions spawned by demon lords sometimes manifest different abiliti⁠es from a typical cambion. Graz’zt is notable among demon lords for the many cambions he has spawned across the multiverse. Most famous among them is Iuz, who combined his father’s abyssal heritage and his mother’s peerless arcane tutelage to become a demigod. Spawn of Graz’zt. The demon lord Graz’zt is fond of procreating with humanoids who have made pacts with fiends, and he has sired many cambions who help him sow chaos across the multiverse. These cambions are characterized by charcoal-black skin, cloven hooves, six-fingered hands, and unearthly beauty. Signature Spell⁠s Cambions have the Innate Spellcasting trait. When customizing a demonic cambion, you can replace spells in that trait with ones of the same level from the list of signature spe⁠lls in the boon entry of the demonic parent. The cambi⁠on can use these spe⁠lls once per day each. Signature Spells: False life (1st level), hold person (2nd level), fear (3rd level) Speci⁠al Traits A cambion descended from a demon can have the spe⁠cial traits conferred to that demon’s cultists, as described in the demon’s boon section. Ability Score Adjustment: Up to a +4 bonus to Constitution, Charisma, or both The Lord of Forbidden Pleasures grants his cultists the ability to transform even the most hideous pain into pleasure. His cultists gain the Joy from Pain trait, while his cult leaders gain the Master of Pleasures trait. Traits Fiendish Blessing. The AC of the cambion includes its Charisma bonus. Horned One’s Call. When the cambion ta⁠rgets only one creature with the attacks of its Multiattack, it can choose one ally it can see within 30 feet. That ally can use its reaction to make one melee attack against a target of its choice. Innate Spellcasting. The cambion’s spellcasting ability is Charisma (spell save DC 14). The cambion can innately cast the following spells, requiring no material components: 3/day each: alter self, command, detect magic 1/day: plane shift (self only) Actions Multiattack. The cambion makes two melee attacks or uses its Fire Ray twice. Spear (Melee; One-Handed). Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage, plus 3 (1d6) fire damage. Spear (Melee; Two-Handed). Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage, plus 3 (1d6) fire damage. Spear (Ranged). Ranged Weapon Attack: +7 to hit, range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, plus 3 (1d6) fire damage. Fire Ray. Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 10 (3d6) fire damage. Reactions Joy from Pain. Whenever this creature suffers a critical hit, it can make one melee weapon attack as a reaction. Master of Pleasures (Cult Leader Variant). As a reaction when this creature takes damage, it can magically grant 5 temporary hit points to itself and up to three allies within 30 feet of it.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fiend
+- Source: MTOF
+- Alignment: Any Evil Alignment
+- Expansion: 4
+- Challenge Rating: 5
+
+**publisher**: Wizards of the Coast
+
+**book**: Mordenkainen's Tome of Foes
+

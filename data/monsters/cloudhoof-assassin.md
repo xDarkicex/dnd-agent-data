@@ -1,0 +1,16 @@
+# Cloudhoof Assassin
+
+**description**: This white-furred sheep has an impressive set of horns that curve around to make a nearly complete circle. It leaps from a thin ledge to a narrow spire with little concern as it sticks the landing. The cloudhoof assassin, also known as a shove sheep or bully goat, has an unusual diet consisting of carrion. While the treacherous mountain ranges it inhabits provide it with plenty of food, the sheep can provide for itself, by hunting for unwary prey it knocks from precarious heights. It waits for its victim to succumb to its injuries from the fall and feeds on the remains. Its physical prowess offers it little protection from larger predators, especially giants who prize the taste of its flesh. Curious Follower Gambit. When on the prowl for prey, a cloudhoof assassin chooses a solitary target, which it follows from a distance. Those unknowledgeable about the sheep may mistake the animal's tactic as overcoming its fear of the traveler for the traveler's food or out of curiosity. It chews on anything its target discards while it maintains its separation, aiding the ruse. The cloudhoof assassin remains patient as it waits for its prey to move close to a dangerous drop and lose focus on the animal. When it gauges the right moment, it suddenly speeds toward its target to push it off the edge. If it fails to shove its target, it tries to bludgeon the creature to death or scamper away along a hard-to-follow path, depending on how hungry it is. Territorial. Other than their small family groups, cloudhoof assassins aggressively protect their mountains from other such sheep. Young cloudhoof assassins often leave their families and move to other mountains where they can start their own families or challenge one or both of their parents for dominion. Challenges between cloudhoof assassins take place along mountainsides, where the winner pushes the loser over an edge and kills it. Shoving Charge. If the cloudhoof assassin moves at least 20 feet straight toward a target and then hits it with a Headbutt attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be pushed up to 10 feet away from the cloudhoof. If a creature fails this saving throw by 5 or more, it is pushed up to 15 feet. Sure-Hooved. The cloudhoof assassin has advantage on Strength and Dexterity checks and saving throws made against effects that would knock it prone. In addition, it has advantage on Strength (Athletics) checks to climb rocky surfaces and Dexterity (Acrobatics) checks to maintain its balance on rocky surfaces. Actions Multiattack . The cloudhoof assassin makes one Headbutt attack and one Shoving Kick attack. Headbutt. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage. Shoving Kick. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage, and the target must succeed on a DC 13 Strength saving throw or be pushed up to 5 feet away from the cloudhoof assassin. If the cloudhoof scores a critical hit, the target is pushed up to 10 feet on a failed save.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Beast
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 1
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

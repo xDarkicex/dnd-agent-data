@@ -1,0 +1,13 @@
+# Cloak of Thorny Poison
+
+**description**: Wondrous item, Hag, Rare This cloak grants power to those with the courage (or poison immunity) to wear it. This cloak is always dark, heavy, and oily. The cloak is covered, inside and out, in many small lumps that sprout thorns when the wearer is in combat. The wearer of the cloak of thorny poison emits a strong vinegar and mustard smell. This smell cannot be removed. The first cloaks of thorny poison were given to yuan-ti allies of the hags, but a few humanoids have also sought out a cloak of thorny poison. Creatures that do not bleed gain no advantage for wearing this cloak. A hag will rarely ever wear one of these. Disadvantages. The wearer of a cloak of thorny poison has a stench that cannot be masked. This smell grants advantage to any creature trying to detect or track the wearer using smell. This cloak sprouts sharp claw-like thorns that pierce the wearer’s skin on their first round in battle, doing 4 (2d4) piercing damage and causing 3 (1d6) poison damage. If the wearer attempts to remove this cloak while in combat then they must succeed on a DC 12 Strength saving throw. The wearer will suffer 4 (2d4) piercing damage regardless of success or failure, as the thorns dig and tear at their flesh. The wearer will lose one hit point at the start of each additional round as the cloak drinks their blood. The wearer must make a DC 12 Constitution saving throw at the beginning of each round or gain the poisoned condition. If the wearer is immune to the blood loss or piercing damage then this cloak grants no advantages. After combat, the thorns retract and the wearer can remove the cloak safely. If the wearer reaches 0 hit points while wearing this cloak they will automatically fail all death saves as the cloak continues to feed on them. Advantages. Any creature within ten feet of the wearer of a cloak of thorny poison, who successfully hits the wearer, takes 3 (1d6) poison damage and 3 (1d6) acid damage as the cloak sprays a foul greenish liquid at the attacker. This poison spray can only occur once per enemy target, once per round. On the wearer’s turn, the cloak can be made to slash at a foe within ten feet as a bonus action. This slash is a Melee Weapon Attack: +7 to hit, reach 10 feet., one target, Hit: 3 (1d6) slashing damage. The target must also make a DC 12 Constitution saving throw or gain the poisoned condition for 1 minute. Creatures immune to the piercing damage will find that this cloak does not function for them, but creatures immune to poison will still be able to use a cloak of thorny poison.
+
+**properties**:
+- Category: Items
+- Item Type: Wondrous item
+- Item Rarity: Rare
+
+**publisher**: Cruor Games
+
+**book**: The Complete Hag
+

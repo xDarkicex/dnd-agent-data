@@ -1,81 +1,16 @@
 # Stone Giant
 
-## Stone Giant
+**description**: "Boulders assailed our walls and cast them down, leavin’ gaps through which the giants strode, weapons in hand." —Captain Dwern Addlestone’s partial account of the Siege of Sterngate Giants Ancient empires once cast long shadows over a world that quaked beneath the giants’ feet. In those lost days, these towering figures were dragon slayers, dreamers, crafters, and kings, but their kind fell from glory long ago. However, even divided among secluded clans scattered throughout the world, the giants maintain the customs and traditions of old. Old as Legend. In remote regions of the world, the last remaining plinths, monoliths, and statues of the great giant empires bow their heads in desolate obscurity. Where once those empires sprawled across all lands, now the giants dwell in isolated tribes and clans. Giants are almost as old as dragons, which were still young when the giants’ heavy feet first shook the foundations of the world. As they spread across new lands, giants and dragons fought bitter generational wars that nearly brought both sides low. No living giant remembers what started the conflict, but myths and tales of their race’s glorious dawn are still sung in their steadings and holdfasts, vilifying the primeval wyrms. Giants and dragons continue to harbor grudges against one another, and it is seldom that they will meet or occupy the same area without a fight. The Ordning Each of the main giant races—the cloud, fire, frost, hill, stone, and storm giants—are related by common elements of history, religion, and culture. They view one another as kindred, keeping any inherent animosity over territory and ambition to a minimum. Giants belong to a caste structure called the ordning. Based on social class and highly organized, the ordning assigns a social rank to each giant. By understanding its place in the ordning, a giant knows which other giants are inferior or superior to it, since no two giants are equal. Each of the giant races analyzes a different combination of skills or qualities to determine the ordning. Giants make excelling in these qualities the purpose of their lives. At the highest level of the ordning, the races of the giants are also ranked according to status. Storm giants are the highest in the ordning, followed by cloud giants, fire giants, frost giants, stone giants, hill giants, and finally giant kin such as fomorians, ettins, and ogres. Regardless of a giant’s rank among its own race, the chief of a hill giant tribe is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn’t considered evil to disrespect or even betray a giant of another type, merely rude. Stone Giant Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world. Inhabitants of a Stone World. Secluded caves are the homes of the stone giants. Cavern networks are their towns, rocky tunnels their roads, and underground streams their waterways. Isolated mountain ranges are their continents, with the vast spans of land between seen as oceans that the stone giants only rarely cross. In their dark, quiet caves, stone giants wordlessly chip away at elaborate carvings, measuring time in the echoing drip of water into cavern pools. In the deepest chambers of a stone giant settlement, far from the chittering of bats or the patrols paced out by the giants’ cave bear companions, are holy places where silence and darkness are complete. Stone takes on its most sacred quality in these cavern cathedrals, their buttresses and columns carved with a beauty that shames the legendary stonecraft of the dwarves. Carvers and Seers. Among stone giants, artistry ranks as the greatest virtue. They create intricate murals, paint sprawling murals across cavern walls, and indulge in a wide variety of other artistic disciplines. They esteem stone carving as the greatest of skills. Stone giants strive to draw shapes out of raw stone, which they believe reveal meaning inspired by their god, Skoraeus Stonebones. The giants appoint the tribe’s best carvers as their leaders, shamans, and prophets. The holy hands of such giants become the hands of the god as they work. Graceful Athletes. Despite their great size and musculature, stone giants are lithe and graceful. Skilled rock throwers are granted positions of high rank in the giants’ ordning, testing and demonstrating their ability to hurl and catch enormous boulders. Such giants take the front ranks when a tribe has cause to defend its home or attack its enemies. However, even in combat, artistry is key. A stone giant hurling a rock performs not just a feat of brute strength but also one of stunning athleticism and poise. Dreamers under Sky. Stone giants view the world outside their underground homes as a realm of dreams where nothing is entirely true or real. They behave in the surface world the way humanoids might behave in their own dreams, making little account for their actions and never fully trusting what they see or hear. A promise made above ground need not be kept. Insults can be made without apology. Killing prey or sentient beings is no cause for guilt in the dreaming world beneath the sky. Stone giants lacking in athletic grace or artistic skill dwell at the fringes of their society, serving as the tribe’s outlying guardians and far-wandering hunters. When trespassers stray too far into the mountain territory of a stone giant clan, those guardians greet them with hurled rocks and showers of splintered stone. Survivors of such encounters spread tales of stone giant violence, never realizing how little those brutes dwelling in the unreal dreaming world resemble their quiet and artistic kin. "And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there." —Elder Zelane of Istivin, recounting the Giant Wars Giant Gods When the giants’ ancient empires fell, Annam, father of all giants, forsook his children and the world. He swore never to look upon either again until the giants had returned to their glory and reclaimed their birthright as rulers of the world. As a result, giants pray not to Annam but to his divine children, along with a host of hero-deities and godly villains that make up the giants’ pantheon. Chief among these gods are the children of Annam, whose sons represent each type of giant: Stronmaus for storm giants, Memnor for cloud giants, Skoraeus Stonebones for stone giants, Thrym for frost giants, Surtur for fire giants, and Grolantor for hill giants. Not all giants automatically revere their kind’s primary deity, however. Many good cloud giants refuse to worship the deceitful Memnor, and a storm giant dwelling in the icy mountains of the north might pay more homage to Thrym than Stronmaus. Other giants feel a stronger connection to Annam’s daughters, who include Hiatea, the huntress and home warden; Iallanis, goddess of love and peace; and Diancastra, an impetuous and arrogant trickster. Some giants abandon their own gods and fall prey to demon cults, paying homage to Baphomet or Kostchtchie. To worship them or any other non-giant deity is a great sin against the ordning, and almost certain to make a giant an outcast. Traits Stone Camouflage : The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain. Actions Multiattack : The giant makes two greatclub attacks. Greatclub : Melee Weapon Attack : +9 to hit, reach 15 ft., one target. Hit : 19 (3d8 + 6) bludgeoning damage. Rock : Ranged Weapon Attack : +9 to hit, range 60/240 ft., one target. Hit : 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone. Reactions Rock Catching : If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
 
-### Stone Giant
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: giant
+- Source: MM1
+- Alignment: neutral
+- Challenge Rating: 7
 
-_Huge Giant, Neutral_
+**publisher**: Wizards of the Coast
 
-**AC** 17 **Initiative** +5 (15) <br>
-**HP** 126 (11d12 + 55) <br>
-**Speed** 40 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>23</td>
-      <td>+6</td>
-      <td>+6</td>
-      <td><strong>DEX</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+5</td>
-      <td><strong>CON</strong></td>
-      <td>20</td>
-      <td>+5</td>
-      <td>+8</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+4</td>
-      <td><strong>CHA</strong></td>
-      <td>9</td>
-      <td>-1</td>
-      <td>-1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Athletics +12, Perception +4, Stealth +5<br>
-**Senses** Darkvision 60 ft.; Passive Perception 14<br>
-**Languages** Giant<br>
-**CR** 7 (XP 2,900; PB +3)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The giant makes two attacks, using Stone Club or Boulder in any combination.
-
-**_Stone Club._** _Melee Attack Roll:_ +9, reach 15 ft. _Hit:_ 22 (3d10 + 6) Bludgeoning damage.
-
-**_Boulder._** _Ranged Attack Roll:_ +9, range 60/240 ft. _Hit:_ 15 (2d8 + 6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
-
-#### Reactions
-
-<hr>
-
-**_Deflect Missile (Recharge 5–6)._** _Trigger:_ The giant is hit by a ranged attack roll and takes Bludgeoning, Piercing, or Slashing damage from it. _Response:_ The giant reduces the damage it takes from the attack by 11 (1d10 + 6), and if that damage is reduced to 0, the giant can redirect some of the attack's force. _Dexterity Saving Throw:_ DC 17, one creature the giant can see within 60 feet. _Failure:_ 11 (1d10 + 6) Force damage.

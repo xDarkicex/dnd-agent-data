@@ -1,84 +1,17 @@
 # Wereboar
 
-## Wereboar
+**description**: Lycanthropes One of the most ancient and feared of all curses, lycanthropy can transform the most civilized humanoid into a ravening beast. In its natural humanoid form, a creature cursed by lycanthropy appears as its normal self. Over time, however, many lycanthropes acquire features suggestive of their animal form. In that animal form, a lycanthrope resembles a powerful version of a normal animal. On close inspection, its eyes show a faint spark of unnatural intelligence and might glow red in the dark. Evil lycanthropes hide among normal folk, emerging in animal form at night to spread terror and bloodshed, especially under a full moon. Good lycanthropes are reclusive and uncomfortable around other civilized creatures, often living alone in wilderness areas far from villages and towns. Curse of Lycanthropy. A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A remove curse spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish. A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form—or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams. Some individuals see little point in fighting the curse and accept what they are. With time and experience, they learn to master their shapechanging ability and can assume beast form or hybrid form at will. Most lycanthropes that embrace their bestial natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak. Wereboar Wereboars are ill-tempered and vulgar brutes. As humanoids, they are stocky and muscular, with short, stiff hair. In their humanoid and hybrid forms, they use heavy weapons, while in hybrid or animal form, they gain a devastating goring attack through which their curse is spread. A wereboar infects other creatures indiscriminately, relishing the fact that the more its victims resist the curse, the more savage and bestial they become. Wereboars live in small family groups in remote forest areas, building ramshackle huts or dwelling in caves. They are suspicious of strangers but sometimes ally themselves with orcs. Variant: Nonhuman Lycanthropes The statistics presented in this section assume a base creature of human. However, you can also use the statistics to represent nonhuman lycanthropes, adding verisimilitude by allowing a nonhuman lycanthrope to retain one or more of its humanoid racial traits. For example, an elf werewolf might have the Fey Ancestry trait. Player Characters as Lycanthropes A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope’s speeds in nonhumanoid form, damage immunities, traits, and actions that don’t involve equipment. The character is proficient with the lycanthrope’s natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope’s statistics. The character can’t speak while in animal form. A non-lycanthrope humanoid hit by an attack that carries the curse of lycanthropy must succeed on a Constitution saving throw (DC 8 + the lycanthrope’s proficiency bonus + the lycanthrope’s Constitution modifier) or be cursed. If the character embraces the curse, his or her alignment becomes the one defined for the lycanthrope. The DM is free to decide that a change in alignment places the character under DM control until the curse of lycanthropy is removed. The following information applies to specific lycanthropes. Werebear. The character gains a Strength of 19 if his or her score isn’t already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength. Wereboar. The character gains a Strength of 17 if his or her score isn’t already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character’s proficiency bonus + Strength modifier. Wererat. The character gains a Dexterity of 15 if his or her score isn’t already higher. Attack and damage rolls for the bite are based on whichever is higher of the character’s Strength and Dexterity. Weretiger. The character gains a Strength of 17 if his or her score isn’t already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character’s proficiency bonus + Strength modifier. Werewolf. The character gains a Strength of 15 if his or her score isn’t already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength. Traits Shapechanger : The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. Charge (Boar or Hybrid Form Only) : If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. Relentless (Recharges after a Short or Long Rest) : If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead. Actions Multiattack (Humanoid or Hybrid Form Only) : The wereboar makes two attacks, only one of which can be with its tusks. Maul (Humanoid or Hybrid Form Only) : Melee Weapon Attack : +5 to hit, reach 5 ft., one target. Hit : 10 (2d6 + 3) bludgeoning damage. Tusks (Boar or Hybrid Form Only) : Melee Weapon Attack : +5 to hit, reach 5 ft., one target. Hit : 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
 
-### Wereboar
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (human, shapechanger)
+- Source: MM1
+- Alignment: neutral evil
+- Expansion: 2
+- Challenge Rating: 4
 
-_Medium or Small Monstrosity (Lycanthrope), Neutral Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 15 **Initiative** +2 (12) <br>
-**HP** 97 (15d8 + 30) <br>
-**Speed** 30 ft., 40 ft. (boar form only) <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>WIS</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +2<br>
-**Gear** Javelins (6)<br>
-**Senses** Passive Perception 12<br>
-**Languages** Common (can't speak in boar form)<br>
-**CR** 4 (XP 1,100; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The wereboar makes two attacks, using Javelin or Tusk in any combination. It can replace one attack with a Gore attack.
-
-**_Gore (Boar or Hybrid Form Only)._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. _Constitution Saving Throw:_ DC 12. _Failure:_ The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a **Wereboar** under the GM's control and has 10 Hit Points. _Success:_ The target is immune to this wereboar's curse for 24 hours.
-
-**_Javelin (Humanoid or Hybrid Form Only)._** Melee or _Ranged Attack Roll:_ +5, reach 5 ft. or range 30/120 ft. _Hit:_ 13 (3d6 + 3) Piercing damage.
-
-**_Tusk (Boar or Hybrid Form Only)._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Piercing damage. If the target is a Medium or smaller creature and the wereboar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing damage and has the Prone condition.
-
-#### Bonus Actions
-
-<hr>
-
-**_Shape-Shift._** The wereboar shape-shifts into a Medium boar-humanoid hybrid or a Small boar, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.

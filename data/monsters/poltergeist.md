@@ -1,0 +1,17 @@
+# Poltergeist
+
+**description**: A specter is the angry, unfettered spirit of a humanoid that has been prevented from passing to the afterlife. Specters no longer possess connections to who or what they were, yet are condemned to walk the world forever. Some are spawned when dark magic or the touch of a wraith rips a soul from a living body. Beyond Redemption. When a ghost’s unfinished business is completed, it can rest at last. No such rest or redemption awaits a specter. It is doomed to the Material Plane, its only end the oblivion that comes with the destruction of its soul. Until then, it bears out its lonely life in forlorn places, carrying on forgotten through the ages of the world. Undying Hatred. Living creatures remind the specter that life is beyond its grasp. The mere sight of the living overwhelms a specter with sorrow and wrath, which can be abated only by destroying said life. A specter kills quickly and mercilessly, for only by depriving others of life can it gain the slightest satisfaction. However, no matter how many lives it extinguishes, a specter always succumbs to its hatred and sorrow. Dwellers in Darkness. Sunlight represents a source of life that no specter can ever hope to douse, and it pains them. When night falls, they leave their final resting places in search of living creatures to slay, knowing that few weapons can harm them in return. At the first light of dawn, they retreat back into the darkness, where they remain until night falls again. Undead Nature. A specter doesn’t require air, food, drink, or sleep. Poltergeist A poltergeist is a different kind of specter — the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche. Traits Incorporeal Movement : The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object. Sunlight Sensitivity : While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Invisibility : The poltergeist is invisible. Actions Forceful Slam : Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6) force damage. Telekinetic Thrust (Creature) : The poltergeist targets a creature within 30 feet of it. A creature must be Medium or smaller to be affected by this magic. The poltergeist makes a Charisma check contested by the target’s Strength check. If the poltergeist wins the contest, the poltergeist hurls the target up to 30 feet in any direction, including upward. If the target then comes into contact with a hard surface or heavy object, the target takes 1d6 damage per 10 feet moved. Telekinetic Thrust (Object) : Ranged Spell Attack: +4 to hit. Hit: 5 (2d4) bludgeoning damage. The poltergeist targets a unattended object within 30 feet of it, weighing up to 150 pounds. If the target is an object that isn’t being worn or carried, the poltergeist hurls it up to 30 feet in any direction. The poltergeist can use the object as a ranged weapon, attacking one creature along the object’s path.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: undead
+- Source: MM1
+- Alignment: chaotic evil
+- Expansion: 2
+- Challenge Rating: 2
+
+**publisher**: Wizards of the Coast
+
+**book**: Monster Manual
+

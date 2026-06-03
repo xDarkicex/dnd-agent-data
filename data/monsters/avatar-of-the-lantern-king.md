@@ -1,0 +1,16 @@
+# Avatar of the Lantern King
+
+**description**: These stats represent an avatar of the Lantern King, the Eldest of trickery. The actual Lantern King would be a much more powerful foe in the CR range of 28–29, but using his avatar allows you to pit him against 20th-level PCs without overwhelming them entirely. Traits Legendary Resistance (3/Day). If the Avatar of the Lantern King fails a saving throw, he can choose to succeed instead. Magic Resistance. The Avatar of the Lantern King has advantage on saving throws against spells and other magical effects. Magic Weapons. The Avatar of the Lantern King’s weapon attacks are magical. Regeneration. The Avatar of the Lantern King regains 25 hit points at the start of its turn. If he takes radiant damage, this trait doesn’t function at the start of his next turn. The Avatar of the Lantern King dies only if it starts his turn with 0 hit points and doesn’t regenerate. Shapechanger. The Avatar of the Lantern King can use his action to polymorph into a form that resembles any fey or humanoid, or back into his true form. Aside from his size, his statistics are the same in each form. Innate Spellcasting. The Avatar of the Lantern King’s innate spellcasting ability is Charisma (spell save DC 21, +13 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: charm person, suggestion 3/day: dominate monster, mirror image, misty step, shapechange, shield 1/day: conjure fey, control weather, haste, major image, nondetection, polymorph Actions Multiattack. The Lantern King makes three attacks with his searing rune or two attacks with his blinding beam. Searing Rune. Melee Weapon Attack: +16 to hit, reach 5 ft., one target. Hit: 35 (4d12+9) fire damage and 19 (3d12) psychic damage. Blinding Beam. Ranged Weapon Attack: +16 to hit, range 80/120 ft., one target. Hit: 48 (6d12+9) fire damage and 19 (3d12) radiant damage, plus the target must make a DC 21 Constitution saving throw or be blinded until the end of their next turn. Reactions Lying Laugh (3/Day). Whenever a creature misses the Avatar of the Lantern King with an attack or fails an ability check or saving throw, it is overcome for 1 minute as if hideous laughter were cast on it. The creature can make a DC 21 Wisdom saving throw at the end of each of its turns, ending the effect on a success. Legendary Actions The Avatar of the Lantern King can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The Lantern King regains spent legendary actions at the start of his turn. Swift Rune. The Avatar of the Lantern King makes a searing rune attack. Playful Switch. The Avatar of the Lantern King transposes two creatures or unattended items within 60 feet of him. If they are creatures or attended items, they must succeed at a DC 21 Charisma saving throw. If they both fail, the creatures or items swap places. Prismatic Burst (Costs 2 Actions). The Avatar of the Lantern King casts prismatic spray .
+
+**properties**:
+- Category: Monsters
+- Size: Gargantuan
+- Type: fey (shapechanger)
+- Alignment: chaotic neutral
+- Expansion: 17526
+- Challenge Rating: 24
+
+**publisher**: Paizo
+
+**book**: Kingmaker Bestiary (5e)
+

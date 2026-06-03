@@ -1,0 +1,16 @@
+# Snallygaster
+
+**description**: The twisted hybrid of a giant bird and lizard flies forward on wings too small to support its bulk. A mass of writhing tentacles bursts from its open beak. This horrific predator lairs and hunts in hilly and mountainous country, mainly preying on large, wild herd animals. If humanoids settle near its territory, however, a snallygaster is quick to take advantage of the easier prey of livestock, horses, and even people. Aerial Predator. The snallygaster attacks from the air, swooping down to kill prey or entangle them in its tentacles before carrying them off to its lair for consumption. Its initial attack is prefaced by a horrific shriek that can be heard up to a mile away. Snallygasters are not speedy flyers, but they have excellent maneuverability in the air. They usually claim hunting territories within one to four miles of their lairs. Polymorphic. Snallygasters vary widely in appearance, often looking vastly different from their parents. Some have horns or spikes of varying length and number, while others have a single eye centered on their heads. The colors and the ratio of feathers to scales on each snallygaster's body ranges widely as well. Magic Resistance. The snallygaster has advantage on saving throws against spells and other magical effects. Regeneration. The snallygaster regains 15 hp at the start of its turn if it has at least 1 hp. Actions Multiattack. The snallygaster makes one Slimy Tentacles attack and three Talons attacks. If the snallygaster hits one creature with two Talons attacks, the target must succeed on a DC 18 Strength saving throw or take 11 (2d10) piercing damage and be knocked prone. Slimy Tentacles. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained and takes 18 (4d8) acid damage at the start of each of its turns, and the snallygaster can't use its Slimy Tentacles on another target. Talons. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 20 (2d12 + 7) piercing damage. Screech (Recharge 5-6). The snallygaster emits a loud squawk like a screeching whistle in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw. On a failure, a creature takes 49 (14d6) thunder damage and is stunned for 1 minute. On a success, a creature takes half the damage and isn't stunned. A stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Bonus Actions Nimble Flier. The snallygaster takes the Dash or Disengage action. It must be flying to use this bonus action. Reactions Parry Spell. If the snallygaster succeeds on a saving throw against a spell of 5th level or lower that targets only the snallygaster, the spell has no effect. If the snallygaster succeeds on the saving throw by 5 or more, the spell is reflected back at the spellcaster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Aberration
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 15
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

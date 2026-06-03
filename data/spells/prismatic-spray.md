@@ -1,31 +1,49 @@
 # Prismatic Spray
 
-**Level**: 7
-**School**: evocation
-**Classes**: bard, sorcerer, wizard
-**Casting Time**: action
-**Range**: Self
-**Components**: ['v', 's']
-**Duration**: Instantaneous
+**description**: Level 7 Evocation (Bard, Sorcerer, Wizard) Casting Time: Action Range: Self Components: V, S Duration: Instantaneous Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll 1d8 to determine which color ray affects it, consulting the Prismatic Rays table. Prismatic Rays 1d8 Ray 1 Red. Failed Save: 12d6 Fire damage. Successful Save: Half as much damage. 2 Orange. Failed Save: 12d6 Acid damage. Successful Save: Half as much damage. 3 Yellow. Failed Save: 12d6 Lightning damage. Successful Save: Half as much damage. 4 Green. Failed Save: 12d6 Poison damage. Successful Save: Half as much damage. 5 Blue. Failed Save: 12d6 Cold damage. Successful Save: Half as much damage. 6 Indigo. Failed Save: The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the Greater Restoration spell. The successes and failures needn’t be consecutive; keep track of both until the target collects three of a kind. 7 Violet. Failed Save: The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM’s choice). 8 Special. The target is struck by two rays. Roll twice, rerolling any 8.
 
-## Description
+**properties**:
+- Category: Spells
+- School: Evocation
+- Classes: Bard, Sorcerer, Wizard
+- Expansion: 33335
+- data-List: false
+- filter-Tags: Inflict Condition, Dexterity Save
+- Spell Attack: None
+- filter-Level: 7
+- filter-Range: Self
+- filter-Ritual: No
+- filter-Upcast: No
+- filter-Duration: Instantaneous
+- data-datarecords: [{"name":"Prismatic Spray","level":"7","payload":"{\"type\":\"Spell\",\"name\":\"Prismatic Spray\",\"description\":\"Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll 1d8 to determine which color ray affects it, consulting the Prismatic Rays table.\\nPrismatic Rays\\n1d8 - Ray\\n1 - Red. Failed Save: 12d6 Fire damage. Successful Save: Half as much damage.\\n2 - Orange. Failed Save: 12d6 Acid damage. Successful Save: Half as much damage.\\n3 - Yellow. Failed Save: 12d6 Lightning damage. Successful Save: Half as much damage.\\n4 - Green. Failed Save: 12d6 Poison damage. Successful Save: Half as much damage.\\n5 - Blue. Failed Save: 12d6 Cold damage. Successful Save: Half as much damage.\\n6 - Indigo. Failed Save: The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the Greater Restoration spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.\\n7 - Violet. Failed Save: The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice).\\n8 - Special. The target is struck by two rays. Roll twice, rerolling any 8.\",\"level\":7,\"school\":\"Evocation\",\"castingTime\":\"Action\",\"range\":\"Self\",\"duration\":\"Instantaneous\",\"components\":{\"verbal\":true,\"somatic\":true},\"aoe\":{\"shape\":\"Cone\",\"size\":\"60 foot\"}}"},{"name":"Prismatic Spray Generic Roll","parent":"Prismatic Spray","payload":"{\"type\":\"Generic Roll\",\"name\":\"Spray Effect\",\"rollString\":\"1d8\"}"},{"name":"Prismatic Spray Red Attack","parent":"Prismatic Spray","payload":"{\"type\":\"Attack\",\"name\":\"Prismatic Spray - Red\",\"description\":\"Each creature in the Cone makes a Dexterity saving throw.\",\"save\":{\"saveAbility\":\"Dexterity\",\"onFail\":\"Take 12d6 Fire damage.\",\"onSucceed\":\"Half as much damage.\"},\"actionType\":\"Free Action\",\"aoe\":{\"shape\":\"Cone\",\"size\":\"60 foot\"}}"},{"name":"Prismatic Spray Red Damage","parent":"Prismatic Spray Red Attack","payload":"{\"type\":\"Damage\",\"ability\":\"none\",\"damageType\":\"Fire\",\"diceCount\":12,\"diceSize\":\"d6\"}"},{"name":"Prismatic Spray Orange Attack","parent":"Prismatic Spray","payload":"{\"type\":\"Attack\",\"name\":\"Prismatic Spray - Orange\",\"description\":\"Each creature in the Cone makes a Dexterity saving throw.\",\"save\":{\"saveAbility\":\"Dexterity\",\"onFail\":\"Take 12d6 Acid damage.\",\"onSucceed\":\"Half as much damage.\"},\"actionType\":\"Free Action\",\"aoe\":{\"shape\":\"Cone\",\"size\":\"60 foot\"}}"},{"name":"Prismatic Spray Orange Damage","parent":"Prismatic Spray Orange Attack","payload":"{\"type\":\"Damage\",\"ability\":\"none\",\"damageType\":\"Acid\",\"diceCount\":12,\"diceSize\":\"d6\"}"},{"name":"Prismatic Spray Yellow Attack","parent":"Prismatic Spray","payload":"{\"type\":\"Attack\",\"name\":\"Prismatic Spray - Yellow\",\"description\":\"Each creature in the Cone makes a Dexterity saving throw.\",\"save\":{\"saveAbility\":\"Dexterity\",\"onFail\":\"Take 12d6 Lightning damage.\",\"onSucceed\":\"Half as much damage.\"},\"actionType\":\"Free Action\",\"aoe\":{\"shape\":\"Cone\",\"size\":\"60 foot\"}}"},{"name":"Prismatic Spray Yellow Damage","parent":"Prismatic Spray Yellow Attack","payload":"{\"type\":\"Damage\",\"ability\":\"none\",\"damageType\":\"Lightning\",\"diceCount\":12,\"diceSize\":\"d6\"}"},{"name":"Prismatic Spray Green Attack","parent":"Prismatic Spray","payload":"{\"type\":\"Attack\",\"name\":\"Prismatic Spray - Green\",\"description\":\"Each creature in the Cone makes a Dexterity saving throw.\",\"save\":{\"saveAbility\":\"Dexterity\",\"onFail\":\"Take 12d6 Poison damage.\",\"onSucceed\":\"Half as much damage.\"},\"actionType\":\"Free Action\",\"aoe\":{\"shape\":\"Cone\",\"size\":\"60 foot\"}}"},{"name":"Prismatic Spray Green Damage","parent":"Prismatic Spray Green Attack","payload":"{\"type\":\"Damage\",\"ability\":\"none\",\"damageType\":\"Poison\",\"diceCount\":12,\"diceSize\":\"d6\"}"},{"name":"Prismatic Spray Blue Attack","parent":"Prismatic Spray","payload":"{\"type\":\"Attack\",\"name\":\"Prismatic Spray - Blue\",\"description\":\"Each creature in the Cone makes a Dexterity saving throw.\",\"save\":{\"saveAbility\":\"Dexterity\",\"onFail\":\"Take 12d6 Cold damage.\",\"onSucceed\":\"Half as much damage.\"},\"actionType\":\"Free Action\",\"aoe\":{\"shape\":\"Cone\",\"size\":\"60 foot\"}}"},{"name":"Prismatic Spray Blue Damage","parent":"Prismatic Spray Blue Attack","payload":"{\"type\":\"Damage\",\"ability\":\"none\",\"damageType\":\"Cold\",\"diceCount\":12,\"diceSize\":\"d6\"}"},{"name":"Prismatic Spray Indigo Attack","parent":"Prismatic Spray","payload":"{\"type\":\"Attack\",\"name\":\"Prismatic Spray - Indigo\",\"description\":\"Each creature in the Cone makes a Dexterity saving throw.\",\"save\":{\"saveAbility\":\"Dexterity\",\"onFail\":\"The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the Greater Restoration spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.\"},\"actionType\":\"Free Action\",\"aoe\":{\"shape\":\"Cone\",\"size\":\"60 foot\"}}"},{"name":"Prismatic Spray Indigo Condition","parent":"Prismatic Spray Indigo Attack","payload":"{\"type\":\"Condition\",\"name\":\"Prismatic Spray Indigo Restrained\",\"description\":\"The target makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the Greater Restoration spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.\"}"},{"name":"Prismatic Spray Indigo Restrained Attack","parent":"Prismatic Spray Indigo Attack","payload":"{\"type\":\"Attack\",\"name\":\"Prismatic Spray - Indigo Restrained\",\"description\":\"Makes a Constitution saving throw at the end of each of its turns.\",\"save\":{\"saveAbility\":\"Constitution\",\"onFail\":\"If it fails three times, it has the Petrified condition until it is freed by an effect like the Greater Restoration spell.\",\"onSucceed\":\"If it successfully saves three times, the condition ends.\"},\"actionType\":\"Free Action\"}"},{"name":"Prismatic Spray Violet Attack","parent":"Prismatic Spray","payload":"{\"type\":\"Attack\",\"name\":\"Prismatic Spray - Violet\",\"description\":\"Each creature in the Cone makes a Dexterity saving throw.\",\"save\":{\"saveAbility\":\"Dexterity\",\"onFail\":\"The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice).\"},\"actionType\":\"Free Action\",\"aoe\":{\"shape\":\"Cone\",\"size\":\"60 foot\"}}"},{"name":"Prismatic Spray Violet Blinded Attack","parent":"Prismatic Spray Violet Attack","payload":"{\"type\":\"Attack\",\"name\":\"Prismatic Spray - Violet Blinded\",\"description\":\"The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn.\",\"save\":{\"saveAbility\":\"Wisdom\",\"onFail\":\"Blinded condition ends, and the creature teleports to another plane of existence (DM's choice).\",\"onSucceed\":\"Blinded condition ends.\"},\"actionType\":\"Free Action\"}"}]
+- filter-Components: Verbal, Somatic
+- filter-Casting Time: Action
+- filter-Concentration: No
+- Name: Prismatic Spray
+- data-description: Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll 1d8 to determine which color ray affects it, consulting the Prismatic Rays table.
+Prismatic Rays
+1d8 - Ray
+1 - Red. Failed Save: 12d6 Fire damage. Successful Save: Half as much damage.
+2 - Orange. Failed Save: 12d6 Acid damage. Successful Save: Half as much damage.
+3 - Yellow. Failed Save: 12d6 Lightning damage. Successful Save: Half as much damage.
+4 - Green. Failed Save: 12d6 Poison damage. Successful Save: Half as much damage.
+5 - Blue. Failed Save: 12d6 Cold damage. Successful Save: Half as much damage.
+6 - Indigo. Failed Save: The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the Greater Restoration spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.
+7 - Violet. Failed Save: The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice).
+8 - Special. The target is struck by two rays. Roll twice, rerolling any 8.
+- Level: 7
+- Casting Time: Action
+- Duration: Instantaneous
+- Range: Self
+- Components: V S
+- data-CastNum: 2
+- data-DurationNum: 0
+- Save: Dexterity
+- Damage: 12d6
+- Damage Type: Fire
+- data-RangeAoe: Self (60 ft ▽)
 
-Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll 1d8 to determine which color ray affects it, consulting the Prismatic Rays table.
+**publisher**: Wizards of the Coast
 
-1d8 Ray 
+**book**: Free Basic Rules (2024)
 
-1     Red. Failed Save: 12d6 Fire damage. Successful Save: Half as much damage. 
-
-2     Orange. Failed Save: 12d6 Acid damage. Successful Save: Half as much damage. 
-
-3 Yellow. Failed Save: 12d6 Lightning damage. Successful Save: Half as much damage. 
-
-4    Green. Failed Save: 12d6 Poison damage. Successful Save: Half as much damage. 
-
-5    Blue. Failed Save: 12d6 Cold damage. Successful Save: Half as much damage. 
-
-6    Indigo. Failed Save: The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the Greater Restoration spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. 
-
-7    Violet. Failed Save: The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a Successful Save, the condition ends. On a Failed Save, the condition ends, and the creature teleports to another plane of existence (DM's choice). 
-
-8    Special. The target is struck by two rays. Roll twice, rerolling any 8.

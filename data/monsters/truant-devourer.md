@@ -1,0 +1,16 @@
+# Truant Devourer
+
+**description**: The decaying form was once a gnoll. It is adorned with symbolic jewelry, religious fetishes, and tattoos of unholy iconography. Truant devourers are enforcers of the lords of undeath and servants of the undying. They track down the enemies of the dead, especially those that were once counted as allies, and bring them to a fitting end. Devourers of the Damned. Truant devourers hunt all those who have offended the gods of death: cultists that cease worship, souls that have somehow rejoined the living world, or priests that have abandoned a death deity for another god. Devourers are devoted to their lords and relentless in their pursuit. They have all the time in the world to find those who blaspheme against the gods of death. Heretic Sense. The truant devourer can pinpoint the location of heretics of its faith within 60 feet of it and can sense the general direction of such creatures within 1 mile of it. Magic Resistance. The truant devourer has advantage on saving throws against spells and other magical effects. Turn Resistance. The truant devourer has advantage on saving throws against any effect that turns undead. Undead Nature. The truant devourer doesn't require air, food, drink, or sleep. Actions Multiattack. The truant devourer makes three Devourer's Cleaver or Necrotic Bolt attacks. It can replace one attack with a Life Drain attack. Devourer's Cleaver. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 9 (2d8) necrotic damage. Life Drain. Melee Spell Attack: +8 to hit, reach 5 ft., one creature. Hit: 17 (3d8 + 4) necrotic damage. The target must succeed on a DC 16 Constitution saving throw or its hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0. Necrotic Bolt. Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 17 (3d8 + 4) necrotic damage. Invisibility. The truant devourer magically turns invisible until it attacks or uses Grasping Claws, or until its concentration ends (as if concentrating on a spell). Any equipment it wears or carries is invisible with it. Grasping Claws (Recharge 5-6). The truant devourer calls dozens of ghostly, skeletal claws to erupt from a point on the ground it can see within 60 feet of it. Each creature within 15 feet of that point must make a DC 16 Dexterity saving throw. On a failure, a creature takes 31 (7d8) necrotic damage and is restrained for 1 minute. On a success, a creature takes half the damage and isn't restrained. A restrained creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Bonus Actions Dusty Step. The truant devourer teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. A cloud of dust appears at the origin and destination when it uses this bonus action.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead
+- Alignment: Any Alignment (As Its Creator Deity)
+- Expansion: 19901
+- Challenge Rating: 9
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

@@ -1,90 +1,17 @@
 # Couatl
 
-## Couatl
+**description**: Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins. Divine Caretakers. Couatls were created as guardians and caretakers by a benevolent god not worshiped since the dawn of time, and which is forgotten now by all but the couatls themselves. Most of the divine mandates given to these beings are long since fulfilled or failed. However, a number of couatls still watch over ancient power, await fulfillment of prophecy, or safeguard the heirs of creatures they once guided and protected. Regardless of a couatl’s task, it prefers to remain hidden, revealing itself only as a last resort. Truth Tellers. A couatl can’t lie, but it can withhold information, answer questions vaguely, or allow others to jump to the wrong conclusions if doing so is necessary to protect something, to keep promises, or to hide the secret of its existence. Ancient and Few. A couatl can live for ages without sustenance, even surviving without air, but these creatures can die of disease or the passage of time. A couatl can sense its end up to a century beforehand, but it has no insight into the manner of its demise. If a couatl has already accomplished what it set out to do, it accepts its fate. However, if its imminent death endangers the completion of its goals, it actively seeks out another couatl with which to produce offspring. The mating ritual of couatls is a beautiful and elaborate dance of magic and light, which results in a gem-like egg from which a new couatl hatches. The parent that sought out the mate raises the newborn couatl and instructs it as to its duties, so that it can complete whatever task the parent leaves unfinished. Traits Innate Spellcasting : The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components: • At will: detect evil and good , detect magic , detect thoughts • 3/day each: bless , create food and water , cure wounds , lesser restoration , protection from poison , sanctuary , shield • 1/day each: dream , greater restoration , scrying Magic Weapons : The couatl's weapon attacks are magical. Shielded Mind : The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location. Actions Bite : Melee Weapon Attack : +8 to hit, reach 5 ft., one creature. Hit : 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake. Constrict : Melee Weapon Attack : +6 to hit, reach 10 ft., one Medium or smaller creature. Hit : 10 (2d6 + 3) bludgeoning damage, and the target is grappled, escape DC 15. Until this grapple ends, the target is restrained, and the couatl can't constrict another target. Change Shape : The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice). In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
 
-### Couatl
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: celestial
+- Source: MM1
+- Alignment: lawful good
+- Expansion: 2
+- Challenge Rating: 4
 
-_Medium Celestial, Lawful Good_
+**publisher**: Wizards of the Coast
 
-**AC** 19 **Initiative** +5 (15) <br>
-**HP** 60 (8d8 + 24) <br>
-**Speed** 30 ft., Fly 90 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>20</td>
-      <td>+5</td>
-      <td>+5</td>
-      <td><strong>CON</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+5</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>WIS</strong></td>
-      <td>20</td>
-      <td>+5</td>
-      <td>+7</td>
-      <td><strong>CHA</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+4</td>
-    </tr>
-  </tbody>
-</table>
-
-**Resistances** Bludgeoning, Piercing, Slashing<br>
-**Immunities** Psychic, Radiant<br>
-**Senses** Truesight 120 ft.; Passive Perception 15<br>
-**Languages** All; telepathy 120 ft.<br>
-**CR** 4 (XP 1,100; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Shielded Mind._** The couatl's thoughts can't be read by any means, and other creatures can communicate with it telepathically only if it allows them.
-
-#### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 11 (1d12 + 5) Piercing damage, and the target has the Poisoned condition until the end of the couatl's next turn.
-
-**_Constrict._** _Strength Saving Throw:_ DC 15, one Medium or smaller creature the couatl can see within 5 feet. _Failure:_ 8 (1d6 + 5) Bludgeoning damage. The target has the Grappled condition (escape DC 13), and it has the Restrained condition until the grapple ends.
-
-**_Spellcasting._** The couatl casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 15): <br>
-&emsp;**At Will:** _Detect Evil and Good, Detect Magic, Detect Thoughts, Shapechange_ (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell) <br>
-&emsp;**1/Day Each:** _Create Food and Water_, _Dream_, _Greater Restoration_, _Scrying_, _Sleep_
-
-#### Bonus Actions
-
-<hr>
-
-**_Divine Aid (2/Day)._** The couatl casts _Bless_, _Lesser Restoration_, or _Sanctuary_, requiring no spell components and using the same spellcasting ability as Spellcasting.

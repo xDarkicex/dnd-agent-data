@@ -1,0 +1,15 @@
+# Shadow Wisp
+
+**description**: Death and danger have always lurked in the shadows. Legend Shadow Wisp’s origin is unknown, though it was famously wielded by the elf paladin Haven Flur. The dark blade was a striking sight against the woman’s white plate armor. Location Retired from adventuring, Haven Flur is now the priest for the small village of Barcatur. Fearful that the dark powers of the blade might end up in nefarious hands, Haven has hidden the sword, and her white +1 plate armor , in the walls of the church. Encounter Ideas Tall Tale. The adventurers hear tales of a great paladin who wielded a black sword. Through investigation, they find Haven in the village of Barcatur. Worthy. Haven offers the sword to a character who she believes will wield the weapon for the good of the people. Shadow Mercenaries. The adventurers encounter a group of mercenaries—a bandit captain , three veterans , and a half-dragon veteran —ransacking Haven’s church while searching for the fabled weapon. If the characters defeat or drive off the mercenaries, they find a dying Haven who, if saved, gives the characters the items as a reward. Progression Shadow Wisp progresses as the creature who is attuned to it progresses. Whenever the creature’s proficiency bonus increases, so does the weapon’s rarity. Statistics Weapon (Longsword), Rarity Varies (Requires Attunement) Common . You can speak a command word, causing shadowy wisps to leak from the blade for 1 hour or until you speak the command word again to end the effect. Uncommon . This magic weapon deals an extra 1d6 necrotic damage on a hit. Shadow Walk. When you hit with an attack using this weapon, you can teleport to an unoccupied space within 5 feet of the target. Once used, this property can’t be used again until you finish a long rest. Rare . You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, Shadow Walk’s teleportation range increases to 10 feet and it can now be used twice between long rests. Siphoning Shadows. When you hit a creature with an attack using this weapon, you can choose to regain a number of hit points equal to the necrotic damage dealt by the attack. Once used, this property can’t be used again until you finish a long rest. Very Rare . The bonus to attack and damage rolls increases to +2 and the extra necrotic damage increases to 2d6. Shadow Walk’s teleportation range increases to 15 feet and it can now be used three times between long rests. In addition, while holding the sword, you can cast gaseous form on yourself with a duration of 5 minutes (no concentration required). Once you cast the spell this way, you can’t do so again until you finish a long rest. Legendary . The bonus to attack and damage rolls increases to +3 and the extra necrotic damage increases to 3d6. In addition, you gain resistance to necrotic and poison damage.
+
+**properties**:
+- Category: Items
+- Item Type: Weapon (longsword)
+- Properties: Versatile
+- Item Rarity: varies
+- Requires Attunement: Requires Attunement
+
+**publisher**: Jeff Stevens Games
+
+**book**: Weapons of Legend
+

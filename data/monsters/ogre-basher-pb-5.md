@@ -1,0 +1,16 @@
+# Ogre Basher (PB 5)
+
+**description**: Massive and bull-necked with bulging muscle and flesh, most ogres indulge their every impulse because few can stop them. Though small for giants, ogres still outweigh and tower over humanoids. Most live in the wild where they can create their own rules and ways of life. Extreme Emotions. Most ogres experience emotions at their extremes. Rarely are they simply bemused or cross; you’re more likely to find an ogre leaping with ecstatic joy over a trivial victory or screaming with murderous rage over everyday frustrations. These heightened feelings drive many ogres down selfish paths, and some take whatever they want from anyone too weak to protest. Other ogres can be manipulated into working for evil creatures who promise to meet their heart’s desire, be it food, riches, or friendship. Ogres who embrace good often dedicate themselves to inspiring causes, letting their emotions fuel their passion and dedication for protecting their chosen people or place. Savory Stories. Some ogres speak of a time when they shared vast wealth and riches, great homes made of hewn stone, and sumptuous feasts. These stories end tragically, each with a different villain—from deceptive mages to talking cats—swindling the ogres of what is rightfully theirs. The truth of such legends remains unknown, but many cruel ogres use them as an excuse for their selfish indulgences. Aristocracy of Bullies. When wicked ogres gather more food than they can stomach or riches than they can spend, they use the excess to tempt their kin into working for them. These petty rulers make other ogres grovel at their feet for table scraps, then send them out into the world to steal more. Many ogre communities form around these arrogant aristocrats—but few such leaders die of old age, as the ambition and emotions of their subjects bring about violent ends. Actions Signature Attack (Spiked Club). Melee Weapon Attack: +3 plus PB to hit, reach 5 ft., one target. Hit: 2d4 plus PB piercing damage. Beginning at 7th level, the basher can make this attack twice, instead of once, when they take the Attack action on their turn. Features 3 rd Level: Angry Denial ( 3 /Day). When the basher takes damage from a creature the basher can see within 5 feet of them, the basher can use their reaction to instead take no damage and make a signature attack against the creature. 5 th Level: Throw Away ( 3 /Day). As an action, the basher grabs a willing Medium or smaller creature they can see within 5 feet of them and hurls the creature to an unoccupied space within 30 feet of the basher. If the creature lands within 5 feet of an enemy, the creature can use a reaction to make a melee attack against that enemy. 7 th Level: Wide Sweep ( 3 /Day). As an action, the basher sweeps their spiked club in an enormous circle, making a signature attack against each enemy within 10 feet of them. This attack has a +PB bonus to its attack and damage rolls, and if it hits a Large or smaller creature, the basher can push the target up to 10 feet away from them.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Giant
+- Alignment: Any Alignment
+- Expansion: 25493
+- Challenge Rating: Retainer
+
+**publisher**: MCDM Productions
+
+**book**: Flee Mortals
+

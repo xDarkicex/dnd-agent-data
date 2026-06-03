@@ -1,84 +1,17 @@
 # Doppelganger
 
-## Doppelganger
+**description**: Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Few creatures spread fear, suspicion, and deceit better than doppelgangers. Found in every land and culture, they can take on the guise of any individual of any race. Stealing Secrets. A doppelganger’s adopted form allows it to blend into almost any group or community, but its transformation doesn’t impart languages, mannerisms, memory, or personality. Doppelgangers often follow or capture creatures they intend to impersonate, studying them and probing their minds for secrets. A doppelganger can read a creature’s surface thoughts, allowing it to glean that creature’s name, desires, and fears, along with a few scattered memories. A doppelganger impersonating a specific creature as part of a long-term plot might keep its double alive and close at hand for weeks, probing the victim’s mind daily to learn how to behave and speak authentically. Hedonistic Swindlers. Doppelgangers work alone or in small groups, with group roles shifting from con to con. While one doppelganger takes the place of a murdered merchant or noble, the others take on a number of identities as circumstances warrant, playing the parts of family or servants while they live off the victim’s riches. Changelings. Doppelgangers are too lazy or self-interested to raise their young. They assume attractive male forms and seduce women, leaving them to raise their progeny. A doppelganger child appears to be a normal member of its mother’s species until it reaches adolescence, at which point it discovers its true nature and is driven to seek out its kind to join them. Traits Shapechanger : The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. Ambusher : In the first round of a combat, the doppelganger has advantage on attack rolls against any creature it has surprised. Surprise Attack : If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack. Actions Multiattack : The doppelganger makes two melee attacks. Slam : Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage. Read Thoughts : The doppelganger magically reads the surface thoughts of one creature within 60 ft. of it. The effect can penetrate barriers, but 3 ft. of wood or dirt, 2 ft. of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
 
-### Doppelganger
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: monstrosity (shapechanger)
+- Source: MM1
+- Alignment: neutral
+- Expansion: 2
+- Challenge Rating: 3
 
-_Medium Monstrosity, Neutral_
+**publisher**: Wizards of the Coast
 
-**AC** 14 **Initiative** +4 (14) <br>
-**HP** 52 (8d8 + 16) <br>
-**Speed** 30 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>DEX</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>CON</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Deception +6, Insight +3<br>
-**Immunities** Charmed<br>
-**Senses** Darkvision 60 ft.; Passive Perception 11<br>
-**Languages** Common plus three other languages<br>
-**CR** 3 (XP 700; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The doppelganger makes two Slam attacks and uses Unsettling Visage if available.
-
-**_Slam._** _Melee Attack Roll:_ +6 (with Advantage during the first round of each combat), reach 5 ft. _Hit:_ 11 (2d6 + 4) Bludgeoning damage.
-
-**_Read Thoughts._** The doppelganger casts _Detect Thoughts_, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 12).
-
-**_Unsettling Visage (Recharge 6)._** _Wisdom Saving Throw:_ DC 12, each creature in a 15-foot Emanation originating from the doppelganger that can see the doppelganger. _Failure:_ The target has the Frightened condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
-
-#### Bonus Actions
-
-<hr>
-
-**_Shape-Shift._** The doppelganger shape-shifts into a Medium or Small Humanoid, or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.

@@ -1,0 +1,13 @@
+# Grimbreaker
+
+**description**: Grimbreaker Weapon (greataxe), epic (requires affinity by a Matokai or any humanoid of lawful neutral or lawful good alignment) Few of these fabled weapons still exist, their number scattered across the galaxy. When the matokai left Bas Drasku to venture out among the stars, the greatest warriors from each clan were gifted one of these prized weapons. Those that still remain are passed down to a new clan leader or have yet to be found wherever its wielder had once ventured centuries before. Grimbreakers are dark metal greataxes with a single blade connected to long shaft handle. Its metallic surface is engraved in symbols and markings that emanate a deep red glow. A grimbreaker prefers bonding with matokai, but can also bond to a creature of great renown with a rigid sense of honor and duty. It refuses to bond with anyone who appears untrustworthy, weak-willed, or antithetical to the weapon’s own code of ethics. If the weapon deems you unworthy, your affinity attempt with it fails and you can’t attempt to gain affinity with it again for 72 hours. If you successfully gain affinity with it, you remain affined with the weapon until you die or the weapon is destroyed. Without gaining affinity, the weapon functions as a normal greataxe. The weapon has all the properties of an optimum sundering greataxe with the breach property. It also has the following additional properties. Fearless. While holding the weapon, you and any allies within 30 feet of you can’t be frightened while you’re not incapacitated. Intuitive. While you hold the weapon, you have advantage on initiative rolls and burst saves. Sentience. A grimbreaker is a sentient lawful good weapon with an Intelligence of 12, a Wisdom of 15, and a Charisma of 10. It can see and hear out to a range of 120 feet and has darkvision. The weapon communicates by transmitting emotions and can, on rare occasions, send brief flashes of matokai script, or share visions that relate to the wielder’s own past. A grimbreaker’s purpose is to bring honor and glory to both itself and its wielder, either through glory in battle or defending the galaxy from the forces of chaos. Personality. Each grimbreaker is haughty, fearless, and taciturn. It communicates with its wielder sparingly, but always makes certain its message is clear when it does. Though it can’t abandon its wielder, it makes every possible effort to stop them from bringing shame or disgrace upon themselves.
+
+**properties**:
+- Category: Items
+- Item Type: Melee Weapon
+- Item Rarity: epic
+
+**publisher**: Alligator Alley Entertainment
+
+**book**: Master Technician's Guide
+

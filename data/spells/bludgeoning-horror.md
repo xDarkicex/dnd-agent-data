@@ -1,0 +1,17 @@
+# Bludgeoning Horror
+
+**description**: Bludgeoning Horror 2nd-level conjuration (sorcerer, warlock, wizard) Casting Time: 1 action Range: 15 feet Components: V, S, M (the body part of a Great One) Duration: Instantaneous You summon a large number of tentacles and slugs from your palm to strike a creature within range. Make a melee spell attack against the target. On a hit, it takes 3d6 bludgeoning damage. If you score a critical hit, the target is also stunned until the start of your next turn. At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 and range increases by 5 feet for each slot level above 2nd.
+
+**properties**:
+- Category: Spells
+- Level: 2
+- School: conjuration
+- Components: V, S, M
+- Damage Type: bludgeoning
+- Casting Time: 1 action
+- data-RangeAoe: 15 feet
+
+**publisher**: MonkeyDM
+
+**book**: Steinhardt's Guide to the Eldritch Hunt
+

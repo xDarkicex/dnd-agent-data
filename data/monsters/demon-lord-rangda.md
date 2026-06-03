@@ -1,0 +1,16 @@
+# Demon Lord, Rangda
+
+**description**: This giant, elderly woman, with long, unkempt hair, pendulous breasts, and horrific claws cracks a crooked smile. Her face is a horrifying, fanged mask with wild, protruding eyes, and her tongue is disturbingly long with curved spikes of bone along its edges. Rangda, also known as the Wretched Lover and the Rot Within, is the demon queen of witches. Sacrifice of Innocents. Worshippers of Rangda are required to deliver the babes of mortals unto her once a year. She delights in feasting upon these offerings, often swallowing them whole. Cursed Enemies. Rangda, once the mortal lover of Barong, is now his eternal enemy. Her hate for Barong fuels her machinations, and she blames him for her misfortunes. In this, at least, she is correct--Barong did betray her to darkness long ago, though she has since embraced it as an instrument of her vengeance. Friend to Hags. Rangda is often accompanied by a half-dozen green or sea hags, occasionally by a few night or sand hags, and very rarely by one or two blood hags. The hags are messengers, guards, and allies of the demon queen. Rangda's Lair Rangda's lair is nestled beneath an immense, twisted tree strewn with corpse flowers and surrounded by warlock's trumpetblooms deep in a vast bog of the Abyss. The tree must reshape itself to grant access to the Witch Queen's abode, an earthy, worm-ridden manse that reeks of decay. Lair Actions On initiative count 20 (losing initiative ties), Rangda takes a lair action to cause one of the following effects; Rangda can't use the same effect two rounds in a row: Roots of the great tree burst through the ground to grasp at a creature that Rangda can see. The creature must succeed on a DC 15 Dexterity saving throw or be grappled (escape DC 15) until initiative count 20 on the following round. Water bubbles up from the ground in a 20-foot-radius from a point that Rangda can see, making the area difficult terrain for 1 minute or until Rangda uses this lair action again. The air in the lair shimmers in a disorienting way. Up to three creatures that Rangda can see must succeed on a DC 15 Constitution saving throw or have disadvantage on all attack rolls until initiative count 20 on the following round. Regional Effects The region containing Rangda's lair is warped by her magic, which creates one or more of the following effects: Within 1 mile of the lair, all terrain is considered difficult, as boggy ground sucks at the feet of those walking, and leafless trees are grown so thick as to make flight burdensome. Hags, warlocks who gain their power from Rangda, and creatures native to swamps are unaffected. Rangda can choose to see or hear through the senses of any beast or swarm within 3 miles of her lair. Water within 1 mile of the lair becomes tainted with the sight rot disease. Any non-native creature drinking water in this area, even water it brought in from outside the area, must succeed on a DC 15 Constitution saving throw or become infected. Holy water is not infected by this effect.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: fiend (demon)
+- Alignment: chaotic evil
+- Expansion: 45
+- Challenge Rating: 17
+
+**publisher**: Kobold Press
+
+**book**: Creature Codex
+

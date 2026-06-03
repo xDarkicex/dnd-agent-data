@@ -1,0 +1,11 @@
+# Bounty Hunter
+
+**description**: Your past as a tracker of criminals to bring them to justice has led you across many lands and realms. You have met those who stand as the force of justice and taken into captivity those who prowl in the shadows and use violence and coercion to gain their spoils. Hunter Network. While you are visiting a town or settlement, you can reach out to contacts and informants who provide you with valuable information. By spending downtime and 1d10 gp to make the appropriate inquiries, you can gather information about a specific person, including their whereabouts or activities. Skills: Intimidation (Charisma), Survival (Wisdom) Languages: One of your choice Tools: Thieves’ Tools or Navigators´ Tools and a Gaming set Equipment: A small dagger, a compass, a set of traveler’s clothes, and a pouch containing 25 gp. d8 Personality Traits 1 Any mockery of me will not go unanswered. 2 I feel uneasy with the presence of magic. 3 My hand always seems to caress a blade. 4 I am not frightened at the sight of violence. 5 Do not care for rules and regulations. 6 I always want more in a negotiation. 7 I enjoy a night out at a tavern. 8 I cannot let an insult go unpunished. d6 Ideal 1 Fame: To be recognized as a great duelist (Chaotic). 2 Wealthy: To gain more coins than I need. (Neutral) 3 Adventure: To live a plentiful life full of adventure. (Chaotic) 4 Prize: To capture the most sought-after outlaw. (Lawful) 5 Violent: To resort to violence in any dispute. (Evil) 6 Freedom: To be free from oppressive rule. (Any) d6 Bond 1 I once killed a loud mouth prisoner. 2 It was my fault; I killed a bystander in a chase as I tried to capture an outlaw. 3 I hunted a Wyvern in the Umbral Highlands. 4 A contract of service must be respected by both parties. I am duty-bound. 5 I always end up in the sleaziest of taverns. 6 I try to profit miserable situations. d6 Flaw 1 I am swift to challenge people to a duel. 2 I have used deception to for my own gain. 3 Sometimes, I spend all my coins gambling. 4 I do not cut my losses when things go wrong. 5 I do not always keep a secret in confidence. 6 I have used trickery to gain my position.
+
+**properties**:
+- Category: Backgrounds
+
+**publisher**: Lion Banner Games
+
+**book**: HellWatch Infernal Oath 5e Compendium Expansion
+

@@ -1,0 +1,15 @@
+# Opus Tempestas
+
+**description**: Wondrous Item, Fabled (5th-Level and Higher Properties Require Attunement by a Spellcaster) Opus Tempestas is an epic that chronicles the story of the first storm giant to wield the power of lightning. Its pages follow the hero Shelmesh in exhaustive detail, extoling his virtues and painstakingly describing the nature of every magical discovery made during his quest. Those who bear this tome are not only regaled with Shelmesh’s discoveries but are also imbued with a measure of the giant’s might. While holding the grimoire, you can use it as a spellcasting focus for your spells, and it functions as a spellbook for you. Additionally, you do not suffer any negative effects imposed by extreme heat or cold while the grimoire is on your person. When found, the book’s pages contain the following spells. Spells marked with an asterisk (*) appear in Chapter 5: 1st level: fog cloud, thunderwave 2nd level: shamal’s grasp*, storm step* 3rd level: call lightning, miniature hurricane* 4th level: khamsin’s chariot* 5th level: enshroud* 6th level: monsoon* 7th level: storm queen’s children* Opus Tempestas (Requires Attunement). As your level increases, you gain the following benefits while the grimoire is on your person. 5th level. You are resistant to lightning and thunder damage. Whenever a creature takes lightning or thunder damage from a spell you cast, that creature takes additional lightning damage equal to your proficiency bonus. 9th level. The winds are at your beck and call. Creatures you can see have disadvantage on ranged weapon attacks against you. 13th level. Your form can shift to jolt around the battlefield. You can move through hostile creatures’ spaces as long as you don’t end your turn there. The first time you enter a creature’s space on your turn, that creature takes 10 (3d6) lightning damage. 17th level. You are immune to lightning and thunder damage. Once per long rest, you can cast one of the spells contained in Opus Tempestas as a bonus action. Quirks of Opus Tempestas. While attuned to the grimoire, you occasionally experience the emotions and attitudes of its previous owners, who have left their psychic imprint upon it. While you are not compelled to act on these feelings, you might randomly experience one of the quirks presented in the Quirks of the Opus Tempestas table. Quirks of Opus Tempestas d8 Result 1 You feel tired and depressed when the weather is sunny. 2 You are constantly shocking others with jolts of static electricity. 3 Your bones ache whenever a storm approaches. 4 You constantly feel too cold or too hot, never truly comfortable. 5 You are prone to explosive bursts of laughter of startling volume. 6 You become irritable if you go too long without being under the open sky. 7 Your sweat smells like soil after a rainstorm. 8 Your mood changes dramatically whenever the weather shifts.
+
+**properties**:
+- Category: Items
+- Expansion: 24844
+- Item Type: Wondrous Item
+- Item Rarity: Fabled 
+- Requires Attunement: 5th-Level and Higher Properties Require Attunement by a Spellcaster
+
+**publisher**: Kobold Press
+
+**book**: Deep Magic Vol 2
+

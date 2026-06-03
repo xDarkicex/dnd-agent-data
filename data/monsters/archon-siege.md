@@ -1,0 +1,16 @@
+# Archon, Siege
+
+**description**: Gleaming steel armor girds the flanks, encases the head, tips the tusks, and shoes the feet of this elephantine archon. A massive hammerhead sits at the end of its long trunk. Its immense, eagle-like wings, feathered with steel, make a musical sound not unlike a wind chime as it flies. A single siege archon can batter down the sturdy steel gate of a large city in less than a minute. Originally created to guard celestial cities from fiendish incursions, they first saw direct action when they breached the infernal walls of a great city in Hell and held them while other archons rescued devas held by the city's ruling archdevil. When they are not active, siege archons remain completely motionless, often for long stretches of time. Creatures unaware of their true natures often mistake them for immense steel and stone statues. Bulwarks of Order. Siege archons remain vigilant for the appearance of fiends and other creatures that take pleasure in corrupting mortals. When they destroy such creatures, they feel true joy. The archons feel no fear and stand up against any resident of the lower planes, regardless of its power in comparison to their own. They gladly suffer destruction at the hand of a greater fiend if it allows a mortal to escape that fate. Celestial Weapons. The siege archon's weapon attacks are magical. When the archon hits with its Trunk Maul, the weapon deals an extra 5d8 force damage (included in the attack). False Appearance. While the siege archon remains motionless, it is indistinguishable from an inanimate statue. Immortal Nature. The siege archon doesn't require food, drink, or sleep. Magic Resistance. The siege archon has advantage on saving throws against spells and other magical effects. Siege Monster. The siege archon deals double damage to objects and structures. Trampling Charge. If the siege archon moves at least 20 feet straight toward a creature and then hits it with a trunk maul attack on the same turn, that target must succeed on a DC 19 Strength saving throw or be pushed up to 10 feet and knocked prone. If the target is prone, the archon can make one Stomp attack against it as a bonus action. Actions Multiattack. The siege archon makes two Trunk Maul attacks or four Trumpeting Blast attacks. Trunk Maul. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) bludgeoning damage plus 22 (5d8) force damage. Stomp. Melee Weapon Attack: +11 to hit, reach 10 ft., one prone creature. Hit: 22 (3d10 + 6) bludgeoning damage. Trumpeting Blast. Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 19 (4d6 + 5) thunder damage. Sundering Quake (Recharge 5-6). The siege archon slams its forelegs into the ground. Each creature in contact with the ground within 20 feet of the archon must make a DC 19 Dexterity saving throw, taking 49 (14d6) force damage on a failed save, or half as much damage on a successful one. Each structure in contact with the ground within 20 feet of the archon also takes the damage and collapses if the damage reduces it to 0 hp.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Celestial
+- Alignment: Lawful Good
+- Expansion: 19901
+- Challenge Rating: 13
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

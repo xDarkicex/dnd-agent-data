@@ -1,0 +1,16 @@
+# Synthantic Security Director
+
+**description**: Synthantics Synthantics are creatures that are inducted into service to the Shadow Technocracy by having their bodies unconventionally altered with specialized nanotech and cybernetics. The final result is a hybrid of shadowtech enhancements blended into the form of the original species. Cybernetic Body and Soul. Regardless of species, synthantics do not age and have a lifespan of 500-600 years. They can produce no offspring but also no longer have the need or desire for sustenance. Synthantics retain portions of their inherent personality traits, though many of their emotional impulses are severely muted or eliminated completely. They instead maintain a cold, harsh view of the universe, backed only by what they deem as necessary in their ruthless, fanatical devotion to the Technocracy. Synthantic Template A beast, humanoid, or monstrosity can become a synthantic. When a creature becomes a synthantic, it retains all its statistics except as noted below. Type. The synthantic's type changes to cyborg, and it no longer requires air, food, or drink. Alignment. The synthantic's alignment changes to neutral evil. Cybernetic Hybrid. The synthantic is subject to the effects of any attack or power that affects automatons and constructs. Damage Resistances . The synthantic has resistance to poison, and necrotic damage. Damage Immunities. The synthantic has immunity to cold. It also retains any immunities it had prior to becoming a synthantic. Condition Immunities. The synthantic can’t be charmed or frightened. It also doesn’t suffer from exhaustion. Senses. The synthantic gains infravision with a radius of 60 feet and darkvision with a radius of 90 feet. Languages. The synthantic understands Common regardless of whether or not it knows how to speak it. New Action: Proton Beam (Recharge 5-6). The synthantic fires an energy beam in a line that is 5 feet wide. Each creature in that line must succeed on a Dexterity saving throw, taking the total radiant damage on a failed save or half as much on a successful one. The length of the beam, DC of the saving throw, and damage are determined by the synthantic's Challenge Rating using the following table. Synthantics with a CR of 1/4 or less do not gain this action. Synthantic Proton Beam Challenge Beam Length Save DC Damage 1/2 30 10 4 (1d8) 1 to 3 30 11 18 (4d8) 4 to 6 40 13 36 (8d8) 7 to 9 40 14 45 (10d8) 10 to 12 60 16 54 (12d8) 13+ 60 18 63 (14d8) Variant: Synthantic Defector A rare few among the synthantics regain enough will to resist the influence of the nanotech virus that infected their bodies and minds. This is a painful process, and though the insurgent regains most their identity, they are never again the same. Synthantic defectors still use the synthantic template, however their alignment is restored to what it was prior to becoming a synthantic. In addition, they also gain a randomly determined form of indefinite madness, as described in the Master Technician's Guide .
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: cyborg
+- Alignment: neutral evil
+- Expansion: 27052
+- Challenge Rating: 1
+
+**publisher**: Alligator Alley Entertainment
+
+**book**: Esper Genesis Threats Database
+

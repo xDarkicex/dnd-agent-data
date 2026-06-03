@@ -1,84 +1,17 @@
 # Remorhaz
 
-## Remorhaz
+**description**: Remorhazes From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Winglike fins flare from the back of the creature’s head, and its wide mouth brims with jagged teeth. Arctic Predators. Remorhazes live in arctic climes, preying on elk, polar bears, and other creatures sharing their territory. They can’t tolerate warm weather, having adapted to the cold by generating a furnace-like heat within their bodies. When hunting, a remorhaz burrows deep below the snow and ice and lies in wait for the faint vibrations created by a creature moving above it. While hidden under the ice and snow, it can lower its body temperature so that it doesn’t melt its cover. Young Ones. Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants prize young remorhazes, which can be trained from hatching to obey commands and guard the giants’ icy citadels. Unlike fully grown specimens, young remorhazes gnaw on their victims instead of swallowing them whole. Traits Heated Body : A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage. Actions Bite : Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled, escape DC 17. Until this grapple ends, the target is restrained, and the remorhaz can't bite another target. Swallow : The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns. If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 
-### Remorhaz
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: monstrosity
+- Source: MM1
+- Alignment: unaligned
+- Expansion: 2
+- Challenge Rating: 11
 
-_Huge Monstrosity, Unaligned_
+**publisher**: Wizards of the Coast
 
-**AC** 17 **Initiative** +5 (15) <br>
-**HP** 195 (17d12 + 85) <br>
-**Speed** 40 ft., Burrow 30 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>24</td>
-      <td>+7 +7</td>
-      <td>DEX</td>
-      <td><strong>DEX</strong></td>
-      <td>13 +1</td>
-      <td>+1</td>
-      <td>CON 21</td>
-      <td><strong>CON</strong></td>
-      <td>21</td>
-      <td>+5 +5</td>
-      <td>INT</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>4</td>
-      <td>−3 −3</td>
-      <td>WIS</td>
-      <td><strong>WIS</strong></td>
-      <td>10 +0</td>
-      <td>+0</td>
-      <td>CHA 5</td>
-      <td><strong>CHA</strong></td>
-      <td>5</td>
-      <td>−3 −3</td>
-      <td>−3 −3</td>
-    </tr>
-  </tbody>
-</table>
-
-**Immunities** Cold, Fire<br>
-**Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10<br>
-**Languages** None<br>
-**CR** 11 (XP 7,200; PB +4)
-
-#### Traits
-
-<hr>
-
-**_Heat Aura._** At the end of each of the remorhaz's turns, each creature in a 5-foot Emanation originating from the remorhaz takes 16 (3d10) Fire damage.
-
-#### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +11, reach 10 ft. _Hit:_ 18 (2d10 + 7) Piercing damage plus 14 (4d6) Fire damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17), and it has the Restrained condition until the grapple ends.
-
-#### Bonus Actions
-
-<hr>
-
-**_Swallow._** _Strength Saving Throw:_ DC 19, one Large or smaller creature Grappled by the remorhaz (it can have up to two creatures swallowed at a time). _Failure:_ The target is swallowed by the remorhaz, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, it has Total Cover against attacks and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage plus 10 (3d6) Fire damage at the start of each of the remorhaz's turns. <br>
-&emsp;If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the remorhaz and has the Prone condition. If the remorhaz dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse by using 15 feet of movement, exiting Prone.

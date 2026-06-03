@@ -1,0 +1,16 @@
+# Cultist, Psychophant
+
+**description**: Whether by profane pacts, experiments gone awry, or awoken inner potential, psychophants have expanded their minds far beyond the mundane. Their commanding presences and indomitable personalities coupled with great psychic prowess can influence and control others, completely indifferent to the effect on those individuals. Their magnetic personalities draw followers to their sides, and many psychophants become leaders of cults, thieves' guilds, or other illicit organizations, while others dabble in politics. In battle, they compel others to their defense while they launch mental onslaughts against their foes. Impenetrable Ego. While the psychophant is conscious and wearing no armor and wielding no shield, it adds its Charisma modifier to its AC (included above) and saving throws. In addition, it has advantage on saving throws against being charmed or frightened. Actions Multiattack. The psychophant makes three Psychic Strike attacks. If the psychophant hits one creature with two Psychic Strike attacks, the target must succeed on a DC 16 Intelligence saving throw or be stunned until the end of its next turn. Psychic Strike. Melee or Ranged Spell Attack: +8 to hit, reach 5 ft. or range 60 ft., one target. Hit: 18 (4d6 + 4) psychic damage. Brain Storm (Recharge 6) The psychophant lashes out with a brutal manifestation of psychic force, wracking its foes' psyches. Each creature within 30 feet of the psychophant must make a DC 16 Intelligence saving throw. On a failure, a creature takes 31 (9d6) psychic damage and is poisoned for 1 minute as it suffers a debilitating headache. On a success, a creature takes half the damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Spellcasting (Psionics). The pyschophant casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 16): At will: detect thoughts , mage hand (the hand is invisible), thaumaturgy 3/day each: charm person , suggestion 1/day each: levitate , telekinesis Bonus Actions Bend the Spoon. The psychophant chooses one nonmagical weapon it can see within 30 feet of it and magically warps the weapon. If the weapon is being worn or carried, the creature wearing or carrying it can prevent the warping by succeeding on a DC 16 Wisdom saving throw. A warped weapon deals only half its normal damage on a hit, and a creature wielding a warped weapon has disadvantage on attack rolls with it. A creature can repair a warped weapon with the mending spell or by spending a short rest repairing the weapon with the appropriate tools. Reactions Appeal to the Fervent. When a creature the psychophant can see targets it with an attack, the psychophant calls for aid from its followers, switching places with a friendly creature within 5 feet of it. The friendly creature becomes the target of the attack instead.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Any Race)
+- Alignment: Any Non-Good Alignment
+- Expansion: 19901
+- Challenge Rating: 9
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

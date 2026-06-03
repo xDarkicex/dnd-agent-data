@@ -1,0 +1,16 @@
+# Orthus
+
+**description**: A massive canine with two heads, born from Typhon and Echidna, the progenitors of the most terrible monsters. He is the sibling of Cerberus, the Lernean Hydra, the Nemean Lion and the Sphinx. However, despite belonging to such a fearsome bloodline, he settled for companionship with a peaceful giant named Geryon as his owner. They lived a peaceful life on the island of Erytheia until the arrival of Heracles, who was tasked with taking all of Geryon’s cattle for King Eurystheus. Orthus sprung forward, but could have never been prepared for the god-like strength of this man. Returned from the Grave. Much like other powerful monsters, Orthus escaped the clutches of the afterlife. Whether by dark machinations and rotten magic or by the kindness of a higher power is unknown. Alongside the resurrected Geryon, they pick and choose followers of Heracles to slay in an attempt to get some manner of revenge. Monstrosities Monsters have been common amongst the obstacles of heroes since ancient times. These monsters are often born from terrible primordial beings and the damning hubris of the gods. Traits Magic Resistance. Orthus has advantage on saving throws against spells and other magical effects. Pack Tactics. Orthus has advantage on an attack roll against a creature if at least one of Orthus' allies is within 5 ft. of the creature and the ally isn't Incapacitated. Reckless. At the start of his turn, Orthus can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against him have advantage until the start of his next turn. Two Heads. Orthus has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious. Wakeful. When one of the Orthus' heads is asleep, his other head is awake. Actions Multiattack. Orthus makes three attacks: two with his bite and one with his claws. Bite. Melee Weapon Attack: +9 to hit, reach 5ft., one target. Hit: 22 (3d10 + 6) piercing damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone. Claws. Melee Weapon Attack: +9 to hit, reach 5ft., one target. Hit: 19 (3d8 + 6) piercing damage. Bite (While Raging). Melee Weapon Attack: +9 to hit, reach 5ft., one target. Hit: 25 (3d10 + 9) piercing damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone. Claws (While Raging). Melee Weapon Attack: +9 to hit, reach 5ft., one target. Hit: 22 (3d8 + 9) slashing damage. Bonus Actions Rage Against the Hero (Recharges after a short or long rest). Orthus can enter a rage at the start of his turn. The rage lasts for 1 minute or until Orthus is incapacitated. While raging, Orthus gains the following benefits: Orthus has advantage on Strength checks and Strength saving throws. When he makes a melee weapon attack, Orthus gains a +3 bonus to the damage roll. Orthus has resistance to bludgeoning, piercing, and slashing damage. All attacks deal an additional 14 (4d6) damage to followers or descendants of Heracles.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: monstrosity
+- Alignment: neutral
+- Expansion: 29804
+- Challenge Rating: 7
+
+**publisher**: David Serrano
+
+**book**: Kit Gryloc's Guide to Myths and Monsters
+

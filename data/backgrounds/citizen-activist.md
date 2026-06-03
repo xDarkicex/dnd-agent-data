@@ -1,0 +1,11 @@
+# Citizen Activist
+
+**description**: The system is corrupt. Change will only come if the oppressed come together to resist. Your work may happen out in the open or perhaps in secret. Work with the GM to decide what form your activism takes. Maybe you lead a coalition that lobbies elected officials or nobles for a change in local law. Perhaps you organize jobs, medical care, and food for those who need it. You could lead demonstrations and engage in civil disobedience, distribute literature or tag walls in the city with graffiti that calls attention to unfair taxation, break people out of jail, or redistribute wealth. Skill Proficiencies: Insight, Persuasion Languages: Two of your choice Equipment: A seminal text that has influenced your activism, a notebook written in code with your contacts, a set of common clothes, and a pouch containing 10 gp Feature: Lay of the Land As someone who spends their time opposing hegemonic power, organizing like-minded people to join your cause, and providing aid to those harmed by the system, you have an intimate knowledge of the power structures in your community, as well as how to navigate them. This includes government bodies, businesses, secret societies, religious orders, guilds, other activist groups, and any other faction that holds sway and influence. You also know who the leaders of these various entities are, including those who operate clandestinely (at your GM’s discretion). In a new place, you can quickly figure out where to go and who to talk to in order to get this information. Suggested Characteristics Citizen activists are people who live and breathe the idea of being the change they wish to see in the world. Sure, they’re everyday people who don’t necessarily possess the resources of those in power or with more privilege and access, but what they have is a determination to change things for the better, a deep understanding of how the common person can affect change, and an optimism or even just a bit of hope that change is actually possible. See the tables in the Personal Characteristics section for more ideas.
+
+**properties**:
+- Category: Backgrounds
+
+**publisher**: MCDM Productions
+
+**book**: Arcadia Issue No. 9
+

@@ -1,0 +1,16 @@
+# Chained Giant
+
+**description**: Deep within the subterranean depths of the Asylum, a network of chambers houses a once-proud race of giants, now transformed into grotesque monstrosities through years of barbaric experimentation. Prisoners of War. The First War saw Luyarnha pitted against its expansionist enemies, driving the city-state to abandon all moral principles in its quest for means to combat the rampant scourge that threatened its citizens. The early scholars of death, dogged in their determination, pressed forward with their grotesque experiments, and in their desperate pursuit of the perfect hunter, recognized the frailty of the humanoid body. They turned to capturing and subduing giants for their grim work—beings that could withstand more suffering before death. Derelict Patients. To ensure the subjects’ cooperation and restrict their movements during harrowing procedures, the giants were chained with bonds that burrowed deep into their very bones. Heavy armor was then affixed to their twisted forms, before injecting them with refined cerebro-spinal fluid extracted from Otherworldly beings, twisting their bodies and shattering their minds. Their usefulness was eventually outlived, as the scholars, now enlightened, resumed their experiments on humanoids. With the giants’ blood now corrosive and their minds destroyed, they remain imprisoned in their bleak chambers, abandoned, condemned to pain and insanity until their eventual death, forgotten by all. Traits Accursed Blood. At the end of the giant’s turns, if it has fewer than half its hit point maximum, each creature within 10 feet of it takes 13 (3d8) necrotic damage, unless the giant has taken radiant damage since the end of its last turn. Actions Multiattack. The giant uses its Sweep Chains and then makes two fist attacks. Fist. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 13 (3d4 + 6) bludgeoning damage. Rock. Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone. Sweep Chains. The giant swings its chains, forcing each creature within 20 feet of it must make a DC 17 Dexterity saving throw. On a failed saving throw, a creature takes 15 (2d8 + 6) bludgeoning damage and is knocked prone. Bonus actions Stomp. Melee Weapon Attack: +9 to hit, reach 5 ft., one prone target. Hit: 13 (3d4 + 6) bludgeoning damage and the target must make a DC 17 Constitution saving throw. On a failure the target is staggered for 1 minute. A staggered creature suffers a 1d8 penalty on attack rolls, ability checks, and Strength and Dexterity saving throws. The staggered target repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. Reactions Lead Catching. If a rock, cannonball, or similar object is hurled at the giant, the giant can make a DC 10 Dexterity saving throw, catching the missile and taking no damage from it on a success.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: giant
+- Alignment: chaotic evil
+- Expansion: 27461
+- Challenge Rating: 8
+
+**publisher**: MonkeyDM
+
+**book**: Steinhardt's Guide to the Eldritch Hunt
+

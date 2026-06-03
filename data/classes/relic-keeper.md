@@ -1,0 +1,11 @@
+# Relic Keeper
+
+**description**: Be it a family heirloom or a recovered artifact, you have come into possession of a mysterious weapon. Though its iron is rusted and its wood is stained with blood, an unseen power weights its swing, and you can feel an intelligence echoing within it. Once you bind with it, the weapon is linked with your soul, and it grows in power as you do. Prerequisites: None Hit Dice: 1d10 Hit Points: 1d10 (6) + your Constitution modifier Sentient Weapon When you gain this level, you acquire a sentient magic weapon that bonds to your very soul and grows in might as you do. Your weapon is your choice of any martial weapon that lacks the Two Handed property. Once made, this decision can’t be changed. You can use your action to summon your sentient weapon to your open hand. You are proficient with it while you wield it. Magic Weapon. The weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. When you reach 5th level, your bond with the weapon strengthens, and you gain a +1 bonus to attack and damage rolls made with it. At 11th level, your bond strengthens further, and you gain a +2 bonus to attack and damage rolls made with the weapon. Relic Magic. Your relic weapon has 3 charges and regains all expended charges daily at dawn. When you use the Attack action to make an attack with your relic weapon, you can spend 1 of its charges to make an attack using it as a bonus action. Additionally, whenever you cast a spell of 1st level or higher, you can siphon some of the energy into the weapon. The next time you hit a creature with the weapon during the next minute, you deal extra force damage equal to twice the spell’s level. Sentience. The weapon is a sentient magic item with an alignment and personality determined by the GM. It has an Intelligence of 14, a Wisdom of 14, and a Charisma of 14. The weapon has hearing and darkvision out to a range of 120 feet, and it can speak, read, and understand Common, as well as communicate with you telepathically. I prefer my weapons silent. Like my friends.
+
+**properties**:
+- Category: Classes
+
+**publisher**: Mage Hand Press
+
+**book**: Valda's Spire of Secrets
+

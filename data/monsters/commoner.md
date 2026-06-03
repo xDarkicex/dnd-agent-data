@@ -1,77 +1,16 @@
 # Commoner
 
-## Commoner
+**description**: Commoners represent a broad range of intelligent beings who simply live day-to-day lives as common civilians and inhabitants of all forms of galactic society. Civilians, farmers, corporate workers, club-goers, villagers, diplomats, tribal folk, merchants, travelers, reporters, and celebrities are just a few examples of commoners.
 
-### Commoner
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (any)
+- Alignment: any alignment
+- Expansion: 27052
+- Challenge Rating: 0
 
-_Medium or Small Humanoid, Neutral_
+**publisher**: Alligator Alley Entertainment
 
-**AC** 10 **Initiative** +0 (10) <br>
-**HP** 4 (1d8) <br>
-**Speed** 30 ft. <br>
+**book**: Esper Genesis Threats Database
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>DEX</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-  </tbody>
-</table>
-
-**Gear** Club<br>
-**Senses** Passive Perception 10<br>
-**Languages** Common<br>
-**CR** 0 (XP 10; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Training._** The commoner has proficiency in one skill of the GM's choice and has Advantage whenever it makes an ability check using that skill.
-
-#### Actions
-
-<hr>
-
-**_Club._** _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 2 (1d4) Bludgeoning damage.

@@ -1,0 +1,16 @@
+# Sewer Weird
+
+**description**: A water elemental rises from the sewer, bringing a tide of filth with it. Its form is thick with the city's detritus: discarded food, rotting trash, and offal. It moves with a malevolence its purer kin lack. Sewer weirds are corrupted water elementals born of urban decay. As filth piles in ill-maintained sewers and as streets and drains crumble, the accumulated rot coalesces into a maddened elemental dedicated to destroying its environs. These elementals resemble desecrated forms of proper water elementals, their wave-like forms filled with the waste that birthed them. Bringers of Plague. A sewer weird's arrival is often accompanied by the outbreak of new and horrible diseases. Sudden epidemics pop up faster than clerics can cure them, the disease seemingly appearing without cause as curative measures fail and investigators disappear. The sudden stress of the epidemics causes filth to build up and infrastructure to degrade, creating even more sewer weirds. Symptoms of Rot. Sewer weirds thrive when an underlying problem degrades the city's health: conspirators or wererats hiding in the sewer system, monsters burrowing beneath the city, or good old fashioned political corruption stirring enoughdiscontent in the populace that it coalesces as animated sewage. Regardless of the specifics, something happening in the city generates sewer weirds, and heroes seeking to destroy the weirds would do well to figure out and solve the source before the weirds overwhelm the city. Urban Terrors. Sewer weirds are well-adapted to cities and settlements. They travel through the sewers, unseen by most, and pick off isolated victims, dragging their body into the sewers to further the rot. Even after a sewer weird is identified, fighting it requires crawling through a collapsing sewer system, where hunters might be ambushed with little room to retreat or call for help. Elemental Nature. The sewer weird doesn't require air, food, drink, or sleep. Flammable Fumes. If the sewer weird takes fire damage it erupts in a gout of flame. The weird immediately takes 5 (2d4) thunder damage, and each creature within 10 feet of the weird must succeed on a DC 15 Dexterity saving throw or take 3 (1d6) thunder damage and 7 (2d6) fire damage. Water Form. The sewer weird can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. Actions Multiattack. The sewer weird makes three Slam attacks. Slam. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the end of its next turn. Sewer Overflow (Recharge 5-6). The sewer weird emits a tide of filth and water from itself in a 15-foot cube. Each creature in this cube must make a DC 15 Constitution saving throw. On a failure, a creature takes 18 (4d8) bludgeoning damage and 18 (4d8) poison damage and is infected with sewer plague . On a success, a creature takes half as much damage and isn't infected.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Elemental
+- Alignment: Neutral Evil
+- Expansion: 19901
+- Challenge Rating: 8
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

@@ -1,78 +1,16 @@
 # Crawling Claw
 
-## Crawling Claw
+**description**: Crawling claws are severed hands animated by fell spells. The magic that granted them unlife also turns their finger­nails into filth-covered blades. These tiny creatures are wickedly mischievous and make rude gestures at their opponents before attacking. Traits Minion. If the claw takes damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0. If the claw takes damage from another effect, they die if the damage equals or exceeds their hit point maximum; otherwise they take no damage. Actions Claw (Group Attack). Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 piercing damage. If three or more crawling claws joined the attack, the target must succeed on a DC 10 Constitution saving throw or contract a disease called gravefilth. Whenever a power, a spell, or a similar supernatural effect causes a creature with gravefilth to regain hit points, the number of hit points they regain is halved. A creature with gravefilth can repeat the saving throw whenever they finish a long rest. On a successful save, the disease is cured.
 
-### Swarm of Crawling Claws
+**properties**:
+- Category: Monsters
+- Size: Tiny
+- Type: Undead
+- Alignment: Typically Neutral Evil
+- Expansion: 25493
+- Challenge Rating: 0
 
-_Medium Swarm of Tiny Undead, Neutral Evil_
+**publisher**: MCDM Productions
 
-**AC** 12 **Initiative** +2 (12) <br>
-**HP** 49 (11d8) <br>
-**Speed** 30 ft., Climb 30 ft. <br>
+**book**: Flee Mortals
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>DEX</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>5</td>
-      <td>−3</td>
-      <td>−3</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>4</td>
-      <td>−3</td>
-      <td>−3</td>
-    </tr>
-  </tbody>
-</table>
-
-**Resistances** Bludgeoning, Piercing, Slashing<br>
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned<br>
-**Senses** Blindsight 30 ft.; Passive Perception 10<br>
-**Languages** Understands Common but can't speak<br>
-**CR** 3 (XP 700; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Swarm._** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain Hit Points or gain Temporary Hit Points.
-
-#### Actions
-
-<hr>
-
-**_Swarm of Grasping Hands._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 20 (4d8 + 2) Necrotic damage, or 11 (2d8 + 2) Necrotic damage if the swarm is Bloodied. If the target is a Medium or smaller creature, it has the Prone condition.

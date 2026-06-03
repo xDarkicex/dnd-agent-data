@@ -1,0 +1,16 @@
+# Pyrite Pile
+
+**description**: Light gleams off a pile of shining golden nuggets. As the miners approach it, it rises in a lumbering humanoid form and swings a blunt golden arm like a fist toward the closest one. When they are quiescent, pyrite piles can be found sprawled across mountainsides as well as in mines and mountain caverns. They easily collapse from the humanoid forms they use for travel into a pile of golden nuggets to lure humanoids. Pyrite piles don't eat humanoids, or any other beast, but they are intelligent enough to know that humanoids are a ready source of their favored meal: gold and other precious metals. They also know humanoids are loathe to part with their treasures without a bit of painful coercion. Miner's Bane. Pyrite piles represent a true danger to miners. When attracted to a mine by a freshly revealed vein of metal, a pyrite pile sometimes enters a greed-fueled frenzy, often leading to the deaths or dismemberment of honest miners. Xorns on the other hand, view pyrite piles as their mortal enemies. On the Elemental Plane of Earth, clashes between the two types of creatures are frequent, violent, and fatal. Picky Eaters. Pyrite piles eat precious metals, but they are fussy eaters. They prefer metals used in coinage: platinum, gold, electrum, and silver. Pyrite piles dislike the unique tang of copper and refuse to eat it. Wise miners in areas frequented by pyrite piles carrying their wealth in copper coins to avoid attracting the creatures' attention. False Appearance. While the pyrite pile remains motionless, it is indistinguishable from a normal pile of gold nuggets. Gold Fever. When a Humanoid or xorn that can see the pyrite pile starts its turn within 60 feet of the pyrite pile, that creature must succeed on a DC 15 Wisdom saving throw or be charmed until the end of its next turn. A charmed creature must take the Dash action and move toward the pyrite pile by the safest available route on its next turn, trying to get within 5 feet of the Elemental. Metal Sense. The pyrite pile can pinpoint, by scent, the location of precious metals within 60 feet of it and can sense the general direction of Small or larger deposits of such metals within 1 mile. Actions Multiattack. The pyrite pile makes two Slam attacks. If the pyrite pile hits one Medium or smaller creature with both attacks, the target is grappled (escape DC 16). Until this grapple ends, the target takes 7 (2d6) bludgeoning damage at the start of each of its turns. The pyrite pile can have only one creature grappled at a time. Slam. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) bludgeoning damage. Hurl Nugget. Ranged Weapon Attack: +8 to hit, range 20/60 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage. Eat Gold. The pyrite pile absorbs 52 (8d12) gp worth of nonmagical items and coins made of precious metals, ignoring copper, worn or carried by one creature grappled by it, and the elemental regains hp equal to half that amount. Absorbed metal is destroyed.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Elemental
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 6
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

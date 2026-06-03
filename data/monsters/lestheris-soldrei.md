@@ -1,0 +1,16 @@
+# Lestheris Soldrei
+
+**description**: The dead are so much easier to control than the living. Death will make you see things my way. Do not fight its embrace. Lestheris Soldrei Treasured as a wizard prodigy in her youth, Lestheris Soldrei flourished under the protection and opportunities afforded her. As the half-elf grew into an insatiable arcane scholar, mentors assumed her academic interest in necromancy was mere morbid curiosity, but her fascination soon became experimentation with the forbidden. Lestheris dreamed of cheating death and ruling forever—a privilege she believed the universe owed her brilliance—and her de­voted bodyguard Halorin only encouraged her ambitions. Lestheris’s teachers finally saw the evil in her and forbade any further dalliances with necromancy. But the young mage had already tasted power, and she killed her ignorant teachers and took their spellbooks. Determined to become a lich and rule the Mundane World forever, Lestheris founded the Grave Order, gathering other necromancers to work toward her grand vision. While she is skilled in all aspects of necromancy, Lestheris specializes in the incorporeal: subjugating spirits, binding souls, and empowering her magic with such essences. Traits Charm Resistant. Lestheris has advantage on saving throws to avoid or end the charmed condition on herself. Dark Calling. Each other creature within 30 feet of Lestheris has disadvantage on death saving throws. Tome of the Ethereal. Lestheris can see 120 feet into the Ethereal Plane. Actions Multiattack. Lestheris makes two Grave Grasp or two Necrotic Lance attacks. Grave Grasp (Cantrip). Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (2d6) necrotic damage, and the target can’t regain hit points until the start of Lestheris’s next turn. Necrotic Lance (1st-Level Spell). Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 9 (2d8) necrotic damage. Lestheris can destroy a shade under her control within 30 feet of her and deal an extra 4 (1d8) necrotic damage to the target. Animate Spirits (2/Day). Lestheris animates two shades. The shades appear in unoccupied spaces Lestheris can see within 30 feet of her. The shades act immediately after Lestheris on the same initiative count and follow her verbal orders. If Lestheris dies, the shades are destroyed. Reactions Ethereal Step (3/Day). When a creature Lestheris can see within 60 feet of her targets her with an attack, power, or spell while she isn’t on the Ethereal Plane, she can choose one of the following effects: Lestheris enters the Ethereal Plane, then returns to the plane and the space she left at the start of her next turn. If that space is occupied, she returns to the nearest unoccupied space of her choice. She teleports up to 60 feet to an unoccupied space she can see. Utility Spells In addition to any other spells in this stat block, Lestheris can cast the following spells, using Intelligence as the spellcasting ability (spell save DC 14): At will: mage hand A , message A , minor illusion A 3/day each: detect magic A , mage armor A 1/day each: knock A , speak with dead A
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Half-Elf)
+- Alignment: Neutral Evil
+- Expansion: 25493
+- Challenge Rating: 2
+
+**publisher**: MCDM Productions
+
+**book**: Flee Mortals
+

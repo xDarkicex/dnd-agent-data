@@ -1,0 +1,16 @@
+# Golem, Smaragdine
+
+**description**: This large statue of emerald-green crystal has a humanoid body with the head of an ibis. Tiny symbols and runes are etched into it, and portions are inlaid with bits of gold. Occult Initiates. Smaragdine golems are crafted by disciples of occult esoterica to guard their secret meeting halls, sacred texts, and the arcane books of power. Emerald Body. Though they seem to be made entirely of emeralds (and some are used in their construction), a smaragdine golem’s body is closer to enchanted glass than to gemstones, a sad truth that has disappointed many plunderers. A Maker’s Privilege. Though smaragdine golems are sometimes given to powerful mages, scholars, theurgists, and hierophants as a token of esteem, they are always subject first to the magic and orders of their creators. Constructed Nature. A golem doesn’t require air, food, drink, or sleep. Smaragdine Golems in Midgard Smaragdine golems are creations of the Emerald Order. Because they are grown from fragments of the Emerald Tablet, the golems embody the wisdom and knowledge of Thoth-Hermes. This makes them strangely susceptible to spells that normally have no effect on the mindless. Their link to the Tablet also means that these golems can track them unerringly, so long as both the tablets and the golems are on the same plane. When tracking this way, the golems act with uncanny intelligence. Rather than blindly blundering through obstacles, they seek a doorway or another path, taking an indirect path if necessary, but always moving closer to the tablets. Traits Immutable Form: The golem is immune to any spell or effect that would alter its form. Magic Resistance: The golem has advantage on saving throws against spells and other magical effects. Magic Weapons: The golem’s weapon attacks are magical. Absorb Magic: As a bonus action, the golem targets any creature, object, or magical effect within 10 feet of it. The golem chooses a spell already cast on the target. If the spell is of 3rd level or lower, the golem absorbs the spell and it ends. If the spell is of 4th level or higher, the golem must make a check with a +9 modifier. The DC equals 10 + the spell’s level. On a successful check, the golem absorbs the spell and it ends. The golem’s body glows when it absorbs a spell, as if under the effect of a light spell. A smaragdine golem can only hold one absorbed spell at a time. Actions Multiattack: The golem makes two slam attacks. Slam: Melee Weapon Attack : +12 to hit, reach 5 ft., One target. Hit : 25 (4d8 + 7) Bludgeoning damage. Release Spell: The golem can release an absorbed spell effect as a blast of green energy, which blasts out as a sphere centered on the golem with a radius of 10 feet per level of the absorbed spell. All creatures in the area of effect other than the golem takes 7 (2d6) lightning damage per level of the absorbed spell, or half damage with a successful DC 18 Dexterity saving throw. Creatures that fail the saving throw are also blinded until the end of the golem’s next turn.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: construct
+- Source: Tome of Beasts
+- Alignment: Unaligned
+- Challenge Rating: 14
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts
+

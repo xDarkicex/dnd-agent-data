@@ -1,68 +1,45 @@
 # Bat
 
-## Bat
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Actions Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage.
 
-_Tiny Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 12
+- HP: 1 (1d4 − 1)
+- PB: 2
+- CHA: 4
+- CON: 8
+- DEX: 15
+- INT: 2
+- STR: 2
+- WIS: 12
+- Size: Tiny
+- Type: Beast
+- Speed: 5 ft., Fly 30 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406406867/Ahv-EX0Y23iWFIjvpPL-qQ/original.png
+- Senses: Blindsight 60 ft.
+- data-XP: 10
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 1
+- data-Actions: [{"Name":"Bite","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"4","Reach":"5 ft.","Target":"one target","Damage":"1","Damage Type":"Piercing"}]
+- data-CHA-mod: -3
+- data-CON-mod: -1
+- data-DEX-mod: 2
+- data-INT-mod: -4
+- data-STR-mod: -4
+- data-SizeNum: 1
+- data-WIS-mod: 1
+- Saving Throws: Str -4, Dex +2, Con -1, Int -4, Wis +1, Cha -3
+- Challenge Rating: 0
+- Passive Perception: 11
+- data-CrNum: 0
+- data-AcNum: 12
+- data-HpNum: 1
 
-**AC** 12 **Initiative** +2 (12) <br>
-**HP** 1 (1d4 − 1) <br>
-**Speed** 5 ft., Fly 30 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>DEX</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>4</td>
-      <td>−3</td>
-      <td>−3</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Senses** Blindsight 60 ft.; Passive Perception 11<br>
-**Languages** None<br>
-**CR** 0 (XP 10; PB +2)
-
-### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1 Piercing damage.

@@ -1,81 +1,16 @@
 # Roc
 
-## Roc
+**description**: At first sight, a roc’s silhouette looks much like any other bird of prey. As it descends, however, its unearthly size becomes terrifyingly clear. In flight, a roc’s wingspan spreads two hundred feet or more. At rest, perched upon the mountain peaks that are its home, this monstrous bird rivals the oldest dragons in size. Sky Titans. In the ancient days when giants battled dragons for control of the world, Annam, the father of the giant gods, created the rocs so that his worshipers might challenge the dragons’ dominance of the air. When the war ended, the rocs were freed from giant domination and spread throughout the world. Though cloud giants and storm giants sometimes tame these great birds, rocs treat even giants as potential prey. They fly great distances in search of food, soaring high above the clouds to reach their favored hunting grounds. A roc seldom hunts swift or small creatures, and it ignores towns and forests where prey can easily take cover. When it locates a large and slow-moving target such as a giant, a whale, or an elephant, a roc dives down to snatch its prey in its massive talons. Remote and Alone. Rocs are solitary creatures that can live for centuries. They lair in nests made from trees, tents, broken ships, and the remains of caravans they carry off, placing these massive tangles in mountain clefts out of the reach of lesser creatures. Sometimes a roc’s nest contains treasures from the caravans or ships they raid, but these creatures are heedless of such baubles. More rarely, a nest holds eggs that are taller than a human, produced by the rocs’ infrequent mating. Traits Keen Sight : The roc has advantage on Wisdom (Perception) checks that rely on sight. Actions Multiattack : The roc makes two attacks: one with its beak and one with its talons. Beak : Melee Weapon Attack : +13 to hit, reach 10 ft., one target. Hit: 27 (4d8 + 9) piercing damage. Talons : Melee Weapon Attack : +13 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage, and the target is grappled, escape DC 19. Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
 
-### Roc
+**properties**:
+- Category: Monsters
+- Size: Gargantuan
+- Type: monstrosity
+- Source: MM1
+- Alignment: unaligned
+- Challenge Rating: 11
 
-_Gargantuan Monstrosity, Unaligned_
+**publisher**: Wizards of the Coast
 
-**AC** 15 **Initiative** +8 (18) <br>
-**HP** 248 (16d20 + 80) <br>
-**Speed** 20 ft., Fly 120 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>28</td>
-      <td>+9</td>
-      <td>+9</td>
-      <td><strong>DEX</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+4</td>
-      <td><strong>CON</strong></td>
-      <td>20</td>
-      <td>+5</td>
-      <td>+5</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>3</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+4</td>
-      <td><strong>CHA</strong></td>
-      <td>9</td>
-      <td>−1</td>
-      <td>−1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +8<br>
-**Senses** Passive Perception 18<br>
-**Languages** None<br>
-**CR** 11 (XP 7,200; PB +4)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The roc makes two Beak attacks. It can replace one attack with a Talons attack.
-
-**_Beak._** _Melee Attack Roll:_ +13, reach 10 ft. _Hit:_ 28 (3d12 + 9) Piercing damage.
-
-**_Talons._** _Melee Attack Roll:_ +13, reach 5 ft. _Hit:_ 23 (4d6 + 9) Slashing damage. If the target is a Huge or smaller creature, it has the Grappled condition (escape DC 19) from both talons, and it has the Restrained condition until the grapple ends.
-
-#### Bonus Actions
-
-<hr>
-
-**_Swoop (Recharge 5–6)._** If the roc has a creature Grappled, the roc flies up to half its Fly Speed without provoking Opportunity Attacks and drops that creature.

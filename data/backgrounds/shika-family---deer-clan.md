@@ -1,0 +1,11 @@
+# Shika Family - Deer Clan
+
+**description**: Treading softly, without grand accolades, the Deer Clan serves the Empire as a guardian of balance. Through divine vision granted by the Fortune of Bonds, Musubi, the members of the Deer Clan uncover threads of futures yet to come. Through artful stealth, they weave or sever these threads in the delicate tapestry to head off potential crises before they come to fruition. The clan’s matchmakers are ritualists blessed with unique insights into relationships. These help them to tie alliances between the Great Clans and Imperial families—or to unwind them, should calamitous portents be seen in a meeting between two individuals or a treaty between two clans. The clan’s speardancers are fleeting protectors, shinobi sent to guard individuals whose fates the clan deems important, yet they are rarely noticed by their charges. The Deer Clan’s influence on the Empire is subtle, for when their job is done correctly, only the Deer Clan’s members know they have done it at all. As such, most samurai know them only as a minor local power whose matchmakers are said to be especially skilled, though knowledgeable power brokers are aware of the Deer Clan’s self-appointed purpose and often build it into their plans. Skill Proficiencies: Insight, choose one other Dexterity-based skill (Acrobatics, Sleight of Hand, or Stealth). Tool Proficiencies: Divination kit, any one tool of sabotage. Weapon Proficiencies: Wakizashi. Languages: You can read, sign, speak, and write Rokugani. Equipment: Unremarkable garb, wakizashi, divination kit, any one tool of subterfuge, and 3 gp. Suggested Feats: Clarity in Solace, Graceful Combatant, Innocuous Presence. Background Feature: Regional Expert As one who grew up in a Minor Clan, you gain the following benefits: You have a general awareness of the political climate within your clan’s lands. You are deeply familiar with the politics of your own family. You know the geography of your lands extremely well. You know your clan’s particular specialties and expertise especially well. Even if you do not practice these arts yourself, you are able to reveal relevant information on these topics.
+
+**properties**:
+- Category: Backgrounds
+
+**publisher**: Edge Studio
+
+**book**: Adventures in Rokugan
+

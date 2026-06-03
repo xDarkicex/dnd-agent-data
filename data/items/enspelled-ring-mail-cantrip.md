@@ -1,0 +1,15 @@
+# Enspelled Ring Mail (Cantrip)
+
+**description**: Armor (Ring Mail), Uncommon (Requires Attunement) Bound into this armor is a cantrip. The spell is determined when the armor is created and must belong to the Abjuration or Illusion school of magic. The armor has 6 charges and regains 1d6 expended charges daily at dawn. While wearing the armor, you can expend 1 charge to cast its spell. The spell’s saving throw DC is 13 and its attack bonus is +5.
+
+**properties**:
+- Category: Items
+- Item Type: Heavy Armor
+- Properties: Stealth Disadvantage
+- Item Rarity: Yes
+- Name: Enspelled Ring Mail (Cantrip)
+
+**publisher**: Wizards of the Coast
+
+**book**: Dungeon Master's Guide (2024)
+

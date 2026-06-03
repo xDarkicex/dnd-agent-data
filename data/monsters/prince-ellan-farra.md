@@ -1,0 +1,16 @@
+# Prince Ellan Farra
+
+**description**: King Garrow Farra always saw Prince Ellan, his eldest child, for what he was: a power-hungry narcissist. When Garrow declared that Ellan’s younger siblings would take the crown, the elf prince’s narcissism turned to fury. Ellan went to war with his father and siblings—and nearly lost. Before he could finish doing so, however, Ellan learned of Argan’s research and the chance at immortality it offered. Ellan abandoned his decimated armies in favor of a new plan: he would become immortal, go into hiding, and outlive his pathetic siblings before emerging to claim the throne forever. Countless years have passed, and finally, the prince stands ready to seize the throne his father ripped from his hands. But his ambitions have broadened, and now the throne is simply one rung on the ladder to Ellan’s godhood. Though pretentious, callous, and selfish, Ellan is no fool. Both methodical and ruthless, he seeks not only control, but the reverence he believes his due. Ellan is bound to the crown of majesty , a magic circlet whose name befits the prince’s ego. Traits Elf Glamour ( 1 /Day). When a creature targets Ellan with an attack, power, or spell, the creature must succeed on a DC 18 Wisdom saving throw or be charmed by him until the end of his next turn (no action required). Resolute Aura. While he is conscious, Ellan and any allies within 20 feet of him who can see him can’t be charmed or frightened. Actions Multiattack. Ellan makes two Bladed Scepter attacks. Bladed Scepter. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 7) bludgeoning damage plus 10 (3d6) poison damage, and the target must succeed on a DC 18 Constitution saving throw or be poisoned for 1 minute (save ends at end of turn). Command ( 2 nd-Level Spell). Ellan speaks a one-word command to up to two creatures he can see within 60 feet of him. Each target must succeed on a DC 18 Wisdom saving throw or follow the command on their next turn. The spell has no effect if the target is Undead, doesn’t understand Common or Elvish, or would be directly harmed by following the command. If the target can’t follow Ellan’s command, the spell ends. Some typical commands and their effects follow: Approach. The target moves toward Ellan by the shortest and most direct route, ending their turn if they move within 5 feet of Ellan. Drop. The target drops whatever they are holding and then ends their turn. Flee. The target spends their turn moving away from Ellan by the fastest available means. Grovel. The target falls prone and then ends their turn. Halt. The target doesn’t move and takes no actions. Unholy Flame ( 3 rd-Level Spell). Ellan conjures unholy fire around one creature he can see within 60 feet of him. The target must make a DC 18 Dexterity saving throw. On a failed save, the target takes 27 (6d8) fire damage and is enveloped (save ends at end of turn). While enveloped, a creature takes 7 (2d6) fire damage at the start of each of their turns. On a successful save, the target takes half as much damage and isn’t enveloped.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Elf)
+- Alignment: Lawful Evil
+- Expansion: 25493
+- Challenge Rating: 6
+
+**publisher**: MCDM Productions
+
+**book**: Flee Mortals
+

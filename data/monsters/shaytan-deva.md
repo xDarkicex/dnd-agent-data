@@ -1,0 +1,16 @@
+# Shaytan Deva
+
+**description**: Shaytan devas continue to act as messengers or agents to the Material Plane, the Shadowfell, and the Feywild, but now serve demon lords. They take full advantage of their ability to take mortal forms to complete their missions. Angels, Shaytan While most fallen angels have usually gone astray due to Asmodeus' corruption, some have succumbed to the temptations of Graz'zt, The Dark Prince of Pleasure, or Malcanthet, the Succubus Queen. These angels are known as shaytan or shayatin. Once beautiful and majestic, they have turned into dark and hateful opposites of their former selves. Shadow Fiends. No longer celestials, these angels have lost some of their powers, including fast flight speed, magic resistance, and the ability to project radiant energy. These changes resulted in driving most of them insane. Now reborn as fiends, they draw their power from the Shadowfell and the Abyss. Their bodies are always cloaked with oozing shadows and their eyes limned with abyssal fire. Demonic Servants. Once messengers and executors of the will of their gods, they now serve Demon Princes as assassins and generals, often leading shadow demons in their missions. Twisted and vengeful, they scheme and bide their time until an opportunity presents itself where they can wreak havoc and deal the most damage against their former gods who have forsaken them, often striking at those who worship them. Traits Fiendish Weapons. The shaytan's weapon attacks are magical. When the shaytan hits with any weapon, the weapon deals an extra 18 (4d8) necrotic damage (included in the attack). Actions Multiattack. The shaytan makes two Mace attacks. It can use Life Drain in place of one Mace attack. Mace . Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) necrotic damage. Life Drain (3/Day). Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 18 (4d8) necrotic damage. The target must succeed on a DC 16 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. Change Shape. The shaytan magically transforms into a humanoid or beast, or back into its true form, while retaining its game statistics. This transformation ends if the shaytan is reduced to 0 hit points or uses an action to end it. Spellcasting. The shaytan casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16): At will: detect evil and good 1/day each: contagion, insect plague Bonus Actions Shadow Stealth. While in dim light or darkness, the shaytan takes the Hide action. Shadow Step. While in dim light or darkness, the shaytan teleports up to 60 feet to an unoccupied space it can see that is also in dim light or darkness. It has advantage on the first melee attack it makes before the end of the turn. 
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fiend (Demon)
+- Alignment: Typically Chaotic Evil
+- Expansion: 17751
+- Challenge Rating: 10
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

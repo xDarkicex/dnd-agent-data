@@ -1,101 +1,16 @@
 # Kraken
 
-## Kraken
+**description**: Under the placid rolling waves of the ocean east of Higara, the Kraken—Titan of the Mindstorm—has slumbered restlessly beneath the seafloor for millennia. Many lesser krakens are born of the titan’s furtive dreams and disturbed thoughts, rising to prowl the seas as they seek some bane or boon. But scholars are unsure what these Children of the Kraken seek, or what will happen if they complete their quest. Just as Goxomoc symbolizes the earth and the great volcano that dominates Ix, the Kraken symbolizes the great ocean that provides food and industry for Higara. The ocean provides, and the ocean destroys. The Kraken resembles a great, tentacled sea dragon, but they are not related to true dragons. Like the other titans, the Kraken’s powerful psionics grant them awesome abilities. Their physical form is a unique amalgam of flesh, bone, and solid psionic energy. Little-Known Guardian. The people of Higara are largely unaware of the existence of their titan. They view the Emperor Naga, who slumbers in the cave beneath the Palace of the Empress, as the defender of their nation and region. It’s unknown if any relationship exists between their Father of Serpents and the Titan of the Mindstorm. Though land-dwellers care little for the Kraken, many fisherfolk make a living on the seas around Higara, following a way of life that has remained largely unchanged for thousands of years. These sailors know the Kraken and his children, and they paint stylized icons of a great sea serpent on their sails and carve kraken imagery into their ships. Goxomoc the Terror Lord arises on the shores of Ix, ready to defend Orden from destruction … we hope. Traits Amphibious. The Kraken can breathe air and water. Discorporation. When the Kraken drops to 0 hit points or dies, all conditions and other effects end for them. They teleport back to the place where they slumber, return to life with all their hit points, and fall unconscious. Siege Monster. The Kraken deals double damage to objects and structures. Slowed Resistance ( 3 /Day). If the Kraken fails a saving throw, they can choose to succeed instead, and their speed is reduced by a cumulative 10 feet for 24 hours. Supernatural Resistance. The Kraken has advantage on saving throws against powers, spells, and other supernatural effects. Actions Multiattack. The Kraken makes four Tentacle attacks or uses Mental Lance three times. Tentacle. Melee Weapon Attack: +16 to hit, reach 30 ft., one target. Hit: 19 (2d10 + 8) bludgeoning damage plus 11 (2d10) psychic damage, and the target is grappled (escape DC 18). The Kraken has ten tentacles, each of which can grapple one target. *Mental Lance ( 3 rd-Order Power). Ranged Power Attack: +18 to hit, range 120 ft., one creature. Hit: 22 (4d10) psychic damage, and the target is frightened of the Kraken until the start of the Kraken’s next turn. Psionic Storm. The Kraken creates a psionic storm, entrapping a vehicle they can see within 120 feet of them. While entrapped in the storm, the vehicle is restrained. The storm ends if the Kraken’s concentration is broken (as if concentrating on a spell) or if they are more than 120 feet from the vehicle. If the Kraken’s turn ends three times before the storm ends, the vehicle is reduced to 0 hit points and this effect ends. Skull-Splitting Howl ( 1 /Day). The Kraken telepathically howls in the mind of each enemy within 120 feet of them. Each target must make a DC 26 Constitution saving throw. On a failed save, a target takes 55 (10d10) psychic damage and can’t concentrate on powers or spells until the start of the Kraken’s next turn. On a successful save, the target takes half as much damage and suffers no other effect. Bonus Actions Telekinetic Fling. The Kraken throws a creature they are grappling into an unoccupied space the Kraken can see within 60 feet of them. The target lands prone and takes 22 (4d10) bludgeoning damage. Reactions Psychic Reprisal. When the Kraken is damaged by an attack, each enemy within 30 feet of the attacker (including the attacker) must make a DC 26 Wisdom saving throw, taking 22 (4d10) psychic damage on a failed save, or half as much damage on a successful one. Villain Actions The Kraken has three villain actions. They can take each action once during an encounter after an enemy’s turn. The Kraken can take these actions in any order but can use only one per round. Action 1 : Psionic Tentacles. Psionically conjured tentacles make a Tentacle attack on each enemy within 120 feet of the Kraken. The Kraken then uses Telekinetic Fling on each creature they are grappling. Action 2 : Psionic Ink. The Kraken teleports up to 60 feet to an unoccupied space they can see. Each creature within 30 feet of the space the Kraken left must make a DC 26 Dexterity saving throw or be covered in psionic ink, which they can use an action to wipe away. A creature covered in psionic ink takes 16 (3d10) psychic damage at the start of each of their turns. Action 3 : The Ocean’s Wrath. The Kraken unleashes a wave of intense psionic power. Each creature within 120 feet of the Kraken must make a DC 26 Wisdom saving throw. On a failed save, a creature takes 65 (10d12) psychic damage and is frightened of the Kraken for 1 minute (save ends at end of turn). On a successful save, a creature takes half as much damage and isn’t frightened.
 
-### Kraken
+**properties**:
+- Category: Monsters
+- Size: Gargantuan 
+- Type: Monstrosity (Titan)
+- Alignment: Neutral
+- Expansion: 25493
+- Challenge Rating: 26
 
-_Gargantuan Monstrosity (Titan), Chaotic Evil_
+**publisher**: MCDM Productions
 
-**AC** 18 **Initiative** +14 (24) <br>
-**HP** 481 (26d20 + 208) <br>
-**Speed** 30 ft., Swim 120 ft. <br>
+**book**: Flee Mortals
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>30</td>
-      <td>+10</td>
-      <td>+17</td>
-      <td><strong>DEX</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+7</td>
-      <td><strong>CON</strong></td>
-      <td>26</td>
-      <td>+8</td>
-      <td>+15</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>22</td>
-      <td>+6</td>
-      <td>+6</td>
-      <td><strong>WIS</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+11</td>
-      <td><strong>CHA</strong></td>
-      <td>20</td>
-      <td>+5</td>
-      <td>+5</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** History +13, Perception +11<br>
-**Immunities** Cold, Lightning; Frightened, Grappled, Paralyzed, Restrained<br>
-**Senses** Truesight 120 ft.; Passive Perception 21<br>
-**Languages** Understands Abyssal, Celestial, Infernal, and Primordial but can't speak; telepathy 120 ft.<br>
-**CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
-
-#### Traits
-
-<hr>
-
-**_Amphibious._** The kraken can breathe air and water.
-
-**_Legendary Resistance (4/Day, or 5/Day in Lair)._** If the kraken fails a saving throw, it can choose to succeed instead.
-
-**_Siege Monster._** The kraken deals double damage to objects and structures.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The kraken makes two Tentacle attacks and uses Fling, Lightning Strike, or Swallow.
-
-**_Tentacle._** _Melee Attack Roll:_ +17, reach 30 ft. _Hit:_ 24 (4d6 + 10) Bludgeoning damage. The target has the Grappled condition (escape DC 20) from one of ten tentacles, and it has the Restrained condition until the grapple ends.
-
-**_Fling._** The kraken throws a Large or smaller creature Grappled by it to a space it can see within 60 feet of itself that isn't in the air. _Dexterity Saving Throw:_ DC 25, the creature thrown and each creature in the destination space. _Failure:_ 18 (4d8) Bludgeoning damage, and the target has the Prone condition. _Success:_ Half damage only.
-
-**_Lightning Strike._** _Dexterity Saving Throw:_ DC 23, one creature the kraken can see within 120 feet. _Failure:_ 33 (6d10) Lightning damage. _Success:_ Half damage.
-
-**_Swallow._** _Dexterity Saving Throw:_ DC 25, one creature Grappled by the kraken (it can have up to four creatures swallowed at a time). _Failure:_ 23 (3d8 + 10) Piercing damage. If the target is Large or smaller, it is swallowed and no longer Grappled. A swallowed creature has the Restrained condition, has Total Cover against attacks and other effects outside the kraken, and takes 24 (7d6) Acid damage at the start of each of its turns. <br>
-&emsp;If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 10 feet of the kraken with the Prone condition. If the kraken dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 15 feet of movement, exiting Prone.
-
-#### Legendary Actions
-
-<hr>
-
-_Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the kraken can expend a use to take one of the following actions. The kraken regains all expended uses at the start of each of its turns._
-
-**_Storm Bolt._** The kraken uses Lightning Strike.
-
-**_Toxic Ink._** _Constitution Saving Throw:_ DC 23, each creature in a 15-foot Emanation originating from the kraken while it is underwater. _Failure:_ The target has the Blinded and Poisoned conditions until the end of the kraken's next turn. The kraken then moves up to its Speed. _Failure or Success:_ The kraken can't take this action again until the start of its next turn.

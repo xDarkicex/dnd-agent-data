@@ -1,0 +1,16 @@
+# Shadow Lurker
+
+**description**: A slim human-like figure stands in the alley, dressed in a tattered suit. A shadowy mist creeps in around its feet as it takes off its tattered top hat and bows. The shadows on the walls begin to move on their own, creeping forward as the figure smirks. The shadow lurker was once a humanoid with a shadow of its own, but it traded the shadow in a bargain for fey riches. Too late, it discovered the horrors of being shadowless. Shadow Thief. The lurker is envious of people who still have their own shadows, and it enjoys forcing those people into hardships by convincing their shadows to come with it. The shadow lurker prefers to approach at night while a victim is sleeping. Then, it convinces the victim's shadow that the shadow's owner doesn't appreciate it and that there is more fun to be had with the shadow lurker. Mischief Makers. The shadow lurker enjoys stalking small towns and cities on full moon nights. After gathering several stolen shadows, the lurker leads its new friends on a rampage, vandalizing the town and terrorizing its citizens. Creeping Mists. While the shadow lurker isn't in sunlight, a shadowy mist surrounds it. This mist reduces bright light within 60 feet of the shadow lurker to dim light. Shadow Sight. The shadow lurker has advantage on Wisdom (Perception) checks while in dim light or darkness. Sunlight Sensitivity. While in sunlight, the shadow lurker has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Actions Multiattack. The shadow lurker makes two Shadow Strike attacks. It can replace one attack with a use of Shadow Steal. Shadow Strike. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) slashing damage and 7 (2d6) cold damage. Shadow Steal. The shadow lurker chooses a creature it can see within 30 feet of it and convinces that creature's shadow to leave its owner. The target must succeed on a DC 15 Charisma saving throw or be cursed. A sleeping target has disadvantage on this check. While cursed, the target doesn't have a shadow and suffers one level of exhaustion that can't be removed until the curse ends. The curse ends only if the target convinces its shadow to rejoin with it by succeeding on a DC 15 Charisma (Persuasion) check while within 10 feet of its shadow or if the shadow is returned with a wish spell. While the target is cursed, its shadow becomes a living shade (see Creature Codex ) under the shadow lurker's control. Alternatively, the shadow lurker can combine two stolen shadows into a shadow instead. The shadow lurker can have no more than ten living shades or five shadows under its control at one time. If a cursed creature's shadow is destroyed, it becomes a mundane shadow and moves to within 10 feet of the cursed creature, and the cursed creature has advantage on the check to convince the shadow to rejoin with it. If the shadow lurker dies, all stolen shadows return to their rightful owners, ending the curses. Bonus Actions Shadow's Embrace. While in dim light or darkness, the shadow lurker can take the Hide action.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fey
+- Alignment: Chaotic Evil
+- Expansion: 19901
+- Challenge Rating: 5
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

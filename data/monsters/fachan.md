@@ -1,0 +1,16 @@
+# Fachan
+
+**description**: The fachan is a fey creature of jealousy and violence, with fearsome magic that can cause a victim’s heart to stop. With a single leg that it hops upon, a single arm that sprouts from its chest, and a single eye centered in its massive head, the fachan is a terrifying sight. Fachans are terribly jealous of their flying fey kin who seem to move so freely and easily. Fachans often attack flying creatures out of spite, even innocent ones such as songbirds and butterflies. Though fachans usually live in isolation, they don't do so by choice. They crave love and attention, and often cast disguise self to assume the appearance of guileless humanoids (such as children) to infiltrate a town and enjoy society. However, enjoyment soon becomes sharp jealousy as the fachnan realizes how much they don’t have. When the ruse inevitably fails, the fachnan violently lashes out and the community drives them away, back to isolated misery. Tactics A fachan is a terrifying opponent. They begin combat by targeting a creature with Stop Heart. If the creature fails its saving throw, the fachan then casts fear to scare away that creature’s allies. The fachan uses subsequent turns to finish off the dying target, attacking wildly with their spiked chain. However, a fachan will always ignore tactical moves in favor of attacking a flying creature. Fachan Mythology The fachan is a nightmare of Irish and Scottish folklore, but similar creatures exist in Yakuts tales as well. Also called Peg-Leg Jack and the abaasy, the fachan was fiercely territorial and took innocent-looking forms, especially that of a small child, to scout new targets in human society. Hopping . The fachan has disadvantage on ability checks and saving throws to avoid being knocked prone. Actions Multiattack . The fachan makes two Morningstar attacks or two Spiked Chain attacks. Morningstar . Melee Weapon Attack : +5 to hit, reach 5 ft., one target. Hit : 12 (2d8 + 3) piercing damage. Spiked Chain . Melee Weapon Attack : +5 to hit, reach 10 ft., one target. Hit : 8 (2d4 + 3) piercing damage, and the target must make a DC 13 Dexterity saving throw. On a failed save, the fachan can choose one of the following additional effects: If the target is a Medium or smaller creature, it is grappled (escape DC 13). Until the grapple ends, the target is restrained, and the fachan can't grapple another target. The target is knocked prone. Spellcasting . The fachan’s spellcasting ability is Constitution (spell save DC 12, +4 to hit with spell attacks). They can cast the following spells, requiring no components: At will: fear 3/day: disguise self Stop Heart (Recharge 6) . The fachan targets one creature within 60 feet of the fachan that can see them and has a beating heart. That creature must succeed on a DC 13 Constitution saving throw or drop to 0 hit points. On a successful saving throw, the creature takes 10 (3d6) psychic damage. Bonus Actions Jaunt . The fachan teleports 30 feet to an unoccupied space they can see.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fey
+- Alignment: Typically Chaotic Evil
+- Expansion: 22851
+- Challenge Rating: 4
+
+**publisher**: MCDM Productions
+
+**book**: Arcadia Issue No. 12
+

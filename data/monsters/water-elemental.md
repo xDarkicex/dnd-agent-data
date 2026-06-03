@@ -1,84 +1,50 @@
 # Water Elemental
 
-## Water Elemental
+**description**: These D&D 5E Free Basic Rules only contain a fraction of the races, subclasses, backgrounds, feats, items, monsters, spells, and other content available on Roll20. Check out the Player's Handbook to add dozens of more player options to the Charactermancer, the Dungeon Master's Guide to expand on the tools available for DMs, and the Monster Manual to add hundreds of more unique creatures (including token artwork) to fight! Traits Water Form : The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. Freeze : If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 ft. until the end of its next turn. Actions Multiattack : The elemental makes two slam attacks. Slam : Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage. Whelm (Recharge 4-6) : Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space. The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
 
-### Water Elemental
+**properties**:
+- Category: Monsters
+- AC: 14 (Natural Armor)
+- HP: 114 (12d10+48)
+- CHA: 8
+- CON: 18
+- DEX: 14
+- INT: 5
+- STR: 18
+- WIS: 10
+- Size: Large
+- Type: elemental
+- Speed: 30 ft., swim 90 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/390116591/xHOkQRtS25nF1a_-Dlqi9Q/original.png
+- Roll 0: Slam
+1d20 + 7
+2d8+4
+- Senses: Darkvision 60 Ft.
+- Source: 5th Edition SRD
+- data-XP: 1,800
+- Alignment: Neutral
+- Languages: Aquan
+- data-List: false
+- Immunities: Poison
+- Token Size: 2
+- Resistances: Acid; Bludgeoning, Piercing, and Slashing From Nonmagical Attacks
+- data-Traits: [{"Name":"Water Form","Desc":"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."},{"Name":"Freeze","Desc":"If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 ft. until the end of its next turn."}]
+- data-Actions: [{"Name":"Multiattack","Desc":"The elemental makes two slam attacks."},{"Name":"Slam","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"7","Reach":"5 ft.","Target":"one target","Damage":"2d8 + 4","Damage Type":"bludgeoning"},{"Name":"Whelm (Recharge 4-6)","Desc":"Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space. The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding."}]
+- data-CHA-mod: -1
+- data-CON-mod: +4
+- data-DEX-mod: +2
+- data-INT-mod: -3
+- data-STR-mod: +4
+- data-SizeNum: 5
+- data-WIS-mod: +0
+- Challenge Rating: 5
+- Passive Perception: 10
+- Condition Immunities: Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- data-CrNum: 5
+- data-AcNum: 14
+- data-HpNum: 114
 
-_Large Elemental, Neutral_
+**publisher**: Wizards of the Coast
 
-**AC** 14 **Initiative** +2 (12) <br>
-**HP** 114 (12d10 + 48) <br>
-**Speed** 30 ft., Swim 90 ft. <br>
+**book**: Free Basic Rules (2014)
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>DEX</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+4</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>5</td>
-      <td>−3</td>
-      <td>−3</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-    </tr>
-  </tbody>
-</table>
-
-**Resistances** Acid, Fire<br>
-**Immunities** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious<br>
-**Senses** Darkvision 60 ft.; Passive Perception 10<br>
-**Languages** Primordial (Aquan)<br>
-**CR** 5 (XP 1,800; PB +3)
-
-#### Traits
-
-<hr>
-
-**_Freeze._** If the elemental takes Cold damage, its Speed decreases by 20 feet until the end of its next turn.
-
-**_Water Form._** The elemental can enter an enemy's space and stop there. It can move through a space as narrow as 1 inch without expending extra movement to do so.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The elemental makes two Slam attacks.
-
-**_Slam._** _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 13 (2d8 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
-
-**_Whelm (Recharge 4–6)._** _Strength Saving Throw:_ DC 15, each creature in the elemental's space. _Failure:_ 22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Restrained condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning damage at the start of each of the elemental's turns. The elemental can grapple one Large creature or up to two Medium or smaller creatures at a time with Whelm. As an action, a creature within 5 feet of the elemental can pull a creature out of it by succeeding on a DC 14 Strength (Athletics) check. _Success:_ Half damage only.

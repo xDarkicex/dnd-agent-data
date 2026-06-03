@@ -1,97 +1,17 @@
 # Planetar
 
-## Planetar
+**description**: Angels An angel is a celestial agent sent forth into the planes to further its god’s agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope. Shards of the Divine. Angels are formed from the astral essence of benevolent gods and are thus divine beings of great power and foresight. Angels act out the will of their gods with tireless devotion. Even chaotic good deities command lawful good angels, knowing that the angels’ dedication to order best allows them to fulfill divine commands. An angel follows a single driving purpose, as decreed by its deity. However, an angel is incapable of following commands that stray from the path of law and good. An angel slays evil creatures without remorse. As the embodiment of law and good, an angel is almost never mistaken in its judgments. This quality can create a sense of superiority in an angel, a sense that comes to the fore when an angel’s task conflicts with the goals of another creature. The angel never acquiesces or gives way. When an angel is sent to aid mortals, it is sent not to serve but to command. The gods of good therefore send their angels among mortals only in response to the most dire circumstances. Fallen Angels. An angel’s moral compass grants it a sense of infallibility that can sometimes spell its undoing. Angels are usually too wise to fall for a simple deception, but sometimes pride can lead one to commit an evil act. Whether intentional or accidental, such an act is a permanent stain that marks the angel as an outcast. Fallen angels retain their power but lose their connection to the deities from which they were made. Most fallen angels take their banishment personally, rebelling against the powers they served by seeking rulership over a section of the Abyss or a place among other fallen in the hierarchy of the Nine Hells. Zariel, the ruler of the first layer of the Nine Hells, is such a creature. Rather than rebel, some fallen angels resign themselves to an isolated existence on the Material Plane, living in disguise as simple hermits. If they are redeemed, they can become powerful allies dedicated to justice and compassionate service. Immortal Nature. An angel doesn’t require food, drink, or sleep. Planetar Planetars act as the weapons of the gods they serve, presenting a tangible representation of their deities’ might. A planetar can call down rain to relieve a drought, or can loose an insect plague to devour crops. A planetar’s celestial ears detect every falsehood, and its radiant eyes see through every deception. Planetars are muscular and hairless and have opalescent green skin and white-feathered wings. They tower over most humanoids, brandishing immense swords with grace. Sometimes sent to aid powerful mortals on important tasks for good, planetars are especially fond of missions that involve battling fiends. Traits Angelic Weapons : The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack). Divine Awareness : The planetar knows if it hears a lie. Innate Spellcasting : The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components: • At will: detect evil and good , invisibility (self only) • 3/day each: blade barrier , dispel evil and good , flame strike , raise dead • 1/day each: commune , control weather , insect plague Magic Resistance : The planetar has advantage on saving throws against spells and other magical effects. Actions Multiattack : The planetar makes two melee attacks. Greatsword : Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage. Healing Touch (4/Day) : The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
-### Planetar
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: celestial
+- Source: MM1
+- Alignment: lawful good
+- Expansion: 2
+- Challenge Rating: 16
 
-_Large Celestial (Angel), Lawful Good_
+**publisher**: Wizards of the Coast
 
-**AC** 19 **Initiative** +10 (20) <br>
-**HP** 262 (21d10 + 147) <br>
-**Speed** 40 ft., Fly 120 ft. (hover) <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>24</td>
-      <td>+7</td>
-      <td>+12</td>
-      <td><strong>DEX</strong></td>
-      <td>20</td>
-      <td>+5</td>
-      <td>+5</td>
-      <td><strong>CON</strong></td>
-      <td>24</td>
-      <td>+7</td>
-      <td>+12</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>19</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>WIS</strong></td>
-      <td>22</td>
-      <td>+6</td>
-      <td>+11</td>
-      <td><strong>CHA</strong></td>
-      <td>25</td>
-      <td>+7</td>
-      <td>+12</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +11<br>
-**Resistances** Radiant<br>
-**Immunities** Charmed, Exhaustion, Frightened<br>
-**Senses** Truesight 120 ft.; Passive Perception 21<br>
-**Languages** All; telepathy 120 ft.<br>
-**CR** 16 (XP 15,000; PB +5)
-
-#### Traits
-
-<hr>
-
-**_Divine Awareness._** The planetar knows if it hears a lie.
-
-**_Exalted Restoration._** If the planetar dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its Hit Points somewhere in Mount Celestia.
-
-**_Magic Resistance._** The planetar has Advantage on saving throws against spells and other magical effects.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The planetar makes three Radiant Sword attacks or uses Holy Burst twice.
-
-**_Radiant Sword._** _Melee Attack Roll:_ +12, reach 10 ft. _Hit:_ 14 (2d6 + 7) Slashing damage plus 18 (4d8) Radiant damage.
-
-**_Holy Burst._** _Dexterity Saving Throw:_ DC 20, each enemy in a 20-foot-radius Sphere centered on a point the planetar can see within 120 feet. _Failure:_ 24 (7d6) Radiant damage. _Success:_ Half damage.
-
-**_Spellcasting._** The planetar casts one of the following spells, requiring no Material components and using Charisma as spellcasting ability (spell save DC 20): <br>
-&emsp;**At Will:** _Detect Evil and Good_ <br>
-&emsp;**1/Day Each:** _Commune_, _Control Weather_, _Dispel Evil and Good_, _Raise Dead_
-
-#### Bonus Actions
-
-<hr>
-
-**_Divine Aid (2/Day)._** The planetar casts _Cure Wounds_, _Invisibility_, _Lesser Restoration_, or _Remove Curse_, using the same spellcasting ability as Spellcasting.

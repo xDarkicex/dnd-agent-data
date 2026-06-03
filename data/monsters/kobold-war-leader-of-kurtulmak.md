@@ -1,0 +1,16 @@
+# Kobold War Leader of Kurtulmak
+
+**description**: Kurtulmak is the chief deity of the kobolds and is a god of mining and warfare. His favored champions are called war leaders, known for their charisma, fanaticism, and ingenuity in combat tactics. Their unnatural ferocity, which inspires their allies, makes them and any kobold warband they lead highly dangerous. Traits Lead the Charge. If the kobold moves at least 15 feet straight toward a creature and then hits it with a melee attack on the same turn during the first round of combat, the kobold can target up to four allied kobolds within 60 feet of it that can hear it. Each target can use their reaction to move up to their speed. Legendary Resistance (1/Day). If the kobold fails a saving throw, it can choose to succeed instead. Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated. Actions Multiattack. The kobold makes two Spear attacks. Spear. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack, plus 7 (2d6) poison damage. If the target is a creature, it must also succeed on a DC 13 Constitution saving throw or become poisoned for 1 minute. Until this poison ends, the creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Bonus Actions Kurtulmak's Divine Fury (Recharges after a Long Rest). The kobold magically infuses its attacks with divine energy. For 1 minute, the first creature the kobold hits on each of its turns with a weapon attack takes 9 (1d6 + 6) necrotic damage. Zealous Presence (Recharges after a Short or Long Rest). The kobold unleashes a battle cry infused with divine energy. Up to ten other creatures of its choice within 60 feet of it that can hear it gain advantage on attack rolls and saving throws until the start of its next turn. Legendary Actions The kobold can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The kobold regains spent legendary actions at the start of its turn. Charge. The kobold moves up to its speed. Command Kobold. The kobold targets one allied kobold it can see within 30 feet of it. If the target can see or hear the kobold, the target can use its reaction to make one melee attack or move up to its speed. Kurtulmak's Glare. The kobold targets a creature it can see within 30 feet of it. If the target can see and hear it, the target must succeed on a DC 11 Wisdom saving throw or be frightened of the kobold until the end of kobold’s next turn. Spear (Costs 2 Actions). The kobold makes a spear attack.
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: Humanoid (Kobold)
+- Alignment: typically Lawful Evil
+- Expansion: 26536
+- Challenge Rating: 4
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded III
+

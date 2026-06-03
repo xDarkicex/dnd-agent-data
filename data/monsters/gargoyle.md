@@ -1,80 +1,17 @@
 # Gargoyle
 
-## Gargoyle
+**description**: The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims. Animate Stone. Gargoyles cling to rocky cliffs and mountains, or roost on ledges in underground caves. They haunt city rooftops, perching vulture-like among the high stone arches and buttresses of castles and cathedrals, and they can hold themselves so still that they appear inanimate. Able to maintain this state for years, a gargoyle makes an ideal sentry. Deadly Reputation. Gargoyles have a reputation for cruelty. Statues carved into the likenesses of gargoyles appear in the architecture of countless cultures to frighten away trespassers. Although such sculptures are only decorative, real gargoyles can hide among them to ambush unsuspecting victims. A gargoyle might alleviate the tedium of its watch by catching and tormenting birds or rodents, but its long wait only increases its craving for harming sentient creatures. Cruel Servants. Gargoyles are easily inspired by the cunning of an intelligent master. They enjoy simple tasks such as guarding a master’s home, torturing and killing interlopers, and anything else that involves minimum effort and maximum pain and carnage. Gargoyles sometimes serve demons for their propensity for wanton chaos and destruction. Powerful spellcasters can also easily enlist gargoyle guardians to keep watch over their gates and walls. Gargoyles have the patience and fortitude of stone, and will serve even the cruelest master for years without complaint. Elemental Nature. A gargoyle doesn’t require air, food, drink, or sleep. Shards of Elemental Evil As Ogrémoch, the evil Prince of Elemental Earth, treads his stony realm, it leaves shards of broken rock in his wake. Imbued with slivers of sentience, these shards thrum with the essence of the elemental prince, growing over long years into vaguely humanoid rock formations that resolve at last into the hard, cruel shapes of gargoyles. Ogrémoch doesn’t create gargoyles deliberately, but they are a physical manifestation of his evil. Gargoyles are mockeries of the elemental air that Ogrémoch despises. They are heavy creatures of living stone, yet capable of flight. Like their creator, they possess a fundamental hatred for beings of elemental air, aarakocra in particular, and relish every opportunity to destroy such creatures. On their home plane, gargoyles carve out earth motes that Ogrémoch hurtles into Aaqa, the domain of the aarakocra and the benevolent Wind Dukes the bird folk serve in the Elemental Plane of Air. Traits False Appearance : While the gargoyle remains motionless, it is indistinguishable from an inanimate statue. Actions Multiattack : The gargoyle makes two attacks: one with its bite and one with its claws. Bite : Melee Weapon Attack : +4 to hit, reach 5 ft., one target. Hit : 5 (1d6 + 2) piercing damage. Claws : Melee Weapon Attack : +4 to hit, reach 5 ft., one target. Hit : 5 (1d6 + 2) slashing damage.
 
-### Gargoyle
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: elemental
+- Source: MM1
+- Alignment: chaotic evil
+- Expansion: 2
+- Challenge Rating: 2
 
-_Medium Elemental, Chaotic Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 15 **Initiative** +2 (12) <br>
-**HP** 67 (9d8 + 27) <br>
-**Speed** 30 ft., Fly 60 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>DEX</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>WIS</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Stealth +4<br>
-**Immunities** Poison; Exhaustion, Petrified, Poisoned<br>
-**Senses** Darkvision 60 ft.; Passive Perception 10<br>
-**Languages** Primordial (Terran)<br>
-**CR** 2 (XP 450; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Flyby._** The gargoyle doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The gargoyle makes two Claw attacks.
-
-**_Claw._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 7 (2d4 + 2) Slashing damage.

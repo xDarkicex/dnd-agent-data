@@ -1,0 +1,13 @@
+# Radiant Libram
+
+**description**: Wondrous item, legendary (requires attunement by a cleric, druid, paladin, or wizard) The gilded pages of this holy tome are bound between thin plates of moonstone crystal that emit a gentle incandescence. Aureate celestial runes adorn nearly every inch of its blessed surface. The radiant libram sheds dim light in a 5-foot radius. The book has the following properties: Brave. While holding this book, you have advantage on saving throws against being frightened. Brilliant. The book sheds dim light in a 5-foot radius. As an action, you can make the book shed bright light in a 20-foot radius and dim light for an additional 20 feet for 1 minute. This light is sunlight. Once used, this property of the book can’t be used again until the next dawn. Radiant Spellbook. In addition to the sacred rites of holy communion it contains, the radiant libram is a repository of powerful anti-undead magics and potent divinations. If you attune to this item, you can use it as a spellbook and as an arcane or divine spellcasting focus. In addition, while you are attuned to the book, the spells written in it count as prepared spells and don’t count against the number of spells you can prepare each day. You don’t gain additional spell slots from this feature. The following spells are written in the book: beacon of hope, bless, calm emotions, commune, cure wounds, daylight, detect evil and good, divine favor, flame strike, gentle repose, guidance, guiding bolt, heroism, lesser restoration, light, produce flame, protection from evil and good, sacred flame, sanctuary, and spare the dying. Turn Undead. You can use an action to present this book and speak its command word. Each undead that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw, using your spell save DC. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. The creature is instantly destroyed if its challenge rating is 3 or lower. A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action. Once used, this property of the book can't be used again until the next dawn.
+
+**properties**:
+- Category: Items
+- Item Type: Adventuring Gear
+- Item Rarity: legendary (requires attunement)
+
+**publisher**: Kobold Press
+
+**book**: Empire of the Ghouls
+

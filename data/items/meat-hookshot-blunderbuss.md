@@ -1,0 +1,14 @@
+# Meat Hookshot Blunderbuss
+
+**description**: *Roll20 Note: This weapon should be added to a character sheet with the Meat Hookshot to populate attacks in its untransformed form. Firearms. Firearms were created out of a dire need to fight the scourge. They all include silver in their construction, and as such, the projectiles they fire are considered silvered for the purposes of overcoming resistances and immunities. Some firearm and ammunition properties require your target to make a saving throw to avoid the effects. The saving throw DC is calculated as follows: Firearm save DC = 8 + your proficiency bonus + your Dexterity modifier Ammunition. The ammunition of a firearm is destroyed upon use. Barrel. The weapon can be fired a number of times equal to the number of bullets its barrel can hold (written as Barrel X) before it must be reloaded according to its fast or slow reload property (F or S, respectively). Slow reload. You must use an attack or an action to reload this firearm. You must have one free hand to do so. Blaring. Firing this weapon makes a thunderous crack. The sound can be heard from up to 100 feet away. Firing a weapon with this property makes it hard to go undetected; you have disadvantage on Stealth checks to hide until the start of your next turn. In addition, if a creature is within the area of the sound blast, it has advantage on Perception checks against you. Twinned Barrel. This weapon has two barrels that can each hold a bullet and can both be loaded as part of reloading the weapon. You can fire both barrels of a double barrel weapon as part of an attack, instead of each barrel individually. Doing so empties the barrel of the weapon (as per the Barrel property) but increases the damage die of the weapon on a hit (from d4 to d6 to d8 to d10 to d12). Spread Fire. A weapon that has the spread fire property can’t make a normal attack, instead spraying a cone in front of you with a length equal to its range (for example, a blunderbuss with ‘range 20’ will fire in a 20-foot cone in front of you). Each creature in the area must succeed on a Dexterity saving throw against your Firearm save DC or take the weapon's normal damage. Untransformed. While untransformed, the sickle has the finesse property, and the blunderbuss doesn't have the two-handed property. Using this pair of weapons together requires the sickle to be held in one hand and the blunderbuss in the other. When you take the Attack action with the sickle, you can make an attack with the blunderbuss as a bonus action, ignoring the barrel property.
+
+**properties**:
+- Category: Items
+- Item Type: Ranged Weapon
+- Properties: Ammunition (range 20), Barrel 2 (S), Blaring, Spread Fire, Twinned Barrel
+- Item Rarity: uncommon
+
+**publisher**: MonkeyDM
+
+**book**: Steinhardt's Guide to the Eldritch Hunt
+

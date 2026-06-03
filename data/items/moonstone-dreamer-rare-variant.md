@@ -1,0 +1,13 @@
+# Moonstone Dreamer (rare variant)
+
+**description**: Ring, very rare Component: dragon eye Three azure tears in the fabric of space hover tremulously over the flawless moonstone set into this ring. A mesmerising spiral pattern swirls within the gem, occasionally coalescing into indistinct scenes of exotic landscapes, or perhaps offering a glimpse into the dreams of its wearer… Planar Portals. As an action while wearing this ring, you can swing your hand down in a clawing motion to open a portal to another plane of existence in an unoccupied space you can see within 5 feet of you. The portal is a 5-foot diameter opening, through which you can see your destination. Its entrance, which can only be interacted with on the side from which it was created, remains open for 1 minute. For the duration, any creature that can fit through the opening can cross the portal, appearing in an unoccupied space closest to the portal on the other side. This portal leads to a random location on your choice of the Dreamscape, the Ethereal Plane, the Plane of Fey, or the Material Plane. Once this property has been used to open a portal, it can’t be used to open a portal to the same plane until the next dawn. Sweet Dreams. As an action, you can use the ring to cast the dream spell (save DC 16), with the following changes. Once this property of the ring has been used, it can’t be used again until the next dawn. Instead of entering or inducing a trance state, you create a portal that looks and functions similarly to the ones described by the Planar Portals property, leading to the dreamscape of the creature targeted by the spell. The portal remains open for the duration of the spell, and any creature can cross it, but only up to 8 creatures can occupy the same dream at once. All creatures in the dream can act as messengers, but a dreaming creature can only be affected by one nightmare. Creatures can leave the dream through the portal at any point. If a creature is still in the dream when the spell ends, it is forcefully ejected, appearing in an unoccupied space next to where the portal stood. Instead of spawning nightmares, a messenger can make itself look familiar and comforting to the target. If it does, the target’s dreams become soothing and more restorative. When the target wakes up, it gains 10 temporary hit points. Rare variant: Reduce the DC to 15. Once the Planar Portals property has been used, it can’t be used again until the next dawn. When you cast the dream spell with the Sweet Dreams property, it doesn't have any changes.
+
+**properties**:
+- Category: Items
+- Item Type: Ring
+- Item Rarity: rare
+
+**publisher**: Loot Tavern
+
+**book**: L’Arsene’s Ledger of Treasures and Trinkets
+

@@ -1,0 +1,16 @@
+# Ahu-Nixta Mechanon
+
+**description**: A spherical automaton clanks into view on three mechanical legs, its odd appendages whirring and clicking. These clockwork constructs act as guards and mechanized attendants to the ahu-nixta (see Crea ture Codex ). Artificial Minions. Built to serve its masters in a variety of ways, a mechanon can be customized to perform different tasks, and each mechanon is designed to be interchangeable with surrounding mechanons. They have enough sentience to follow simple commands and instructions. Soul Powered. A soul harvested from a living humanoid powers the glowing heart of a mechanon. The ahu-nixta initially developed the horrific process to transfer a soul into the construct, but the knowledge to do so has since spread. The gem heart continues to hunger for souls, drawing in new ones from the recently deceased to reactivate dormant mechanons. Construct Nature. The mechanon doesn't require air, food, drink, or sleep. Critical Malfunction. A critical hit against the mechanon has a 20 percent chance of striking the casing of the construct's soul chamber, stunning the mechanon until the end of its next turn. Soul Reactivation. A mechanon reduced to 0 hp stops functioning, becoming inert. For the next hour, if a Small or larger creature that isn't a Construct or Undead dies within 30 feet of a deactivated mechanon, a portion of the creature's soul is absorbed by the mechanon, and the construct reactivates, regaining all its hp plus additional hp equal to the dead creature's CR. If the mechanon remains inert for 1 hour, it is destroyed and can't be reactivated. Actions Multiattack. The mechanon makes two Utility Arm attacks or one Slam attack and one Utility Arm attack. Slam. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage. Utility Arm. The mechanon has one of the following attack options: Grabbing Claw. Melee Weapon Attack : +5 to hit, reach 10 ft., one target. Hit: 8 (2d4 + 3) piercing damage. If the target is a creature, it is grappled by the mechanon (escape DC 13). Until the grapple ends, the creature is restrained, and the mechanon can't use its Grabbing Claw on another target. Sonic Disruptor. Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 9 (2d6 + 2) thunder damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be incapacitated until the end of its next turn. Telekinetic Projector. The mechanon fires a ray at a target it can see within 60 feet. If the target is a creature, it must succeed on a DC 13 Strength saving throw or the mechanon moves it up to 30 feet in any direction. If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The mechanon can use the projector to manipulate simple tools or open doors and containers. Adapt Appendage. The mechanon swaps its Utility Arm with the Utility Arm of any other mechanon within 5 feet of it. Repair (2/Day). The mechanon touches an ahu-nixta or a Construct. The target regains 11 (2d8 + 2) hp.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Construct
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 2
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

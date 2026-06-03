@@ -1,0 +1,15 @@
+# Ignices
+
+**description**: Wondrous Item, Fabled (5th-Level and Higher Properties Require Attunement by a Spellcaster) The Ignices is a grimoire recounting the greatest fires in history. From cataclysmic firestorms caused by meteorites to the humble embers under the most powerful witch’s cauldron, the Ignices lists the world’s most impactful conflagrations. The bearer of this fabled magical object is filled with knowledge on this topic and is driven to seek out fires of great power and importance on behalf of the tome. While holding the grimoire, you can use it as a spellcasting focus for your spells, and it functions as a spellbook for you. You have advantage on Intelligence checks made to interact with or recall information concerning creatures from the elemental planes. When found, the book contains the following spells. Spells marked with an asterisk (*) appear in Chapter 5: 1st level: burning hands, flamestep* 2nd level: combust the dead*, scorching ray 3rd level: fireball, flames united*, immolating geist*, protection from energy 4th level: wall of fire 5th level: flamewalk portal* 6th level: Een’s armor of glass* 7th level: flame’s chronicle unleashed* Chronicle of Flame (Requires Attunement). As your level increases, you gain the following benefits while the grimoire is on your person. 5th level. You are resistant to fire damage. Whenever a creature takes fire damage from a spell you cast, that creature takes additional fire damage equal to your proficiency bonus. 9th level. You learn three 1st-level spells that are not on your spell list. Additionally, you can ignore the effects on your vision (lightly or heavily obscured) from smoke created by mundane and magical fires. 13th level. Once per long rest, when you cast fireball, you can choose to have it heal creatures in the affected area instead of damaging them. 17th level. You are immune to fire damage. Once per long rest, you can cast one of the spells contained in the Ignices as a bonus action. Quirks of the Ignices. While attuned to the grimoire, you occasionally experience the emotions and attitudes of its previous owners, who have left their psychic imprint upon it. While you are not compelled to act on these feelings, you might randomly experience one of the quirks presented in the Quirks of the Ignices table. Quirks of the Ignices d8 Result 1 Your hands smoke lightly when you are stressed. 2 You always feel a little overheated. 3 Small flames such as campfires and torches lean toward you when you are within 10 feet of them. 4 You feel compelled to collect ashes. 5 You dislike being wet and avoid rain, baths, and boats whenever possible. 6 Food and water that you carry for more than an hour takes on a smoky flavor. 7 You like to set fires. 8 Your face is perpetually coated in a thin layer of soot that does not wash off.
+
+**properties**:
+- Category: Items
+- Expansion: 24844
+- Item Type: Wondrous Item
+- Item Rarity: Fabled 
+- Requires Attunement: 5th-Level and Higher Properties Require Attunement by a Spellcaster
+
+**publisher**: Kobold Press
+
+**book**: Deep Magic Vol 2
+

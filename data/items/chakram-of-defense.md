@@ -1,0 +1,14 @@
+# Chakram of Defense
+
+**description**: Chakram of Defense Melee weapon (martial, chakram) , rare The weapon has the defensive property, seeming to move by itself to aid in its wielder’s defense. Defensive. While you wield one or more weapons with this property, you gain a +1 bonus to AC if you are proficient in the weapon and not using a shield. Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Thrown (range 100/300). If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. Damage: 1d4 Damage Type: Slashing Properties: Defensive, Finesse, Light, Thrown Range: 100/300 Weight: 4
+
+**properties**:
+- Category: Items
+- Item Type: Melee Weapon
+- Properties: Finesse, Light, Thrown, Defensive
+- Item Rarity: rare
+
+**publisher**: Sterling Vermin Adventuring Co.
+
+**book**: The Ultimate Adventurer's Handbook
+

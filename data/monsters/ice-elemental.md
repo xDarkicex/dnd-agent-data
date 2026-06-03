@@ -1,0 +1,16 @@
+# Ice Elemental
+
+**description**: Ice elementals are creatures made of animated snow and ice. They form in especially cold parts of the Plane of Water and along its border with the Plane of Air, where giant icebergs careen off of world-high waterfalls into the open sky. Ice elementals vary in their exact appearance. Ice elementals may resemble chunky humanoid figures or slithering snake-like white worms of ice. @font-face {font-family:"MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-alt:"ＭＳ 明朝"; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;}@font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-1593833729 1073750107 16 0 415 0;}@font-face {font-family:Cambria; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;}@font-face {font-family:"\@MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-ansi-language:EN-GB;}p.BodyCopyStyle, li.BodyCopyStyle, div.BodyCopyStyle {mso-style-name:"Body Copy Style"; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"Body Copy Style Char"; margin:0cm; line-height:12.0pt; mso-line-height-rule:exactly; mso-pagination:none; mso-layout-grid-align:none; text-autospace:none; font-size:8.0pt; mso-bidi-font-size:10.0pt; font-family:"Verdana",sans-serif; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:black; mso-ansi-language:X-NONE; mso-fareast-language:X-NONE;}span.BodyCopyStyleChar {mso-style-name:"Body Copy Style Char"; mso-style-unhide:no; mso-style-qformat:yes; mso-style-locked:yes; mso-style-parent:""; mso-style-link:"Body Copy Style"; mso-ansi-font-size:8.0pt; font-family:"Verdana",sans-serif; mso-ascii-font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-hansi-font-family:Verdana; color:black; mso-ansi-language:X-NONE; mso-fareast-language:X-NONE;}.MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-ascii-font-family:Cambria; mso-fareast-font-family:"MS Mincho"; mso-hansi-font-family:Cambria; mso-font-kerning:0pt; mso-ligatures:none;}div.WordSection1 {page:WordSection1;}
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: elemental
+- Alignment: neutral
+- Expansion: 32483
+- Challenge Rating: 10
+
+**publisher**: Legendary Games
+
+**book**: Alien Bestiary
+

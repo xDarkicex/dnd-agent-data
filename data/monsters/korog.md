@@ -1,0 +1,16 @@
+# Korog
+
+**description**: Once a faithful worshipper of Pharasma, Korog abandoned his faith and his life as a sacrifice to continue to oppose the works of his brother, the cultist Foras. Of course, in your game, Korog works well as the undead leader of any necromantic army you might create, or as the reanimated legacy of an ancient foe from the past. Traits Graveknight’s Curse. A living creature that dons Korog’s armor must succeed on a DC 18 Charisma saving throw or be afflicted with the graveknight’s curse. Cursed creatures can’t remove Korog’s armor and must repeat the saving throw at the end of each long rest. On a second failed save, the creature has disadvantage on death saving throws. On a third failed save, the creature’s speed is halved. On a fourth failed save, the creature dies and transforms into Korog. A successful saving throw lifts the curse, and the armor falls off. The creature is subject to the curse if it dons the armor again. Innate Spellcasting. Korog’s innate spellcasting ability is Charisma (spell save DC 19). Korog can innately cast the following spells, requiring no material components: At will: phantom steed Rejuvenation. If Korog is destroyed, his armor regrows his body in 1d10 days. If the body is destroyed before then, the process restarts. Korog can only be permanently destroyed by obliterating his armor with a disintegrate spell, transporting it to the Positive Energy Plane, or by throwing it into the heart of a volcano. Sacrilegious Aura. When a creature within 30 feet of Korog uses a spell or ability that magically restores hit points, the creature must make a DC 18 Charisma saving throw. On a failure, the creature’s spell or ability fails and has no effect. Actions Multiattack. Korog makes three maul attacks. Maul. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6+6) bludgeoning damage plus 13 (3d8) lightning damage. Longbow. Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit: 7 (1d8+3) piercing damage plus 13 (3d8) lightning damage. Designate Blood-Foe. Korog declares one creature he can see within 30 feet as his blood-foe whom he swears to defeat. He can have up to three blood-foes designated at a time; any additional blood-foe removes another blood-foe of Korog’s choice. Korog has advantage on Wisdom (Perception) ability checks against a blood-foe, and the blood-foe has disadvantage on melee and ranged weapon attack rolls against him. Devastating Blast (Recharge 6). Korog unleashes a 30-foot cone of energy. Each creature in the area must make a DC 18 Dexterity saving throw, taking 52 (15d6) lightning damage on a failed save, or half as much damage on a successful one. Korog’s Command. Korog commands his allies to move more swiftly. All allies who hear or see him are treated as if affected by a haste spell until the end of their next turn. Reactions Parry. Korog adds 4 to his AC against one melee attack that would hit him. To do so, the Korog must see the attacker and be wielding a melee weapon.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: undead
+- Alignment: neutral evil
+- Expansion: 17526
+- Challenge Rating: 16
+
+**publisher**: Paizo
+
+**book**: Kingmaker Bestiary (5e)
+

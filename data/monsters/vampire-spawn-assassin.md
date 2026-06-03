@@ -1,0 +1,16 @@
+# Vampire Spawn Assassin
+
+**description**: Vampire Spawn Archetypes Presented here are three archetypes of vampire spawns that a vampire may have as minions. Traits Assassinate. During its first turn, the vampire has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the vampire scores against a surprised creature is a critical hit. Evasion. If the vampire is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the vampire instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. Sneak Attack (1/Turn). The vampire deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the vampire that isn't incapacitated and the vampire doesn't have disadvantage on the attack roll. Regeneration. The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn. Spider Climb. The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Vampire Weaknesses. The vampire has the following flaws: Forbiddance . The vampire can't enter a residence without an invitation from one of the occupants. Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water. Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed. Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks. Actions Multiattack. The vampire makes two attacks, only one of which can be a Bite attack. Claws. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13). Shortsword. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. A creature that fails the save by 5 or more is also unconscious for the same duration. The target wakes up if it takes damage or if another creature takes an action to shake it awake. Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. Bonus Actions Cunning Action. The vampire takes the Dash, Disengage, or Hide action.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead
+- Alignment: Typically Lawful Evil
+- Expansion: 17751
+- Challenge Rating: 7
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

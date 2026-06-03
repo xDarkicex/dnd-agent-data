@@ -1,0 +1,16 @@
+# Blossomborn Frost Caster
+
+**description**: A single beautiful flower blossoms, holding a lively nature spirit within. Vines, roots and other greenery spreads by the flower’s will, manipulating the terrain around them and fabricating a body through which the flower can interact with the world. This is a blossomborn. A rather rare fey, blossomborn are very similar in nature to satyrs and dryads, with the sole exception that they reproduce asexually in a rather private ritual which no other living being can claim to be privy to. Their golem-like bodies are never taller than 3 feet, no matter how old the blossomborn is. And they often start with a shorter body when they first learn to create one. Despite being fey in origin, blossomborn are not known for tricky behavior, shady deals or other unsavory chaotic reputations. They are well known for their curiosity and friendliness, which leads to many interesting relationships being formed amongst the usual crowd of the fey. Naturally Talented. These strange fey have been known to be talented in various types of magics, though most often they will have an affinity towards Druidic magic associated with power over plants as well as healing. But a blossomborn born with a knack for fire, frost or even lightning magic isn’t unheard of. United by Bonds. However, the most endearing trait of blossomborn seems to be their ability to create bonds with others. There have been many cases in which a blossomborn will befriend so many fey that they inadvertently create a circle of people willing to protect them. Though this type of situation is most common with creatures like blink dogs and sprites, who have a natural tendency for community and positive relationships. Fey They are ever present in the Greek world. A variety of nymphs, satyrs and other nature spirits are present throughout many legends, some of them even being the parents of heroes and minor gods. Traits Magic Resistance. The blossomborn has advantage on saving throws against spells and other magical effects. Speak with Beasts and Plants. The blossomborn can communicate with beasts and plants as if they shared a language. Spellcasting. The blossomborn's Spellcasting Ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can cast the following Spells, requiring no material components: At Will: druidcraft, frostbite, ray of frost 3/day each: animal friendship, cure wounds, entangle, goodberry, ice knife, chromatic orb (cold damage only)* 2/day each: faerie fire, plant growth, spike growth, rime's binding ice, snilloc's snowball swarm 1/day each: grasping vine, ice storm Actions Shillelagh Strike. Melee Spell Attack: +6 to hit, reach 5ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 3 (1d6) radiant damage. Vine Seed. Ranged Spell Attack: +6 to hit, reach 20/40ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage. The target must make a DC 14 Dexterity saving throw or their speed becomes 0 until the end of their next turn.
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: fey
+- Alignment: neutral good
+- Expansion: 29804
+- Challenge Rating: 3
+
+**publisher**: David Serrano
+
+**book**: Kit Gryloc's Guide to Myths and Monsters
+

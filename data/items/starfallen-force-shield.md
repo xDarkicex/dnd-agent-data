@@ -1,0 +1,13 @@
+# Starfallen Force Shield
+
+**description**: Armour (shield), rare Component: elemental primordial dust The Starfallen are a sect of astronautical zealots sworn to prevent the incursion of aberrations from the far reaches of the universe. Though they are unknown to most folk on the Material Plane, it is their vigilance which ensures the relative normality the plane’s denizens can enjoy. The force shield is one of their astral armaments, designed to disarm and incapacitate foes. This shield has 5 charges and regains 1d4 + 1 expended charges daily at dawn. Repulsion. When a creature misses you with a melee attack while you hold this shield, you can use your reaction to pull a trigger, expending 1 charge and sending a pulse of energy through the attacking creature. The creature must make a DC 15 Strength saving throw. On a failure, the creature is knocked prone, and is disarmed of the weapon with which it made the attack, or of its spellcasting focus or component if it was a melee spell attack. The item flies 15 feet away in a random direction (roll a d8 to determine the direction where a 1 = North, 2 = Northeast, etc.) Starfield Bulwark. As an action, you can twist the handle of the shield, expending 3 charges and causing it to deploy in a 5-foot-high barrier of force energy up to 25 feet long. Nothing can physically pass through the wall; a creature that attempts to run through or climb over the barrier takes 2d6 force damage and must succeed on a DC 15 Strength saving throw or be knocked prone. Creatures directly behind the barrier have three-quarters cover against attacks that originate from the other side of the barrier. Any attack that misses a creature directly behind the barrier automatically hits the barrier, which has 40 hit points. The barrier remains in place until 1 minute elapses, a creature uses its bonus action to pick up the barrier on the side from which it was deployed, it is hit by the disintegrate spell, or it loses all its hit points.
+
+**properties**:
+- Category: Items
+- Item Type: Armor (shield)
+- Item Rarity: rare
+
+**publisher**: Loot Tavern
+
+**book**: L’Arsene’s Ledger of Treasures and Trinkets
+

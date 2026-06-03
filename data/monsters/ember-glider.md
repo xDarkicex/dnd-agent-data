@@ -1,0 +1,16 @@
+# Ember Glider
+
+**description**: The eyes of this large red squirrel crackle like campfire embers. Flames curl off its coat, especially from its tufted ears and bushy tail. Due to their boundless curiosity and hope for an easy meal, squirrels explore any thinning boundary between planes. Without protective wards or stable portals, though, beasts that make such trips often absorb extraplanar energies. Most creatures eventually die from absorbing such energies, but occasionally, one is permanently altered by them instead. The ember glider is one such creature, a squirrel infused with energies from the Plane of Fire. Infused with this energy, these squirrels are larger and much more formidable than their mundane cousins, and the fire's chaotic influence makes them quick to challenge any interloper in their territory. Arboreal No More. Given their increased size and the heat they emit, most ember gliders eschew trees and dwell in rocky outcroppings, cliffs, or hilltops. Explorers who enter an ember glider's territory may stumble upon the rodent's caches. Ember gliders unconsciously imbue acorns and other seeds with fire before eating them, and the gliders frequently bury these seeds, unwittingly creating fiery traps. High-Maintenance. Efreeti nobles and minor elemental lords often keep ember gliders as pets. However, they are often released or abandoned, because of their habits of thieving and hoarding. Fiery Nature. The ember glider is infused with elemental power, and it requires only half the amount of air, food, and drink that a typical Monstrosity of its size needs. Glide. An ember glider has membranes between its fore and hind limbs that expand while falling to slow its rate of descent to 60 feet per round, landing on its feet and taking no falling damage. It can move up to 5 feet horizontally for every 1 foot it falls. The ember glider can't gain height with its gliding membranes alone. If subjected to a strong wind or lift of any kind, it can use the updraft to glide farther. Glow. The ember glider sheds dim light in a 10-foot radius. Heated Body. A creature that touches the ember glider or hits it with a melee attack while within 5 feet of it takes 4 (1d8) fire damage. Keen Smell. The ember glider has advantage on Wisdom (Perception) checks that rely on smell. Actions Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage. Brimstone Acorn. Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the start of each of its turns. Blazing Tail (Recharge 5-6). The ember glider lashes its tail, releasing an arc of fire. Each creature in a 15-foot cone must make a DC 13 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't being worn or carried.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Monstrosity
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 2
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

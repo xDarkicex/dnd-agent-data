@@ -1,0 +1,16 @@
+# Berbalang Loremaster
+
+**description**: Berbalang lore masters are versatile wizards with a vast amount of knowledge scoured from the dead ancient gods in the Astral Plane. While it may look no different from its brethren, the berbalang has grown stronger and wiser from the dark and powerful secrets it has attained. Manipulators of Energy. The berbalang loremaster has also evolved into a more powerful spellcaster, capable of unleashing deadly attacks at will. Highly intelligent, these lore masters have mastered the ability to control and alter their energy in spell casting, making their spells even more unpredictable and extremely dangerous. Actions Multiattack. The berbalang makes one Bite attack and one Claws attack. Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage. Claws. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage. Elemental Bolt. Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 16 (3d8 + 3) acid, cold, fire, force, lightning, necrotic, radiant, or thunder damage (berbalang's choice). Spellcasting. The berbalang casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 14): At will: mage hand, prestidigitation, speak with the dead 1/day each: burning hands, dispel magic, identify, invisibility, fireball, lightning bolt, plane shift (self only) Bonus Actions Alter Energy Type (1/Turn). When the berbalang casts a spell and the spell deals acid, cold, fire, force, lightning, necrotic, radiant, or thunder damage, it can substitute that damage with one other type from that list. Alter Saving Throw (Recharges after a Short or Long Rest). When the berbalang casts a spell and the spell requires a saving throw, it can change the saving throw from one ability score to another of its choice. Spectral Duplicate (Recharges after a Short or Long Rest). The berbalang creates one spectral duplicate of itself in an unoccupied space it can see within 60 feet of it. While the duplicate exists, the berbalang is unconscious. A berbalang can have only one duplicate at a time. The duplicate disappears when it or the berbalang drops to 0 hit points or when the berbalang dismisses it (no action required). The duplicate has the same statistics and knowledge as the berbalang, and everything experienced by the duplicate is known by the berbalang. All damage dealt by the duplicate’s attacks is psychic damage. Reactions Negate Spell (2/Day). The berbalang tries to interrupt a spell he sees a creature casting within 60 feet of him. If the spell is 3rd level or lower, the spell fails and has no effect. If the spell is 4th level or higher, the berbalang makes an Intelligence check against a DC of 10 + the spell’s level. On a success, the spell fails and has no effect. Protective Shield (2/Day). When the berbalang or a creature within 10 feet of it is hit by an attack roll, the berbalang gives the target a +5 bonus to its AC until the start of the berbalang’s next turn, which can cause the triggering attack roll to miss.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Aberration
+- Alignment: Typically Neutral Evil
+- Expansion: 23212
+- Challenge Rating: 5
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded II
+

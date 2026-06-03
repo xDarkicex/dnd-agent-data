@@ -1,87 +1,17 @@
 # Purple Worm
 
-## Purple Worm
+**description**: The massive burrowing monster known as the purple worm terrorizes the creatures of the Underdark as it chews through solid rock in pursuit of prey. A dim-witted, ravenous force of nature, this creature regards anything it encounters as food. Ravenous Hunters. Loud noise attracts purple worms, which have been known to interrupt underground battles and tear through subterranean cities seeking prey. The underground civilizations of the drow, the duergar, and the mind flayers maintain special wards around their settlements to deter these monsters. Though most common in the Underdark, purple worms are frequently seen on the surface world in rocky and mountainous lands. The maw of a purple worm is large enough to swallow a horse whole, and no creature is safe from its hunger. It lunges forward by rhythmically compressing and expanding its body, catching other Underdark dwellers by surprise with the speed of its advance. Boons of the Worm. When a purple worm burrows through the ground, it consumes earth and rock, which it breaks down and constantly excretes. Precious metals and gems can thus be found within the bodies of purple worms, which are targeted by particularly brave and foolhardy treasure hunters. A burrowing purple worm constantly creates new tunnels throughout the Underdark, which are quickly made use of by other creatures as corridors and highways. Because a purple worm rarely returns to its own tunnels, such passageways are a good place to avoid these monsters. Areas rich in prey quickly become interlaced with complex tunnel systems resulting from several worms hunting together. Traits Tunneler : The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake. Actions Multiattack : The worm makes two attacks: one with its bite and one with its stinger. Bite : Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21, 6d6, acid damage at the start of each of the worm's turns. If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone. Tail Stinger : Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. Hit: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
-### Purple Worm
+**properties**:
+- Category: Monsters
+- Size: Gargantuan
+- Type: monstrosity
+- Source: MM1
+- Alignment: unaligned
+- Expansion: 2
+- Challenge Rating: 15
 
-_Gargantuan Monstrosity, Unaligned_
+**publisher**: Wizards of the Coast
 
-**AC** 18 **Initiative** +3 (13) <br>
-**HP** 247 (15d20 + 90) <br>
-**Speed** 50 ft., Burrow 50 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>28</td>
-      <td>+9</td>
-      <td>+9</td>
-      <td><strong>DEX</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-      <td><strong>CON</strong></td>
-      <td>22</td>
-      <td>+6</td>
-      <td>+11</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>1</td>
-      <td>−5</td>
-      <td>−5</td>
-      <td><strong>WIS</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>+4</td>
-      <td><strong>CHA</strong></td>
-      <td>4</td>
-      <td>−3</td>
-      <td>−3</td>
-    </tr>
-  </tbody>
-</table>
-
-**Senses** Blindsight 30 ft., Tremorsense 60 ft.; Passive Perception 9<br>
-**Languages** None<br>
-**CR** 15 (XP 13,000; PB +5)
-
-#### Traits
-
-<hr>
-
-**_Tunneler._** The worm can burrow through solid rock at half its Burrow Speed and leaves a 10-foot-diameter tunnel in its wake.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The worm makes one Bite attack and one Tail Stinger attack.
-
-**_Bite._** _Melee Attack Roll:_ +14, reach 10 ft. _Hit:_ 22 (3d8 + 9) Piercing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 19), and it has the Restrained condition until the grapple ends.
-
-**_Tail Stinger._** _Melee Attack Roll:_ +14, reach 10 ft. _Hit:_ 16 (2d6 + 9) Piercing damage plus 35 (10d6) Poison damage.
-
-#### Bonus Actions
-
-<hr>
-
-**_Swallow._** _Strength Saving Throw:_ DC 19, one Large or smaller creature Grappled by the worm (it can have up to three creatures swallowed at a time). _Failure:_ The target is swallowed by the worm, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, has Total Cover against attacks and other effects outside the worm, and takes 17 (5d6) Acid damage at the start of each of the worm's turns. <br>
-&emsp;If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the worm and has the Prone condition. If the worm dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 20 feet of movement, exiting Prone.

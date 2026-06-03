@@ -1,0 +1,16 @@
+# Rider of the False Sussars
+
+**description**: The Rider of the False Sussars appears in Midnight - Legacy of Darkness. Soldiers in the Occupied Lands Further south, many of the false sussars prefer not to turn to the Shadow’s legions to enforce their rule, fearful that if they deploy the legions on the streets openly, they might spark open revolt in turn. Instead, they rely on their own cadre of Sarcosan warriors, the riders of the false sussars . Some serve out of a twisted sense of loyalty or family bonds, but most ride for the false sussars for money, power, and luxury in an increasingly perilous world. Riders Against the Shadow The rider of the false sussars profile can also be used to represent one of the Sarcosans who rides against the Shadow and the occupation in southern Erenland. Simply change the profile’s alignment to either neutral good or lawful good. Human Servants of the Shadow Though the ranks of the Shadow’s armies are filled with legions of orcs, many humans also serve Izrador. Some of these are devoted followers, while others are press-ganged recruits, and many sign on to the Shadow simply for a meal or a chance to exercise a bit of power over their former neighbors. And of course, many of the legates who serve the Shadow are humans as well. Humanoids and Forces of the Shadow Humanoids make up the bulk of intelligent creatures found in Eredane. This broad categorization includes humans and all of the fey, orcs, and goblinoids. Many of the common folk go their entire lives without seeing a different type of creature—and they prefer it that way. Even adventurers, for all of their travels, are far more likely to encounter humanoids than any other creatures. There simply are not that many of the other types around. The history of the world can be said to be that of the humanoids, since it was they who kept the records and they who have performed the great deeds and participated in the great tragedies of the world. Humanoids of Eredane Many of the most numerous humanoids in Eredane are detailed earlier in this book ( Races of Midnight ). However, there are other intelligent humanoid cultures in Eredane, and a few of them are detailed here. In addition, most of the forces of the Shadow’s armies are some form of humanoid. So profiles for some of the more common of the Shadow’s minions are presented in this section. Traits Mounted Warrior. The rider has advantage on all melee attack rolls against any unmounted creature that is smaller than its mount. In addition, any attack that would target its mount must target the rider instead. Actions Multiattack. The rider makes two melee attacks or two ranged attacks. Cedeku. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage. Shortbow. Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 5 (1d6+2) piercing damage. Reactions Parry. The rider adds 2 to their AC against one melee attack that would hit them. To do so, the rider must see the attacker and be wielding a melee weapon.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (human)
+- Alignment: lawful evil
+- Expansion: 30504
+- Challenge Rating: 3
+
+**publisher**: Edge Studio
+
+**book**: Midnight - Legacy of Darkness
+

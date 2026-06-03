@@ -1,0 +1,16 @@
+# Zilaq
+
+**description**: One head of this tiny purple dragon chats amicably while the other never ceases its focus on a book it is reading. Zilaqs are minor dragons found throughout the world. They are equally likely to be found talking to the workers in a scriptorium as they are to attack a group of adventurers while leaving a looted wizard's lair. Book Lovers. Zilaqs love books, language, and stories. Over their long lifespans, they build impressive libraries in which they immerse themselves. Some zilaqs are so truly obsessed, they essentially entomb themselves in their repositories, using agents to procure ever more books while they guard the hoard. Their love of stories makes them one of the more agreeable and approachable types of dragons, and zilaqs happily provide service in exchange for a story. Engaging Conversationalists. Zilaqs don't just hoard their stories, they read and remember them. They are engaging conversationalists and fonts of information on a wide range of subjects. Zilaqs are social creatures that prefer the company of other intelligent beings to being alone. Even while in the company of others, however, one of the zilaqs heads is often reading, only stopping briefly to ask a clarifying question or correct a point its other head is trying to make. Eidetic Memory . A zilaq remembers everything it hears or reads. It has advantage on Intelligence (Arcana) and Intelligence (History) checks. Two-Headed . The zilaq has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious. Actions Multiattack . The zilaq makes two Bite attacks. Bite . Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. Sonic Yelp (Recharge 5-6) . The zilaq makes a high-pitched squeal. Each creature within 60 feet of it and that can hear it must make a DC 13 Constitution saving throw, taking 21 (6d6) thunder damage on a failed save, or half as much damage on a successful one. Enthralling Speech (2/Day) . Each creature within 60 feet of the zilaq and that can hear it must succeed on a DC 13 Wisdom saving throw or become charmed for 1 minute. While charmed, a creature suffers one of the following effects (the zilaq's choice): The creature becomes hostile toward another creature of the zilaq's choice that is also charmed by the zilaq. The creature must roll a d100 at the start of each of its turns. If the result is 51-100, it can take no action until the start of its next turn. Phantasmal Oratory (1/Day) . The zilaq describes a creature so vividly, the creature takes on a semblance of reality. The zilaq creates an illusory creature that resembles a Beast, Monstrosity, or Plant with a of CR 1 or less for 1 hour. The illusory creature moves and acts according to the zilaq's mental direction, and it takes its turn immediately after the zilaq's. The illusory creature uses the statistics of the creature it resembles, except it can't use traits, actions, or spells that force the target to make a saving throw.
+
+**properties**:
+- Category: Monsters
+- Size: Tiny
+- Type: Dragon
+- Alignment: Neutral
+- Expansion: 19901
+- Challenge Rating: 4
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

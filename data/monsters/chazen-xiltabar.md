@@ -1,0 +1,14 @@
+# Chazen Xiltabar
+
+**description**: I shouldn't have been born. In a time of war between the drow and the duergar, my mother, a Matron Mother, and my father, a general, should not have had me. They should not have been meeting in secret. Should not have been lovers. Because of this, all I've known is hardship. I was given to a traveling troupe when I was very young when my mother could no longer hide my heritage. I spent years being everyone's whipping boy, but I vowed it wouldn't stay that way. I trained and trained and during that time my powers swelled within me. When that happened Kethan Vrinn, the troupe leader, decided I would fight for others' entertainment. As I grew in fame, they called me Stormbringer. They claimed my steps echoed thunderously around me—that harsh wind and crackles of lightning surrounded me. They claimed that I could not be defeated. Traits City Underbelly. You have connections to almost all illegal organizations and guilds in the city where you were imprisoned and the surrounding area. You can invoke favors and connections to possibly gain safe lodging or other favors from some organizations, but they may want something in return. Duergar Resilience. You have advantage on saving throws against illusions and against being charmed or paralyzed. Fey Ancestry. You have advantage on saving throws against being charmed, and magic can't put you to sleep. Innate Spellcasting. Your innate spellcasting ability is Charisma. You can innately cast the following spells: At will: dancing lights Spellcasting. Your spellcasting ability is Charisma (+4 to hit with spell attacks, spell save DC 12). You can cast the following sorcerer spells: Cantrips (at will): booming blade, sword burst 1st level (2 slots): mage armor, shield Sunlight Sensitivity. You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight. Trance. You don't need to sleep. Instead, you meditate deeply, remaining semiconscious, for 4 hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep. Actions Attack. You can attack when you take this action, using the following: Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or 20/60 ft., one target. Hit: 1d4 + 2 piercing damage. Light Crossbow. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 1d8 + 2 piercing damage. Bonus Actions Tempestuous Magic. On your turn, you can cause whirling gusts of elemental air to briefly surround you, immediately before or after you cast a spell of 1st level or higher. Doing so allows you to fly up to 10 feet without provoking opportunity attacks.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Dwarf, Elf)
+- Expansion: 24690
+
+**publisher**: Gnome Made Games
+
+**book**: An Elf and an Orc Had A Little Baby
+

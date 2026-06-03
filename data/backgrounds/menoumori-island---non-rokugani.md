@@ -1,0 +1,11 @@
+# Menoumori Island - Non-Rokugani
+
+**description**: A forested volcanic island covered in brilliant ponds that shine like brightly polished lapis lazuli, Menoumori Island is home to the people of the same name, and is the largest of the inhabited coastal islands. The people there likely share some ancestors of some of the groups that settled Rokugan, and their origin story tells of a flight on the back of a massive bat spirit that delivered their ancestors from a mountainous land to the island. The inhabitants of Menoumori Island traditionally make their living fishing, hunting, and gathering on the island, but in recent years, trade with the Mantis Clan has become an increasingly common occupation. The Menoumori hold a deep respect for the bat spirits native to their island, and some are even said to have been entrusted with the powers of the kōmori. Skill Proficiencies: Nature, choose one other Dexterity-based skill (Acrobatics, Sleight of Hand, or Stealth). Tool Proficiencies: Fishing kit, any one musical instrument. Languages: You can read, sign, speak, and write Rokugani, and one other common language of your choice. Equipment: Traveling clothes or unremarkable garb, dagger, fishing kit, any one musical instrument, and 2 gp. Suggested Feats: Clarity in Solace, Survivalist’s Eye, Watchful Ancestors. Background Feature: Neutral Party You have certain advantages due to being an outsider who is not implicated in local politics, such as: You have a general awareness of the political climate within your homeland. You know its forms of government, religions, and other organizations, as well as the various factions and individuals of note that strive to control these groups. You know the lay of the land where you grew up extremely well and know many people in that region. You know the trade that you grew up around well, even if you do not practice it yourself. Because you are from outside of Rokugan, members of Rokugani courts and other political organizations view you as being neutral to their conflicts. They do not assume that you favor a particular side, and might go to extra lengths to sway you to theirs if they think you are an asset who might help them.
+
+**properties**:
+- Category: Backgrounds
+
+**publisher**: Edge Studio
+
+**book**: Adventures in Rokugan
+

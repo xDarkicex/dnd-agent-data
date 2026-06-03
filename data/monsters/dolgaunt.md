@@ -1,0 +1,16 @@
+# Dolgaunt
+
+**description**: Dolgaunts are emaciated hobgoblins with disease-hued flesh. Their eye sockets gape open and empty above a mouth with a wormlike tongue. Writhing cilia cover their bodies, with longer tendrils around their heads and two wiry tentacles protruding from their bare shoulders. A dolgaunt is blind but can perceive its surroundings through the sensitive cilia that cover its skin. It can also absorb life through its tentacles, allowing it to drain the vitality out of any creature it touches. Warped by Chaos. When the daelkyr emerged from Xoriat to conquer Khorvaire, they captured and transformed that land’s indigenous creatures to create armies of hideous warriors. Dyrrn the Corruptor shaped dolgaunts from hobgoblin stock, turning them into intelligent, cold, and efficient killers. When the daelkyr were defeated, the dolgaunts descended into the depths of Khyber with their masters. There, they study in cavernous monasteries, forging their bodies into living weapons dedicated to the missions given them by those masters. Dolgaunts are often found commanding squads of dolgrims, and can also be found working with the Cults of the Dragon Below—particularly those devoted to Dyrrn the Corruptor.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: aberration
+- Alignment: lawful evil
+- Expansion: 4480
+- Challenge Rating: 3
+
+**publisher**: Wizards of the Coast
+
+**book**: Eberron - Rising from the Last War
+

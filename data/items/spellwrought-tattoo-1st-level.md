@@ -1,0 +1,13 @@
+# Spellwrought Tattoo 1st Level
+
+**description**: Spellwrought Tattoo (1st Level) Wondrous item (tattoo), common Produced by a special needle, this magic tattoo contains a single 1st level spell, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin. The spell's saving throw DC is 13, the attack bonus is +5, and the spellcasting ability modifier is +3.
+
+**properties**:
+- Category: Items
+- Item Type: Wondrous item (tattoo)
+- Item Rarity: common
+
+**publisher**: Wizards of the Coast
+
+**book**: Tasha's Cauldron of Everything
+

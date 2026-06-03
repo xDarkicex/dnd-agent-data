@@ -1,0 +1,16 @@
+# Primordial Surge
+
+**description**: A storm front rolls over the village, making the daylit sky appear as black as night. Brilliant energy crackles around the roiling gray and black clouds, while thunderous booms and the sound of raging wind make it difficult to hear anything else. Primordial surges were created when the universe and all its planes of existence sprang into being. They contain all four elements bound together by eldritch force and celestial radiance. Ruin and Renewal. A primordial surge is a harbinger of creation and destruction. While the surge rages, raining acid and liquid flame over a wide area. It then spends an equal amount of time saturating the area with the waters of creation to restore it. Onlookers present at the destruction of a primordial surge struggle to describe the explosion of growth and life that results. Elemental Nature. The primordial surge doesn't require air, food, drink, or sleep. Life From Death. When the surge dies, it explodes in a burst of raw creation. The area in a 50-foot radius centered on the primordial surge is blanketed in lush flora native to the region, providing enough food to feed a dozen Large or smaller creatures for 6 (1d12) days. Creatures in the area that have been dead no longer than 1 day are returned to life with 4 (1d8) hp. Primordial Form. The primordial surge can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the primordial surge or hits it with a melee attack while within 5 feet of it takes 7 (2d6) acid, cold, fire, lightning, or thunder damage (the primordial surge's choice). In addition, the primordial surge can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 7 (2d6) acid, cold, fire, lightning, or thunder damage (the surge's choice). A creature that starts its turn in the primordial surge's space must succeed on a DC 18 Constitution saving throw or be blinded and deafened until it starts its turn outside the surge's space. Actions Multiattack. The primordial surge makes three Elemental Strike attacks. Elemental Strike. Melee or Ranged Weapon Attack: +11 to hit, reach 15 ft. or range 60 ft., one target. Hit: 28 (4d10 + 6) acid, cold, fire, lightning, or thunder damage (the primordial surge's choice). Primordial Storm (Recharge 6). A rain of elemental energies falls around the primordial surge, producing one of the following effects: Restorative Rain. Each creature within 30 feet of the surge that isn't a Construct or Undead regains 27 (5d10) hp. The area becomes difficult terrain as nonmagical plants in the area become thick and overgrown. Ruinous Rain. Each creature within 30 feet of the surge must make a DC 18 Dexterity saving throw. On a failure, a creature takes 27 (5d10) acid damage and 27 (5d10) fire damage and is coated in burning acid. On a success, a creature takes half the damage and isn't coated in acid. A creature coated in acid takes 5 (1d10) acid damage and 5 (1d10) fire damage at the start of each of its turns until it or another creature takes an action to scrape or wash off the acid.
+
+**properties**:
+- Category: Monsters
+- Size: Gargantuan
+- Type: Elemental
+- Alignment: Neutral
+- Expansion: 19901
+- Challenge Rating: 16
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

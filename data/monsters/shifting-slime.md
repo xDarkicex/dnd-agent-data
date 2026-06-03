@@ -1,0 +1,16 @@
+# Shifting Slime
+
+**description**: Slime Deep in the murky marshes of the Mokk Fields, where water lays stagnant and the stench of decay permeates all, the worlds of life and death intertwine. Within this ominous mire lurk some of the most unusual natural predators in Humblewood. Collectively known as “slimes”, these oozes move slowly through the muck, well-camouflaged by the dark and pungent waters, waiting to devour any hapless being that wanders within reach. Slimes are easily provoked, and while it isn’t difficult to outrun one, some who have strayed into a slime’s territory only find out too late that they have been detected. Fortunately for many swampland travelers, slimes have a slow metabolism, and can go without feeding for long periods. In addition to being an important part of the ecosystem, many slimes are either naturally magical, or yield organic materials which are in high demand among mages, scholars, and researchers. While slime hunting is a dangerous undertaking, the perch of Winnowing Reach was built on the labor of so-called “slime-wranglers”, whose skill collecting valuable residue from live slimes is directly responsible for transforming the once minor outpost into a thriving site for scholarly innovation. Three main types of slimes have been classified, but as magical creatures with strange properties, it’s speculated that more elusive slime species might exist somewhere in the remote swamps. The three documented types are: caustic slimes, shifting slimes, and sticky slimes. Shifting Slime A type of large and fluid ooze, shifting slimes have an iridescent hue to them which seems to shift as they move. According to slime-wranglers, they can use magical energy to create an eerie bioluminescence. Shifting slime residue is a highly sought after potent reagent, but it is hard to come by. Despite their size, these slimes are elusive and generally spend their time below ground where visibility is low. They can be quite difficult to locate when they conceal themselves in the subterranean darkness, though these strange creatures are known to leave trails of bioluminescent residue to lure in prey. Adaptive Defenses This type of slime can harness magical energy within its form. Shifting slimes absorb and store magic passively over time, but are also capable of absorbing magical jolts from spells. It is unclear exactly how much energy they can store, or for how long. Shifting slimes can develop a temporary immunity to various types of magic after exposure. This immunity in turn makes it exceptionally difficult to destroy the slimes with a single type of magical energy. Luckily for slime-wranglers, shifting slimes are only capable of containing one energy type at a time. Manifestation of Stored Power After absorbing magical energy, these slimes will change color based on the type of power absorbed. Because of the rarity of shifting slimes, only a handful of people have witnessed these changes. But, over generations, skilled slime-wranglers have managed to record which color a shifting slime will turn in response to different types of magic.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: ooze
+- Alignment: unaligned
+- Expansion: 5991
+- Challenge Rating: 1/2
+
+**publisher**: Hit Point Press
+
+**book**: Humblewood
+

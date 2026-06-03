@@ -1,74 +1,16 @@
 # Death Dog
 
-## Death Dog
+**description**: A death dog is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death dog’s heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim’s flesh to slowly rot off the bone. Traits Two-Headed : The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious. Actions Multiattack : The dog makes two bite attacks. Bite : Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5, 1d10, on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
 
-### Death Dog
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: monstrosity
+- Source: MM1
+- Alignment: neutral evil
+- Challenge Rating: 1
 
-_Medium Monstrosity, Neutral Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 12 **Initiative** +2 (12) <br>
-**HP** 39 (6d8 + 12) <br>
-**Speed** 40 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>DEX</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>3</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +5, Stealth +4<br>
-**Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious<br>
-**Senses** Darkvision 120 ft.; Passive Perception 15<br>
-**Languages** None<br>
-**CR** 1 (XP 200; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The death dog makes two Bite attacks.
-
-**_Bite._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Piercing damage. If the target is a creature, it is subjected to the following effect. _Constitution Saving Throw:_ DC 12. _First Failure:_ The target has the Poisoned condition. While Poisoned, the target's Hit Point maximum doesn't return to normal when finishing a Long Rest, and it repeats the save every 24 hours that elapse, ending the effect on itself on a success. _Subsequent Failures:_ The Poisoned target's Hit Point maximum decreases by 5 (1d10).

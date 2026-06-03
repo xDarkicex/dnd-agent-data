@@ -1,0 +1,16 @@
+# Chaos Raptor
+
+**description**: A massive bird flies through the mountain and out the other side. It dive-bombs the town, leaving chaos in its wake. A distant relative of the roc, the chaos raptor is an enormous, avian creature that delights in causing havoc in humanoid settlements. It slumbers within mountains, awakening when hungry, at which time it flies to a nearby settlement, driving the residents mad. While the townsfolk scatter, incapable of controlling their random urges, the creature absconds with enough locals to sate its hunger. Born of Stone. While not made of stone, chaos raptors have an affinity for it. They can easily travel through stone and hide inside it, rejuvenating their bodies. Some scholars believe they originate from the Elemental Plane of Earth and arrived on the Material Plane through a massive portal deep within the mountains. Harbinger of Chaos. Chaos raptors cause chaos wherever they go, and indeed, they enjoy disorder. They do not delight in cruelty so much as reckless abandon and disruption. Worshiped and Appeased. It is common for a chaos raptor to nest inside a mountain near a particular town. The locals often worship the chaos raptor as a deity, bringing sacrificial offerings of livestock or even people to appease its hunger. This meets with varying results, for the chaos raptor is temperamental and sometimes attacks even when it is not hungry. Aura of Chaos. When a creature with an Intelligence of 4 or higher starts its turn within 30 feet of the chaos raptor, the creature must make a DC 18 Charisma saving throw. On a failure, the creature can't take reactions until the start of its next turn and must roll a d8 to determine what it does during that turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action but uses all its movement to move in a random direction. On a 7 or 8, the creature makes one melee attack against a randomly determined creature within its reach, or it does nothing if no creature is within its reach. At the start of the chaos raptor's turn, it chooses whether this aura is active. Earth Glide . The chaos raptor can burrow through nonmagical, unworked earth and stone. While doing so, the chaos raptor doesn't disturb the material it moves through. Keen Sight . The chaos raptor has advantage on Wisdom (Perception) checks that rely on sight. Regeneration . The chaos raptor regains 20 hp at the start of its turn if at least half of its body is submerged in earth or stone. If the chaos raptor takes thunder damage, this trait doesn't function at the start of the chaos raptor's next turn. The chaos raptor dies only if it starts its turn with 0 hp and doesn't regenerate. Actions Multiattack. The chaos raptor makes one Beak attack and one Talons attack. Beak. Melee Weapon Attack : +14 to hit, reach 10 ft., one target. Hit: 27 (4d8 + 9) piercing damage. Talons. Melee Weapon Attack : +14 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the chaos raptor can't use its talons on another target.
+
+**properties**:
+- Category: Monsters
+- Size: Gargantuan
+- Type: Monstrosity
+- Alignment: Chaotic Neutral
+- Expansion: 19901
+- Challenge Rating: 13
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

@@ -1,0 +1,16 @@
+# Aseni Nomad
+
+**description**: I am glad to be back. My visit to Dendusar was … enlightening. They treat the crucibles as strange places to visit and study, but never truly embrace them. They also live under a night filled only with stars. My distant cousins have not witnessed the heavens I have beheld with my eyes. The shifting colors sing to my soul, I can almost see the lines of code dancing. The beautiful skies here in Drath Sia are like peering inside the workings of the universe, especially after I was blessed with these abilities. Blessed - and cursed - because even though I want to stay here, I know my responsibilities will take me back to the material universe, and I have so much left to do. Dendus, Aseni When the Crucibles were first discovered, their source of hidden power enabled the dendus to rise again as a people and advance their species. During this time, two of the Crucibles vanished, taking those dendus within and their surrounding settlements. Brought to a subspace dimension known as Drath Sia, they used their knowledge of the Crucibles to survive until their return to the galaxy centuries later. By then, the majority of the dendus had returned to settle on Dendusar. Even with home within their reach, the years in Drath Sia had enlightened their view of the galaxy and all things within. Choosing to abandon the traditions of their kin-lines, they instead sought to unlock the mysteries of the universe with their newfound gifts. They named themselves "aseni," an ancient dendus word whose closest definition would be "architects." Aseni are similar in physical appearance to other dendus, though their facial features are different. They also have longer arms and tend to be a bit stockier than other dendus. The Legend of Aria's Winter. The aseni believe the Crucibles are a small part of a much larger puzzle, to serve as keys to unlocking the true nature of the universe. Within one of the Crucibles that remained in Drath Sia, the original aseni uncovered a trail of code that references a period when the galaxy would have collaped upon itself in an event they can only define in their own language as "The Great Winter." This catastrophic event was prevented by the Aria, a presence not yet defined, but theorized as either a being or a form of energy. The source of the event and what stopped it remain an mystery, but the aseni believe it is directly related to the Crucibles and their affect on the fabric of reality. Masters of the Code. The aseni, though few, all have some form of innate esper ability because of their unique understanding of the Crucible's functions, which they pass on to future generations. As a society, the aseni are small compared to the other spacefaring races, but those with potential to become espers are far more common among their number. Dual Dimensional. Most aseni still reside in Drath Sia, having established a number of colonies there. Others have travelled to the elusive subdimension, but even those living inside the vast region have yet to uncover its many facets.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (dendus)
+- Alignment: any alignment
+- Expansion: 27052
+- Challenge Rating: 4
+
+**publisher**: Alligator Alley Entertainment
+
+**book**: Esper Genesis Threats Database
+

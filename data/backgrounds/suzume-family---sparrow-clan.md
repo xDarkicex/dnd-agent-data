@@ -1,0 +1,11 @@
+# Suzume Family - Sparrow Clan
+
+**description**: An offshoot of the Crane Clan from the fifth century, the Sparrow Clan is renowned for its storytelling tradition and its warriors’ skill with the sling. The Suzume Hills, home to the Sparrow Clan and the Suzume family, are dry, unproductive, rocky, and devoid of any great resources. Unsurprisingly, Sparrow Clan tradition holds that a life of humble poverty is the ideal to which samurai should aspire—for they have no other option—and as a result, Sparrow Clan samurai tend to see few tasks as beneath their dignity. While they may be nobility in a strict sense, they can often be found toiling in the fields or fishing alongside the commoners of their lands, and they see little differentiation between samurai and commoner save certain social responsibilities on the part of the samurai. Some samurai of other clans look down on them for their way of life, but others see them as paragons to the idea of service without ostentation or excess. Skill Proficiencies: Performance, choose one other Wisdom-based skill (Animal Handling, Insight, Medicine, Perception, or Survival). Tool Proficiencies: Any two of the following tools: cooking kit, fishing kit, mason’s kit, potter’s set, tailor’s kit, weaver’s kit, board or card game, dice and cup, drum, or flute. Weapon Proficiencies: Wakizashi. Languages: You can read, sign, speak, and write Rokugani. Equipment: Wakizashi, sling, pouch of 20 polished stones (quiver), any two of the following tools: cooking kit, fishing kit, mason’s kit, potter’s set, tailor’s kit, weaver’s kit, board or card game, dice and cup, drum, or flute, and 1 gp. Suggested Feats: Genuine Idealist, Impromptu Duel Coach, Sling Specialist. Background Feature: Regional Expert As one who grew up in a Minor Clan, you gain the following benefits: You have a general awareness of the political climate within your clan’s lands. You are deeply familiar with the politics of your own family. You know the geography of your lands extremely well. You know your clan’s particular specialties and expertise especially well. Even if you do not practice these arts yourself, you are able to reveal relevant information on these topics.
+
+**properties**:
+- Category: Backgrounds
+
+**publisher**: Edge Studio
+
+**book**: Adventures in Rokugan
+

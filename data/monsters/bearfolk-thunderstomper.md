@@ -1,0 +1,16 @@
+# Bearfolk Thunderstomper
+
+**description**: This gaudily dressed humanoid bear stomps on the ground to a pounding rhythm to accompany her singing. Bearfolk thunderstompers are raucous bards that help to elevate the fight against beings of darkness and fear. Jolly Big Bards. Thunderstompers tend to be jovial, loud, and larger than life. They eagerly dive into dangerous situations, confident their dancing stomps will see them through. They typically accompany their stomping with singing, chanting, flute playing, or drumming. Way of the Stomp. The bearfolk developed the thunderstomper style as a way of mimicking the sounds and vibrations of giant-kin. This allowed small groups of traveling bearfolk to fool their ancient enemies and avoid dangerous encounters. Later, the dancing style was honed to generate thunderous energy. Deceptive Steps. While traveling, the bearfolk can perform a stomping dance that mimics the thundering footsteps of mighty giants. Any creature within a half mile that hears the sound, but that can't see the bearfolk, must succeed on a DC 15 Wisdom (Perception) check or believe the sound comes from real Giants (or other Huge or larger creatures). Keen Smell. The bearfolk has advantage on Wisdom (Perception) checks that rely on smell. Actions Multiattack. The bearfolk uses Thunder Stomp or Warsong. It then makes one Bite attack and one War Flute attack. Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage. War Flute. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage plus 4 (1d8) thunder damage. Thunder Stomp. The bearfolk hammers its feet on the ground while chanting, emitting destructive energy in a 15-foot cube. Each creature in that area must succeed on a DC 15 Strength saving throw or take 10 (3d6) thunder damage and be knocked prone. Warsong. The bearfolk sets an inspiring rhythm with its dancing. Each friendly creature within 60 feet of the bearfolk has advantage on all saving throws against being charmed or frightened until the end of the bearfolk's next turn. Spellcasting. The bearfolk casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 15): At will: dancing lights , prestidigitation , vicious mockery 2/day each: charm person , disguise self , mirror image 1/day each: compulsion , enthrall , freedom of movement , hypnotic pattern Bonus Actions Frenzy (Recharges on a Short or Long Rest). The bearfolk can trigger a berserk frenzy that lasts 1 minute. It gains resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons and has advantage on attack rolls. Attack rolls made against a frenzied bearfolk have advantage. Taunt (2/Day). The bearfolk jests at one creature it can see within 30 feet of it. If the target can hear the bearfolk, the target must succeed on a DC 15 Charisma saving throw or have disadvantage on ability checks, attack rolls, and saving throws until the start of the bearfolk's next turn.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid (Bearfolk)
+- Alignment: Chaotic Neutral
+- Expansion: 19901
+- Challenge Rating: 6
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

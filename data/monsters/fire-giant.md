@@ -1,76 +1,16 @@
 # Fire Giant
 
-## Fire Giant
+**description**: "Boulders assailed our walls and cast them down, leavin’ gaps through which the giants strode, weapons in hand." —Captain Dwern Addlestone’s partial account of the Siege of Sterngate Giants Ancient empires once cast long shadows over a world that quaked beneath the giants’ feet. In those lost days, these towering figures were dragon slayers, dreamers, crafters, and kings, but their kind fell from glory long ago. However, even divided among secluded clans scattered throughout the world, the giants maintain the customs and traditions of old. Old as Legend. In remote regions of the world, the last remaining plinths, monoliths, and statues of the great giant empires bow their heads in desolate obscurity. Where once those empires sprawled across all lands, now the giants dwell in isolated tribes and clans. Giants are almost as old as dragons, which were still young when the giants’ heavy feet first shook the foundations of the world. As they spread across new lands, giants and dragons fought bitter generational wars that nearly brought both sides low. No living giant remembers what started the conflict, but myths and tales of their race’s glorious dawn are still sung in their steadings and holdfasts, vilifying the primeval wyrms. Giants and dragons continue to harbor grudges against one another, and it is seldom that they will meet or occupy the same area without a fight. The Ordning Each of the main giant races—the cloud, fire, frost, hill, stone, and storm giants—are related by common elements of history, religion, and culture. They view one another as kindred, keeping any inherent animosity over territory and ambition to a minimum. Giants belong to a caste structure called the ordning. Based on social class and highly organized, the ordning assigns a social rank to each giant. By understanding its place in the ordning, a giant knows which other giants are inferior or superior to it, since no two giants are equal. Each of the giant races analyzes a different combination of skills or qualities to determine the ordning. Giants make excelling in these qualities the purpose of their lives. At the highest level of the ordning, the races of the giants are also ranked according to status. Storm giants are the highest in the ordning, followed by cloud giants, fire giants, frost giants, stone giants, hill giants, and finally giant kin such as fomorians, ettins, and ogres. Regardless of a giant’s rank among its own race, the chief of a hill giant tribe is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn’t considered evil to disrespect or even betray a giant of another type, merely rude. Fire Giant Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary. Fire Forged. Fire giant fortresses are built around and inside volcanoes or near magma-filled caverns. The blistering heat of their homes fuels the fire giants’ forges, and causes the iron of their fortress walls to glow a comforting orange. In lands far removed from volcanic heat, fire giants mine coal to burn. Traditional smithies occupy places of honor in their demesnes, and the giants’ stony fortresses constantly belch plumes of sooty smoke. In more remote outposts, fire giants burn wood to keep their forge fires lit, deforesting leagues of land in all directions. Fire giants shun cold as much as their cousins the frost giants hate heat. They can adapt to cold environments with effort, though, keeping their hearth fires burning bright and wearing heavy woolen clothing and furs to stay warm. Martial Experts. From birth, a fire giant is taught to embrace a legacy of war. At the cradle, its parents chant songs of battle. As children, fire giants play at war, hurling igneous rocks at one another across the banks of magma rivers. In later years, formal martial training becomes an integral part of life in the giants’ fortresses and underground realms of smoke and ash. The fire giants’ songs are odes of battles lost and won, while their dances are martial formations of pounding feet that resound like smiths’ hammers throughout their smoky halls. Just as fire giants pass down their knowledge of crafting from generation to generation, their renowned fighting prowess comes not from wild fury but from endless discipline and training. Enemies make the mistake of underestimating fire giants based on their brutish manner, learning too late that these giants live for combat and can be shrewd tacticians. Feudal Lords. Humanoids conquered in war become serfs to the fire giants. The serfs work the farms and fields on the outskirts of fire giant halls and fortresses, raising livestock and harvesting fields whose bounty is almost entirely tithed to the fire giant kings. Fire giant crafters work through insight and experience rather than writing or arithmetic. Though most fire giants place little worth on such frivolousness, they sometimes keep slaves at court who are versed in such skills. Serfs not destined for court or the fields (especially dwarves) are taken to the fire giants’ mountainous realms to mine ore and gemstones from deep within the earth. Fire giants low in the ordning manage the mine tunnels and the slaves that toil there, few of which survive the difficult and dangerous work for long. Though fire giants are skilled in the engineering of mine tunnels and the gathering of ore, they place less importance on the safety of their slaves than on smelting and working the bounty those slaves produce. Skilled Artisans. Fire giants have a fearsome reputation as soldiers and conquerors, and for their ability to burn, plunder, and destroy. Yet among the giants, fire giants produce the greatest crafters and artists. They excel at smelting and smith work, as they do at the engineering of metal and stone, and the quality of their artistry shows even in their implements of destruction and their weapons of war. Fire giants strive to build the strongest fortresses and most potent siege weapons. They experiment with alloys to create the hardest armor, then forge the swords that can pierce it. Such work requires brawn and brains in equal measure, and fire giants high in the ordning tend to be the smartest and strongest of their kind. "And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there." —Elder Zelane of Istivin, recounting the Giant Wars Giant Gods When the giants’ ancient empires fell, Annam, father of all giants, forsook his children and the world. He swore never to look upon either again until the giants had returned to their glory and reclaimed their birthright as rulers of the world. As a result, giants pray not to Annam but to his divine children, along with a host of hero-deities and godly villains that make up the giants’ pantheon. Chief among these gods are the children of Annam, whose sons represent each type of giant: Stronmaus for storm giants, Memnor for cloud giants, Skoraeus Stonebones for stone giants, Thrym for frost giants, Surtur for fire giants, and Grolantor for hill giants. Not all giants automatically revere their kind’s primary deity, however. Many good cloud giants refuse to worship the deceitful Memnor, and a storm giant dwelling in the icy mountains of the north might pay more homage to Thrym than Stronmaus. Other giants feel a stronger connection to Annam’s daughters, who include Hiatea, the huntress and home warden; Iallanis, goddess of love and peace; and Diancastra, an impetuous and arrogant trickster. Some giants abandon their own gods and fall prey to demon cults, paying homage to Baphomet or Kostchtchie. To worship them or any other non-giant deity is a great sin against the ordning, and almost certain to make a giant an outcast. Actions Multiattack : The giant makes two greatsword attacks. Greatsword : Melee Weapon Attack : +11 to hit, reach 10 ft., one target. Hit : 28 (6d6 + 7) slashing damage. Rock : Ranged Weapon Attack : +11 to hit, range 60/240 ft., one target. Hit : 29 (4d10 + 7) bludgeoning damage.
 
-### Fire Giant
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: giant
+- Source: MM1
+- Alignment: lawful evil
+- Challenge Rating: 9
 
-_Huge Giant, Lawful Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 18 **Initiative** +3 (13) <br>
-**HP** 162 (13d12 + 78) <br>
-**Speed** 30 ft. <br>
+**book**: Monster Manual
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>25</td>
-      <td>+7</td>
-      <td>+7</td>
-      <td><strong>DEX</strong></td>
-      <td>9</td>
-      <td>−1</td>
-      <td>+3</td>
-      <td><strong>CON</strong></td>
-      <td>23</td>
-      <td>+6</td>
-      <td>+10</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>WIS</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CHA</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+5</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Athletics +11, Perception +6<br>
-**Immunities** Fire<br>
-**Senses** Passive Perception 16<br>
-**Languages** Giant<br>
-**CR** 9 (XP 5,000; PB +4)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The giant makes two attacks, using Flame Sword or Hammer Throw in any combination.
-
-**_Flame Sword._** _Melee Attack Roll:_ +11, reach 10 ft. _Hit:_ 21 (4d6 + 7) Slashing damage plus 10 (3d6) Fire damage.
-
-**_Hammer Throw._** _Ranged Attack Roll:_ +11, range 60/240 ft. _Hit:_ 23 (3d10 + 7) Bludgeoning damage plus 4 (1d8) Fire damage, and the target is pushed up to 15 feet straight away from the giant and has Disadvantage on the next attack roll it makes before the end of its next turn.

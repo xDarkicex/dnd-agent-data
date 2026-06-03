@@ -1,0 +1,16 @@
+# Veritigibbet
+
+**description**: This creature's most prominent feature is its oversized head—and when paired with its thin neck and narrow frame, it looks like a pumpkin threatening to break off a fragile vine. Its gaunt body is masked in well-tailored finery, and its immense mouth is curled up in a mocking sneer. The jewel-feathered wings protruding from its temples flap madly to keep it aloft. Veritigibbets can be found in all the lands of the fey, asking probing (and often embarrassing) questions of every creature they meet. An encounter with one of the creatures often begins innocently enough, with the veritigibbet paying a compliment and asking a simple question or two, such as asking for a name or occupation, or commenting on the weather. However, veritigibbets are deeply interested in the secret lives of other creatures, and their questions get personal very quickly. Creatures that don't mind impertinent questions can do very well in conversation with a veritigibbet, as the chatty creatures often sprinkle the conversation with bits they've learned from others. Sly Snoops. The rulers of the fey find veritigibbets to be adequate inquisitors and spy-catchers and they bond as many of the creatures to their causes as possible. Veritigibbets who have been bonded to a fey lord earn a modicum more respect than their unaligned peers, but most fey treat veritigibbets with grudging respect at best. Most fey find them to be loathsome tattlers and gossips. Fortissimo Fibber. The veritigibbet can't be magically silenced or forced to tell the truth by any means, and it knows if it hears a lie. Ventriloquist. The veritigibbet can make its voice sound as though it originates from any point it can see within 60 feet of it. Actions Multiattack. The veritigibbet makes two Repartee attacks. Repartee. Melee or Ranged Spell Attack: +6 to hit, reach 5 ft. or range 60 ft., one target. Hit: 14 (3d6 + 4) psychic damage. Blather. The veritigibbet asks a question of a creature it can see within 30 feet of it. The target must make a DC 14 Wisdom saving throw. On a failure, the target must either answer the question truthfully and completely or have disadvantage on all attack rolls, saving throws, and ability checks for the next 1 hour, cumulatively increasing in duration each time the target fails the saving throw and chooses to take disadvantage. If the target chooses to answer the question, it can't dissemble or omit information relevant to the question being answered. On a success, the veritigibbet takes 3 (1d6) psychic damage. Creatures that are immune to being charmed aren't affected by this action. Veiled Escape (1/Day). The veritigibbet teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see, becoming invisible when it arrives at the destination. Reactions Liar, Liar. When a creature lies while within 30 feet of the veritigibbet, that creature must succeed on a DC 14 Dexterity saving throw or take 3 (1d6) fire damage and it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the start of each of its turns.
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: Fey
+- Alignment: Chaotic Neutral
+- Expansion: 19901
+- Challenge Rating: 4
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

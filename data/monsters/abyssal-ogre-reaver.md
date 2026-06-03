@@ -1,0 +1,16 @@
+# Abyssal Ogre Reaver
+
+**description**: The abyssal ogre is a grotesque monstrosity, standing at over 13 feet in height, easily dwarfing its kin. Its hulking frame is covered in a thick, leathery skin, marked by an assortment of repulsive warts, boils, and tumors. Patchy clumps of coarse hair sprout sporadically across its body, adding to its hideous appearance. Long curving horns typically top its head, and its malevolent eyes emit an eerie green glow, reflecting its corrupted and tainted nature. This abyssal ogre is an ill-tempered, dimwitted, savage, and unpredictable monster, a true embodiment of chaos and evil. Bred and created by demon lords and their exarchs, abyssal ogres are used as expendable shock troopers by demonic armies and cults. A few that manage to survive the endless battles may develop other abilities over time. One such adaptation is the ability to unleash a cone of noxious gas. Abyssal Creatures Abyssal creatures are typically the offspring of a demon and another species. Some creatures are transformed into abyssal versions after undergoing demonic rituals performed by powerful cultists. A very rare few are gifted abyssal power by demon lords, usually after imbibing the demon lord's blood. Demon-blooded. Abyssal creatures generally resemble their nondemonic parent, but closer inspection reveal their abhorrent nature: thick, leathery skin, oversized claws and teeth, and a more evil and depraved disposition. Greater abyssal versions show more characteristics of their demonic ancestry - horns, wings, and even additional limbs. They also demonstrate more powerful abilities and potent magic. Traits Magic Resistance. The abyssal ogre has advantage on saving throws against spells and other magical effects. Actions Multiattack. The abyssal ogre makes two melee attacks or two ranged attacks. Greatclub. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage, or 19 (2d8 + 10) when raging. Javelin. Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 17 (2d6 + 10) when raging. Abyssal Breath (Recharge 5–6). The abyssal ogre exhales abyssal gas in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 14 (4d6) necrotic damage and 14 (4d6) poison damage on a failed save, or half as much damage on a successful one. Bonus Actions Bound. The abyssal ogre moves up to half its speed. Reaver's Rage (2/Day). The abyssal ogre enters a rage. Each visible creature of the abyssal ogre's choice within 30 feet of the abyssal ogre and can see the abyssal ogre must succeed on a DC 16 Wisdom saving throw or become frightened of the abyssal ogre while the abyssal ogre is raging. The rage lasts for 1 minute or until the abyssal ogre is incapacitated. While raging, the abyssal ogre gains the following benefits: The abyssal ogre has advantage on Strength checks and Strength saving throws. When it makes a melee weapon attack, the abyssal ogre gains a +4 bonus to the damage roll. The abyssal ogre has resistance to bludgeoning, piercing, and slashing damage.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Fiend (Demon)
+- Alignment: Typically Chaotic Evil
+- Expansion: 29032
+- Challenge Rating: 7
+
+**publisher**: Dragonix Books
+
+**book**: Dragonix's Deadly Denizens
+

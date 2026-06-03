@@ -1,0 +1,16 @@
+# Cult Head of Demogorgon
+
+**description**: High priests who have proven themselves worthy of Demogorgon are gifted by the demon prince with deformities, most commonly sprouting an extra grotesque limb or an arm that mutates into a tentacle. These deformities imbue the high priests with additional abilities which eventually allows them to take the position of exarch. Cultists of Demogorgon The Cult of Demogorgon is not a true organization. Instead, it is a set of loosely connected covens of various sizes. The bulk of the cultists are fiends and intelligent aberrations. Their humanoid members are comprised of mostly bandits, thugs, and social outcasts. They do have two common sets of attributes - all share some form of deformity and a level of deranged sociopathy. Most, if not all, are psychopathic killers who hear the voice of their master. Double Headed. Each coven is often led by two heads, each symbolizing Demogorgon's twin heads, Aameul and Hathradiah. These two heads lead separate groups, each with its objectives. They clash with each other as often as they cooperate. While their methods are not efficient, the horrific trail of bodies they leave sow chaos and fear in most civilized lands. Actions Multiattack. The cult head uses Insanity Gaze. It then makes two Quarterstaff attacks or two Bolt of Madness attacks. Quarterstaff. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 10 (3d6) psychic damage. Bolt of Madness. Ranged Spell Attack: +8 to hit, range 90 ft., one creature. Hit: 11 (2d6 + 4) psychic damage, and the target must succeed on a DC 16 Wisdom saving throw or it must use its reaction to make a melee weapon attack against one visible creature of the cult head's choice. Constructs and Undead are immune to this effect. Insanity Gaze. The cult head fixes its gaze on one creature it can see within 30 feet of it. The target must succeed on DC 16 Wisdom saving throw or suffer the effect of the confusion spell without making a saving throw. The effect lasts until the start of the cult head's next turn. Spellcasting. The cult head casts one of the following spells using Charisma as the spellcasting ability (spell save DC 16): At will: mage hand, message, minor illusion 2/day each: crown of madness, fear, mirror image 1/day each: bestow curse, contagion, Evard's black tentacles, gate, harm, maddening darkness Duplicate Self (Recharge 5–6). The cult head creates an illusory duplicate of itself, which appears in its space and lasts for 1 minute. On its turn, the cult head can move the illusory duplicate a distance equal to its walking speed (no action required). The first time a creature or an object interacts physically with cult head (for example, by hitting it with an attack), there is a 50 percent chance that the illusory duplicate is affected, not the cult head, in which case the illusion disappears. Bonus Actions Divine Word. The cult head casts divine word using Charisma as the spellcasting ability.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid
+- Alignment: Chaotic Evil
+- Expansion: 23212
+- Challenge Rating: 11
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded II
+

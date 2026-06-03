@@ -1,76 +1,16 @@
 # Basilisk
 
-## Basilisk
+**description**: Traits Alchemical Ingredients . After the basilisk dies, a creature can make a DC 12 Wisdom (Medicine) check using an herbalism kit and the basilisk’s gullet, destroying the gullet in the process. On a success, the creature creates three doses of a salve. One dose of this salve can be applied to a petrified creature as an action, and 1 minute after the salve is applied, the petrified condition ends for that creature. Toxic Ichor. A creature who deals piercing or slashing damage to the basilisk while within 5 feet of them takes 2 (1d4) poison damage. Actions Multiattack. The basilisk uses Petrifying Eye Beams and makes one Bite attack or uses Poison Fumes, if available. Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 5 (2d4) poison damage. Petrifying Eye Beams. The basilisk targets one or two creatures they can see within 30 feet of them. Each target must succeed on a DC 12 Constitution saving throw or be restrained as they magically begin to turn to stone. Until the end of the restrained creature’s next turn, they or an ally within 5 feet of them can use an action to cut the encroaching stone from the restrained creature’s body using a weapon that deals slashing damage. When they do, the restrained creature takes 13 (2d12) slashing damage, which can’t be reduced in any way, and they are no longer restrained. A creature restrained in this way must repeat the saving throw at the end of their turn. On a successful save, the effect ends. On a failed save, this creature is petrified until freed by a cure ailment power of 4th order or higher, a greater restoration spell, or a similar supernatural effect. Poison Fumes (Recharge 4 – 6 ). The basilisk exhales poisonous fumes in a 15-foot cone. Each creature in this area must make a DC 12 Constitution saving throw, taking 10 (4d4) poison damage on a failed save, or half as much damage on a successful one. Reactions Poison Splash. When the basilisk takes piercing or slashing damage, their wound spews poison. Each creature within 10 feet of the basilisk must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute (save ends at end of turn).
 
-### Basilisk
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Monstrosity
+- Alignment: Unaligned
+- Expansion: 28288
+- Challenge Rating: 3
 
-_Medium Monstrosity, Unaligned_
+**publisher**: MCDM Productions
 
-**AC** 15 **Initiative** −1 (9) <br>
-**HP** 52 (8d8 + 16) <br>
-**Speed** 20 ft. <br>
+**book**: Where Evil Lives
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>CON</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>CHA</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
-
-**Senses** Darkvision 60 ft.; Passive Perception 9<br>
-**Languages** None<br>
-**CR** 3 (XP 700; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Piercing damage plus 7 (2d6) Poison damage.
-
-#### Bonus Actions
-
-<hr>
-
-**_Petrifying Gaze (Recharge 4–6)._** _Constitution Saving Throw:_ DC 12, each creature in a 30-foot Cone. If the basilisk sees its reflection in the Cone, the basilisk must make this save. _First Failure:_ The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. _Second Failure:_ The target has the Petrified condition instead of the Restrained condition.

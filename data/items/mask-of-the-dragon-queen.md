@@ -1,0 +1,12 @@
+# Mask of the Dragon Queen
+
+**description**: Mask of the Dragon Queen Wondrous item, unique, requires attunement Individually, the five dragon masks resemble the dragons they are named for. When two or more of the dragon masks are assembled, however, they transform magically into the Mask of the Dragon Queen . Each mask shrinks to become the modeled head of a chromatic dragon, appearing to roar its devotion to Tiamat where all the masks brought together are arranged crown-like on the wearer’s head. Below the five masks, a new mask shapes itself, granting the wearer a draconic visage that covers the face, neck, and shoulders. Draconic Majesty. While you are wearing no armor, you can add your Charisma bonus to your Armor Class. Dragon Breath. If you have a breath weapon that requires rest to recharge, it gains a recharge of 6. Dragon Sight. You gain darkvision out to 60 feet, or to an additional 60 feet if you already have that sense. Once per day, you can gain blindsight out to 30 feet for 5 minutes. Dragon Tongue. You can speak and understand Draconic. You also have advantage on any Charisma check you make against dragons that share the mask’s color. Legendary Resistance (5/Day). If you fail a saving throw, you can choose to succeed instead. Damage Absorption. You have resistance against acid, cold, fire, lightning, and poison damage. If you already have resistance to any of these damage types from another source, you instead have immunity to the damage type. If you already have immunity to the damage type from another source, whenever you are subjected to that damage type, you take none of that damage and regain a number of hit points equal to half the damage dealt of that type. Additionally, while you are attuned to and wear this mask, you can have any of the properties from any one mask: Water Breathing. (Black, Green) You can breathe underwater. Lingering Shock. (Blue) If you deal lightning damage to a creature, it can’t take reactions until its next turn. Dragon Fire. (Red) If you deal fire damage to a creature or flammable object, it starts burning. At the start of each of its turns, a creature burning in this way takes 1d6 fire damage. A creature that can reach the burning target can use an action to extinguish the fire. Winter’s Fury. (White) While your current hit points are equal to or less than half your hit point maximum, you deal an extra 1d8 cold damage with your melee attacks.
+
+**properties**:
+- Category: Items
+- Expansion: 7391
+
+**publisher**: Wizards of the Coast
+
+**book**: Hoard of the Dragon Queen
+

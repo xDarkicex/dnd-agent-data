@@ -1,75 +1,16 @@
 # Wyvern
 
-## Wyvern
+**description**: I always feel better, seeing a wyvern. Makes me feel like the wilderness still has power, strength. Like the forest still has a chance. Lady Demelza, Courser Traits Stubborn Rage. The wyvern is immune to the frightened and stunned conditions while they have fewer than half their hit points or are within 60 feet of another wyvern they can hear or see. Actions Multiattack. The wyvern makes one Stinger attack and one Bite attack. They can replace one attack with a use of Tail Sweep. Stinger. Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 13 (3d6 + 3) piercing damage. The target must succeed on a DC 14 Constitution saving throw or take 7 (2d6) acid damage at the start of each of their turns for 1 minute (save ends at end of turn). A cure ailment power or a lesser restoration spell ends this effect on a target. Bite. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 16 (2d12 + 3) piercing damage. If the target is Large or smaller, they are grappled (escape DC 13). Until this grapple ends, the target is restrained and the wyvern can’t bite another target. Tail Sweep. The wyvern swipes their tail in a 15-foot cone. Each creature in that area must succeed on a DC 14 Strength saving throw or take 14 (2d10 + 3) bludgeoning damage and be pushed up to 10 feet away from the wyvern. Bonus Actions Seek. The wyvern takes the Search action.
 
-### Wyvern
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Dragon
+- Alignment: Unaligned
+- Expansion: 28288
+- Challenge Rating: 6
 
-_Large Dragon, Unaligned_
+**publisher**: MCDM Productions
 
-**AC** 14 **Initiative** +0 (10) <br>
-**HP** 127 (15d10 + 45) <br>
-**Speed** 30 ft., Fly 80 ft. <br>
+**book**: Where Evil Lives
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>19</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>DEX</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>5</td>
-      <td>−3</td>
-      <td>−3</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Perception +4<br>
-**Senses** Darkvision 120 ft.; Passive Perception 14<br>
-**Languages** None<br>
-**CR** 6 (XP 2,300; PB +3)
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The wyvern makes one Bite attack and one Sting attack.
-
-**_Bite._** _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 13 (2d8 + 4) Piercing damage.
-
-**_Sting._** _Melee Attack Roll:_ +7, reach 10 ft. _Hit:_ 11 (2d6 + 4) Piercing damage plus 24 (7d6) Poison damage, and the target has the Poisoned condition until the start of the wyvern's next turn.

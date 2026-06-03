@@ -1,75 +1,47 @@
 # Dire Wolf
 
-## Dire Wolf
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Traits Pack Tactics. The wolf has Advantage on an attack roll against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally doesn’t have the Incapacitated condition. Actions Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage, and the target has the Prone condition if it is Huge or smaller.
 
-_Large Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 14
+- HP: 22 (3d10 + 6)
+- PB: 2
+- CHA: 7
+- CON: 15
+- DEX: 15
+- INT: 3
+- STR: 17
+- WIS: 12
+- Size: Large
+- Type: Beast
+- Speed: 50 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406407003/Fk9lJ2h2PC7bQ-PWFkacow/original.png
+- Senses: Darkvision 60 ft.
+- Skills: Perception +5, Stealth +4
+- data-XP: 200
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 2
+- data-Traits: [{"Name":"Pack Tactics","Desc":"The wolf has Advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition."}]
+- data-Actions: [{"Name":"Bite","Desc":"The target has the Prone condition if it is Huge or smaller.","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"5","Reach":"5 ft.","Target":"one target","Damage":"1d10 + 3","Damage Type":"Piercing"}]
+- data-CHA-mod: -2
+- data-CON-mod: 2
+- data-DEX-mod: 2
+- data-INT-mod: -4
+- data-STR-mod: 3
+- data-SizeNum: 5
+- data-WIS-mod: 1
+- Saving Throws: Str +3, Dex +2, Con +2, Int -4, Wis +1, Cha -2
+- Challenge Rating: 1
+- Passive Perception: 15
+- data-CrNum: 1
+- data-AcNum: 14
+- data-HpNum: 22
 
-**AC** 14 **Initiative** +2 (12) <br>
-**HP** 22 (3d10 + 6) <br>
-**Speed** 50 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>3</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Skills** Perception +5, Stealth +4<br>
-**Senses** Darkvision 60 ft.; Passive Perception 15<br>
-**Languages** None<br>
-**CR** 1 (XP 200; PB +2)
-
-### Traits
-
-<hr>
-
-**_Pack Tactics._** The wolf has Advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
-
-### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 8 (1d10 + 3) Piercing damage. If the target is a Large or smaller creature, it has the Prone condition.

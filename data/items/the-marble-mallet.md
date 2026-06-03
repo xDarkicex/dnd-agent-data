@@ -1,0 +1,15 @@
+# The Marble Mallet
+
+**description**: Do no harm. Legend The Sisterhood of Unyielding Vigilance, a knightly order guarding a tear between the worlds of mortals and fiends, was gifted twenty-eight holy weapons, carved from a sacred mountain and trimmed in celestial brass. After five centuries of demonic incursions, most have been broken, corrupted, or stolen. This light hammer is one of the latter—when Knight Sister Bria Zolero retired from the front lines, she took it with her and used its healing magic to start a clinic in her hometown. But a weapon is not so easily separated from its war. Malevolent agents still scheme to seize and corrupt the holy weapon. Location Bria Zolero set up her clinic in a poor village or a poor district of a city. Though most of the clinic’s work is now done by her apprentices, Bria still carries the mallet herself and uses it to heal injured visitors. Encounter Ideas It Draws Old Foes. Bria’s clinic is attacked by fiends while the party is in the area. After they fend off the incursion, Bria realizes that the clinic will never be safe while the mallet is there, and gifts it to the party. It Draws Old Friends. Knight Sister Nisha Stormsworn, once one of Bria’s squires, is ordered to retrieve the weapon and Bria herself. The latter is to face judgment for her theft. Nisha hires the party to escort her, and during their travels, expresses discomfort at detaining Bria. It Draws Old Schemes. Cultists of Asmodeus kidnapped Bria and plan to corrupt both her and the mallet. The village or city the clinic is in hires the party to find Bria, knowing only that she mysteriously disappeared. Progression The Marble Mallet progresses to the next rarity level when it deals radiant damage to a Fiend with a CR equal to the weapon’s current bonus to attack and damage rolls against Fiends x 5. Statistics Weapon (Light Hammer), Rarity Varies (Requires Attunement) You gain a bonus to attack and damage rolls made with this magic weapon, which increases when attacking Fiends. These bonuses are based on the weapon’s rarity, as described in the following table. Weapon Bonuses Rarity Against Fiends Against Non-Fiends Common +1 +0 Uncommon +2 +0 Rare +3 +1 Very Rare +4 +2 Legendary +5 +3 Radiant Pool. While attuned to the weapon, you can draw upon its energy to heal allies or harm Fiends with sacred light. You have a pool of energy that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to the weapon’s bonus to attack and damage rolls against Fiends x 5. As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool. Alternatively, when you hit a Fiend with an attack using this weapon, you can deal radiant damage to that creature up to the maximum amount remaining in your pool.
+
+**properties**:
+- Category: Items
+- Item Type: Weapon (light hammer)
+- Properties: Light, Thrown
+- Item Rarity: varies
+- Requires Attunement: Requires Attunement
+
+**publisher**: Jeff Stevens Games
+
+**book**: Weapons of Legend
+

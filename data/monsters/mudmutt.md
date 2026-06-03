@@ -1,0 +1,16 @@
+# Mudmutt
+
+**description**: Matted fur slick with filth sticks out in bushy patches on this doglike creature. A long, sticky tongue lolls about, hanging from its frog-like mouth. When it croaks, fish are forced up to the surface, dead in the water. Mudmutts are big, frog-like canines that hunt insects and waterfowl in bogs, marshes, and swamps. Their powerful hind legs can propel them through thick mud, and their wide mouths can bellow with mangrove-shaking force. This impressive croak is dangerously painful and can be deadly if experienced underwater. A tongue stretchy and sticky tongue lolls in their big mouths. Mudmutts earned their name from the mud that cakes their coats after a full day of hunting. This heavy coating never seems to bother them and often helps them blend in with their surroundings. Playful and Energetic. When stumbling across a mudmutt in the wild, one must be careful and deliberate. Mudmutts are curious pack hunters that primarily hunt quick-moving prey, and they play with each other by hiding underwater, hopping about, and catching each other by surprise. Any sudden movement triggers a chase or play response, and interactions with mudmutts can escalate easily. Unfit Companions. Inexperienced travelers might see a mudmutt and compare it to more mundane canines, thinking to train it as a swamp-loving hunting dog. Unfortunately, their boundless energy, deafening croaks, and distracting appetites are obstacles to successful domestication. For these reasons, most communities familiar with mudmutts forbid keeping the creatures as hunting animals. Amphibious. The mudmutt can breathe air and water. Hop By. The mudmutt doesn't provoke opportunity attacks when it jumps out of an enemy's reach. Pack Tactics. The mudmutt has advantage on attack rolls against a creature if at least one of the mudmutt's allies is within 5 feet of the creature and the ally isn't incapacitated. Standing Leap. The mudmutt's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start. Swamp Camouflage. The mudmutt has advantage on Dexterity (Stealth) checks made to hide in swampy terrain. Actions Multiattack. The mudmutt makes one Bite attack and one Kick attack. It can replace one Bite attack with one Sticky Tongue attack. Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage. Kick. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 14 (2d8 + 5) bludgeoning damage. Sticky Tongue. Melee Weapon Attack: +8 to hit, reach 20 ft., one creature. Hit: 12 (2d6 + 5) bludgeoning damage, and the target must succeed on a DC 15 Strength saving throw or be pulled up to 15 feet toward to the mudmutt. Sonic Croak (Recharge 5-6). The mudmutt unleashes an ear-piercing croak in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failure, a creature takes 18 (4d8) thunder damage and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn't stunned. Creatures submerged in water have disadvantage on the saving throw and take 27 (6d8) thunder damage instead of 18 (4d8).
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Monstrosity
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 5
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

@@ -1,0 +1,16 @@
+# Guthallath
+
+**description**: The normal guthallath is an enormous construct created long ago by ancient empires as war machines. The version of guthallath encountered in the Kingmaker Adventure Path has been described as an ancient robotic construction risen from a long-buried torpor in ancient Numerian badlands, but its statistics are the same, regardless of whether it was created by ancient magic or super science. A guthallath can be built in any shape, but the classic form is that of an immense humanoid giant. Traits Erosion Aura. Any creature within 120 feet of the guthallath loses all of its damage resistances, and objects in the aura take double damage. If a creature starts its turn within the guthallath’s aura, it takes 7 (2d6) bludgeoning damage. Magic Resistance. The guthallath has advantage on saving throws against spells and other magical effects. Magic Weapons. The guthallath’s weapon attacks are magical. Legendary Resistance (3/Day). If the guthallath fails a saving throw, it can choose to succeed instead. Actions Multiattack. The guthallath makes two melee attacks. Slam. Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 18 (4d8+9) bludgeoning damage. If the target is a Huge or smaller creature, it is grappled (escape DC 23) and is restrained until the grapple ends. The guthallath has two hands, each of which can only grapple one target. Stomp. Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 16 (4d10+9) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Dexterity saving throw or be knocked prone. Deadly Throw. One Huge or smaller creature grappled by the guthallath is thrown up to 50 feet in any direction and is knocked prone. If a thrown target strikes a solid surface, it takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 17 Dexterity saving throw or take the same damage and be knocked prone. Annihilation Beams (Recharge 5–6). The guthallath shoots beams from its eyes in a 120-foot line that is 5 feet wide. Each creature in that line must succeed on a DC 16 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces a creature to 0 hit points, its body becomes a pile of fine gray dust. Legendary Actions The guthallath can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The guthallath regains spent legendary actions at the start of its turn. Detect. The guthallath makes a Wisdom (Perception) check. Attack. The guthallath makes a stomp attack. Trample (Costs 2 Actions). The guthallath moves up to 40 feet in a straight line and can move through the spaces of Huge or smaller creatures and objects as if they were difficult terrain. The guthallath makes one stomp attack against each creature and object as it moves through their space. On a hit, a creature must also succeed on a DC 23 Strength saving throw or be knocked prone.
+
+**properties**:
+- Category: Monsters
+- Size: Gargantuan
+- Type: construct
+- Alignment: unaligned
+- Expansion: 17526
+- Challenge Rating: 20
+
+**publisher**: Paizo
+
+**book**: Kingmaker Bestiary (5e)
+

@@ -1,83 +1,16 @@
 # Shambling Mound
 
-## Shambling Mound
+**description**: The ground, lush and overgrown, squelches under every footstep. Curtains of menacing vines block the way, and muffled groans echo distantly under the darkening canopy. By the time you realize the ground is moving, it’s too late—the shambling mound has taken you. Found in overgrown swamps, stinking marshes, dense wodes, and dark, damp rainforests, the shambling mound is a wandering mass of vegetation that feeds on everything in their path. Hearty Eater. As a shambling mound drags their massive form through the undergrowth, they consume any organic matter they pass. When they find a good place to lurk until a meal comes to them, the result is far more satisfying. After a mound engulfs their prey—be they animal or adventurer—the meal-to-be is sealed in a sack of inter­woven vines and leaves. The walls of this vegetative chamber release a toxic sap that dissolves the prey inside. Verdant Camouflage. Rather than slowly chase prey, the shambling mound prefers to drape their form along well-traveled paths. They blend perfectly into their hunting ground, making it easy to seize unsuspecting passersby. A shambling mound in a rainforest may sport vines, ferns, and giant leaves, while another in a swamp engulfs adv­enturers in massive grasses, moss, and reeds. Noxious Origins. A shambling mound is most often a byproduct of a nearby evil mage. The nefarious magic of the surrounding land can coalesce into a nocuous creature consumed by hunger. The shambling mound knows only that they must feed, and thus they drag themself in search of a hunting ground. Growing in Size. Most shambling mounds begin their unnatural lives about the size of an adult human. These smaller young are often called shambling piles. The strongest among these piles consume their many siblings, growing much larger and becoming true shambling mounds. Will Work for Food. Shambling mounds aren’t malicious, and some show a capacity for learning. Daring (or foolish) adventurers might find that feeding a shambling mound a steady diet of evildoers turns them into a loyal companion. Traits Engulfing Sack. The mound has a vegetative sack on their body where they carry engulfed creatures. The sack can be attacked (AC 15; 50 hit points; immunity to poison and psychic damage), which deals no damage to the mound. Destroying the sack frees creatures trapped by the mound’s Engulf action. The mound regrows the sack at the beginning of their next turn. False Appearance. While the mound remains motionless, they are indistinguishable from an ordinary mass of vegetation. Actions Multiattack. The mound makes two Vine Lash attacks. They can replace one attack with a use of Engulf, if available. Vine Lash. Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 60 ft., one target. Hit: 14 (2d8 + 5) piercing damage. If the target is Medium or smaller, the mound can pull the target up to 30 feet toward them. Engulf (Recharge 5 – 6 ). The mound reaches out with writhing vines and attempts to pull in up to two Medium or smaller creatures within 30 feet of them. Each target must succeed on a DC 16 Strength saving throw or be engulfed in the mound’s engulfing sack. An engulfed creature is restrained, has total cover against attacks and other effects outside the mound, and takes 7 (2d6) poison damage at the start of each of the mound’s turns. When the mound moves, the engulfed creature moves with them. If the mound dies or their engulfing sack is destroyed, each engulfed creature is freed and shunted to an unoccupied space of their choice within 5 feet of the mound. Reactions Poison Froth. When the mound takes damage, the inside of their engulfing sack churns with poison. Each creature engulfed by the mound takes 3 (1d6) poison damage, and the mound regains a number of hit points equal to the total damage dealt by this reaction to creatures in their sack.
 
-### Shambling Mound
+**properties**:
+- Category: Monsters
+- Size: Gargantuan 
+- Type: Plant
+- Alignment: Unaligned
+- Expansion: 25493
+- Challenge Rating: 5
 
-_Large Plant, Unaligned_
+**publisher**: MCDM Productions
 
-**AC** 15 **Initiative** −1 (9) <br>
-**HP** 110 (13d10 + 39) <br>
-**Speed** 30 ft., Swim 20 ft. <br>
+**book**: Flee Mortals
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+4</td>
-      <td><strong>DEX</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>CON</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>5</td>
-      <td>−3</td>
-      <td>−3</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>5</td>
-      <td>−3</td>
-      <td>−3</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Stealth +3<br>
-**Resistances** Cold, Fire<br>
-**Immunities** Lightning; Deafened, Exhaustion<br>
-**Senses** Blindsight 60 ft.; Passive Perception 10<br>
-**Languages** None<br>
-**CR** 5 (XP 1,800; PB +3)
-
-#### Traits
-
-<hr>
-
-**_Lightning Absorption._** Whenever the shambling mound is subjected to Lightning damage, it regains a number of Hit Points equal to the Lightning damage dealt.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The shambling mound makes three Charged Tendril attacks. It can replace one attack with a use of Engulf.
-
-**_Charged Tendril._** _Melee Attack Roll:_ +7, reach 10 ft. _Hit:_ 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4) Lightning damage. If the target is a Medium or smaller creature, the shambling mound pulls the target 5 feet straight toward itself.
-
-**_Engulf._** _Strength Saving Throw:_ DC 15, one Medium or smaller creature within 5 feet. _Failure:_ The target is pulled into the shambling mound's space and has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Blinded and Restrained conditions, and it takes 10 (3d6) Lightning damage at the start of each of its turns. When the shambling mound moves, the Grappled target moves with it, costing it no extra movement. The shambling mound can have only one creature Grappled by this action at a time.

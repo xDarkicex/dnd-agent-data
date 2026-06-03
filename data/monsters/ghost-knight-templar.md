@@ -1,0 +1,16 @@
+# Ghost Knight Templar
+
+**description**: Ghost knights were once living creatures who accepted the blessing of undeath and rose through the ranks of their dark kingdom' s armies. Some orders of knighthood require service after death; ghost knights templar are one such group. Both the willing and the conscripts entering the order as living men and women, and those who serve bravely and loyally for five years or more are “raised up” into the ranks of the undead by their undead lords. They become fully-fledged ghost knights (see Tome of Beasts ) and are given an undead warhorse a nd a lance. Champions of Evil. When a ghost knight makes its 113th kill with its lance, the slain victim's spirit fuses to the weapon. In a ceremony to promote the ghost knight to a templar, the order's priests and priestesses break the lance over an altar. The ghost knight and its horse then absorb the victim's spirit from the lance, transforming them into powerful creatures. Flying Mounts. Ghost knight templars ride flying undead warhorses into battle. Their steeds are unusually intelligent and unwaveringly loyal to the templars. The magical bond between them allows the templar to summon or dismiss the mount whenev er it needs. Charge. If the ghost knight templar is mounted and moves at least 20 feet straight toward a creature and then hits it with a shadow blade attack on the same turn, the target takes an extra 10 (3d6) slashi ng damage. Incorporeal Movement. The ghost knight templar can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object. Turning Defiance. The ghost knight templar and any undead within 30 feet of it have advantage on saving throws against effects that tu rn undead. Undead Nature. The ghost knight templar doesn't require air, food, drink, or sleep. Actions Multiattack. The ghost knight templar makes three Shadow Blade attacks. Shadow Blade. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage plus 10 (3d6) necroti c damage. Stride of Damnation (Recharge 5-6). The ghost knight templar moves up to its speed through its enemies. This movement doesn't provoke opportunity attacks. Each creature through which the templar passes must make a DC 16 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one. The templar can't use this action whil e mounted. Bonus Actions Ghostly Mount. The ghost knight templar can summon or dismiss a ghostly mount, mounting or dismounting it as part of this bonus action without spending movement. The mount uses the statistics of a warhorse skeleton, except it has the Incorporeal Movement trait, a flying speed of 60 feet, 40 hit points, and resistance to cold and necrotic damage and bludgeoning, piercing, and slashing damage from nonmagical attacks. If the mount is slain, it disappears, leaving behind no physical form, and the templar must wait 1 hour before summoning the mo unt again.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead
+- Alignment: L awful Evil
+- Expansion: 19901
+- Challenge Rating: 10
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

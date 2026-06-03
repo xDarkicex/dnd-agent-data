@@ -1,0 +1,11 @@
+# Kitsu Family - Lion Clan
+
+**description**: Ancestor veneration is common in Rokugan, but the Kitsu bloodline, which incorporated with otherworldly beings in ages past, produces members who can part the veil to speak with them. The Kitsu are known for being traditional and conservative, even among the Lion. Those without the talent to speak to spirits keep genealogies, tend to the tombs and shrines, and otherwise honor the noble dead. Skill Proficiencies: Religion, choose one other Charisma-based skill (Deception, Intimidation, Performance, or Persuasion). Tool Proficiencies: Divination kit, any one artisan tool. Weapon Proficiencies: Wakizashi. Languages: You can read, sign, speak, and write Rokugani and Courtly Rokugani. You can also speak and sign battle argot. Equipment: Sanctified vestments, wakizashi, divination kit, any one artisan tool, 10 gp. Background Feature: Know the Past, Find the Future You were raised in the Lion Clan, the most famous and expansive military power in Rokugan, granting you the following benefits: You know history quite well, especially as it pertains to military actions, political shifts in power, and various challenges faced by the Emerald Empire over the centuries. You know the current military situation in Rokugan and the lands beyond. You can identify and know the proper purpose of all Rokugani battlefield weapons, even if you are not personally proficient in their use. You know about common military maneuvers and engagements, such as feigned retreats, flank attacks, raids, and sieges. Suggested Feats A set of suggested feats that reflect the Lion Clan’s traditions and training can be found in chapter 5. Kitsu Medium School Quick Build If you want to quickly build a character trained in the Kitsu school of rituals, make Wisdom and Constitution your highest ability scores. Begin in the ritualist class, choosing the Medium archetype at 2nd level. Select invocations like biting steel , guardian of the sacred gate , and path to inner peace that augment, summon, and mend allies. Continue in the ritualist class to unlock the Unison of Purpose feature to maximize the power of the spectral troopers and manifest elemental spirits you summon.
+
+**properties**:
+- Category: Backgrounds
+
+**publisher**: Edge Studio
+
+**book**: Adventures in Rokugan
+

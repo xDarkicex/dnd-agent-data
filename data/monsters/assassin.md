@@ -1,89 +1,16 @@
 # Assassin
 
-## Assassin
+**description**: Assassins are professional killers that callously exterminate their targets for the right price. They can be found working black ops for mercenary groups, corrupt government officials, and ruthless megacorporations Traits Assassinate. During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit. Deft Strike. Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll. Silent Killer. If the assassin makes an attack that reduces a target to 0 hit points, the assassin can take the Hide action as a bonus action before the end of their turn. Actions Multiattack. The assassin attacks twice with its poisoned blade or three times with its silenced pistol. Poisoned Blade (Melee). Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: (1d6+3) piercing damage. On a hit, the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one. Poisoned Blade (Ranged). Ranged Weapon Attack: +6 to hit, reach 20/60 ft., one target. Hit: (1d6+3) piercing damage. On a hit, the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one. Microfilament Garrote. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: (2d4+3) slashing damage. On a hit, if the target is Medium or smaller, it is grappled (escape DC 14). Until this grapple ends, the target is restrained, it takes 35 (10d6) slashing damage at the start of each of the assassin's turns, and the assassin can't attack another target. Silenced Pistol. Ranged Weapon Attack: +6 to hit, reach 50/250 ft., one target. Hit: (1d6+3) piercing damage. On a hit, the target must make a DC 15 Constitution saving throw, taking 24 (7d6) force damage on a failed save, or half as much damage on a successful one
 
-### Assassin
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (any)
+- Alignment: any non-good alignment
+- Expansion: 27052
+- Challenge Rating: 8
 
-_Medium or Small Humanoid, Neutral_
+**publisher**: Alligator Alley Entertainment
 
-**AC** 16 **Initiative** +10 (20) <br>
-**HP** 97 (15d8 + 30) <br>
-**Speed** 30 ft. <br>
+**book**: Esper Genesis Threats Database
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>DEX</strong></td>
-      <td>18</td>
-      <td>+4</td>
-      <td>+7</td>
-      <td><strong>CON</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+6</td>
-      <td><strong>WIS</strong></td>
-      <td>11</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>CHA</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Acrobatics +7, Perception +6, Stealth +10<br>
-**Resistances** Poison<br>
-**Gear** Light Crossbow, Shortsword, Studded Leather Armor<br>
-**Senses** Passive Perception 16<br>
-**Languages** Common, Thieves' Cant<br>
-**CR** 8 (XP 3,900; PB +3)
-
-#### Traits
-
-<hr>
-
-**_Evasion._** If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the Incapacitated condition.
-
-#### Actions
-
-<hr>
-
-**_Multiattack._** The assassin makes three attacks, using Shortsword or Light Crossbow in any combination.
-
-**_Shortsword._** _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 7 (1d6 + 4) Piercing damage plus 17 (5d6) Poison damage, and the target has the Poisoned condition until the start of the assassin's next turn.
-
-**_Light Crossbow._** _Ranged Attack Roll:_ +7, range 80/320 ft. _Hit:_ 8 (1d8 + 4) Piercing damage plus 21 (6d6) Poison damage.
-
-#### Bonus Actions
-
-<hr>
-
-**_Cunning Action._** The assassin takes the Dash, Disengage, or Hide action.

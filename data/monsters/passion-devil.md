@@ -1,0 +1,16 @@
+# Passion Devil
+
+**description**: Passion devils were created by the archdevil Fierna in her likeness and image, and are therefore both strikingly beautiful and terrifying. While the passion devils serve Fierna officially as ambassadors to the courts of other archdevils or dukes of the Nine Hells, their true purpose is to infiltrate enemy ranks and spy on other devils. Emotional Manipulators. Passion devils rarely engage in combat and instead use their powers of domination, manipulation, and seduction to meet their objectives. If forced into a fight it does not like, it will use its spells and abilities to sow just enough confusion and discord for it to escape. Passion devils rarely travel alone, and are often accompanied by bearded devils that serve them as bodyguards. Traits Object of Desire. A creature that starts within 20 feet of the devil must succeed on a DC 18 Wisdom saving throw, unless the devil is incapacitated. On a failed save, the creature is charmed until the start of its next turn. If a creature's saving throw is successful, the creature has advantage on saving throws against the devil's Object of Desire for the next 24 hours. Devil's Sight. Magical darkness doesn't impede the devil's darkvision. Magic Resistance. The devil has advantage on saving throws against spells and other magical effects. Actions Multiattack. The devil uses Fiery Strike twice. Alternatively, it can make one Fiery Strike and use Spellcasting. Fiery Strike. Melee or Ranged Spell Attack: +10 to hit, reach 5 ft. or range 60 ft., one target. Hit: 10 (3d6) fire damage, and the target has disadvantage on saving throws against being charmed until the end of the devil's next turn. Passion Flames (Recharge 5–6). The devil targets up to three visible creatures within 120 feet of it. Each creature must succeed on a DC 18 Wisdom saving throw. Creatures that are already charmed by the devil automatically fail their saving throw. On a failed save, a creature takes 14 (4d6) fire damage and is charmed until the end of the turn. A charmed creature must immediately use its reaction to move up to half its speed as the devil directs and make one weapon attack against a visible creature of the devil's choice. On a successful save, the creature takes half as much damage and isn't charmed. Spellcasting. The passion devil casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18): At will: alter self, charm person, suggestion 1/day each: charm monster, dominate person Reactions Instinctive Charm. When a creature within 60 feet of the devil makes an attack roll against it, and another creature is within the attack’s range, the attacker must make a DC 18 Wisdom saving throw. On a failed save, the attacker must target the creature that is closest to it, not including the devil or itself. If multiple creatures are closest, the attacker chooses which one to target. If the saving throw is successful, the attacker is immune to the devil’s Instinctive Charm for 24 hours.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fiend (Devil)
+- Alignment: Typically Lawful Evil
+- Expansion: 23212
+- Challenge Rating: 9
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded II
+

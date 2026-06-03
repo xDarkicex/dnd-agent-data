@@ -1,0 +1,16 @@
+# Avoral
+
+**description**: Avorals appear as tall, muscular humanoids with feathered wings for arms and eagle-like lower legs that end with sharp talons. They have hands at the end of their wings, allowing them to use weapons. The avoral has strong but hollow bones that make it incredibly light, so much that even the largest avoral weighs no more than 120 pounds. Flying Skirmishers. Avorals are the scouts and rangers of the guardinals. Their acute vision allows them to see enemies from great distances, and their light, majestic bodies enable them to fly at incredible speeds. In combat, the avorals prefer to attack by raining crossbow bolts at their targets while perched on high ground or swooping down at them and slashing with their sharp talons. Like other guardinals, avorals are innate magic-users and can cast devastating spells like lightning bolt and fear. Guardinals The noble guardinals are celestials that resemble animal-humanoid hybrids. Despite their bestial appearance, guardinals are the most honorable and pure-hearted beings one will ever encounter. Native to Elysium and the House of Nature, the guardinals embody virtue and good-naturedness without being constrained by law nor distracted by the chaos of freedom. They are welcoming, mirthful, and witty. Though they always seek to resolve conflict through peaceful means, guardinals are ready to fight if needed. Due to their nature, guardinals often clash with fiends, tyrants, and evil undead. Noble Heroes. While guardinals have no strict hierarchy as do the celestial archons, they recognize the authority and follow the guardinal paragons known as Talisid and the Five Companions. From time to time, guardinals may be called upon by deities of Elysium and the House of Nature to perform noble quests, at times aiding heroes from the Material Plane. Squads of guardinals also mount lightning raids and rescue missions in the Lower Planes. Traits Flyby. The avoral doesn’t provoke opportunity attacks when it flies out of an enemy’s reach. Keen Sight. The avoral has advantage on Wisdom (Perception) checks that rely on sight. Magic Resistance. The avoral has advantage on saving throws against spells and other magical effects. Speak with Beasts. The avoral can communicate with beasts as if they shared a language. Actions Multiattack. The avoral makes two melee weapon attacks. While flying, it can only make Talon attacks. Talon. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage. Scimitar. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage. Light Crossbow. Ranged Weapon Attack: +7 to hit, range 80/320 ft., one target. Hit: 8 (1d8 + 4) piercing damage. Spellcasting. The avoral casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14): At will: aid, blur, command, detect magic, gust of wind, hold person 2/day each: dispel magic, fear, lightning bolt
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Celestial
+- Alignment: typically Neutral Good
+- Expansion: 26536
+- Challenge Rating: 5
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded III
+

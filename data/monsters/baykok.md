@@ -1,0 +1,16 @@
+# Baykok
+
+**description**: When hunters become utterly obsessed with the chase and indulge excessively in the savagery of the kill, their souls become progressively tainted. When such remorseless hunters perish before they can capture and kill their quarry, they sometimes rise from death as baykoks—flying undead horrors that kill purely for the ecstasy that only murder can bring them. Unlike many undead who feed on and hate all living things, a baykok seeks always to prove its mastery of the hunt. Though thoroughly wicked, baykoks often ignore all but the most powerful-looking foe in a group, only picking offlesser creatures if they dare to get between the baykok and its true prey. When it finally lays low its quarry, the baykok swoops down on the victim to devour the creature’s soul in an attempt to make sure the creature never returns to seek revenge. @font-face {font-family:"MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-alt:"ＭＳ 明朝"; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;}@font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-1593833729 1073750107 16 0 415 0;}@font-face {font-family:Cambria; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;}@font-face {font-family:"\@MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-ansi-language:EN-GB;}p.ArticleTitle, li.ArticleTitle, div.ArticleTitle {mso-style-name:"Article Title"; mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; mso-style-next:Normal; margin:0cm; mso-pagination:widow-orphan lines-together; page-break-after:avoid; mso-hyphenate:none; font-size:14.0pt; mso-bidi-font-size:10.0pt; font-family:"Verdana",sans-serif; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; text-transform:uppercase; mso-font-kerning:10.0pt; mso-ansi-language:EN-US; mso-fareast-language:JA; font-weight:bold; mso-bidi-font-weight:normal;}.MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-ascii-font-family:Cambria; mso-fareast-font-family:"MS Mincho"; mso-hansi-font-family:Cambria; mso-font-kerning:0pt; mso-ligatures:none;}div.WordSection1 {page:WordSection1;}
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: undead
+- Alignment: neutral evil
+- Expansion: 32483
+- Challenge Rating: 9
+
+**publisher**: Legendary Games
+
+**book**: Alien Bestiary
+

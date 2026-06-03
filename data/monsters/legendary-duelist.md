@@ -1,0 +1,16 @@
+# Legendary Duelist
+
+**description**: A duelist is a cunning melee combatant who combines its expertise with two-weapon fighting, the art of leaving opponents open, and mastery of taking advantage of such vulnerabilities. Most duelists are sought-after mercenaries. Some are obsessive narcissists, always looking for a challenge to prove their martial skills. If they hear stories of adventurers' great deeds that overshadow theirs, the duelist will seek them out and goad them into a fight. Traits Dual Wielder. When the duelist is wielding a separate melee weapon in each hand, it gains a +1 bonus to its AC (included in the AC). In addition, it can draw or stow two one-handed weapons. Legendary Resistance (1/Day). If the duelist fails a saving throw, it can choose to succeed instead. Fancy Footwork. When the duelist makes a melee attack against a creature, that creature can't make opportunity attacks against the duelist until the end of the turn. Sneak Attack (1/Turn). The duelist deals an extra 21 (6d6) damage when the duelist hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the duelist that isn't incapacitated and the duelist doesn't have disadvantage on the attack roll. Toujours l’Audace. The duelist adds its Charisma modifier to its initiative rolls. In addition, it can use Sneak Attack with any melee attack made against a target that has none of its allies adjacent to it. Actions Multiattack. The duelist makes two Rapier attacks and one Dagger attack. Rapier. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage. Dagger. Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d4 + 5) piercing damage. Rain of Daggers (Recharges after a Short or Long Rest). The duelist makes six ranged Dagger attacks. Bonus Actions Cunning Action. The duelist takes the Dash, Disengage, or Hide action. Feinting Attack. The duelist chooses one creature within 5 feet of it. It has advantage on its next attack roll against the target. Legendary Actions The duelist can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The duelist regains spent legendary actions at the start of its turn. Feint. The duelist chooses one creature within 5 feet of it. It has advantage on its next attack roll against the target. Shift. The duelist moves up to half its speed without provoking opportunity attacks. Attack (Costs 2 Actions). The duelist makes a melee or ranged weapon attack. Disarm and Grab (Costs 2 Actions). When the duelist hits a melee weapon attack at one creature holding an object (such as a weapon), it must make a DC 18 Strength or Dexterity saving throw. On a failed save, the target drops the held object. The object lands in the other hand of the duelist. Reactions Riposte. When a creature misses the duelist with a melee attack, the duelist can make one melee weapon attack against it.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Humanoid
+- Alignment: Any Alignment
+- Expansion: 23212
+- Challenge Rating: 14
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded II
+

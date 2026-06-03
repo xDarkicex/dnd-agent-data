@@ -1,0 +1,18 @@
+# Phalangeal Shot
+
+**description**: Phalangeal Shot 1st-level evocation (sorcerer, warlock, wizard) Casting Time: 1 action Range: Self (30-foot line) Components: V, S Duration: Instantaneous You point your fingers forward and your phalangeal bones fire outwards, akin to the bullets of a gun. They regrow immediately, leaving your hand unscathed. All creatures in a 1-foot-wide, 30-foot-long line in front of you must succeed on a Dexterity saving throw or take 2d8 piercing damage. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+
+**properties**:
+- Category: Spells
+- Save: Dexterity
+- Level: 1
+- School: evocation
+- Components: V, S
+- Damage Type: piercing
+- Casting Time: 1 action
+- data-RangeAoe: Self (30 ft ⇧)
+
+**publisher**: MonkeyDM
+
+**book**: Steinhardt's Guide to the Eldritch Hunt
+

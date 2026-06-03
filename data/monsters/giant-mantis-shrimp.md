@@ -1,0 +1,16 @@
+# Giant Mantis Shrimp
+
+**description**: A giant mantis shrimp is a marine crustacean with a12-foot-long, flattened, segmented body and a set of compound eyes that can perceive colors beyond humanoid comprehension. What a giant mantis shrimp is known for is its highly specialized attack. The giant mantis shrimp is capable of delivering devastating 'punches' with its appendages, it can break hard shells and shatter bone with a single strike, leaving prey stunned and incapacitated. Giant mantis shrimps can be found in shallow tropical and subtropical waters. Traits Amphibious. The mantis shrimp can breathe air and water. Actions Slam. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 22 (4d8 + 4) bludgeoning damage, and the target must succeed on a DC 14 Constitution saving throw or be stunned until the end of the mantis shrimp's next turn.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Beast
+- Alignment: Unaligned
+- Expansion: 29032
+- Challenge Rating: 3
+
+**publisher**: Dragonix Books
+
+**book**: Dragonix's Deadly Denizens
+

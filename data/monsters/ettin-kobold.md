@@ -1,0 +1,16 @@
+# Ettin, Kobold
+
+**description**: A stout, scaly figure with two squabbling kobold heads walks among smaller kobolds, its brethren giving it considerable berth. Abruptly, the double heads stop arguing to cut loose with a double belch that shakes the cavern walls. The origins of the first kobold ettin are a total mystery. Hags may have cursed two disruptive kobold minions to inhabit the same body as punishment. Or ettins bargained with dragons for power and received only boons that twisted their forms to resemble the kobolds they had bullied. Few who meet a kobold ettin consider their origins. While not as physically imposing as a true ettin, kobold ettins lack the kobold's craven streak, and adventurers who assume they are cowards have miscalculated, often with fatal results. Miserable Company. Kobold ettins are famously argumentative. As outcasts, their spite borne from an existence without privacy and a shared stomach's constant hunger. Known for complaining, bickering, and insulting each other, kobold ettins are heard before they are seen, and savvy heroes exploit this weakness. Ettins and other giants avoid kobold ettins, but many kobold communities welcome their imposing brethren as laborers and protectors. Though kobold warrens are often cramped for the kobold ettin, they crave an audience for their grievances as much as food for their bellies and often tolerate the small spaces for the companionship. Bickering Heads. A kobold ettin's constant bickering can be easily heard and proves a tough habit to disrupt. The kobold ettin has disadvantage on Dexterity (Stealth) checks to stay silent, but it has advantage on Wisdom (Perception) checks. In addition, it has advantage against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious. Might of Giants . Though squat by ettin standards, kobold ettins are as much giant as they are kobold. A kobold ettin is a Large Giant for the purpose of determining its carrying capacity. Pack Tactics. The kobold ettin has advantage on attack rolls against a creature if at least one of the kobold ettin's allies is within 5 feet of the creature and the ally isn't incapacitated. Sunlight Sensitivity. While in sunlight, the kobold ettin has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Actions Multiattack. The kobold ettin makes two Greatclub or Spear attacks. Greatclub. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. Spear. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack. Echoing Burps (Recharge 5-6). The kobold ettin tries to let loose double roar but instead sends forth a series of obnoxious, smelly belches in a 15-foot cone. Each creature in the area must make a DC 13 Constitution saving throw. On a failure, a creature takes 10 (4d4) thunder damage and is incapacitated until the end of its next turn. On a success, a creature takes half the damage and isn't incapacitated.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Giant (Kobold)
+- Alignment: Lawful Evil
+- Expansion: 19901
+- Challenge Rating: 1
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

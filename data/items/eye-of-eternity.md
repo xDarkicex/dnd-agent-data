@@ -1,0 +1,14 @@
+# Eye of Eternity
+
+**description**: Eye of Eternity Wondrous Item, Artifact (Requires Attunement) This artifact is a tiny crystal calcified from the blood of a demon lord. Those who shed blood on it may call upon the demon lord as their patron and receive its aid. During the Age of Cataclysm, the sorcerer-kings of the City of Wonders forged pacts with demonic powers to draw their dark eldritch powers and reap destruction upon their enemies. Unfortunately, while these patrons promised greatness, it came at the cost of their humanity and eventually led to the spiral of corruption that caused their downfall. RANDOM PROPERTIES The Eye of Eternity has the following random properties: 2 minor beneficial properties 1 minor detrimental property 1 major detrimental property Spells. The Eye has 5 charges and regains 3 + 1d4 expended charges daily at dawn. If you are attuned to the Eye , you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: chill touch or darkness (1 charge), black tentacles (2 charges), or contact other plane (3 charges). You can also use an action to cast the augury spell from the Eye without using any charges. Conjure Demons. You summon a spawn of Hriggala (see Tome of Beasts 2 or use glabrezu ) that appears in an unoccupied space you can see within 90 feet. The spawn of Hriggala disappears when it drops to 0 hit points or when the spell ends. The spawn disappears after 10 minutes or when it is reduced to 0 hit points. For the duration of the summoning, the spawn acknowledges you as its summoner and won’t attack you. Roll initiative for the spawn of Hriggala. On its turn, the demon attacks and attempts to devour the nearest living creature (including, possibly, the summoner’s allies). It continues to feed for the duration of the summoning. The GM has the spawn of Hriggala’s statistics. Petition Patron. As an action, you use the Eye of Eternity as a focus to call upon the Lord Hriggala to intervene on your behalf. While focusing, you describe the assistance you seek, then roll a d20. If you roll 1–3, Lord Hriggala intervenes. The DM chooses the nature of the intervention. The effect of any of Hriggala’s powers, actions, or legendary actions would be appropriate. If you roll a 20, Hriggala manifests at a random location within 30 feet of the Eye of Eternity’s wielder. The angered demon lord only manifests for 1 round. During that round, it uses all of its effort to recover the Eye of Eternity . Destroying the Eye of Eternity. The Eye of Eternity cannot be destroyed. However, feeding the Eye of Eternity to Lord Hriggala breaks its attunement to any mortal claiming the artifact. As long as the Eye rests within the demon lord’s gullet, it remains impotent.
+
+**properties**:
+- Category: Items
+- Item Type: Wondrous item
+- Item Rarity: artifact
+- Requires Attunement: requires attunement
+
+**publisher**: Kobold Press
+
+**book**: Tales from the Wastes
+

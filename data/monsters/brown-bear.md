@@ -1,73 +1,46 @@
 # Brown Bear
 
-## Brown Bear
+**description**: This monster appears in the Dungeons & Dragons Player's Handbook 2024. Actions Multiattack. The bear makes one Bite attack and one Claw attack. Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage. Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage, and the target has the Prone condition if it is Huge or smaller.
 
-_Large Beast, Unaligned_
+**properties**:
+- Category: Monsters
+- AC: 11
+- HP: 22 (3d10 + 6)
+- PB: 2
+- CHA: 7
+- CON: 15
+- DEX: 12
+- INT: 2
+- STR: 17
+- WIS: 13
+- Size: Large
+- Type: Beast
+- Speed: 40 ft., Climb 30 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/406412620/1iyHV2lRLo5UA7k0ed7RqQ/original.png
+- Senses: Darkvision 60 ft.
+- Skills: Perception +3
+- data-XP: 200
+- Alignment: Unaligned
+- Expansion: 33335
+- Languages: None
+- data-List: false
+- Token Size: 2
+- data-Actions: [{"Name":"Multiattack","Desc":"The bear makes one Bite attack and one Claw attack."},{"Name":"Bite","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"5","Reach":"5 ft.","Target":"one target","Damage":"1d8 + 3","Damage Type":"Piercing"},{"Name":"Claw","Desc":"The target has the Prone condition if it is Huge or smaller.","Type":"Melee","Type Attack":"Weapon Attack","Hit Bonus":"5","Reach":"5 ft.","Target":"one target","Damage":"1d4 + 3","Damage Type":"Slashing"}]
+- data-CHA-mod: -2
+- data-CON-mod: 2
+- data-DEX-mod: 1
+- data-INT-mod: -4
+- data-STR-mod: 3
+- data-SizeNum: 5
+- data-WIS-mod: 1
+- Saving Throws: Str +3, Dex +1, Con +2, Int -4, Wis +1, Cha -2
+- Challenge Rating: 1
+- Passive Perception: 13
+- data-CrNum: 1
+- data-AcNum: 11
+- data-HpNum: 22
 
-**AC** 11 **Initiative** +1 (11) <br>
-**HP** 22 (3d10 + 6) <br>
-**Speed** 40 ft., Climb 30 ft. <br>
+**publisher**: Wizards of the Coast
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>17</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CON</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>2</td>
-      <td>−4</td>
-      <td>−4</td>
-      <td><strong>WIS</strong></td>
-      <td>13</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CHA</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
+**book**: Free Basic Rules (2024)
 
-**Skills** Perception +3<br>
-**Senses** Darkvision 60 ft.; Passive Perception 13<br>
-**Languages** None<br>
-**CR** 1 (XP 200; PB +2)
-
-### Actions
-
-<hr>
-
-**_Multiattack._** The bear makes one Bite attack and one Claw attack.
-
-**_Bite._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Piercing damage.
-
-**_Claw._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 5 (1d4 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.

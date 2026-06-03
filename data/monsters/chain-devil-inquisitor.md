@@ -1,0 +1,16 @@
+# Chain Devil Inquisitor
+
+**description**: A few kytons who have become very skilled in prolonging the suffering of their victims and have demonstrated certain arcane abilities eventually get rewarded and become chain devil inquisitors. When archdevils require information from certain key individuals, they send these masters of torture to extract it. Traits Devil's Sight. Magical darkness doesn't impede the devil's darkvision. Magic Resistance. The devil has advantage on saving throws against spells and other magical effects. Actions Multiattack. The devil makes three Chain attacks. It can replace two Chain attacks with Chain Slam. Chain. Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 12 (2d6 + 5) slashing damage. The target is grappled (escape DC 15) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns. Chain Slam. The devil slams a Medium or smaller creature grappled by its chain into another creature or a solid surface within its reach. If slammed into another creature, both creatures must succeed on a DC 15 Strength saving throw or take 12 (2d6 + 5) bludgeoning damage and be stunned until the end of its next turn. On a successful save, the target takes half the bludgeoning damage and isn't stunned. Spellcasting. The devil casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15): 3/day each: levitate, major image 1/day each: dimension door, fear Whirling Chains (Recharge 6). The devil moves up to half its walking speed and targets each creature within 15 feet of it during its movement. Each target must succeed on a DC 15 Dexterity saving throw or take 19 (4d6 + 5) slashing damage. The devil's movement during this action will not provoke opportunity attacks. The devil can't use this feature if it has a creature grappled by its Chain. Animate Chains (Recharges after a Short or Long Rest). Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried. Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies. Reactions Unnerving Mask. When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 15 Wisdom saving throw or be frightened until the end of its turn.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fiend (Devil)
+- Alignment: Typically Lawful Evil
+- Expansion: 17751
+- Challenge Rating: 10
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

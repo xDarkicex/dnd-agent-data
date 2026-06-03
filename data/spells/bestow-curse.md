@@ -1,20 +1,41 @@
 # Bestow Curse
 
-**Level**: 3
-**School**: necromancy
-**Classes**: bard, cleric, wizard
-**Casting Time**: action
-**Range**: Touch
-**Components**: ['v', 's']
-**Duration**: up to 1 minute
-**Concentration**: Yes
+**description**: Level 3 Necromancy (Bard, Cleric, Wizard) Casting Time: Action Range: Touch Components: V, S Duration: Concentration, up to 1 minute You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice: Choose one ability. The target has Disadvantage on ability checks and saving throws made with that ability. The target has Disadvantage on attack rolls against you. In combat, the target must succeed on a Wisdom saving throw at the start of each of its turns or be forced to take the Dodge action on that turn. If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage. Using a Higher-Level Spell Slot. If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn’t require Concentration, and the duration becomes 8 hours (level 5–6 slot) or 24 hours (level 7–8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.
 
-## Description
+**properties**:
+- Category: Spells
+- School: Necromancy
+- Classes: Bard, Cleric, Wizard
+- Expansion: 33335
+- data-List: false
+- filter-Tags: Wisdom Save, Debuff, Necrotic Damage
+- Spell Attack: None
+- filter-Level: 3
+- filter-Range: Touch
+- filter-Ritual: No
+- filter-Upcast: Yes
+- filter-Duration: 1 min
+- data-datarecords: [{"name":"Bestow Curse","level":"3","payload":"{\"type\":\"Spell\",\"name\":\"Bestow Curse\",\"description\":\"You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice:\\n-Choose one ability. The target has Disadvantage on ability checks and saving throws made with that ability.\\n-The target has Disadvantage on attack rolls against you.\\n-In combat, the target must succeed on a Wisdom saving throw at the start of each of its turns or be forced to take the Dodge action on that turn.\\n-If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.\",\"upcastText\":\"Using a Higher-Level Spell Slot. If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn't require Concentration, and the duration becomes 8 hours (level 5-6 slot) or 24 hours (level 7-8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.\",\"level\":3,\"school\":\"Necromancy\",\"castingTime\":\"Action\",\"range\":\"Touch\",\"duration\":\"Concentration, up to 1 minute\",\"concentration\":true,\"components\":{\"verbal\":true,\"somatic\":true}}"},{"name":"Bestow Curse Attack","parent":"Bestow Curse","payload":"{\"type\":\"Attack\",\"name\":\"Bestow Curse\",\"range\":\"Touch\",\"description\":\"You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration.\",\"save\":{\"saveAbility\":\"Intelligence\",\"onFail\":\"Until the curse ends, the target suffers one of the following effects of your choice:\\n-Choose one ability. The target has Disadvantage on ability checks and saving throws made with that ability.\\n-The target has Disadvantage on attack rolls against you.\\n-In combat, the target must succeed on a Wisdom saving throw at the start of each of its turns or be forced to take the Dodge action on that turn.\\n-If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.\"},\"actionType\":\"Action\"}"},{"name":"Bestow Curse Condition","parent":"Bestow Curse","payload":"{\"type\":\"Condition\",\"name\":\"Bestow Curse Spell\",\"description\":\"Until the curse ends, the target suffers one of the effects listed in the spell description (your choice).\"}"},{"name":"Bestow Curse Damage Effect","parent":"Bestow Curse Condition","payload":"{\"type\":\"Effect\",\"name\":\"Bestow Curse Necrotic Damage\",\"description\":\"Until the curse ends, if you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.\",\"category\":[\"Damage\"],\"diceValue\":\"1d8\"}"},{"name":"Bestow Curse Upcasting Duration Level 4","parent":"Bestow Curse","payload":"{\"type\":\"Upcasting\",\"mode\":\"Specific Spell Level\",\"level\":4,\"target\":\"$.duration\",\"value\":\"You can maintain Concentration on it for up to 10 minutes.\",\"changeMode\":\"Override\"}"},{"name":"Bestow Curse Upcasting Duration Level 5","parent":"Bestow Curse","payload":"{\"type\":\"Upcasting\",\"mode\":\"Specific Spell Level\",\"level\":5,\"target\":\"$.duration\",\"value\":\"You no longer need Concentration, and the duration becomes 8 hours.\",\"changeMode\":\"Override\"}"},{"name":"Bestow Curse Upcasting Concentration Level 5","parent":"Bestow Curse","payload":"{\"type\":\"Upcasting\",\"mode\":\"Specific Spell Level\",\"level\":5,\"target\":\"$.concentration\",\"value\":false,\"changeMode\":\"Override\"}"},{"name":"Bestow Curse Upcasting Duration Level 6","parent":"Bestow Curse","payload":"{\"type\":\"Upcasting\",\"mode\":\"Specific Spell Level\",\"level\":6,\"target\":\"$.duration\",\"value\":\"You no longer need Concentration, and the duration becomes 8 hours.\",\"changeMode\":\"Override\"}"},{"name":"Bestow Curse Upcasting Concentration Level 6","parent":"Bestow Curse","payload":"{\"type\":\"Upcasting\",\"mode\":\"Specific Spell Level\",\"level\":6,\"target\":\"$.concentration\",\"value\":false,\"changeMode\":\"Override\"}"},{"name":"Bestow Curse Upcasting Duration Level 7","parent":"Bestow Curse","payload":"{\"type\":\"Upcasting\",\"mode\":\"Specific Spell Level\",\"level\":7,\"target\":\"$.duration\",\"value\":\"You no longer need Concentration, and the duration becomes 24 hours.\",\"changeMode\":\"Override\"}"},{"name":"Bestow Curse Upcasting Concentration Level 7","parent":"Bestow Curse","payload":"{\"type\":\"Upcasting\",\"mode\":\"Specific Spell Level\",\"level\":7,\"target\":\"$.concentration\",\"value\":false,\"changeMode\":\"Override\"}"},{"name":"Bestow Curse Upcasting Duration Level 8","parent":"Bestow Curse","payload":"{\"type\":\"Upcasting\",\"mode\":\"Specific Spell Level\",\"level\":8,\"target\":\"$.duration\",\"value\":\"You no longer need Concentration, and the duration becomes 24 hours.\",\"changeMode\":\"Override\"}"},{"name":"Bestow Curse Upcasting Concentration Level 8","parent":"Bestow Curse","payload":"{\"type\":\"Upcasting\",\"mode\":\"Specific Spell Level\",\"level\":8,\"target\":\"$.concentration\",\"value\":false,\"changeMode\":\"Override\"}"},{"name":"Bestow Curse Upcasting Duration Level 9","parent":"Bestow Curse","payload":"{\"type\":\"Upcasting\",\"mode\":\"Specific Spell Level\",\"level\":9,\"target\":\"$.duration\",\"value\":\"You no longer need Concentration, and the spell lasts until dispelled.\",\"changeMode\":\"Override\"}"},{"name":"Bestow Curse Upcasting Concentration Level 9","parent":"Bestow Curse","payload":"{\"type\":\"Upcasting\",\"mode\":\"Specific Spell Level\",\"level\":9,\"target\":\"$.concentration\",\"value\":false,\"changeMode\":\"Override\"}"}]
+- filter-Components: Verbal, Somatic
+- filter-Casting Time: Action
+- filter-Concentration: Yes
+- Name: Bestow Curse
+- data-description: You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice:
+-Choose one ability. The target has Disadvantage on ability checks and saving throws made with that ability.
+-The target has Disadvantage on attack rolls against you.
+-In combat, the target must succeed on a Wisdom saving throw at the start of each of its turns or be forced to take the Dodge action on that turn.
+-If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.
+- Level: 3
+- Casting Time: Action
+- Concentration: Yes
+- Duration: up to 1 minute
+- Range: Touch
+- Components: V S
+- Higher Spell Slot Desc: Using a Higher-Level Spell Slot. If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn't require Concentration, and the duration becomes 8 hours (level 5-6 slot) or 24 hours (level 7-8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.
+- data-CastNum: 2
+- Save: Intelligence
 
-You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice: 
+**publisher**: Wizards of the Coast
 
-• Choose one ability. The target has Disadvantage on ability checks and saving throws made with that ability. • The target has Disadvantage on attack rolls against you. 
+**book**: Free Basic Rules (2024)
 
-• In combat, the target must succeed on a Wisdom saving throw at the start of each of its turns or be forced to take the Dodge action on that turn. 
-
-• If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.

@@ -1,0 +1,14 @@
+# Vidrefacte
+
+**description**: Wondrous item, artifact (requires attunement) This item looks like an enormous, flawless, carved gem, its many facets scintillating with color. When a living creature dies near a Vidrefacte, its soul is transformed into energy the gem absorbs and stores for later use. Living creatures who enter the Vidrefacte die as their body and soul is absorbed by the gem. A Gift. A Vidrefacte is a creation of the vidre, a race of crystalline humanoids from the deep Underworld. The vidre feed on the life force energy of sentient beings. As a pact of non-aggression with humanoid settlements, the vidre will gift a Vidrefacte to the settlement’s leader. Often the leader is ignorant of the Vidrefacte’s true purpose and use, thinking it only a powerful gift to symbolize the pact. In truth, the souls that power the Vidrefacte are channeled into the vidre themselves, sustaining them and powering their own magics. Attunement. A non-vidre who attunes themselves to the artifact gains some control over the stored energy within a Vidrefacte. Though the energy of the artifact still feeds the vidre, an attuned user can use the stored soul energy to cast any spell, though the energy required to cast the spell is contingent on several factors. Soul Energy. Each soul a Vidrefacte absorbs translates the creatures Hit Dice into soul energy. An attuned user spends soul energy Hit Dice to cast spells from a Vidrefacte without the need for material components. The amount of soul energy required is equal to the spell’s level, plus any modifiers as shown on the Soul Energy Modifiers table. The vidre consume half of all soul energy absorbed by a Vidrefacte, though an attuned user of great power could potentially wrest more energy for their own purposes, at the GM’s discretion. Soul Energy Modifiers Factor Modifier spell is a higher level than user can cast HD x3 spell is not known to user HD x2 spell is not a transmutation spell HD x2 spell has a costly material component HD x3 Undead Soul Energy. The soul energies of the undead are also absorbed into a Vidrefacte, but theirs is not an energy that can feed the vidre. Undead soul energy is useful only for powering spells. Should a Vidrefacte absorb more undead soul energy than living, the vidre connected to a Vidrefacte begin to starve and the power of a Vidrefacte is disrupted. During this time, it may be possible to destroy a Vidrefacte through alternate means. Destruction. A Vidrefacte is the beating heart of the cabal of vidre who created it; only they can reabsorb it into themselves, effectively destroying it. However, if the power of a Vidrefacte is disrupted—perhaps by filling it with undead energies, or perhaps by another means devised by the GM—it could be destroyed as any gem sculpture could.
+
+**properties**:
+- Category: Items
+- Item Type: Wondrous item
+- Item Rarity: artifact
+- Requires Attunement: Yes
+
+**publisher**: AAW Games
+
+**book**: Rise of the Drow
+

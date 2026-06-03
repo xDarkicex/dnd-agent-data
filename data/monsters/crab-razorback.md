@@ -1,0 +1,16 @@
+# Crab, Razorback
+
+**description**: With a thick exoskeleton studded with sharp ridges and low spines, this large crab harkens back to the primordial era before recorded history. Razorback crabs are a rare form of crustacean that has evolved to live outside the water. In fact, the crabs' evolution has deprived it of its gills entirely, making it markedly unsuited for coastal or aquatic living. Instead, razorback crabs thrive in farmland and grassy plains and are the bane of farmers and other plains dwellers. Scuttling Tunnelers. In places where a colony of razorback crabs has taken hold, the land is riddled with crisscrossing tunnels and moderately-sized burrows large enough to house three or four of the pests. The tunnels are large enough for a human to crawl through, or for a hound to walk in without difficulty, though the occasion of a dog touring the tunnels often ends in tragedy for the poor beast. Colonies of the crustaceans rarely number more than ten individuals. When a group grows larger, the heartiest young crab leaves with a few of its siblings to found a new colony nearby. Farmyard Threat. Razorback crabs are carnivorous and have a diet comprised primarily of insects and small animals. In their burrows, the crabs devour insects, annelids, and arthropods, but their favorite food is fowl, particularly chicken, partridge, and pheasant. Razorback crabs are not voracious, requiring only a few pounds of meat every week to survive, but a small colony of them can empty a chicken coop in a single night simply by burrowing into it. Farmers and their families take evidence of razorback crabs in an area very seriously, and they form search parties to track the creatures to their nests and put an end to them. A single crab is deadly, even to a group of armed farmers. When facing an infestation, the farmers prefer to keep their distance and burn the nuisances out without having to get close enough to come to harm. Succulent Flesh. Like their aquatic counterparts, razorback crabs have tender, flavorful flesh, particularly when roasted. After a razorback crab colony has been put to the torch, the exultant farmers haul the carcasses away and invite their friends and neighbors for a feast of legs and pincers. A single razorback crab can easily feed a dozen people. Bladed Shell. A creature that touches the crab or hits it with a melee attack while within 5 feet of it takes 3 (1d6) slashing damage. Pounce. If the crab moves at least 15 feet straight toward a creature and then hits it with a Shell Bash attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the crab can make one Claw attack against it as a bonus action. Actions Multiattack. The crab makes one Claw attack and one Shell Bash attack. Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). The crab has two claws, each of which can grapple only one target. Shell Bash. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning plus 3 (1d6) slashing damage.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Beast
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 2
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

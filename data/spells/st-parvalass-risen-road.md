@@ -1,0 +1,16 @@
+# St Parvalas's Risen Road
+
+**description**: When you cast this spell, you open a glowing portal into the Plane of Shadow. The portal remains open for 1 minute, until 10 creatures step through it, or until you collapse it (no action required). Stepping through the portal places you on a shadow road leading to a destination within 50 miles, or in a direction specified by you. The road is in ideal condition. You and your companions can travel it safely at a normal pace, but you can’t rest on the road; if you stop for more than 10 minutes, the spell expires and dumps you back into the real world at a random spot within 10 miles of your starting point. The spell expires 2d6 hours after being cast. When that happens, travelers on the road are safely deposited near their specified destination or 50 miles from their starting point in the direction that was specified when the spell was cast. Travelers never incur exhaustion no matter how many hours they spent walking or riding on the shadow road. The temporary shadow road ceases to exist; anything left behind is lost in the shadow realm. Each casting of St. Parvalas’s risen road creates a new shadow road. A small chance exists that a temporary shadow road might intersect with an existing shadow road, opening the possibility for meeting other travelers or monsters, or for choosing a different destination mid-journey. The likelihood is entirely up to the GM. See page 272 for further details on shadow roads.
+
+**properties**:
+- Category: Spells
+- Level: 4
+- School: transmutation
+- Components: V, S, M
+- Casting Time: 1 minute
+- data-RangeAoe: 50 miles
+
+**publisher**: Kobold Press
+
+**book**: Midgard Worldbook
+

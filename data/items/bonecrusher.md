@@ -1,0 +1,15 @@
+# Bonecrusher
+
+**description**: Bonecrusher’s wielder becomes a whirling dervish of blinding light and bone dust, pulverizing their way through swathes of undead. Legend This adamantine club was constructed for a cleric who devoted her life to the destruction of skeletons and zombies. Blessed by the high priest of her order, Bonecrusher is a potent holy weapon against the undead. Location The cleric, Lanelele Cai, took the club with her when she led a group of adventurers into the crypts of the vampire lord Seraphix Blooddrinker. Seraphix used a malign magical chalice to animate hordes of mindless undead with which she threatened nearby kingdoms. Lanelele destroyed the undead masses before delving deeper into the crypts to find Seraphix’s lair. However, she was never seen again, and the club is believed to have been claimed by the vampire lord, along with the cleric’s lifeblood. Encounter Ideas Seraphix Returns. The clerics of Lanelele Cai’s order are receiving visions of Seraphix’s return. They urge the characters to delve into the crypts of the vampire lord, put an end to the vampire , and return Bonecrusher to the order. Undead Ruffians. A vampire spawn leading a pack of skeletons appeared in the village of Ubblexian, demanding that the villagers dig up their dead for delivery to the vampire lord Seraphix by the next full moon. The vampire spawn carries Bonecrusher and fits the description of Lanelele. The villagers beg the characters for help. Big Boned. A giant skeleton impervious to spells and weapons is rampaging across the countryside. Divinations suggest only Bonecrusher can harm it… if it can be found. Progression Bonecrusher progresses each time the creature who is attuned to it gains a use of the Channel Divinity class feature. The weapon progresses to legendary when the creature reaches 20th level or equivalent. Statistics Weapon (Club), Rarity Varies (Requires Attunement) Common . You can use Bonecrusher as a holy symbol. Uncommon . You gain a +1 bonus to attack and damage rolls made with this adamantine magic weapon. When you hit a skeleton or zombie with it, the target takes an extra 1d4 radiant damage. Rare . The extra damage to skeletons and zombies increases to 2d4 and it deals an extra 1d4 radiant damage to all other Undead creatures on a hit. Corporeal Undead creatures have disadvantage on saving throws against your Channel Divinity effects. Very Rare . The bonus to attack and damage rolls increases to +2. The extra damage to skeletons and zombies increases to 4d4 and the extra damage to all other Undead increases to 2d4. Legendary . On your turn, when you score a critical hit with Bonecrusher against a skeleton or zombie, or reduce a skeleton or zombie to 0 hit points, you can immediately make one melee attack with Bonecrusher as part of the same action. You can make this attack only once per round.
+
+**properties**:
+- Category: Items
+- Item Type: Weapon (club)
+- Properties: Light
+- Item Rarity: varies
+- Requires Attunement: Requires Attunement
+
+**publisher**: Jeff Stevens Games
+
+**book**: Weapons of Legend
+

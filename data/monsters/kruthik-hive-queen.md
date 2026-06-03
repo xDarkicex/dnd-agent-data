@@ -1,0 +1,16 @@
+# Kruthik Hive Queen
+
+**description**: The kruthik hive queen is the overall master of all hives within its territory and is always attended to by 2-3 hive lords. It very rarely leaves its main lair, preferring to stay within the hive as it spends its time laying and watching over its eggs and commanding its hive lords to manage its territory. Battle Mistress. If forced into battle, the hive queen can become a terrifying opponent. Like hive lords, it can stab with its razor-sharp forelimbs, shoot iron-like spikes, or spew horrific amounts of acid. In addition to these weapons, the hive queen can also unleash its terrible tail stinger, which can instantly paralyze a creature hit. The hive queen is also a shrewd tactician, able to call other kruthiks to its side or direct them to attack specific targets of its choosing. Traits Keen Smell. The kruthik has advantage on Wisdom (Perception) checks that rely on smell. Pack Leader. The kruthik’s allies have advantage on attack rolls while within 20 feet of the kruthik, provided it isn’t incapacitated. Pack Tactics. The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't incapacitated. Tunneler. The kruthik can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake. Actions Multiattack. The kruthik makes two Stab attacks or two Spike attacks, and one Sting attack. Stab. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage. Spike. Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit: 12 (2d6 + 5) piercing damage. Stinger. Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 14 (2d8 + 5) piercing damage. The target must make a DC 16 Constitution saving throw or become poisoned for 1 minute. While poisoned, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Acid Spray (Recharge 5–6). The kruthik sprays acid in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 33 (6d10) acid damage on a failed save, or half as much damage on a successful one. Legendary Actions The kruthik can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The kruthik regains spent legendary actions at the start of its turn. Charge. The kruthik moves up to its speed. To Me. Up to three allied kruthiks of this kruthik's choice within 60 feet of this kruthik that can hear it can each use their reaction to move up to their speed to the nearest possible space to this kruthik. Attack (Costs 2 Actions). The kruthik makes one Stab or Spike attack. Command (Costs 1-3 Actions). The kruthik chooses up to three allied kruthiks it can see within 30 feet of it. If the target can see and hear the kruthik, the target can use its reaction to move up to half its speed and make one weapon attack. It costs 1 legendary action per target.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Monstrosity
+- Alignment: Typically Chaotic Evil
+- Expansion: 23212
+- Challenge Rating: 10
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded II
+

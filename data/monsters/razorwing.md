@@ -1,0 +1,16 @@
+# Razorwing
+
+**description**: Razorwings, while not true dragons, bear a strong resemblance to their draconic cousins and even have a breath weapon of their own, albeit one with more limited use. As ambush hunters, their stealth and mobility are key advantages in combat, and although they cannot truly fly, their Winging Maneuver allows them to reposition or flee with greater ease. Draconic Greed. Like stereotypical dragons, razorwings are driven to collect valuables, and prefer to hunt adventurers and merchant caravans when they can get away with it as a means of accumulating wealth. Many choose to inhabit ancient ruins, or build nests in swamps where they hope to unearth lost relics. Appearance. Razorwings at first glance appear to be wyverns whose wing bones have developed into long, sharp blades. Walking on their wings, they have no front claws to fight with, instead relying on their wing blades to do their cruel work. Tactics. Razorwings hunt alone, and prefer to attack creatures who are without companions though they will assault an entire adventuring party if they are confident they can win and are given a good opportunity. They rely on their legendary actions to maneuver or control their foes' movements on the battlefield, or to flee after being forced to use their Poison Blast. Traits Ambush Hunter. The razorwing has advantage on Dexterity (Stealth) checks and can hide if it is even lightly obscured by foliage, water, or other natural cover. When hiding outside of combat, a DC 20 Wisdom (Perception) check is required to spot it. Actions Multiattack. The razorwing makes three melee attacks, two with its Wing Blade and one with its Poison Bite. Wing Blade. Melee Weapon Attack: +8 to hit, reach 5 ft., one or two targets, which must be within 10 feet of each other. Hit: 10 (1d8+5) slashing damage. Poison Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (1d12+5) piercing damage, plus 3 (1d6) poison damage. Reactions Poison Blast (1/Rest). When the razorwing becomes Injured, it can spend its reaction to exhale noxious fumes, surrounding itself in a cloud of poison. Each creature within 10 feet of it, or that enters a space in that area before the end of the razorwing's next turn, must make a DC 15 Constitution saving throw or take 14 (4d6) poison damage and be poisoned until the end of their next turn. Legendary Actions The razorwing can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The razorwing regains spent legendary actions at the start of its turn. Winging Maneuver (Costs 2 Actions). The razorwing flies up to 30 feet without provoking opportunity attacks. It can make a Wing Blade attack before or after moving. Stopping Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (1d12+5) piercing damage, plus 3 (1d6) poison damage, and the creature’s movement speed is halved until the end of its next turn.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: monstrosity (draconic)
+- Alignment: lawful evil
+- Expansion: 28072
+- Challenge Rating: 7
+
+**publisher**: Lone Colossus Games
+
+**book**: Injuries and Vile Deeds
+

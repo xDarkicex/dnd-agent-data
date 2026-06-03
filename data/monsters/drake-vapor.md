@@ -1,0 +1,16 @@
+# Drake, Vapor
+
+**description**: After huffing a gout of swampgas, this green wingless drake takes to the sky, diving at its prey with its razor-sharp claws and venomous bite. Vapor drakes have long lived deep in the swamplands, and their scales are well suited to the boggy environment. These drakes react violently to any trespassers upon their hunting grounds, and they fight to the death if cornered. Flightless Flier. By inhaling swamp vapors, the vapor drake can emulate its draconic cousins and fly for short periods of time. Many adventurers are surprised by this seemingly clumsy flyer, who rams into foes before tearing at their flesh with its ravenous maw. Venomous Bite. After injecting the meat of its prey with its venom, the drake buries the meat in the mire, preserving it for future meals. Later consumption of preserved prey enhances the venomous quality of the drake's bite. Friend to Swamp Creatures. The vapor drake can converse with the creatures that live within the fens, and most animals, particularly lizards, recognize the drake's authority within the bog's hierarchy. The vapor drake views these creatures as either prey or its wards, depending on the palatability of the creatures, and aggressively protects them from intruders. Diving Pounce. If the drake is flying and moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the drake can make one Bite attack against it as a bonus action. Gaseous Ascension . The vapor drake must regularly inhale swamp gases to maintain its flight. If the drake can't breathe or if it isn't in swampy terrain, it loses its flying speed. In addition, when the drake uses Poisonous Breath, it loses its flying speed until Poisonous Breath recharges. Speak with Beasts. The drake can communicate with Beasts native to swampland as if they shared a language. Swamp Camouflage. The drake has advantage on Dexterity (Stealth) checks made to hide in swampy terrain. Actions Multiattack. The drake makes one Bite attack and two Claw attacks. Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage. Poisonous Breath (Recharge 5-6). The drake exhales poisonous swamp gas in a 30-foot cone. Each creature in the area must make a DC 15 Constitution saving throw, taking 27 (5d8) poison damage on a failed save, or half as much damage on a successful one. If the drake is flying, its Gaseous Ascension immediately ends, it takes falling damage, as normal, and each creature that failed the saving throw is poisoned for 1 minute. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Dragon
+- Alignment: Neutral
+- Expansion: 19901
+- Challenge Rating: 6
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

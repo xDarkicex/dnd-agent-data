@@ -1,0 +1,15 @@
+# Rivermaw Brawler
+
+**description**: Many children in the Rivermaw Herd get into friendly brawls, but only the truly dedicated learn the art of fist fighting. Rivermaw brawlers usually lead the charge on the battlefield, using their exceptional strength, speed, and cunning to throw an enemy vanguard into chaos. Beyond the Dividing Plains, brawlers trained by the Rivermaw can be found in noble adventuring parties, working for the Clasp as muscle, in underground fighting rings, and as personal bodyguards. In Emon, the most famous fist fighters make a name for themselves within the Brawler’s League or the Godsbrawl, representing the Stormlord in that annual holy tournament. Rivermaw Warriors The Rivermaw Herd is a nomadic society mostly composed of half-giants, also known as goliaths, and a mighty force for good on the Dividing Plains. The herd was once conquered by a goliath tyrant named Kevdak, then formed anew after Kevdak was eventually defeated by Vox Machina. Free of Kevdak’s martial cruelty, the Rivermaw see it as their duty to prevent any such tyrant from conquering the Dividing Plains ever again. Though most members of the Rivermaw Herd are goliaths, their ranks include people of all races who wish to live beyond the stone walls of Westruun and the palisades of plains towns like Turst Fields. Orcs, humans, halflings, and gnolls make up most of the rest of the herd’s warriors. Most of those warriors value strength and endurance over other qualities, but the brawlers and stormborn of the Rivermaw are better known for cunning, intelligence, strategy, and a unique attunement to the mighty thunder of the Stormlord. Traits Unarmored Defense. While the brawler is wearing no armor and wielding no shield, its AC includes its Wisdom modifier. Actions Multiattack. The brawler makes three unarmed strikes. Unarmed Strike. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the target is a Large or smaller creature, the brawler can choose one of the following additional effects: Bruise. The target must succeed on a DC 13 Constitution saving throw. On a failure, its speed is reduced by 5 feet until it receives at least 1 point of magical healing. A creature can use its action to make a DC 15 Wisdom (Medicine) check to heal an affected creature within 5 feet of it (including itself), restoring any lost speed on a success. Disarm. The target must succeed on a DC 13 Strength saving throw or drop one item it is holding. The brawler can choose which item is dropped, and can pick it up. Suplex. The target must succeed on a DC 13 Strength saving throw or be knocked prone. Reactions Clever Fighter. When the brawler hits with an attack or is targeted by an attack, it can add its Intelligence modifier (+2) to its damage rolls or AC until the end of its turn. Endurance (Recharges after a Short or Long Rest). When the brawler takes damage, it can reduce the damage by 8 (1d12 + 2).
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: humanoid (any)
+- Expansion: 20583
+- Challenge Rating: 4
+
+**publisher**: Darrington Press
+
+**book**: Tal'Dorei Campaign Setting Reborn
+

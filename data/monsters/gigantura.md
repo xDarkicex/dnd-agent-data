@@ -1,0 +1,16 @@
+# Gigantura
+
+**description**: An enormous fish with huge, telescoping eyes and jaws filled with dozens of razor-sharp teeth swims rapidly upwards from the depths toward its unsuspecting prey. Living deep in the world's oceans at between 1,500 feet and 6,000 feet below the surface, gigantura are nightmarish underwater predators that few landlubbers have seen—and fewer still have lived to tell the tale. The gigantura's physical appearance is said to be so horrific that it can stun its prey with one glance. Indiscriminate Predators. Although they live in the darkest, deepest ocean trenches, gigantura come to shallower water to feed, observing their prey with their tubular eyes from far below before striking. Gigantura favor large undersea creatures, such as sharks, giant octopuses, and whales, as their primary food source, but they will happily eat merfolk, muraenids (see), sahuagin, and even aboleth if given the chance. Because of the way their astonishing jaw apparatus works, a gigantura can swallow some of the largest denizens of the oceans, folding its prey inside its expandable stomach. Proficiency Bonus +5 Telescoping Eyes. The gigantura has advantage on Wisdom (Perception) checks that rely on sight, and magical darkness doesn't impede the gigantura's darkvision. In addition, it has disadvantage on ability checks and saving throws against being blinded. Water Breathing. The gigantura can breathe only underwater. Actions Multiattack. The gigantura uses Horrific Gaze. It then makes one Bite attack and two Tail Slap attacks. Bite. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 25 (3d12 + 6) piercing damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Dexterity saving throw or be swallowed by the gigantura. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the gigantura, and it takes 21 (6d6) acid damage at the start of each of the gigantura's turns. The gigantura can have up to two Huge, four Large, six Medium, or eight Small creatures swallowed at one time. If the gigantura takes 30 damage or more on a single turn from a creature inside it, the gigantura must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the gigantura. If the gigantura dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone. Tail Slap. Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 17 (2d10 + 6) bludgeoning damage. Horrific Gaze. The gigantura's telescoping eyes swirl disconcertingly in the direction of one creature it can see within 60 feet of it. If the target can see the gigantura, the target must succeed on a DC 18 Constitution saving throw or be stunned until the end of its next turn. A target that successfully saves is immune to this gigantura's Horrific Gaze for the next 24 hours.
+
+**properties**:
+- Category: Monsters
+- Size: Gargantuan
+- Type: Monstrosity
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 13
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

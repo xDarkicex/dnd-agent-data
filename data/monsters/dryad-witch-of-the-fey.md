@@ -1,0 +1,16 @@
+# Dryad Witch of the Fey
+
+**description**: While most dryads develop druidic powers, some dryads develop eldritch abilities, partly due to their patronage of either Titania of the Summer Court, or Oberon, the Green Lord. Those few who are cruel and mischievous tend to forge pacts with the Queen of Air and Darkness or the other ruling members of the Unseelie Court. Of all dryads, the dryad witches are the ones most inclined to play magical tricks and pranks on, or even kidnap, those foolish enough to wander near their territory. Traits Magic Resistance. The dryad has advantage on saving throws against spells and other magical effects. Speak with Beasts and Plants. The dryad can communicate with beasts and plants as if they shared a language. Tree Stride. Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger. Actions Poison Lash. Melee or Ranged Spell Attack: +5 to hit, reach 5 ft. or range 60 ft., one target. Hit: 21 (3d10 + 5) poison damage. If the target is a creature, it is also poisoned until the end of the dryad’s next turn. A poisoned creature has disadvantage on saving throws made against the dryad's spells. Fey Charm. The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 16 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can. Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target 's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours. The dryad can have no more than one humanoid and up to three beasts charmed at a time. Spellcasting. The dryad casts one of the following spells using Charisma as the spellcasting ability (spell save DC 16, +8 to hit with spell attacks): At will: dancing lights, druidcraft, entangle, minor illusion, speak with animals 3/day (as 5th-level spells): dominate beast, fear, hold monster, mage armor (self only), phantasmal force, seeming 1/day each: barkskin, conjure fey, feeblemind, finger of death, pass without trace, shillelagh Reactions Misty Escape (Recharges after a Short or Long Rest). In response to taking damage, the dryad turns invisible and teleports up to 60 feet to an unoccupied space it can see. It remains invisible until the start of its next turn or until it attacks, makes a damage roll, or casts a spell.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Fey
+- Alignment: Typically Neutral
+- Expansion: 17751
+- Challenge Rating: 6
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

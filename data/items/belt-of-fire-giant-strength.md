@@ -1,0 +1,24 @@
+# Belt of Fire Giant Strength
+
+**description**: Wondrous Item, Very Rare (Requires Attunement) While wearing this belt, your Strength changes to 25. The item has no effect on you if your Strength without the belt is equal to or greater than 25.
+
+**properties**:
+- Category: Items
+- Theme: Armaments
+- Subtype: Wondrous Item
+- Expansion: 33335
+- Item Type: Wondrous Item
+- data-List: false
+- Item Rarity: No
+- filter-Lists: Yes
+- filter-Charges: No
+- data-datarecords: [{"name":"Belt of Fire Giant Strength","payload":"{\"type\":\"Item\",\"name\":\"Belt of Fire Giant Strength\",\"description\":\"While wearing this belt, your Strength changes to 25. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.\",\"weight\":\"\",\"properties\":[],\"rarity\":\"Very Rare\",\"equipData\":{\"equippable\":true}}"},{"name":"Belt of Fire Giant Strength Attunement","parent":"Belt of Fire Giant Strength","payload":"{\"type\":\"Attunement\",\"requireEquip\":true}"},{"name":"Belt of Fire Giant Strength Bonus","parent":"Belt of Fire Giant Strength Attunement","payload":"{\"type\":\"Ability Score\",\"ability\":\"Strength\",\"calculation\":\"Minimum\",\"valueFormula\":{\"flatValue\":25}}"}]
+- filter-Attunement: Very Rare
+- Name: Belt of Fire Giant Strength
+- data-description: While wearing this belt, your Strength changes to 25. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.
+- data-RarityNum: 0
+
+**publisher**: Wizards of the Coast
+
+**book**: Free Basic Rules (2024)
+

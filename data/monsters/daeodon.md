@@ -1,0 +1,16 @@
+# Daeodon
+
+**description**: The massive warthog has a disturbingly large maw lined with enormous teeth. It snorts and charges. Daeodons are scavengers that range freely in forests and grasslands. Locals refer to them as hell pigs, but they are more closely related to hippopotamuses and possess massive maws. Unfussy Eaters. Daeodons will eat most anything. While they may be content to graze for fruit and leaves or dig for tubers and grubs, they have the power to crush bone and devour flesh. Most of that is from scavenging kills from others—coming in only after something else has done all the hard work and is too tired to stand up to a hungry daeodon—but they've been known to hunt prey themselves. Temporary Herds. Daeodons live largely solitary lives. They can tolerate one another enough to briefly form small squads and bring down tougher prey. However, they rarely come together unless food is plentiful. They fight among themselves, and the winners garner respect until another can best them. Rude Neighbors. Isolated towns often face the challenge of keeping daeodons away from their food stores and livestock, for these massive beasts can trample fencing and destroy other obstacles to reach food. Some towns and villages create massive refuse piles well outside of the settlement; by keeping them well stocked, the villages satisfy local daeodons and keep them from the more vital stores. This has the added benefit of using the daeodons as deterrents from bandits and dangerous predators, though it means the daeodons adopt the area as their territory. Keen Smell. The daeodon has advantage on Wisdom (Perception) checks that rely on smell. Relentless (Recharges after a Short or Long Rest). If the daeodon takes 15 damage or less that would reduce it to 0 hp, it is reduced to 1 hp instead. Trampling Charge. If the daeodon moves at least 20 feet straight toward a creature and then hits it with a Bite attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the daeodon can make one Slam attack against it as a bonus action. Actions Multiattack. The daeodon makes one Bite attack and one Slam attack. Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the daeodon can't Bite another target. Slam. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) bludgeoning damage. Fierce Call (Recharges after a Short or Long Rest). The daeodon lets out a loud, fearsome call. Each hostile creature within 60 feet of the daeodon must succeed on a DC 13 Wisdom saving throw or drop whatever it is holding and become frightened for 1 minute. While frightened, a creature must take the Dash action and move away from the daeodon by the safest available route on each of its turns, unless there is nowhere to move. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+**properties**:
+- Category: Monsters
+- Size: Large
+- Type: Beast
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 3
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

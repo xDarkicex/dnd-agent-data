@@ -1,0 +1,13 @@
+# Book (weapon)
+
+**description**: Book (Weapon) Unusual weapon (martial) This weapon is an unusual weapon that can be used as part of the Unusual Weapon Mastery feat. AC: 1 Damage: 1d4 Damage Type: Bludgeoning Properties: Defensive
+
+**properties**:
+- Category: Items
+- Item Type: Unusual Weapon
+- Properties: Defensive
+
+**publisher**: Edge Studio
+
+**book**: Adventures in Rokugan
+

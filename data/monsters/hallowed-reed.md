@@ -1,0 +1,16 @@
+# Hallowed Reed
+
+**description**: These small patches of pale, yellow and green reeds with bright white tips propagate by merging with nearby mundane grasses and weeds. The merging process slowly transforms the native plant into these sentient stalks. The reeds serve as the sensors of a lustrating grove, growing out from the grove for several miles like luminescent fingers stretching across the landscape. Ritual Use. The reeds sometimes allow small portions of their central mass to be cut away by good-aligned spellcasters. The pieces can be dried and carried or affixed to a holy symbol. The magic of hallowed reeds affects spells casts as rituals, often increasing their power, duration, or likelihood of success. Similarly, the reeds can be sacrificed in summoning rituals to increase the likelihood that the summoned creature will obey its master. For this reason, the reeds are hunted by evil diabolists and elementalists. Rule of Three. It is rare for the hallowed reeds to grow in clusters numbering less than three. It is equally rare to encounter the reeds in numbers not divisible by three. Once three hallowed reeds come to maturity, they often sprout a young alabaster tree, which they protect until it fully matures. Heavenly flora is often found growing near sacred sites associated with good-aligned gods. Temples, shrines, tombs, and worshipping places are all excellent spots for these plants to take hold. They also form near rifts between the Material Plane and a celestial one; the course of their growth can be tracked to locate the portal. Slow Growing. Celestial flora take a long time to grow into mature plants. They often require protection from animals or curious humanoids in their early stages of development. Druids, clerics, paladins, and priests of good-aligned gods often act as keepers and guardians of these plants. These holy tenders are empowered by the plants and are often rewarded by their patron deity for their work. The plants might also sprout up miraculously at the site of a powerful celestial's arrival on the Material Plane. If the being is of sufficient power, an entire lustrating grove may erupt into being rapidly. Cleansing. Celestial plants have a natural ability to cleanse cursed and soiled ground. They can be cultivated in an area corrupted by demonic or infernal magic and, given enough time, eradicate the evil. The process is long, but, if the plants are properly tended, the outcome is guaranteed. Sustained by Miracles. Celestial plants do not require water or sunlight to grow. They flourish anywhere their roots can find purchase, including underground caverns, shadowy mountain valleys, and harsh deserts. Lustrating Groves. Left alone, a single celestial plant eventually grows into a large grove. The groves are places of intense radiant magic that call to divine magic wielders for miles around. These holy places contain great power and commune spells resolve with greater clarity and success. The groves are often guarded by angels or other celestial beings who see the site as a foothold on the Material Plane.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: celestial
+- Alignment: neutral good
+- Expansion: 45
+- Challenge Rating: 1/2
+
+**publisher**: Kobold Press
+
+**book**: Creature Codex
+

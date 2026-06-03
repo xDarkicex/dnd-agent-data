@@ -1,0 +1,15 @@
+# Greater Banshee
+
+**description**: A greater banshee is an undead spirit of immense power. It appears at first like a standard banshee, until it manifests its dreadful abilities. By then, it may be too late for adventurers to recognize the difference. Unusual Nature. The banshee doesn’t require air, food, drink, or sleep. Traits Detect Life. The banshee can magically sense the presence of living creatures up to 5 miles away that aren’t Undead or Constructs. She knows the general direction they're in but not their exact locations. Legendary Resistance (2/Day). If the banshee fails a saving throw, it can choose to succeed instead. Incorporeal Movement. The banshee can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object. Actions Multiattack. The banshee uses Horrifying Visage. It then makes one Corrupting Touch attack. Corrupting Touch. Melee Spell Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (3d6 + 3) necrotic damage and the target must succeed on a DC 15 Wisdom saving throw or be frightened until the end of the banshee's next turn. While frightened in this way, the target is paralyzed. Horrifying Visage. Each non-Undead creature within 60 feet of the banshee that can see her must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the banshee’s Horrifying Visage for the next 24 hours. Wail (1/Day). The banshee releases a mournful wail, provided that she isn't in sunlight. This wail has no effect on Constructs and Undead. All other creatures within 60 feet of her that can hear her must succeed on a DC 15 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 17 (5d6) psychic damage. Legendary Actions The banshee can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The banshee regains spent legendary actions at the start of its turn. Corrupt. The banshee uses Corrupting Touch. Kiss of Death (Costs 2 Actions). Melee Spell Attack: +6 to hit, reach 5 ft., one frightened or incapacitated humanoid creature. Hit: The target must succeed on a DC 15 Constitution saving throw. On failed save, the target’s hit points is reduced to 0. On a success, the creature takes 17 (4d6 + 3) necrotic damage and its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. Keening (Costs 3 Actions). The banshee uses Wail. If it isn't available, she recharges Wail.
+
+**properties**:
+- Category: Monsters
+- Size: Medium
+- Type: Undead
+- Alignment: Typically Chaotic Evil
+- Challenge Rating: 8
+
+**publisher**: Dragonix Books
+
+**book**: Monster Manual Expanded
+

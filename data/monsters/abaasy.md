@@ -1,0 +1,16 @@
+# Abaasy
+
+**description**: The four-armed ogre roars with fury as a beam of intense energy lances out from its single eye. Descendants of a long-forgotten servitor race to giants, abaasy delight in slaying powerful foes and covering their bodies with enemies' armor won in combat. They attach pieces of the armor to themselves by bolting the metal to their flesh in a painful ritual. Abaasy take pride in their ability to endure this ritual, openly displaying the armor like trophies. Giant Hunter. An ancestral slight centuries ago instilled animosity between abaasy and giants. The abaasy lost their second eye in the confrontation but gained innate magic in its stead. Many abaasy train their young in the art of felling giants. Some relish this path, while others find greater pleasure in hunting smaller prey. Abaasy in Midgard Some scholars believe the abaasy to be an engineered race fashioned by ancient Titans, or perhaps the Great Mages, to hunt other giants. Certainly, the four-armed ogres are found across Midgard, from the Land of the Giants in the Midlands, to the Abandoned Lands of the Southlands, to the Qillian Plains of the East, and live in giant-hunting clans, each specializing in taking down particular types of giants. Traits Armored Berserker. The pain caused by the iron plates bolted to the abaasy's body keep it on the edge of madness. Whenever the abaasy starts its turn with 60 hp or fewer, roll a d6. On a 6, the abaasy goes berserk. While berserk, the abaasy has resistance to bludgeoning, piercing, and slashing damage. On each of its turns while berserk, the abaasy attacks the nearest creature it can see. If no creature is near enough to move to and attack, the abaasy attacks an object, with preference for an object smaller than itself. Once the abaasy goes berserk, it continues to do so until it is destroyed or regains all its hp. Dual Shields. The abaasy carries two shields, which together give it a +3 bonus to its AC (included in its AC). Poor Depth Perception. The abaasy has disadvantage on attack rolls against a target more than 30 feet away from it. Actions Multiattack. The abaasy makes three melee attacks, only one of which can be a Shield Shove attack. If the abaasy uses two hands to make a Spear attack, it can't make an Iron Axe attack that turn. Iron Axe. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) slashing damage. Shield Shove. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (4d4 + 5) bludgeoning damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone or pushed up to 15 feet away from the abaasy (the abaasy's choice). Spear. Melee or Ranged Weapon Attack: +8 to hit, reach 15 ft. or range 20/60 ft., one target. Hit: 15 (3d6 + 5) piercing damage, or 18 (3d8 + 5) piercing damage if used with two hands to make a melee attack. Eyebeam (Recharge 5-6). The abaasy fires a beam of oscillating energy from its eye in a 90-foot line that is 5 feet wide. Each creature in the line must make a DC 16 Dexterity saving throw, taking 27 (5d10) radiant damage on a failed save, or half as much damage on a successful one.
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: Giant
+- Alignment: Neutral Evil
+- Expansion: 19901
+- Challenge Rating: 8
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

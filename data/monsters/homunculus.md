@@ -1,77 +1,49 @@
 # Homunculus
 
-## Homunculus
+**description**: These D&D 5E Free Basic Rules only contain a fraction of the races, subclasses, backgrounds, feats, items, monsters, spells, and other content available on Roll20. Check out the Player's Handbook to add dozens of more player options to the Charactermancer, the Dungeon Master's Guide to expand on the tools available for DMs, and the Monster Manual to add hundreds of more unique creatures (including token artwork) to fight! Traits Telepathic Bond : While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically. Actions Bite : Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 
-### Homunculus
+**properties**:
+- Category: Monsters
+- AC: 13 (Natural Armor)
+- HP: 5 (2d4)
+- CHA: 7
+- CON: 11
+- DEX: 15
+- INT: 10
+- STR: 4
+- WIS: 10
+- Size: Tiny
+- Type: construct
+- Speed: 20 ft., fly 40 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/390064989/bWYFc-70G3leoCYRAwKAQQ/original.png
+- Roll 0: Bite
+1d20 + 4
+1
+- Senses: Darkvision 60 Ft.
+- Source: 5th Edition SRD
+- data-XP: 10
+- Alignment: Neutral
+- Languages: Understands The Languages Of Its Creator But Can't Speak
+- data-List: false
+- Immunities: Poison
+- Token Size: 1
+- data-Traits: [{"Name":"Telepathic Bond","Desc":"While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically."}]
+- data-Actions: [{"Name":"Bite","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"4","Reach":"5 ft.","Target":"one creature","Damage":"1d1","Damage Type":"piercing","Desc":"The target must succeed on a dc 10 constitution saving throw or be poisoned for 1 minute If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way"}]
+- data-CHA-mod: -2
+- data-CON-mod: +0
+- data-DEX-mod: +2
+- data-INT-mod: +0
+- data-STR-mod: -3
+- data-SizeNum: 0
+- data-WIS-mod: +0
+- Challenge Rating: 0
+- Passive Perception: 10
+- Condition Immunities: Charmed, Poisoned
+- data-CrNum: 0
+- data-AcNum: 13
+- data-HpNum: 5
 
-_Tiny Construct, Neutral_
+**publisher**: Wizards of the Coast
 
-**AC** 13 **Initiative** +2 (12) <br>
-**HP** 4 (1d4 + 2) <br>
-**Speed** 20 ft., Fly 40 ft. <br>
+**book**: Free Basic Rules (2014)
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>4</td>
-      <td>−3</td>
-      <td>−3</td>
-      <td><strong>DEX</strong></td>
-      <td>15</td>
-      <td>+2</td>
-      <td>+2</td>
-      <td><strong>CON</strong></td>
-      <td>14</td>
-      <td>+2</td>
-      <td>+2</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+0</td>
-      <td><strong>WIS</strong></td>
-      <td>10</td>
-      <td>+0</td>
-      <td>+2</td>
-      <td><strong>CHA</strong></td>
-      <td>7</td>
-      <td>−2</td>
-      <td>+0</td>
-    </tr>
-  </tbody>
-</table>
-
-**Immunities** Poison; Charmed, Poisoned<br>
-**Senses** Darkvision 60 ft.; Passive Perception 10<br>
-**Languages** Understands Common plus one other language but can't speak<br>
-**CR** 0 (XP 10; PB +2)
-
-#### Traits
-
-<hr>
-
-**_Telepathic Bond._** While the homunculus is on the same plane of existence as its master, the two of them can communicate telepathically with each other.
-
-#### Actions
-
-<hr>
-
-**_Bite._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1 Piercing damage, and the target is subjected to the following effect. _Constitution Saving Throw:_ DC 12. _Failure:_ The target has the Poisoned condition until the end of the homunculus's next turn. _Failure by 5 or More:_ The target has the Poisoned condition for 1 minute. While Poisoned, the target has the Unconscious condition, which ends early if the target takes any damage.

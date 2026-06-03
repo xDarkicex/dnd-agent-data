@@ -1,0 +1,16 @@
+# Shantak
+
+**description**: Shantaks are immense scaly, bird-like creatures with a vaguely horse-like head and vast, slime-encrusted wings. A shantak’s ability to travel the gulfs of space ensures that these fanged fliers can be found on numerous worlds. Yet despite this unique ability, shantaks are generally quite reluctant to seek out new worlds unless faced with no other option, for a shantak knows well that an attempt to fly to an unknown world could easily result in being lost forever in the gulfs of space. Myrmidons. Shantak myrmidons are the deadliest of their ilk, lacking the strange phobias that sometimes cripple their lesser kin and often entering into alliance with creatures able to impress them with their power, bearing messages and passengers for them through the endless void. @font-face {font-family:"MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-alt:"ＭＳ 明朝"; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;}@font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;}@font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-1593833729 1073750107 16 0 415 0;}@font-face {font-family:Cambria; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;}@font-face {font-family:"\@MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-ansi-language:EN-GB;}p.BodyCopy, li.BodyCopy, div.BodyCopy {mso-style-name:"Body Copy"; mso-style-priority:99; mso-style-unhide:no; mso-style-qformat:yes; mso-style-next:Normal; margin:0cm; line-height:12.0pt; mso-pagination:widow-orphan; font-size:8.0pt; font-family:"Verdana",sans-serif; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; mso-ansi-language:EN-GB;}.MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; font-family:"Cambria",serif; mso-ascii-font-family:Cambria; mso-fareast-font-family:"MS Mincho"; mso-hansi-font-family:Cambria; mso-font-kerning:0pt; mso-ligatures:none;}div.WordSection1 {page:WordSection1;}
+
+**properties**:
+- Category: Monsters
+- Size: Huge
+- Type: monstrosity (mythos)
+- Alignment: chaotic evil
+- Expansion: 32483
+- Challenge Rating: 5
+
+**publisher**: Legendary Games
+
+**book**: Alien Bestiary
+

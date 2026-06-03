@@ -1,71 +1,49 @@
 # Grimlock
 
-## Grimlock
+**description**: These D&D 5E Free Basic Rules only contain a fraction of the races, subclasses, backgrounds, feats, items, monsters, spells, and other content available on Roll20. Check out the Player's Handbook to add dozens of more player options to the Charactermancer, the Dungeon Master's Guide to expand on the tools available for DMs, and the Monster Manual to add hundreds of more unique creatures (including token artwork) to fight! Traits Blind Senses : The grimlock can't use its blindsight while deafened and unable to smell. Keen Hearing and Smell : The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell. Stone Camouflage : The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain. Actions Spiked Bone Club : Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 
-### Grimlock
+**properties**:
+- Category: Monsters
+- AC: 11
+- HP: 11 (2d8+2)
+- CHA: 6
+- CON: 12
+- DEX: 12
+- INT: 9
+- STR: 16
+- WIS: 8
+- Size: Medium
+- Type: humanoid (grimlock)
+- Speed: 30 ft.
+- Token: https://s3.amazonaws.com/files.d20.io/images/390064671/wKLxXlqxh7HiCZS0iwOvJA/original.png
+- Roll 0: Spiked Bone Club
+1d20 + 5
+1d4+5+1d4
+- Senses: Blindsight 30 Ft. Or 10 Ft. While Deafened (Blind Beyond This Radius)
+- Skills: Athletics +5, Perception +3, Stealth +3
+- Source: 5th Edition SRD
+- data-XP: 50
+- Alignment: Neutral Evil
+- Languages: Undercommon
+- data-List: false
+- Immunities: Blinded
+- Token Size: 1
+- data-Traits: [{"Name":"Blind Senses","Desc":"The grimlock can't use its blindsight while deafened and unable to smell."},{"Name":"Keen Hearing and Smell","Desc":"The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell."},{"Name":"Stone Camouflage","Desc":"The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain."}]
+- data-Actions: [{"Name":"Spiked Bone Club","Type Attack":"Weapon Attack","Type":"Melee","Hit Bonus":"5","Reach":"5 ft.","Target":"one target","Damage":"1d4 + 3","Damage Type":"bludgeoning","Damage 2":"1d4","Damage 2 Type":"piercing"}]
+- data-CHA-mod: -2
+- data-CON-mod: +1
+- data-DEX-mod: +1
+- data-INT-mod: -1
+- data-STR-mod: +3
+- data-SizeNum: 4
+- data-WIS-mod: -1
+- Challenge Rating: 1/4
+- Passive Perception: 13
+- data-CrNum: 0.25
+- data-AcNum: 11
+- data-HpNum: 11
 
-_Medium Aberration, Neutral Evil_
+**publisher**: Wizards of the Coast
 
-**AC** 11 **Initiative** +1 (11) <br>
-**HP** 11 (2d8 + 2) <br>
-**Speed** 30 ft., Climb 30 ft. <br>
+**book**: Free Basic Rules (2014)
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-      <th></th>
-      <th></th>
-      <th>MOD</th>
-      <th>SAVE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>STR</strong></td>
-      <td>16</td>
-      <td>+3</td>
-      <td>+3</td>
-      <td><strong>DEX</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-      <td><strong>CON</strong></td>
-      <td>12</td>
-      <td>+1</td>
-      <td>+1</td>
-    </tr>
-    <tr>
-      <td><strong>INT</strong></td>
-      <td>9</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>WIS</strong></td>
-      <td>8</td>
-      <td>−1</td>
-      <td>−1</td>
-      <td><strong>CHA</strong></td>
-      <td>6</td>
-      <td>−2</td>
-      <td>−2</td>
-    </tr>
-  </tbody>
-</table>
-
-**Skills** Athletics +5, Perception +3, Stealth +5<br>
-**Senses** Blindsight 30 ft.; Passive Perception 13<br>
-**Languages** None<br>
-**CR** 1/4 (XP 50; PB +2)
-
-#### Actions
-
-<hr>
-
-**_Bone Cudgel._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 6 (1d6 + 3) Bludgeoning damage plus 2 (1d4) Psychic damage.

@@ -1,0 +1,16 @@
+# Rafflesian
+
+**description**: This conical red flower is a tight bud of scarlet pedals. A web of delicate vein-like roots keeps it in place on the human's back. A rafflesian is a sentient tropical flower that develops a symbiotic relationship with a willing humanoid companion and uses willing humanoid hosts to germinate its offspring. Long-Lived. Rafflesian flowers, even without a host creature, live for up to three centuries and germinate only one seed each century. When ready to plant a seed, each rafflesian works with its companion to find a willing humanoid host, and a fully formed offspring sprouts from that host's flesh soon after. True Symbiosis. A rafflesian is interested in ensuring its host companion's survival, and it prefers to share its life with a singular companion and its descendants. A single rafflesian is often inherited by many generations of the same family until the flower eventually expires. Symbiote. A rafflesian can bond with a willing Humanoid creature that remains in physical contact with it for 10 minutes. While bonded in this way, the host creature gains a +2 bonus to AC and saving throws and has resistance to all damage, and the rafflesian's speed is 0, moving with the host when it moves. Each time the host takes damage, the rafflesian takes the same amount of damage. If the host is subjected to an effect that would force it to make a saving throw, the host can use its saving throw bonuses or the rafflesian's. If both are subjected to the same effect, only one of them is affected, the rafflesian's choice. The rafflesian and the host otherwise retain their own statistics and take separate turns. The rafflesian and the host can't be separated, unless the rafflesian chooses to terminate the connection. The rafflesian can detach itself safely from a host over the course of 1 hour, or it can detach itself from the creature as an action, which immediately kills the host. Symbiotic Thought. The rafflesian and its host can communicate telepathically while bonded. Actions Multiattack. The rafflesian makes three Vine Whip attacks. It can replace one attack with a use of Blood Root. Vine Whip. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 17 (3d8 + 4) slashing damage. Blood Root. The rafflesian launches a root toward one creature it can see within 30 feet of it. The creature must succeed on a DC 15 Dexterity saving throw or take 14 (4d6) necrotic damage as the rafflesian drains blood from it. The rafflesian or the host (the rafflesian's choice) then regains hp equal to the damage taken. Reactions Last Resort. When the host dies, the rafflesian can reanimate it for up to 10 days, provided the host's body is still intact. During this time, the host is protected from decay and can't become undead. The rafflesian can use a bonus action to cause the host to move as it could in life, but the host can't take any other actions. If the host could speak in life, the rafflesian can speak with the host's voice. A host body reanimated in this way can be restored to life by any spell capable of doing so.
+
+**properties**:
+- Category: Monsters
+- Size: Small
+- Type: Plant
+- Alignment: Unaligned
+- Expansion: 19901
+- Challenge Rating: 7
+
+**publisher**: Kobold Press
+
+**book**: Tome of Beasts 3
+

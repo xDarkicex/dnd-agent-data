@@ -1,0 +1,14 @@
+# Padded Smoldering Armor
+
+**description**: Padded Smoldering Armor Armor (light), common Wisps of harmless, odorless smoke rise from this armor while it is worn.
+
+**properties**:
+- Category: Items
+- Item Type: Light Armor
+- Item Rarity: common
+- Properties: Stealth Disadvantage
+
+**publisher**: Wizards of the Coast
+
+**book**: Xanathar's Guide to Everything
+

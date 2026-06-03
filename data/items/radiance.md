@@ -1,0 +1,15 @@
+# Radiance
+
+**description**: Radiance Wand, uncommon (requires attunement by a spellcaster) Radiance , a +1 wand of the war mage in the form of an exquisite golden hand mirror. While surrounded by darkness, it sheds dim light in a 5-foot radius. A creature that is attuned to Radiance can use a bonus action while holding the mirror to cast the enhance ability spell, choosing itself and no other creature as the spell’s target. Once this property of the wand is used, it can’t be used again until the next dawn. While holding this wand, you gain a +1 bonus to spell attack rolls. In addition, you ignore half cover when making a spell attack. Weight: 1
+
+**properties**:
+- Category: Items
+- Expansion: 9505
+- Item Type: Adventuring Gear
+- Item Rarity: uncommon
+- Requires Attunement: requires attunement by a spellcaster
+
+**publisher**: Wizards of the Coast
+
+**book**: Candlekeep Mysteries
+
