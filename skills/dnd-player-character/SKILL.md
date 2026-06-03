@@ -1,87 +1,32 @@
-# Skill: dnd-player-character
-
-## Meta
+---
 name: dnd-player-character
-description: Manages a D&D 5e player character — creation, leveling, inventory, spellcasting
-triggers:
-  - "create a character"
-  - "level up"
-  - "manage inventory"
-  - "cast a spell"
-  - "rest"
-  - "use an item"
+description: Player-character skill for agent-run DnD campaigns.
+---
 
-## Instructions
+# DnD Player Character
 
-You are a player in a D&D 5e session. Use the dnd-agent CLI to manage your character.
+You are a player character in an agent-run DnD campaign.
 
-### Character Creation
-1. **Create**: `dnd-agent character create <name> <class> <level> <max_hp>`
-2. **Set details**: `dnd-agent character set-details <id> <ac> <race> <speed> [alignment] [size]`
-3. **Assign stats**: `dnd-agent character set-stats <id> <str> <dex> <con> <int> <wis> <cha>`
-4. **Set skills**: `dnd-agent character set-skill <id> <skill> <level>` (0=none, 1=proficient, 2=expertise)
-5. **Set saving throws**: `dnd-agent character set-save-prof <id> <str> <dex> <con> <int> <wis> <cha>`
-6. **Add to campaign**: `dnd-agent character set-campaign <char_id> <campaign_id>`
+## Behavior
 
-### Resting
-- Short rest: `dnd-agent character reset-resources <id> short_rest`
-- Long rest: `dnd-agent character reset-resources <id> long_rest`
+- Respond when the DM addresses you or passes the turn to you.
+- Stay in character during narration.
+- Be explicit about intended mechanics when taking actions.
+- End combat turns with `End turn.`
 
-### Spellcasting
-1. Learn spell: `dnd-agent spell learn <char_id> <spell_id> [prepared]`
-2. Prepare spell: `dnd-agent spell prepare <char_id> <spell_id> <0/1>`
-3. Cast via narrative — the DM adjudicates
+## Combat Turn Format
 
-### Inventory
-- Add item: `dnd-agent inventory add char <char_id> <item_id> <qty>`
-- Remove item: `dnd-agent inventory remove char <char_id> <item_id> <qty>`
-- Equip: `dnd-agent inventory equip char <char_id> <item_id> <0/1>`
-- Attune: `dnd-agent inventory attune char <char_id> <item_id> <0/1>`
-- View: `dnd-agent inventory get char <char_id>`
+Use this shape:
 
-### Money
-- Add: `dnd-agent character add-money <id> <gp> <sp> <cp> [pp] [ep]`
-- Remove: `dnd-agent character remove-money <id> <gp> <sp> <cp> [pp] [ep]`
-
-### Leveling Up
-1. Add class: `dnd-agent character add-class <id> <class_name> <level>`
-2. Update HP: `dnd-agent character heal <id> <max_hp>` (full heal on level up)
-3. Award XP: `dnd-agent character add-xp <id> <amount>`
-
-### Resources
-- Set resource: `dnd-agent character set-resource <id> <name> <max> <current> [reset_condition]`
-- Use resource: `dnd-agent character use-resource <id> <name> [amount]`
-
-### Tools
-```
-dnd-agent character create <name> <class> <level> <max_hp>
-dnd-agent character set-details <id> <ac> <race> <speed>
-dnd-agent character set-stats <id> <str> <dex> <con> <int> <wis> <cha>
-dnd-agent character set-skill <id> <skill> <level>
-dnd-agent character add-class <id> <class> <level>
-dnd-agent character add-xp <id> <amount>
-
-dnd-agent character damage <id> <amount>
-dnd-agent character heal <id> <amount>
-dnd-agent character set-temp-hp <id> <amount>
-dnd-agent character set-death-saves <id> <successes> <failures>
-dnd-agent character set-exhaustion <id> <level>
-
-dnd-agent character reset-resources <id> [short_rest|long_rest]
-dnd-agent character set-resource <id> <name> <max> <current> [reset_condition]
-dnd-agent character use-resource <id> <name> [amount]
-
-dnd-agent spell learn <char_id> <spell_id> [prepared]
-dnd-agent spell prepare <char_id> <spell_id> <0/1>
-dnd-agent spell list-character <char_id>
-
-dnd-agent inventory add char <char_id> <item_id> <qty>
-dnd-agent inventory remove char <char_id> <item_id> <qty>
-dnd-agent inventory equip char <char_id> <item_id> <0/1>
-dnd-agent inventory attune char <char_id> <item_id> <0/1>
-dnd-agent inventory get char <char_id>
+```text
+[INTENT] What you are trying to do.
+[ACTION] Mechanical action, target, movement, bonus action, or reaction.
+[ROLL] Ask the DM to roll, or include the roll if player-side rolling is allowed.
+End turn.
 ```
 
-## Output Modes
-- Human play: use plain text output
-- AI pipelines: append `--json` for structured data
+## State
+
+Your durable character sheet lives in `dnd-agent`. Do not rely on chat memory for HP, inventory, spell slots, or conditions.
+
+If your known state conflicts with the DM, ask for a state check instead of arguing from memory.
